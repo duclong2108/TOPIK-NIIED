@@ -1,0 +1,76 @@
+﻿가구==furniture/nội thất/đồ dùng trong nhà/Gia cụ (家具)
+거실==living room/phòng khách/phòng sinh hoạt chung/Cư thất (居室)
+거울==mirror/gương/vật phản chiếu hình ảnh/
+건물==building/tòa nhà/công trình xây dựng/Kiến vật (建物)
+문==door/cửa/lối ra vào/Môn (門)
+방==room/phòng/không gian trong nhà/Phòng (房)
+방문==door/cửa phòng/cửa của phòng/Phòng môn (房門)
+밑==bottom/bên dưới/phía dưới/
+바깥==outside/bên ngoài/phía ngoài nhà/
+바깥쪽==outside/phía ngoài/hướng ra ngoài/
+바닥==floor/sàn nhà/mặt phẳng dưới chân/
+밖==outside/bên ngoài/phía ngoài/
+벽==wall/tường/vách ngăn/Bích (壁)
+부엌==kitchen/nhà bếp/nơi nấu ăn/
+빌딩==building/tòa nhà cao tầng/cao ốc/
+상자==box/hộp/đồ đựng hình vuông/Thương tử (箱子)
+서랍==drawer/ngăn kéo/hộp kéo trong bàn/
+소파==sofa/ghế sofa/ghế dài êm/
+안==inside/bên trong/phía trong/
+안쪽==inside/phía trong/hướng vào trong/
+아파트==apartment/chung cư/căn hộ/
+열쇠==key/chìa khóa/dụng cụ mở khóa/
+옷걸이==hanger/móc áo/đồ treo quần áo/
+옷장==wardrobe/tủ quần áo/nơi cất giữ quần áo/
+위==above/trên/phía trên/Vị (位)
+위쪽==upward/phía trên/hướng lên trên/
+위치==position/vị trí/nơi ở cụ thể/Vị trí (位置)
+의자==chair/ghế/đồ dùng để ngồi/Ỷ tử (椅子)
+이불==quilt/chăn/đồ đắp khi ngủ/
+잔치==party/tiệc/buổi tiệc mừng/
+전기==electricity/điện/năng lượng điện/Điện khí (電氣)
+정원==garden/vườn/khu trồng cây cảnh/Đình viên (庭園)
+집==house/nhà/nơi ở/
+집들이==housewarming/tiệc tân gia/tiệc mừng nhà mới/
+책상==desk/bàn học/bàn làm việc/
+책장==bookshelf/kệ sách/giá để sách/
+창문==window/cửa sổ/lối lấy ánh sáng/
+침대==bed/giường/đồ nằm ngủ/
+침실==bedroom/phòng ngủ/nơi ngủ/
+텔레비전==television/ti vi/máy thu hình/
+라디오==radio/đài radio/máy thu thanh/
+선풍기==fan/quạt điện/quạt máy/Thiện phong cơ (扇風機)
+냉장고==refrigerator/tủ lạnh/máy giữ đồ ăn lạnh/Lãnh tàng khố (冷藏庫)
+세탁기==washing machine/máy giặt/máy rửa quần áo/Tẩy trạc cơ (洗濯機)
+에어컨==air conditioner/máy lạnh/máy điều hòa/
+엘리베이터==elevator/thang máy/phương tiện lên xuống tầng/
+컴퓨터==computer/máy tính/máy vi tính/
+전화기==phone/điện thoại/máy gọi điện/Điện thoại cơ (電話機)
+휴대폰==cellphone/điện thoại di động/điện thoại cầm tay/
+시계==clock, watch/đồng hồ/dụng cụ xem giờ/Thì kế (時計)
+카메라==camera/máy ảnh/máy chụp hình/
+비디오==video/video/băng hình/
+자동판매기==vending machine/máy bán tự động/máy bán hàng tự động/
+자판기==vending machine/máy bán tự động/máy bán hàng tự động (viết tắt)/
+책==book/sách/ấn phẩm đọc/Sách (冊)
+가위==scissors/kéo/dụng cụ cắt/
+불==fire/lửa/ngọn lửa/
+봉투==envelope/phong bì/đồ đựng thư/Phong sáo (封套)
+테이블==table/bàn/bàn ăn hoặc bàn làm việc/
+마당==yard/sân/khoảng đất trước nhà/
+한옥==hanok/nhà Hàn truyền thống/kiến trúc truyền thống Hàn Quốc/Hàn ốc (韓屋)
+짓다==build/xây/xây dựng nhà cửa/
+고장==breakdown/hỏng/sự cố máy móc/Cố chướng (故障)
+고치다==fix/sửa/sửa chữa đồ hỏng/
+뒤==back/phía sau/vị trí đằng sau/
+뒤쪽==back side/phía sau/hướng về phía sau/
+앞==front/phía trước/vị trí đằng trước/
+앞쪽==front side/phía trước/hướng về phía trước/
+겉==outside/bên ngoài/mặt ngoài/
+속==inside/bên trong/phần bên trong/
+가방==bag/túi xách/đồ đựng mang theo/
+우산==umbrella/ô, dù/đồ che mưa che nắng/
+유리==glass/kính, thủy tinh/vật liệu trong suốt/Lưu ly (琉璃)
+동전==coin/đồng xu/tiền kim loại/Đồng tiền (銅錢)
+기름==oil/dầu/chất lỏng dùng nấu ăn/
+장난감==toy/đồ chơi/vật dùng để chơi/

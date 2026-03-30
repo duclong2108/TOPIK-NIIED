@@ -1,0 +1,122 @@
+﻿감사==thanks/cảm ơn/lời biết ơn/Cảm tạ (感謝)
+거절==rejection/từ chối/không chấp nhận/Cự tuyệt (拒絶)
+거짓말==lie/nói dối/lời nói không thật/
+관계==relationship/mối quan hệ/sự liên hệ giữa người/Quan hệ (關係)
+관심==interest/quan tâm/sự chú ý/Quan tâm (關心)
+광고==advertisement/quảng cáo/truyền bá sản phẩm/Quảng cáo (廣告)
+교환==exchange/trao đổi/đổi lẫn nhau/Giao hoán (交換)
+규칙==rule/quy tắc/luật lệ/Quy tắc (規則)
+대답==answer/trả lời/đáp lại câu hỏi/Đối đáp (對答)
+대화==conversation/hội thoại/cuộc nói chuyện/Đối thoại (對話)
+덕분==thanks to/nhờ vào/sự giúp đỡ/Đức phần (德分)
+말==speech/lời nói/ngôn ngữ nói/
+말씀==words (honorific)/lời nói (kính ngữ)/lời dạy/
+묻다==ask/hỏi/đặt câu hỏi/
+물어보다==ask/hỏi thăm/hỏi để biết thông tin/
+뉴스==news/tin tức/thông tin thời sự/
+문화==culture/văn hóa/nền văn hóa/Văn hóa (文化)
+방문==visit/thăm/đến thăm/Phỏng vấn (訪問)
+방송==broadcast/phát sóng/chương trình truyền hình/Phát tống (放送)
+비밀==secret/bí mật/điều giữ kín/Bí mật (秘密)
+부탁==request/nhờ vả/yêu cầu giúp đỡ/Phó thác (付託)
+사실==fact/sự thật/điều có thật/Sự thật (事實)
+소개==introduction/giới thiệu/trình bày cho biết/Thiệu giới (紹介)
+소식==news/tin tức/thông tin/Tiêu tức (消息)
+설명==explanation/giải thích/nói rõ ý nghĩa/Thuyết minh (說明)
+선택==selection/lựa chọn/chọn một trong nhiều/Tuyển trạch (選擇)
+신청==application/đăng ký/nộp đơn xin/Thần thỉnh (申請)
+신분증==ID card/chứng minh thư/giấy tờ tùy thân/
+실례==excuse/xin phép/sự bất lịch sự/Thất lễ (失禮)
+안내==information/hướng dẫn/chỉ dẫn/Án nội (案內)
+안내문==notice/thông báo/văn bản hướng dẫn/
+안녕==hello/xin chào/lời chào hỏi/An ninh (安寧)
+안녕히==goodbye/tạm biệt/lời chào tạm biệt/
+여보세요==hello (phone)/a lô/lời chào qua điện thoại/
+연결==connection/kết nối/nối liền/Liên kết (連結)
+연락==contact/liên lạc/giữ liên hệ/Liên lạc (連絡)
+연락처==contact info/thông tin liên lạc/số điện thoại hoặc địa chỉ/
+약속==promise/lời hứa, hẹn/cam kết/Ước thúc (約束)
+의미==meaning/ý nghĩa/nội dung hàm chứa/Ý nghĩa (意味)
+이야기==story/câu chuyện/lời kể/
+얘기==story/câu chuyện/lời kể (viết tắt)/
+인사==greeting/chào hỏi/lời chào/Nhân sự (人事)
+전화==phone/điện thoại/giao tiếp qua điện thoại/Điện thoại (電話)
+전화번호==phone number/số điện thoại/mã số gọi điện/
+전하다==deliver/truyền đạt/chuyển lời/Truyền (傳)
+주소==address/địa chỉ/nơi ở cụ thể/Trú sở (住所)
+초대==invitation/mời/lời mời đến/Chiêu đãi (招待)
+초대장==invitation card/thiệp mời/giấy mời/
+축하==congratulations/chúc mừng/lời chúc mừng/Chúc hạ (祝賀)
+칭찬==compliment/khen ngợi/lời khen/Xưng tán (稱讚)
+편지==letter/thư/bức thư viết tay/Thiên chỉ (便紙)
+사진==photo/ảnh/hình chụp/Tả chân (寫真)
+메모==memo/ghi chú/ghi nhớ ngắn/
+메시지==message/tin nhắn/lời nhắn/
+메일==mail/thư điện tử/email/
+엽서==postcard/bưu thiếp/thiệp gửi qua bưu điện/
+경찰==police/cảnh sát/lực lượng giữ trật tự/Cảnh sát (警察)
+경험==experience/kinh nghiệm/trải nghiệm thực tế/Kinh nghiệm (經驗)
+결과==result/kết quả/thành quả/Kết quả (結果)
+결혼==marriage/kết hôn/lấy vợ lấy chồng/Kết hôn (結婚)
+결혼식==wedding/lễ cưới/buổi lễ kết hôn/
+계획==plan/kế hoạch/dự định/Kế hoạch (計劃)
+서류==document/tài liệu/giấy tờ/Thư loại (書類)
+내용==content/nội dung/thông tin bên trong/Nội dung (內容)
+제목==title/tiêu đề/tên bài/Đề mục (題目)
+답==answer/đáp án/câu trả lời/Đáp (答)
+답장==reply/thư trả lời/hồi đáp/Đáp trạng (答狀)
+환영==welcome/chào đón/tiếp đón nồng nhiệt/Hoan nghênh (歡迎)
+통화==phone call/cuộc gọi/nói chuyện qua điện thoại/Thông thoại (通話)
+직업==job/nghề nghiệp/công việc/Chức nghiệp (職業)
+직장==workplace/nơi làm việc/cơ quan công tác/Chức trường (職場)
+출근==go to work/đi làm/đến cơ quan/Xuất cần (出勤)
+퇴근==leave work/tan làm/rời cơ quan/Thoái cần (退勤)
+출퇴근==commute/đi làm về/đi và về nơi làm việc/
+출장==business trip/công tác/đi công tác/Xuất trương (出張)
+회의==meeting/cuộc họp/buổi hội nghị/Hội nghị (會議)
+명절==holiday/ngày lễ/dịp lễ truyền thống/Danh tiết (名節)
+설날==Lunar New Year/Tết âm lịch/ngày đầu năm mới/
+추석==Chuseok/Tết Trung thu/ngày lễ tạ ơn Hàn Quốc/Thu tịch (秋夕)
+크리스마스==Christmas/Giáng sinh/ngày lễ Noel/
+공휴일==public holiday/ngày nghỉ lễ/ngày nghỉ chính thức/Công hưu nhật (公休日)
+올림픽==Olympics/Thế vận hội/đại hội thể thao quốc tế/
+세배==New Year's bow/lạy năm mới/lễ chào năm mới truyền thống/Tuế bái (歲拜)
+사전==dictionary/từ điển/sách tra từ/Tự điển (辭典)
+서비스==service/dịch vụ/phục vụ/
+성==family name/họ/tên họ/Tính (姓)
+성함==name (honorific)/quý danh/tên (kính ngữ)/Tính hàm (姓銜)
+이름==name/tên/tên gọi/
+이웃==neighbor/hàng xóm/người sống gần/Lân cận
+이유==reason/lý do/nguyên nhân/Lý do (理由)
+이해==understanding/sự hiểu biết/hiểu/Lý giải (理解)
+취소==cancel/hủy bỏ/bãi bỏ/Thủ tiêu (取消)
+취직==employment/xin việc/được nhận vào làm/Thủ chức (就職)
+방법==method/phương pháp/cách thức/Phương pháp (方法)
+방학==vacation/nghỉ học/kỳ nghỉ/Phương học (放學)
+연세==age (honorific)/tuổi (kính ngữ)/tuổi (cách nói tôn kính)/Niên tuế (年歲)
+회원==member/hội viên/thành viên/Hội viên (會員)
+친절==kindness/sự tử tế/lòng tốt/Thân thiết (親切)
+친하다==close/thân thiết/quen thân/
+금지==prohibition/cấm/không cho phép/Cấm chỉ (禁止)
+인삼==ginseng/nhân sâm/dược liệu quý/Nhân sâm (人蔘)
+인형==doll/búp bê/đồ chơi hình người/Nhân hình (人形)
+반대==opposite/phản đối/ngược lại/Phản đối (反對)
+반==half/nửa/một nửa/Bán (半)
+반==class/lớp/lớp học/Ban (班)
+비교==comparison/so sánh/đối chiếu/Tỷ giáo (比較)
+분위기==atmosphere/bầu không khí/không khí xung quanh/Phân vi khí (雰圍氣)
+마지막==last/cuối cùng/phần kết thúc/
+주머니==pocket/túi/ngăn nhỏ trên quần áo/
+주변==around/xung quanh/khu vực lân cận/Chu biên (周邊)
+주위==around/xung quanh/khu vực quanh/Chu vi (周圍)
+종이==paper/giấy/vật liệu viết/Chỉ (紙)
+자리==seat/chỗ ngồi/vị trí/Tọa lý
+화장실==restroom/nhà vệ sinh/phòng tắm, toilet/Hoa trang thất (化粧室)
+화장품==cosmetics/mỹ phẩm/đồ trang điểm/Hoa trang phẩm (化粧品)
+태극기==Taegeukgi/cờ Hàn Quốc/quốc kỳ Hàn Quốc/Thái cực kỳ (太極旗)
+새해==new year/năm mới/đầu năm mới/
+줄==rope/dây/sợi dây/
+한턱==treat/mời, bao/đãi một bữa/
+모임==meeting/cuộc họp mặt/buổi gặp gỡ/
+상==award/giải thưởng/phần thưởng/Thưởng (賞)
+씨==Mr/Mrs/ông/bà/cách gọi tôn trọng sau tên/

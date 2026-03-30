@@ -1,0 +1,82 @@
+﻿하나==one/một/số 1 (thuần Hàn)/
+둘==two/hai/số 2 (thuần Hàn)/
+셋==three/ba/số 3 (thuần Hàn)/
+넷==four/bốn/số 4 (thuần Hàn)/
+다섯==five/năm/số 5 (thuần Hàn)/
+여섯==six/sáu/số 6 (thuần Hàn)/
+일곱==seven/bảy/số 7 (thuần Hàn)/
+여덟==eight/tám/số 8 (thuần Hàn)/
+아홉==nine/chín/số 9 (thuần Hàn)/
+열==ten/mười/số 10 (thuần Hàn)/
+스물==twenty/hai mươi/số 20 (thuần Hàn)/
+스무==twenty/hai mươi/số 20 dùng trước danh từ/
+서른==thirty/ba mươi/số 30 (thuần Hàn)/
+마흔==forty/bốn mươi/số 40 (thuần Hàn)/
+쉰==fifty/năm mươi/số 50 (thuần Hàn)/
+예순==sixty/sáu mươi/số 60 (thuần Hàn)/
+일흔==seventy/bảy mươi/số 70 (thuần Hàn)/
+여든==eighty/tám mươi/số 80 (thuần Hàn)/
+아흔==ninety/chín mươi/số 90 (thuần Hàn)/
+일==one/một/số 1 (Hán)/Nhất (一)
+이==two/hai/số 2 (Hán)/Nhị (二)
+삼==three/ba/số 3 (Hán)/Tam (三)
+사==four/bốn/số 4 (Hán)/Tứ (四)
+오==five/năm/số 5 (Hán)/Ngũ (五)
+육==six/sáu/số 6 (Hán)/Lục (六)
+칠==seven/bảy/số 7 (Hán)/Thất (七)
+팔==eight/tám/số 8 (Hán)/Bát (八)
+구==nine/chín/số 9 (Hán)/Cửu (九)
+십==ten/mười/số 10 (Hán)/Thập (十)
+이십==twenty/hai mươi/số 20 (Hán)/Nhị thập (二十)
+삼십==thirty/ba mươi/số 30 (Hán)/Tam thập (三十)
+사십==forty/bốn mươi/số 40 (Hán)/Tứ thập (四十)
+오십==fifty/năm mươi/số 50 (Hán)/Ngũ thập (五十)
+육십==sixty/sáu mươi/số 60 (Hán)/Lục thập (六十)
+칠십==seventy/bảy mươi/số 70 (Hán)/Thất thập (七十)
+팔십==eighty/tám mươi/số 80 (Hán)/Bát thập (八十)
+구십==ninety/chín mươi/số 90 (Hán)/Cửu thập (九十)
+백==hundred/trăm/số 100/Bách (百)
+천==thousand/nghìn/số 1.000/Thiên (千)
+만==ten thousand/vạn, mười nghìn/số 10.000/Vạn (萬)
+십만==hundred thousand/mười vạn/số 100.000/Thập vạn (十萬)
+백만==million/triệu/số 1.000.000/Bách vạn (百萬)
+천만==ten million/mười triệu/số 10.000.000/Thiên vạn (千萬)
+억==hundred million/trăm triệu/số 100.000.000/Ức (億)
+영==zero/không/số 0/Linh (零)
+네==four/bốn/biến thể của 넷/
+세==three/ba/biến thể của 셋/
+두==two/hai/biến thể của 둘 trước danh từ/
+한==one/một/biến thể của 하나 trước danh từ/
+개==(counting unit)/cái (đơn vị đếm)/lượng từ đếm vật/Cá (個)
+권==volume/cuốn, quyển/lượng từ đếm sách/Quyển (卷)
+마리==(unit for animals)/con/lượng từ đếm động vật/
+장==sheet/tờ, tấm/lượng từ đếm giấy/Trương (張)
+가지==kind, sort/loại/chủng loại/
+각각==each/mỗi cái/từng cái một/Các các (各各)
+둘째==second/thứ hai/vị trí thứ 2/
+셋째==third/thứ ba/vị trí thứ 3/
+넷째==fourth/thứ tư/vị trí thứ 4/
+다섯째==fifth/thứ năm/vị trí thứ 5/
+첫째==first/thứ nhất/vị trí thứ 1/
+번==number/số, lần/lượng từ đếm lần/Phiên (番)
+번째==(ordinal suffix)/thứ/hậu tố chỉ thứ tự/
+번호==number/số/mã số/Phiên hiệu (番號)
+수==number/số/con số/Số (數)
+숫자==number/số/chữ số/
+도==degree/độ/đơn vị đo/Độ (度)
+미터==meter/mét/đơn vị đo chiều dài/
+센티미터==centimeter/xen-ti-mét/đơn vị đo chiều dài nhỏ/
+킬로그램==kilogram/ki-lô-gam/đơn vị đo khối lượng/
+킬로미터==kilometer/ki-lô-mét/đơn vị đo khoảng cách/
+배==(two) times/lần (gấp)/đơn vị nhân/Bội (倍)
+인분==serving/phần ăn/suất ăn/Nhân phần (人分)
+서너==three or four/ba bốn/khoảng 3-4/
+두세==two to three/hai ba/khoảng 2-3/
+한두==one or two/một hai/khoảng 1-2/
+몇==some, how many/mấy/một số lượng nhỏ/
+호==number, issue/số (tạp chí)/số hiệu/Hiệu (號)
+회==episode/tập, lần/số lần/Hồi (回)
+정도==degree/mức độ/khoảng chừng/Trình độ (程度)
+살==year old/tuổi/đơn vị tuổi/
+세==age/tuổi (Hán)/đơn vị tuổi (Hán)/Tuế (歲)
+키==height/chiều cao/độ cao của người/

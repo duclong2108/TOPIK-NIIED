@@ -1,0 +1,85 @@
+﻿갚다==pay back/trả lại/hoàn trả tiền/
+계산==calculation/tính toán/thanh toán/Kế toán (計算)
+고르다==choose/chọn/lựa chọn/
+꾸다==dream/mơ/nằm mơ/
+끄다==turn off/tắt/ngừng hoạt động điện/
+끊다==quit/bỏ/ngừng, cắt đứt/
+끼다==wear (ring)/đeo/đeo trang sức/
+닦다==polish/lau, chùi/làm sạch bề mặt/
+대회==competition/cuộc thi/giải đấu/Đại hội (大會)
+마중==greeting/đón/đi đón ai đó/
+마치다==finish/hoàn thành/kết thúc công việc/
+목욕==bath/tắm/rửa toàn thân/Mục dục (沐浴)
+목욕탕==bathhouse/nhà tắm công cộng/nơi tắm chung/
+발견==discovery/phát hiện/tìm ra/
+보내다==send/gửi/chuyển đi/
+빌리다==borrow/mượn/vay mượn/
+사귀다==date, befriend/kết bạn/làm quen/
+산책==stroll/đi dạo/đi bộ thư giãn/Tán sách (散策)
+살다==live/sống/sinh sống/
+샤워==shower/tắm vòi hoa sen/tắm nhanh/
+설거지==dish washing/rửa bát/rửa chén đĩa/
+세수==face wash/rửa mặt/vệ sinh buổi sáng/
+세탁==laundry/giặt giũ/giặt quần áo/Tẩy trạc (洗濯)
+쉬다==rest/nghỉ ngơi/thư giãn/
+쉬다==breathe/thở/hít thở/
+쓰레기==garbage/rác/đồ bỏ đi/
+쓰레기통==trash can/thùng rác/đồ đựng rác/
+씻다==wash/rửa/làm sạch bằng nước/
+예약==reservation/đặt trước/đặt chỗ/Dự ước (豫約)
+예매==booking/mua trước/đặt mua vé trước/Dự mại (豫買)
+이사==moving/chuyển nhà/thay đổi nơi ở/Di tả (移徙)
+이삿짐==moving luggage/đồ chuyển nhà/hành lý khi chuyển nhà/
+자다==sleep/ngủ/nghỉ ngơi ban đêm/
+잠==sleep/giấc ngủ/trạng thái ngủ/
+잠깐==for a moment/một chốc/thời gian ngắn/
+잠시==for a while/một lát/thời gian ngắn/
+잠자다==sleep/ngủ/đi vào giấc ngủ/
+정리==organize/dọn dẹp/sắp xếp gọn gàng/Chỉnh lý (整理)
+준비==preparation/chuẩn bị/sẵn sàng/Chuẩn bị (準備)
+청소==cleaning/dọn dẹp/làm sạch/Thanh tảo (清掃)
+짐==luggage/hành lý/đồ đạc mang theo/
+집안일==housework/việc nhà/công việc nội trợ/
+출입==access/ra vào/đi ra đi vào/Xuất nhập (出入)
+출입국==immigration/xuất nhập cảnh/qua biên giới/Xuất nhập quốc (出入國)
+편리==convenience/tiện lợi/thuận tiện/Tiện lợi (便利)
+편안==comfort/thoải mái/dễ chịu/Bình an (便安)
+편하다==comfortable/thoải mái/dễ chịu/
+휴가==vacation/kỳ nghỉ/thời gian nghỉ/Hưu giả (休暇)
+휴일==day off/ngày nghỉ/ngày không làm việc/Hưu nhật (休日)
+휴지==tissue/giấy vệ sinh/khăn giấy/Hưu chỉ (休紙)
+휴지통==trash can/thùng rác/đồ đựng giấy thải/
+놓다==put down/đặt xuống/để xuống/
+두다==put, place/đặt/để vào vị trí/
+넣다==put in/bỏ vào/đặt vào bên trong/
+꺼내다==take out/lấy ra/rút ra từ bên trong/
+비누==soap/xà phòng/chất tẩy rửa/
+손수건==handkerchief/khăn tay/khăn lau tay/
+수건==towel/khăn tắm/khăn lau/
+아르바이트==part-time job/làm thêm/công việc bán thời gian/
+외출==going out/ra ngoài/đi ra khỏi nhà/Ngoại xuất (外出)
+일==work/việc/công việc/Nhất (一)
+하숙비==lodging fee/tiền nhà trọ/phí thuê trọ/
+여행==travel/du lịch/đi chơi xa/Lữ hành (旅行)
+관광==tourism/tham quan/du lịch ngắm cảnh/Quan quang (觀光)
+관광객==tourist/khách du lịch/người đi tham quan/Quan quang khách (觀光客)
+여행지==travel destination/điểm du lịch/nơi đến du lịch/
+해외여행==overseas travel/du lịch nước ngoài/đi chơi hải ngoại/
+신혼여행==honeymoon/tuần trăng mật/du lịch sau kết hôn/Tân hôn lữ hành (新婚旅行)
+여권==passport/hộ chiếu/giấy thông hành/Lữ quyến (旅券)
+낚시==fishing/câu cá/hoạt động bắt cá/
+소풍==picnic/dã ngoại/đi chơi ngoài trời/Tiêu phong (逍風)
+항공==aviation/hàng không/ngành hàng không/Hàng không (航空)
+항공권==airline ticket/vé máy bay/vé đi máy bay/
+데이트==date/hẹn hò/đi chơi với người yêu/
+유학==study abroad/du học/học ở nước ngoài/Du học (留學)
+유학생==international student/du học sinh/sinh viên nước ngoài/Du học sinh (留學生)
+유행==trend/xu hướng/mốt thời trang/Lưu hành (流行)
+달력==calendar/lịch/bảng ghi ngày tháng/
+생활==life/cuộc sống/sinh hoạt hàng ngày/Sinh hoạt (生活)
+서로==each other/nhau/lẫn nhau/
+일기==diary/nhật ký/sổ ghi chép hàng ngày/Nhật ký (日記)
+짝==pair/cặp đôi/đôi/
+사고==accident/tai nạn/sự cố/Sự cố (事故)
+지도==map/bản đồ/hình vẽ địa hình/Địa đồ (地圖)
+차례==order, turn/lượt/thứ tự phiên/Thứ lệ (次例)

@@ -1,0 +1,36 @@
+﻿가슴==chest/ngực/phần trước của thân trên/Hung (胸)
+고개==head/đầu, cổ/phần trên của cơ thể/
+귀==ear/tai/cơ quan thính giác/
+눈==eye/mắt/cơ quan thị giác/
+다리==leg/chân/chi dưới của cơ thể/
+등==back (body)/lưng/phần sau của thân/Đẳng (等)
+머리==head/đầu/phần trên cùng của cơ thể/
+머리카락==hair/tóc/sợi tóc mọc trên đầu/
+목==neck/cổ/phần nối đầu và thân/
+몸==body/cơ thể/toàn bộ cơ thể con người/
+무릎==knee/đầu gối/khớp giữa đùi và cẳng chân/
+배==belly/bụng/phần giữa thân dưới/
+발==foot/bàn chân/phần dưới cùng của chân/
+발가락==toe/ngón chân/ngón ở bàn chân/
+발바닥==sole/lòng bàn chân/mặt dưới bàn chân/
+손==hand/tay/bàn tay/
+손가락==finger/ngón tay/ngón ở bàn tay/
+손바닥==palm/lòng bàn tay/mặt trong bàn tay/
+어깨==shoulder/vai/phần nối cánh tay và thân/
+얼굴==face/khuôn mặt/phần trước của đầu/
+엉덩이==butt/mông/phần sau thân dưới/
+입==mouth/miệng/cơ quan ăn uống và nói/
+입술==lips/môi/phần ngoài miệng/
+이==tooth/răng/bộ phận dùng nhai thức ăn/
+이마==forehead/trán/phần trên khuôn mặt/
+코==nose/mũi/cơ quan khứu giác/
+팔==arm/cánh tay/chi trên của cơ thể/
+허리==waist/eo, lưng/phần giữa thân/
+혀==tongue/lưỡi/cơ quan vị giác trong miệng/
+피==blood/máu/chất lỏng đỏ chảy trong cơ thể/Huyết (血)
+뼈==bone/xương/phần cứng trong cơ thể/
+살==flesh, weight/thịt, cân nặng/phần mềm trên cơ thể/
+땀==sweat/mồ hôi/nước tiết ra từ da/
+눈물==tears/nước mắt/nước chảy từ mắt khi khóc/
+콧물==runny nose/nước mũi/dịch chảy từ mũi/
+걸음==step/bước chân/một bước đi/

@@ -1,0 +1,95 @@
+﻿가족==family/gia đình/những người có quan hệ huyết thống sống chung/Gia tộc (家族)
+가수==singer/ca sĩ/người hát chuyên nghiệp/Ca thủ (歌手)
+간호사==nurse/y tá/người chăm sóc bệnh nhân/Gián hộ sĩ (看護師)
+고모==aunt/cô (bên nội)/chị em gái của bố/Cô mẫu (姑母)
+공무원==public official/công chức/người làm việc cho nhà nước/Công vụ viên (公務員)
+교사==teacher/giáo viên/người dạy học/Giáo sư (教師)
+교수==professor/giáo sư/giảng viên đại học/Giáo thụ (教授)
+군인==soldier/quân nhân/người phục vụ quân đội/Quân nhân (軍人)
+기자==reporter/phóng viên/người đưa tin/Ký giả (記者)
+남==other/người khác/người ngoài, người lạ/Nam (男)
+남녀==male and female/nam nữ/đàn ông và phụ nữ/Nam nữ (男女)
+남동생==younger brother/em trai/em trai ruột/
+남성==male/nam giới/giới tính nam/Nam tính (男性)
+남자==man/đàn ông/người trưởng thành giới nam/Nam tử (男子)
+남편==husband/chồng/người đàn ông đã kết hôn/Nam thiên (男便)
+남학생==male student/nam sinh/học sinh nam/Nam học sinh (男學生)
+노인==old person/người già/người lớn tuổi/Lão nhân (老人)
+누구==who/ai/từ để hỏi về người/
+누나==older sister (male's)/chị gái (em trai gọi)/chị gái của nam giới/
+대학생==college student/sinh viên đại học/người học đại học/Đại học sinh (大學生)
+동생==younger sibling/em/em trai hoặc em gái/
+딸==daughter/con gái/con gái ruột/
+명==person (counter)/người (đơn vị đếm)/lượng từ đếm người/Danh (名)
+모두==all/tất cả, mọi người/toàn bộ mọi người/
+모든==every/mọi/tất cả, từng cái/
+부모님==parents/bố mẹ/cha mẹ (kính ngữ)/Phụ mẫu (父母)
+부부==couple/vợ chồng/cặp đôi đã kết hôn/Phu phụ (夫婦)
+부인==wife/vợ/vợ (cách gọi trang trọng)/Phu nhân (夫人)
+부자==rich person/người giàu/người có nhiều tiền/Phú giả (富者)
+분==person (honorific)/vị/lượng từ đếm người (kính ngữ)/Phân (分)
+사람==person/người/con người nói chung/
+삼촌==uncle/chú/anh em trai của bố/
+선배==senior/tiền bối/người đi trước/Tiên bối (先輩)
+선수==player/cầu thủ, vận động viên/người thi đấu thể thao/Tuyển thủ (選手)
+손녀==granddaughter/cháu gái/con gái của con/Tôn nữ (孫女)
+손님==guest/khách/người đến thăm hoặc mua hàng/
+시어머니==mother-in-law/mẹ chồng/mẹ của chồng/
+식구==family member/thành viên gia đình/người trong nhà/Thực khẩu (食口)
+아가씨==miss/cô gái/cô gái trẻ/
+아기==baby/em bé/trẻ sơ sinh/
+아내==wife/vợ/người phụ nữ đã kết hôn/
+아들==son/con trai/con trai ruột/
+아버님==father (honorific)/cha (kính ngữ)/bố (cách gọi tôn kính)/
+아버지==father/bố, cha/người cha trong gia đình/
+아빠==dad/bố, ba/cách gọi thân mật của cha/
+아이==child/trẻ em/đứa trẻ/
+아저씨==mister/chú, bác/đàn ông trung niên/
+아주머니==older lady/bác gái, cô/phụ nữ trung niên/
+아줌마==madam/bác gái/cách gọi thông thường phụ nữ trung niên/
+애==child/trẻ con/đứa trẻ (thông tục)/
+애인==lover/người yêu/người đang yêu/Ái nhân (愛人)
+어머니==mother/mẹ/người mẹ trong gia đình/
+어머님==mother (honorific)/mẹ (kính ngữ)/mẹ (cách gọi tôn kính)/
+어른==adult/người lớn/người trưởng thành/
+어리다==young/nhỏ tuổi/tuổi còn nhỏ/
+어린아이==child/trẻ nhỏ/đứa trẻ nhỏ tuổi/
+어린이==child/trẻ em/thiếu nhi/
+언니==older sister (female's)/chị gái (em gái gọi)/chị gái của nữ giới/
+엄마==mom/mẹ/cách gọi thân mật của mẹ/
+여동생==younger sister/em gái/em gái ruột/
+여성==female/nữ giới/giới tính nữ/Nữ tính (女性)
+여자==woman/phụ nữ/người trưởng thành giới nữ/Nữ tử (女子)
+여학생==female student/nữ sinh/học sinh nữ/Nữ học sinh (女學生)
+오빠==older brother (female's)/anh trai (em gái gọi)/anh trai của nữ giới/
+왕==king/vua/người đứng đầu vương quốc/Vương (王)
+이모==aunt/dì (bên ngoại)/chị em gái của mẹ/Di mẫu (姨母)
+자기소개==self-introduction/tự giới thiệu/giới thiệu về bản thân/Tự kỷ giới thiệu (自己紹介)
+자식==children/con cái/con cái nói chung/Tử tức (子息)
+조카==nephew, niece/cháu/con của anh chị em/
+주부==housewife/nội trợ/người phụ nữ làm việc nhà/Chủ phụ (主婦)
+주인==owner/chủ/người sở hữu/Chủ nhân (主人)
+직원==staff/nhân viên/người làm việc trong tổ chức/Chức viên (職員)
+청년==youth/thanh niên/người trẻ tuổi/Thanh niên (青年)
+청소년==teenager/thanh thiếu niên/lứa tuổi vị thành niên/Thanh thiếu niên (青少年)
+친구==friend/bạn/người bạn/
+친척==relative/họ hàng/người có quan hệ huyết thống/Thân thích (親戚)
+할머니==grandmother/bà/bà nội hoặc bà ngoại/
+할아버지==grandfather/ông/ông nội hoặc ông ngoại/
+형==older brother (male's)/anh trai (em trai gọi)/anh trai của nam giới/Huynh (兄)
+형제==siblings/anh em/anh chị em ruột/Huynh đệ (兄弟)
+회사원==office worker/nhân viên văn phòng/người làm việc tại công ty/Hội xã viên (會社員)
+나이==age/tuổi/số tuổi/
+배우==actor/diễn viên/người đóng phim hoặc kịch/
+아나운서==announcer/phát thanh viên/người dẫn chương trình/
+변호사==lawyer/luật sư/người biện hộ pháp luật/Biện hộ sĩ (辯護士)
+화가==painter/họa sĩ/người vẽ tranh/Họa gia (畫家)
+부장==manager/trưởng phòng/người quản lý bộ phận/Bộ trưởng (部長)
+사장==president/giám đốc/người đứng đầu công ty/Xã trưởng (社長)
+종업원==employee/nhân viên phục vụ/người làm việc/Chung nghiệp viên (從業員)
+댁==home (honorific)/nhà (kính ngữ)/nhà ở (cách nói tôn kính/Trạch (宅)
+후배==junior/hậu bối/người đến sau/Hậu bối (後輩)
+여러분==everyone/mọi người/các bạn, quý vị/
+여러==various/nhiều/đa dạng/
+신랑==groom/chú rể/người nam trong đám cưới/Tân lang (新郎)
+신부==bride/cô dâu/người nữ trong đám cưới/Tân phụ (新婦)

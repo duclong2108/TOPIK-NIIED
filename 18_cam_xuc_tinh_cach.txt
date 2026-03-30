@@ -1,0 +1,95 @@
+﻿감사==thanks/cảm ơn/lòng biết ơn/Cảm tạ (感謝)
+걱정==worry/lo lắng/sự lo âu/
+게으르다==lazy/lười biếng/không chăm chỉ/
+고맙다==thankful/cảm ơn/biết ơn/
+고민==worry/trăn trở/suy nghĩ lo lắng/Khổ muộn (苦悶)
+괜찮다==okay/không sao/ổn, chấp nhận được/
+괴로워하다==suffer/đau khổ/chịu đựng đau đớn/
+궁금하다==curious/tò mò/muốn biết/
+귀여워하다==adore/yêu thương/cưng chiều/
+귀엽다==cute/dễ thương/xinh xắn đáng yêu/
+귀찮다==annoyed/phiền phức/không muốn làm/
+기뻐하다==be happy/vui mừng/thể hiện niềm vui/
+기쁘다==happy/vui/cảm thấy hạnh phúc/
+기쁨==joy/niềm vui/sự vui sướng/
+기분==mood/tâm trạng/cảm xúc hiện tại/Khí phân (氣分)
+기억==memory/ký ức/sự nhớ lại/Ký ức (記憶)
+기억나다==remember/nhớ ra/nhớ lại được/
+기회==opportunity/cơ hội/dịp thuận lợi/Cơ hội (機會)
+긴장==tension/căng thẳng/sự lo lắng hồi hộp/Khẩn trương (緊張)
+그립다==miss/nhớ/nhớ nhung người hoặc nơi nào/
+꿈==dream/giấc mơ/ước mơ/
+느끼다==feel/cảm thấy/nhận biết cảm xúc/
+느낌==feeling/cảm giác/ấn tượng, cảm nhận/
+반갑다==glad/vui mừng/vui khi gặp lại/
+불안==anxiety/bất an/lo lắng không yên/Bất an (不安)
+불쌍하다==pitiful/đáng thương/tội nghiệp/
+부끄럽다==embarrassed/xấu hổ/ngại ngùng/
+부럽다==envious/ghen tị/thèm muốn của người khác/
+사랑==love/tình yêu/tình cảm yêu thương/
+섭섭하다==regrettable/buồn, tiếc/cảm thấy hụt hẫng/
+성격==personality/tính cách/đặc điểm con người/Tính cách (性格)
+슬퍼하다==sorrow/buồn bã/thể hiện nỗi buồn/
+슬프다==sad/buồn/cảm thấy đau buồn/
+슬픔==sadness/nỗi buồn/sự buồn bã/
+심심하다==bored/chán/không có gì làm/
+싫다==dislike/ghét/không thích/
+싫어하다==dislike/không thích/cảm thấy ghét/
+아름답다==beautiful/đẹp/có vẻ đẹp tuyệt vời/
+외롭다==lonely/cô đơn/một mình buồn/
+울다==cry/khóc/rơi nước mắt/
+울음==crying/tiếng khóc/sự khóc/
+웃다==laugh/cười/cười vui/
+웃음==laughter/tiếng cười/sự cười/
+즐거워하다==enjoy/vui vẻ/thể hiện niềm vui/
+즐겁다==fun/vui vẻ/cảm thấy thích thú/
+즐기다==enjoy/tận hưởng/hưởng thụ/
+좋다==good/tốt/cảm thấy dễ chịu/
+좋아하다==like/thích/yêu thích/
+죄송하다==sorry/xin lỗi/cảm thấy có lỗi (kính ngữ)/
+착하다==kind/hiền lành/tốt bụng/
+행복==happiness/hạnh phúc/sự sung sướng/Hạnh phúc (幸福)
+화==anger/giận/sự tức giận/Hỏa (火)
+화나다==angry/tức giận/cảm thấy giận dữ/
+화내다==get angry/nổi giận/phát cáu/
+희망==hope/hy vọng/niềm mong mỏi/Hy vọng (希望)
+힘들다==hard, tough/vất vả/khó khăn mệt mỏi/
+소중하다==precious/quý giá/đáng trân trọng/
+미안==sorry/xin lỗi/cảm thấy có lỗi/
+자랑==pride/tự hào/khoe khoang/
+태도==attitude/thái độ/cách cư xử/Thái độ (態度)
+인기==popularity/sự nổi tiếng/được yêu thích/Nhân khí (人氣)
+답답하다==stuffy/bức bối/cảm thấy ngột ngạt/
+부지런하다==diligent/chăm chỉ/cần cù siêng năng/
+성공==success/thành công/đạt được mục tiêu/Thành công (成功)
+실패==failure/thất bại/không đạt được/Thất bại (失敗)
+실수==mistake/sai lầm/lỗi không cố ý/Thất thủ (失手)
+능력==ability/năng lực/khả năng làm việc/Năng lực (能力)
+자유==freedom/tự do/không bị ràng buộc/Tự do (自由)
+자신==self/bản thân/chính mình/Tự tín (自信)
+용기==courage/dũng khí/sự can đảm/Dũng khí (勇氣)
+결심==determination/quyết tâm/quyết định làm/Quyết tâm (決心)
+결정==decision/quyết định/sự lựa chọn/Quyết định (決定)
+습관==habit/thói quen/hành vi lặp lại/Tập quán (習慣)
+버릇==habit/thói quen/tật xấu/
+짜증==annoyance/sự bực bội/cảm giác khó chịu/
+도움==help/sự giúp đỡ/hỗ trợ/Đạo ẩm (道蔭)
+재미==fun/niềm vui/sự thú vị/
+재미없다==not fun/không thú vị/nhạt nhẽo/
+재미있다==fun/thú vị/vui thích/
+조심==caution/cẩn thận/chú ý/Trợ tâm (助心)
+부족==lack/thiếu/không đủ/Bất túc (不足)
+모습==appearance/dáng vẻ/hình dáng bên ngoài/
+모양==shape/hình dạng/hình thể bên ngoài/
+마음==heart/tấm lòng/nội tâm, tình cảm/
+생각==thought/suy nghĩ/ý tưởng/Sinh giác
+생각나다==think of/nhớ ra/nảy ra ý tưởng/
+뜻==meaning/ý nghĩa/nội dung hàm chứa/
+목적==purpose/mục đích/mục tiêu/Mục đích (目的)
+목소리==voice/giọng nói/âm thanh lời nói/
+소리==sound/âm thanh/tiếng động/
+필요==need/cần thiết/sự cần/Tất yếu (必要)
+순서==order/thứ tự/trình tự sắp xếp/Thuận tự (順序)
+종류==type/loại/chủng loại/Chủng loại (種類)
+수고==hard work/vất vả/sự nỗ lực/Thủ khổ (手苦)
+힘==power/sức mạnh/lực lượng/

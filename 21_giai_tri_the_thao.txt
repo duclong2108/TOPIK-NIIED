@@ -1,0 +1,64 @@
+﻿가요==song/bài hát/nhạc pop Hàn Quốc/Ca dao (歌謠)
+게임==game/trò chơi/trò chơi điện tử/
+경기==match/trận đấu/cuộc thi đấu thể thao/Kinh kỹ (競技)
+구경==sightseeing/tham quan/xem cho biết/Cầu kinh (求景)
+노래==song/bài hát/ca khúc/
+노력==effort/nỗ lực/sự cố gắng/Nỗ lực (努力)
+놀다==play/chơi/giải trí, vui chơi/
+놀라다==surprised/ngạc nhiên/bất ngờ/
+놀이==play/trò chơi/hoạt động vui chơi/
+농구==basketball/bóng rổ/môn thể thao ném bóng vào rổ/
+농담==joke/câu đùa/lời nói vui/Nông đàm (弄談)
+달리기==running/chạy bộ/môn chạy/
+달리다==run/chạy/di chuyển nhanh bằng chân/
+드라마==drama/phim truyền hình/kịch phim Hàn/
+만화==cartoon/truyện tranh/hoạt hình/Mạn họa (漫畫)
+배드민턴==badminton/cầu lông/môn đánh cầu lông/
+소설==novel/tiểu thuyết/truyện dài/Tiểu thuyết (小說)
+수영==swimming/bơi lội/môn thể thao dưới nước/Thủy vịnh (水泳)
+수영복==swimsuit/đồ bơi/quần áo bơi/
+스타==star/ngôi sao/người nổi tiếng/
+스트레스==stress/căng thẳng/áp lực tinh thần/
+스포츠==sports/thể thao/hoạt động thể dục/
+악기==musical instrument/nhạc cụ/dụng cụ chơi nhạc/Nhạc khí (樂器)
+앨범==album/album/tập ảnh hoặc nhạc/
+야구==baseball/bóng chày/môn đánh bóng chày/
+영화==movie/phim/tác phẩm điện ảnh/Ảnh hoa (映畫)
+영화배우==movie actor/diễn viên điện ảnh/người đóng phim/
+예술==art/nghệ thuật/sáng tạo nghệ thuật/Nghệ thuật (藝術)
+운동==exercise/vận động/thể dục thể thao/Vận động (運動)
+음악==music/âm nhạc/nghệ thuật âm thanh/Âm nhạc (音樂)
+음악가==musician/nhạc sĩ/người chơi nhạc/Âm nhạc gia (音樂家)
+연극==theater/kịch/nghệ thuật biểu diễn/Diễn kịch (演劇)
+연예인==celebrity/nghệ sĩ/người nổi tiếng giải trí/
+잡지==magazine/tạp chí/ấn phẩm định kỳ/Tạp chí (雜誌)
+축구==soccer/bóng đá/môn đá bóng/Túc cầu (蹴球)
+축구공==soccer ball/quả bóng đá/bóng dùng đá/
+콘서트==concert/buổi hòa nhạc/buổi biểu diễn âm nhạc/
+탁구==table tennis/bóng bàn/môn đánh bóng trên bàn/Trác cầu (卓球)
+태권도==taekwondo/taekwondo/võ thuật Hàn Quốc/
+테니스==tennis/quần vợt/môn đánh quần vợt/
+취미==hobby/sở thích/hoạt động yêu thích/Thú vị (趣味)
+피아노==piano/đàn piano/nhạc cụ phím/
+바이올린==violin/đàn vĩ cầm/nhạc cụ dây kéo/
+사진==photo/ảnh/hình chụp/Tả chân (寫真)
+디자인==design/thiết kế/sáng tạo hình thức/
+프로그램==program/chương trình/nội dung phát sóng/
+다이어트==diet/ăn kiêng/giảm cân/
+뛰다==run/chạy/chạy nhảy/
+뛰어가다==run to/chạy đến/chạy nhanh tới/
+행사==event/sự kiện/hoạt động đặc biệt/Hành sự (行事)
+춤==dance/điệu nhảy/nghệ thuật múa/
+춤추다==dance/nhảy/biểu diễn điệu nhảy/
+추다==dance/nhảy/múa/
+윷놀이==yut game/trò chơi yut/trò chơi truyền thống Hàn Quốc/
+신문==newspaper/báo/ấn phẩm tin tức hàng ngày/Tân văn (新聞)
+기타==guitar/đàn guitar/nhạc cụ dây gảy/
+노래방==karaoke/phòng hát/nơi hát karaoke/
+그림==picture/bức tranh/hình vẽ/
+등산==hiking/leo núi/đi bộ trên núi/Đăng sơn (登山)
+박수==applause/vỗ tay/sự tán thưởng/
+배우다==learn/học/tiếp thu kiến thức/
+파티==party/bữa tiệc/buổi liên hoan/
+팀==team/đội/nhóm/Đội
+큰소리==loud voice/tiếng to/giọng lớn/

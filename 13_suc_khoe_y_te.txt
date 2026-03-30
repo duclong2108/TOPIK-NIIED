@@ -1,0 +1,36 @@
+﻿감기==cold/cảm lạnh/bệnh cảm cúm/Cảm khí (感氣)
+감기약==cold medicine/thuốc cảm/thuốc chữa cảm lạnh/
+건강==health/sức khỏe/tình trạng cơ thể/Kiện khang (健康)
+내과==internal medicine/khoa nội/chuyên khoa bệnh bên trong/Nội khoa (內科)
+두통==headache/đau đầu/chứng nhức đầu/Đầu thống (頭痛)
+병==disease/bệnh/tình trạng không khỏe/Bệnh (病)
+병원==hospital/bệnh viện/nơi khám chữa bệnh/Bệnh viện (病院)
+병문안==visiting the sick/thăm bệnh/đi thăm người ốm/Bệnh vấn an (病問安)
+소화제==digestive medicine/thuốc tiêu hóa/thuốc hỗ trợ tiêu hóa/Tiêu hóa tễ (消化劑)
+수술==surgery/phẫu thuật/mổ để chữa bệnh/Thủ thuật (手術)
+약==medicine/thuốc/dược phẩm chữa bệnh/Dược (藥)
+약간==slightly/một chút/hơi, chút ít/Ước can (若干)
+약국==pharmacy/hiệu thuốc/nơi bán thuốc/Dược cục (藥局)
+약사==pharmacist/dược sĩ/người bán thuốc/Dược sĩ (藥師)
+아프다==sick, hurt/đau/cảm thấy đau đớn/
+열==fever/sốt/nhiệt độ cơ thể cao/Nhiệt (熱)
+의사==doctor/bác sĩ/người khám chữa bệnh/Y sĩ (醫師)
+입원==hospitalization/nhập viện/vào bệnh viện nằm/Nhập viện (入院)
+퇴원==discharge/xuất viện/ra khỏi bệnh viện/Thoái viện (退院)
+주사==injection/tiêm/chích thuốc/Chú xạ (注射)
+치과==dentist/nha khoa/khoa răng/Trì khoa (齒科)
+치료==treatment/điều trị/chữa bệnh/Trị liệu (治療)
+치약==toothpaste/kem đánh răng/chất vệ sinh răng/
+칫솔==toothbrush/bàn chải đánh răng/dụng cụ chải răng/
+환자==patient/bệnh nhân/người bị bệnh/Hoạn giả (患者)
+기침==cough/ho/phản xạ ho/
+낫다==recover/khỏi bệnh/hết bệnh/
+정형외과==orthopedics/khoa chỉnh hình/chuyên khoa xương khớp/Chỉnh hình ngoại khoa (整形外科)
+양치질==brushing teeth/đánh răng/vệ sinh răng miệng/
+세수==washing face/rửa mặt/vệ sinh mặt/Tẩy thủ (洗手)
+재채기==sneeze/hắt hơi/phản xạ từ mũi/
+다치다==get hurt/bị thương/bị tổn thương/
+상처==wound/vết thương/chỗ bị đau/Thương xử (傷處)
+낫다==better/tốt hơn/khá hơn/
+편찮다==unwell/không khỏe/ốm (kính ngữ)/
+씹다==chew/nhai/dùng răng nghiền/

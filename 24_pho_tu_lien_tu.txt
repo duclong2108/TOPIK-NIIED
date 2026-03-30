@@ -1,0 +1,86 @@
+﻿가득==fully/đầy/chứa đầy ắp/
+가장==most/nhất/mức độ cao nhất/
+간단히==simply/đơn giản/một cách đơn giản/
+갑자기==suddenly/đột nhiên/bất ngờ/
+같이==together/cùng nhau/chung với nhau/
+깜짝==surprise/giật mình/bất ngờ/
+깨끗이==cleanly/sạch sẽ/một cách sạch/
+꼭==surely/chắc chắn/nhất định/
+그냥==just/chỉ, cứ thế/không có lý do/
+금방==just now/vừa mới/mới đây/
+너무==too much/quá/vượt mức/
+늘==always/luôn luôn/mọi lúc/
+다==all/tất cả/hết thảy/
+다시==again/lại/một lần nữa/
+따로==separately/riêng/tách biệt/
+또==again/lại/thêm một lần nữa/
+똑같이==equally/giống nhau/như nhau/
+똑바로==straight/thẳng/đi thẳng/
+드디어==finally/cuối cùng/rốt cuộc/
+많이==a lot/nhiều/số lượng lớn/
+매우==very/rất/mức độ cao/
+먼저==first/trước/trước tiên/
+멀리==far away/xa/ở khoảng cách xa/
+무척==very much/rất/vô cùng/
+바로==right away/ngay/lập tức/
+반드시==certainly/chắc chắn/nhất định phải/
+벌써==already/đã rồi/sớm hơn dự kiến/
+별로==not very/không lắm/không đáng kể/
+보다==more than/hơn/so sánh hơn/
+빨리==quickly/nhanh/với tốc độ cao/
+아마==maybe/có lẽ/có thể/
+아무==any/bất kỳ/không xác định/
+아무것==anything/bất cứ cái gì/bất kỳ vật gì/
+아무리==no matter how/dù thế nào/cho dù/
+아주==very/rất/mức độ cao/
+아직==yet/vẫn/chưa đến lúc/
+완전히==completely/hoàn toàn/triệt để/
+우선==first of all/trước hết/ưu tiên/Ưu tiên (優先)
+이미==already/đã/rồi/
+자꾸==repeatedly/liên tục/cứ lặp lại/
+자세히==in detail/chi tiết/một cách tỉ mỉ/
+자주==often/thường xuyên/nhiều lần/
+잘==well/tốt, giỏi/một cách tốt/
+점점==gradually/dần dần/từ từ/
+정말==really/thật sự/thực sự/
+제일==the most/nhất/hàng đầu/Đệ nhất (第一)
+조금==a little/một chút/lượng nhỏ/
+조금씩==little by little/từng chút/dần dần/
+좀==a bit/một chút/hơi/
+직접==directly/trực tiếp/không qua trung gian/Trực tiếp (直接)
+진짜==really/thật/thực sự/
+참==very, truly/thật/thực sự/
+천천히==slowly/từ từ/chậm rãi/
+특별히==especially/đặc biệt/một cách đặc biệt/
+특히==especially/nhất là/đặc biệt là/
+푹==deeply/sâu/ngủ say/
+한번==once/một lần/thử một lần/
+혹시==maybe/có thể/biết đâu/
+훨씬==much more/hơn nhiều/hơn rất nhiều/
+활발히==actively/tích cực/một cách hoạt bát/
+더==more/hơn/thêm nữa/
+더욱==even more/càng hơn/hơn nữa/
+정신없이==frantically/cuống cuồng/không tập trung/
+주로==mainly/chủ yếu/phần lớn/
+미리==in advance/trước/chuẩn bị sẵn/
+새로==newly/mới/một cách mới mẻ/
+높이==high/cao/ở vị trí cao/
+혼자==alone/một mình/không ai cùng/
+그래서==so, therefore/vì vậy/nên, cho nên/
+그러나==but/nhưng/tuy nhiên/
+그러니까==so/vì thế/cho nên/
+그러면==then/nếu vậy/trong trường hợp đó/
+그러므로==therefore/do đó/vì lẽ đó/
+그런데==but, by the way/nhưng mà/tuy nhiên/
+그렇지만==but/nhưng/tuy nhiên/
+그리고==and/và/thêm vào đó/
+또는==or/hoặc/hay là/
+왜냐하면==because/bởi vì/vì lý do/
+하지만==however/tuy nhiên/nhưng mà/
+거의==almost/gần như/hầu như/
+물론==of course/tất nhiên/đương nhiên/
+열심히==hard/chăm chỉ/một cách nỗ lực/
+일찍==early/sớm/trước giờ bình thường/
+함께==together/cùng nhau/chung với nhau/
+조용히==quietly/yên lặng/không ồn ào/
+보통==usually/thường/bình thường/Bổ thống (普通)

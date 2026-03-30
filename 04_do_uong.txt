@@ -1,0 +1,20 @@
+﻿녹차==green tea/trà xanh/trà làm từ lá chè xanh/Lục trà (綠茶)
+물==water/nước/chất lỏng uống hàng ngày/
+맥주==beer/bia/đồ uống có cồn từ lúa mạch/
+막걸리==makgeolli/rượu gạo/rượu gạo đục truyền thống Hàn/
+소주==soju/rượu soju/rượu trắng Hàn Quốc/Thiêu tửu (燒酒)
+술==alcohol/rượu/đồ uống có cồn/
+우유==milk/sữa/sữa bò/Ngưu nhũ (牛乳)
+음료==beverage/đồ uống/thức uống nói chung/Ẩm liệu (飲料)
+음료수==drink/thức uống/nước uống đóng chai/Ẩm liệu thủy (飲料水)
+주스==juice/nước ép/nước ép trái cây/
+차==tea/trà/đồ uống pha từ lá trà/Trà (茶)
+커피==coffee/cà phê/đồ uống từ hạt cà phê/
+콜라==cola/nước ngọt có ga/đồ uống có ga/
+사이다==cider/nước chanh có ga/đồ uống có ga vị chanh/
+찬물==cold water/nước lạnh/nước mát/
+홍차==black tea/trà đen/trà lên men hoàn toàn/Hồng trà (紅茶)
+잔==cup, glass/cốc, ly/đồ đựng nước uống/Trản (盞)
+컵==cup/cốc/đồ đựng nước/
+마시다==drink/uống/đưa chất lỏng vào miệng/
+한잔==a drink/một ly/một cốc đồ uống/

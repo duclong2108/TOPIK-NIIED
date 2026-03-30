@@ -1,0 +1,108 @@
+﻿가끔==sometimes/thỉnh thoảng/không thường xuyên/
+그날==that day/ngày đó/ngày được đề cập/
+그때==at that time/lúc đó/thời điểm trong quá khứ/
+그동안==meantime/trong thời gian qua/khoảng thời gian đã qua/
+그저께==day before yesterday/hôm kia/hai ngày trước/
+금방==a moment ago/vừa mới/vừa xảy ra/
+금요일==Friday/thứ Sáu/ngày thứ 6 trong tuần/Kim diệu nhật (金曜日)
+기간==period/thời kỳ/khoảng thời gian nhất định/Kỳ gian (期間)
+나중==later/sau này/thời điểm sau/
+나흘==four days/bốn ngày/khoảng thời gian 4 ngày/
+날==day/ngày/một ngày/
+날짜==date/ngày tháng/ngày cụ thể/
+내년==next year/năm sau/năm tiếp theo/Nội niên (來年)
+내일==tomorrow/ngày mai/ngày sau hôm nay/
+년==year/năm/đơn vị thời gian 12 tháng/Niên (年)
+다음==next/tiếp theo/cái kế tiếp/
+다음날==next day/ngày hôm sau/ngày kế tiếp/
+동안==while, during/trong lúc/khoảng thời gian/Đồng an (同間)
+매년==every year/hàng năm/mỗi năm/Mỗi niên (每年)
+매달==every month/hàng tháng/mỗi tháng/Mỗi đạt (每月)
+매일==every day/hàng ngày/mỗi ngày/Mỗi nhật (每日)
+매주==every week/hàng tuần/mỗi tuần/Mỗi chu (每週)
+며칠==several days/mấy ngày/vài ngày/
+모레==day after tomorrow/ngày kia/hai ngày sau/
+목요일==Thursday/thứ Năm/ngày thứ 5 trong tuần/Mộc diệu nhật (木曜日)
+방금==just now/vừa mới/vừa xong/
+수요일==Wednesday/thứ Tư/ngày thứ 4 trong tuần/Thủy diệu nhật (水曜日)
+시==hour/giờ/đơn vị thời gian 60 phút/Thì (時)
+시간==time/thời gian/thời gian nói chung/Thời gian (時間)
+아까==a while ago/lúc nãy/thời gian gần đây/
+아침==morning/buổi sáng/đầu ngày/
+어제==yesterday/hôm qua/ngày trước hôm nay/
+언제==when/khi nào/từ hỏi thời gian/
+언제나==always/luôn luôn/mọi lúc/
+연말==year-end/cuối năm/thời điểm cuối năm/Niên mạt (年末)
+오늘==today/hôm nay/ngày hiện tại/
+오래==long time/lâu/thời gian dài/
+오래간만==long time no see/lâu rồi không gặp/sau thời gian dài/
+오랜만==long time/lâu lắm rồi/sau khoảng thời gian dài/
+오랫동안==for a long time/trong thời gian dài/suốt một thời gian dài/
+오전==AM, morning/buổi sáng/trước trưa/Ngọ tiền (午前)
+오후==PM, afternoon/buổi chiều/sau trưa/Ngọ hậu (午後)
+요일==day of week/thứ trong tuần/ngày trong tuần/Diệu nhật (曜日)
+요즘==nowadays/dạo này/thời gian gần đây/
+월==month/tháng/đơn vị thời gian/Nguyệt (月)
+월요일==Monday/thứ Hai/ngày đầu tuần/Nguyệt diệu nhật (月曜日)
+이날==this day/ngày này/ngày được nói đến/
+이때==at this time/lúc này/thời điểm hiện tại/
+이따가==later/lát nữa/một lúc sau/
+이번==this time/lần này/dịp này/
+이사==move/chuyển nhà/thay đổi nơi ở/
+이전==previous/trước đây/thời gian trước/Dĩ tiền (以前)
+이제==now/bây giờ/từ giờ trở đi/
+이틀==two days/hai ngày/khoảng thời gian 2 ngày/
+이후==after/sau đó/thời gian sau/Dĩ hậu (以後)
+일요일==Sunday/Chủ nhật/ngày cuối tuần/Nhật diệu nhật (日曜日)
+일월==January/tháng Một/tháng đầu năm/Nhất nguyệt (一月)
+이월==February/tháng Hai/tháng thứ hai/Nhị nguyệt (二月)
+삼월==March/tháng Ba/tháng thứ ba/Tam nguyệt (三月)
+사월==April/tháng Tư/tháng thứ tư/Tứ nguyệt (四月)
+오월==May/tháng Năm/tháng thứ năm/Ngũ nguyệt (五月)
+유월==June/tháng Sáu/tháng thứ sáu/Lục nguyệt (六月)
+칠월==July/tháng Bảy/tháng thứ bảy/Thất nguyệt (七月)
+팔월==August/tháng Tám/tháng thứ tám/Bát nguyệt (八月)
+구월==September/tháng Chín/tháng thứ chín/Cửu nguyệt (九月)
+시월==October/tháng Mười/tháng thứ mười/Thập nguyệt (十月)
+십일월==November/tháng Mười một/tháng thứ 11/Thập nhất nguyệt (十一月)
+십이월==December/tháng Mười hai/tháng thứ 12/Thập nhị nguyệt (十二月)
+일주일==one week/một tuần/7 ngày/Nhất chu nhật (一週日)
+점심==lunch/bữa trưa/bữa ăn giữa ngày/Điểm tâm (點心)
+점심때==lunch time/giờ trưa/thời gian ăn trưa/
+점심시간==lunch hour/giờ nghỉ trưa/thời gian ăn trưa/
+저녁==evening, dinner/buổi tối, bữa tối/thời gian cuối ngày/
+저번==last time/lần trước/dịp trước đó/
+주==week/tuần/7 ngày/Chu (週)
+주말==weekend/cuối tuần/thứ Bảy và Chủ nhật/Chu mạt (週末)
+주일==week/tuần lễ/khoảng 7 ngày/Chu nhật (週日)
+지금==now/bây giờ/thời điểm hiện tại/
+지난달==last month/tháng trước/tháng vừa qua/
+지난번==last time/lần trước/lần vừa rồi/
+지난주==last week/tuần trước/tuần vừa qua/
+지난해==last year/năm ngoái/năm vừa qua/
+처음==first/lần đầu/lúc bắt đầu/
+첫날==first day/ngày đầu tiên/ngày bắt đầu/
+토요일==Saturday/thứ Bảy/ngày thứ 7 trong tuần/Thổ diệu nhật (土曜日)
+평일==weekday/ngày thường/ngày trong tuần/Bình nhật (平日)
+평소==usually/thường ngày/như bình thường/Bình tố (平素)
+화요일==Tuesday/thứ Ba/ngày thứ 3 trong tuần/Hỏa diệu nhật (火曜日)
+후==after/sau/về sau/Hậu (後)
+과거==past/quá khứ/thời gian đã qua/Quá khứ (過去)
+미래==future/tương lai/thời gian sắp đến/Vị lai (未來)
+현재==currently/hiện tại/thời điểm bây giờ/Hiện tại (現在)
+올해==this year/năm nay/năm hiện tại/
+작년==last year/năm ngoái/năm trước/Tạc niên (昨年)
+해마다==every year/hàng năm/mỗi năm/
+개월==month (counter)/tháng (đơn vị đếm)/đơn vị đếm tháng/Cá nguyệt (個月)
+낮잠==nap/ngủ trưa/giấc ngủ ngắn ban ngày/
+사흘==three days/ba ngày/khoảng thời gian 3 ngày/
+열흘==ten days/mười ngày/khoảng thời gian 10 ngày/
+초==second/giây/đơn vị thời gian nhỏ nhất/Sao (秒)
+하루==one day/một ngày/khoảng thời gian 24 giờ/
+어젯밤==last night/tối qua/đêm hôm qua/
+때==when/khi, lúc/thời điểm/
+늘==always/luôn luôn/mọi lúc/
+항상==always/luôn luôn/mọi lúc mọi nơi/Hằng thường (恒常)
+생신==birthday (honorific)/sinh nhật (kính ngữ)/ngày sinh (tôn kính)/
+생일==birthday/sinh nhật/ngày sinh/Sinh nhật (生日)
+연휴==holiday/kỳ nghỉ lễ/nhiều ngày nghỉ liên tiếp/Liên hưu (連休)

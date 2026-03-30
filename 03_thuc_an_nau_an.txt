@@ -1,0 +1,131 @@
+﻿감==persimmon/hồng/trái cây mùa thu/
+감자==potato/khoai tây/loại củ dùng nấu ăn/
+갈비==galbi, rib/sườn/sườn nướng kiểu Hàn/
+갈비탕==galbitang/canh sườn/canh sườn bò Hàn Quốc/
+간식==snack/đồ ăn vặt/thức ăn nhẹ giữa bữa/Gián thực (間食)
+간장==soy sauce/nước tương/gia vị làm từ đậu nành/
+계란==egg/trứng gà/trứng dùng trong nấu ăn/Kê noãn (鷄卵)
+고기==meat/thịt/thịt động vật dùng ăn/
+고추장==red pepper paste/tương ớt/gia vị cay Hàn Quốc/
+과일==fruit/trái cây/quả cây ăn được/Quả thật (果實)
+과자==sweets, snacks/bánh kẹo/đồ ăn vặt ngọt/Quả tử (菓子)
+국==soup/canh/món nước có rau hoặc thịt/Canh (羹)
+국수==noodle/mì/sợi mì/Quốc thủ (麵)
+귤==tangerine/quýt/trái cây họ cam/
+김==seaweed/rong biển/tảo biển khô/
+김밥==kimbap/cơm cuộn rong biển/cơm cuộn nhân rau thịt/
+김치==kimchi/kim chi/rau muối cay lên men/
+김치찌개==kimchi stew/canh kim chi/canh nấu với kim chi/
+꽃다발==bouquet/bó hoa/nhiều hoa bó lại/
+깎다==peel, cut/gọt/bóc vỏ trái cây/
+냉면==cold noodle/mì lạnh/mì ăn lạnh kiểu Hàn/Lãnh miến (冷麵)
+달걀==egg/trứng gà/trứng dùng nấu ăn/
+닭==chicken/gà/gia cầm nuôi lấy thịt trứng/
+닭고기==chicken meat/thịt gà/thịt từ gà/
+떡==rice cake/bánh gạo/bánh làm từ gạo nếp/
+떡국==rice cake soup/canh bánh gạo/món ăn ngày Tết/
+떡볶이==tteokbokki/bánh gạo cay/bánh gạo xào sốt cay/
+돈가스==pork cutlet/cốt lết heo chiên/thịt heo tẩm bột chiên/
+두부==tofu/đậu phụ/đậu hũ làm từ đậu nành/Đậu phụ (豆腐)
+된장==soybean paste/tương đậu/gia vị làm từ đậu nành lên men/
+된장찌개==soybean paste stew/canh tương đậu/canh nấu với tương đậu/
+라면==ramen/mì ăn liền/mì gói Hàn Quốc/
+만두==dumpling/bánh bao/há cảo, sủi cảo Hàn/
+무==radish/củ cải trắng/rau củ dùng nấu canh/
+미역국==seaweed soup/canh rong biển/canh sinh nhật Hàn Quốc/
+밀가루==flour/bột mì/bột xay từ lúa mì/
+밥==rice, meal/cơm/bữa ăn chính/
+바나나==banana/chuối/trái cây nhiệt đới/
+배==pear/lê/trái cây ngọt mát/
+배달==delivery/giao hàng/dịch vụ mang đồ ăn đến/Bồi đạt (配達)
+배추==cabbage/cải thảo/rau cải trắng dùng muối kim chi/
+볶다==stir-fry/xào/chiên nhanh với dầu/
+볶음밥==fried rice/cơm chiên/cơm xào/
+빵==bread/bánh mì/bánh làm từ bột mì nướng/
+사과==apple/táo/trái cây tròn đỏ/
+삼계탕==samgyetang/canh gà sâm/canh gà hầm nhân sâm/
+삼겹살==pork belly/ba chỉ/thịt heo ba lớp nướng/
+상추==lettuce/rau diếp/rau ăn sống cuốn thịt/
+샌드위치==sandwich/bánh sandwich/bánh kẹp nhân/
+생선==fish (food)/cá (thức ăn)/cá dùng nấu ăn/Sinh tiên (生鮮)
+설탕==sugar/đường/gia vị ngọt/
+소고기==beef/thịt bò/thịt từ bò/
+소금==salt/muối/gia vị mặn/
+송편==songpyeon/bánh songpyeon/bánh gạo hình trăng khuyết/
+스파게티==pasta/mì Ý/mì kiểu Ý/
+식빵==bread/bánh mì gối/bánh mì trắng/
+식사==meal/bữa ăn/bữa cơm/Thực sự (食事)
+식초==vinegar/giấm/gia vị chua/Thực thổ (食醋)
+식품==food product/thực phẩm/sản phẩm thức ăn/Thực phẩm (食品)
+쌀==rice (grain)/gạo/hạt gạo chưa nấu/
+썰다==slice, cut/thái/cắt thành lát mỏng/
+양식==Western food/đồ ăn phương Tây/ẩm thực châu Âu/Dương thực (洋食)
+오이==cucumber/dưa chuột/rau quả xanh dài/
+우동==udon/mì udon/mì sợi to Nhật Bản/
+요리==cooking/nấu ăn, món ăn/việc chế biến thức ăn/Liệu lý (料理)
+음식==food/thức ăn/đồ ăn nói chung/Ẩm thực (飲食)
+일식==Japanese food/đồ ăn Nhật/ẩm thực Nhật Bản/Nhật thực (日食)
+자장면==jajangmyeon/mì tương đen/mì trộn sốt đậu đen/
+잡채==japchae/miến trộn/miến xào rau thịt Hàn/
+재료==ingredient/nguyên liệu/vật liệu dùng nấu ăn/Tài liệu (材料)
+찌개==stew/canh/món canh đặc Hàn Quốc/
+짬뽕==jjamppong/mì cay hải sản/mì cay kiểu Trung-Hàn/
+채소==vegetable/rau/rau xanh ăn được/Thái sở (菜蔬)
+초콜릿==chocolate/sô cô la/kẹo từ ca cao/
+카레==curry/cà ri/gia vị cay Ấn Độ/
+칼국수==kalguksu/mì cắt dao/mì sợi dẹt Hàn Quốc/
+콩==bean/đậu/hạt đậu/
+탕수육==tangsuyuk/thịt sốt chua ngọt/thịt heo chiên sốt chua ngọt/
+한식==Korean food/đồ ăn Hàn/ẩm thực Hàn Quốc/Hàn thực (韓食)
+햄버거==hamburger/bánh hamburger/bánh kẹp thịt/
+피자==pizza/bánh pizza/bánh tròn phô mai Ý/
+분식==bunsik/đồ ăn nhanh Hàn/thức ăn nhanh từ bột/Phấn thực (粉食)
+불고기==bulgogi/thịt nướng/thịt bò ướp nướng Hàn Quốc/
+비빔밥==bibimbap/cơm trộn/cơm trộn rau thịt Hàn Quốc/
+순두부찌개==tofu stew/canh đậu hũ non/canh đậu phụ mềm cay/
+맛==taste/vị/hương vị của thức ăn/
+맛없다==tasteless/không ngon/thức ăn dở/
+맛있다==delicious/ngon/thức ăn có vị tốt/
+달다==sweet/ngọt/có vị ngọt/
+맵다==spicy/cay/có vị cay/
+시다==sour/chua/có vị chua/
+싱겁다==bland/nhạt/không đủ vị mặn/
+쓰다==bitter/đắng/có vị đắng/
+짜다==salty/mặn/có vị mặn/
+굽다==grill, bake/nướng/nấu trên lửa hoặc trong lò/
+끓다==(sth) boil/sôi (tự)/nước tự sôi/
+끓이다==boil (sth)/nấu sôi/đun cho sôi/
+튀기다==fry/chiên ngập dầu/nấu trong dầu nóng/
+섞다==mix/trộn/khuấy chung nhiều thứ/
+볶다==stir-fry/xào/chiên nhanh với lửa lớn/
+싸다==wrap/gói/bọc lại/
+냄새==smell/mùi/hương thơm hoặc mùi hôi/
+냄비==pot/nồi/dụng cụ nấu ăn/
+프라이팬==frying pan/chảo/dụng cụ chiên xào/
+칼==knife/dao/dụng cụ cắt thái/
+젓가락==chopsticks/đũa/dụng cụ gắp thức ăn/
+숟가락==spoon/thìa/dụng cụ múc thức ăn/
+수저==spoon and chopsticks/thìa và đũa/bộ đồ ăn Hàn Quốc/
+그릇==bowl/bát, tô/đồ đựng thức ăn/
+접시==plate/đĩa/đồ đựng phẳng/
+식탁==dining table/bàn ăn/bàn dùng bữa/Thực trác (食卓)
+요리사==chef/đầu bếp/người nấu ăn chuyên nghiệp/
+메뉴==menu/thực đơn/danh sách món ăn/
+주문==order/đặt hàng/gọi món ăn/Chú văn (注文)
+배탈==stomachache/đau bụng/đau do ăn uống/
+튀김==fried food/đồ chiên/thức ăn chiên giòn/
+포장==wrapping/đóng gói/gói đồ mang đi/Bao trang (包裝)
+딸기==strawberry/dâu tây/trái cây đỏ nhỏ/
+반찬==side dish/đồ ăn kèm/món ăn phụ trong bữa cơm/
+설렁탕==seolleongtang/canh xương bò/món canh bò ninh lâu/
+오렌지==orange/cam/trái cây cam/
+참외==Korean melon/dưa lê Hàn/trái cây ngọt mát/
+포도==grape/nho/trái nho/
+수박==watermelon/dưa hấu/trái cây mùa hè/
+사탕==candy/kẹo/đồ ngọt/
+케이크==cake/bánh kem/bánh ngọt/
+아이스크림==ice cream/kem/đồ ăn lạnh ngọt/
+토마토==tomato/cà chua/rau quả đỏ/
+껌==chewing gum/kẹo cao su/đồ nhai/
+야채==vegetable/rau/rau xanh/
+치킨==chicken/gà rán/gà chiên/

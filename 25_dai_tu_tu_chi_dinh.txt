@@ -1,0 +1,118 @@
+﻿나==I/tôi/đại từ ngôi thứ nhất/
+내==my/của tôi/sở hữu ngôi thứ nhất/
+너==you/bạn, cậu/đại từ ngôi thứ hai (thân mật)/
+너희==your (plural)/các bạn/đại từ ngôi thứ hai số nhiều/
+네==you/bạn/biến thể của 너/
+우리==we, our/chúng tôi/đại từ ngôi thứ nhất số nhiều/
+저==I (humble)/tôi (khiêm nhường)/đại từ ngôi thứ nhất (lịch sự)/
+저희==we (humble)/chúng tôi (khiêm nhường)/đại từ ngôi thứ nhất số nhiều (lịch sự)/
+제==my (humble)/của tôi/sở hữu ngôi thứ nhất (lịch sự)/
+자신==oneself/bản thân/chính mình/Tự tín (自信)
+스스로==by oneself/tự mình/tự bản thân/
+이==this/này/chỉ vật gần người nói/
+이거==this/cái này/vật gần (nói tắt)/
+이것==this/cái này/vật ở gần người nói/
+이곳==this place/nơi này/chỗ này/
+이런==this kind/loại này/kiểu như thế này/
+이렇다==like this/như thế này/ở trạng thái này/
+이분==this person/vị này/người này (kính ngữ)/
+이쪽==this side/phía này/hướng này/
+그==that/đó/chỉ vật xa vừa/
+그거==that/cái đó/vật đó (nói tắt)/
+그것==that/cái đó/vật ở xa vừa/
+그곳==there/nơi đó/chỗ đó/
+그날==that day/ngày đó/ngày được nhắc đến/
+그대로==as it is/nguyên vậy/giữ nguyên/
+그동안==in the meantime/trong lúc đó/khoảng thời gian qua/
+그때==at that time/lúc đó/thời điểm đó/
+그런==such/loại đó/kiểu như vậy/
+그렇다==yes, so/đúng vậy/là như thế/
+그분==that person/vị đó/người đó (kính ngữ)/
+그쪽==that side/phía đó/hướng đó/
+거기==there/ở đó/nơi đó/
+저==that (far)/kia/chỉ vật ở xa/
+저거==that (far)/cái kia/vật xa (nói tắt)/
+저것==that (far)/cái kia/vật ở xa/
+저곳==over there/nơi kia/chỗ xa/
+저기==there (far)/đằng kia/nơi ở xa/
+저런==that kind (far)/loại kia/kiểu như thế kia/
+저렇다==like that (far)/như thế kia/kiểu kia/
+저번==last time/lần trước/dịp trước/
+저분==that person (far)/vị kia/người kia (kính ngữ)/
+저쪽==that side (far)/phía kia/hướng kia/
+누구==who/ai/đại từ hỏi người/
+무슨==what/gì (trước danh từ)/từ hỏi về loại/
+무엇==what/cái gì/đại từ hỏi vật/
+뭐==what/gì/rút gọn của 무엇/
+어느==which/nào/từ hỏi lựa chọn/
+어디==where/ở đâu/từ hỏi nơi chốn/
+어떠하다==how about/thế nào/hỏi ý kiến/
+어떤==which, what kind/loại nào/từ hỏi đặc điểm/
+어떻다==how/như thế nào/hỏi trạng thái/
+언제==when/khi nào/từ hỏi thời gian/
+얼마==how much/bao nhiêu/từ hỏi giá hoặc lượng/
+얼마나==how much/bao nhiêu/từ hỏi mức độ/
+왜==why/tại sao/từ hỏi lý do/
+몇==how many/mấy/từ hỏi số lượng/
+여기==here/ở đây/nơi người nói đứng/
+여기저기==here and there/chỗ này chỗ kia/nhiều nơi/
+그래==yes, ok/ừ, ok/đồng ý (thân mật)/
+그럼==then, of course/vậy thì/được chứ/
+네==yes/vâng/đồng ý (lịch sự)/
+아니==no/không/phủ định (thân mật)/
+아니다==not/không phải/phủ định/
+아니요==no/không ạ/phủ định (lịch sự)/
+응==yes/ừ/đồng ý (thân mật)/
+예==yes/vâng/đồng ý (lịch sự)/
+안==not/không/phủ định trước động từ/
+못==cannot/không thể/bất khả năng/
+거==thing/cái/vật (nói tắt của 것)/
+것==thing/cái, điều/sự vật, sự việc/
+이다==to be/là/trợ động từ xác định/
+-되다==become (passive)/được, bị/bị động hóa/
+-하다==do, be/làm, là/động từ hóa/
+나머지==remainder/phần còn lại/phần dư/
+전==before/trước/thời gian trước/Tiền (前)
+전부==all/tất cả/toàn bộ/Toàn bộ (全部)
+전체==entire/toàn thể/toàn bộ/Toàn thể (全體)
+전혀==not at all/hoàn toàn không/chẳng chút nào/
+중==in the middle of/đang/ở giữa/Trung (中)
+중간==middle/giữa/vị trí ở giữa/Trung gian (中間)
+중심==center/trung tâm/điểm giữa/Trung tâm (中心)
+중앙==central/trung ương/vị trí giữa/Trung ương (中央)
+부분==part/phần/một phần/Bộ phận (部分)
+일부==part/một phần/một bộ phận/Nhất bộ (一部)
+대부분==most/phần lớn/hầu hết/Đại bộ phận (大部分)
+이상==above/trên/cao hơn mức/Dĩ thượng (以上)
+이상==strange/lạ/bất thường/Dị thường (異常)
+최고==best/tốt nhất/cao nhất/Tối cao (最高)
+최근==recent/gần đây/mới đây/Tối cận (最近)
+초==beginning/đầu/phần bắt đầu/Sơ (初)
+끝==end/kết thúc/phần cuối/
+끝나다==end/kết thúc/chấm dứt/
+끝내다==finish/hoàn thành/làm xong/
+시작==start/bắt đầu/khởi đầu/Thỉ tác (始作)
+계속==continue/tiếp tục/tiếp diễn/Kế tục (繼續)
+만약==if/nếu/giả sử/Vạn nhược (萬若)
+만일==just in case/nếu như/trong trường hợp/Vạn nhất (萬一)
+잘못==wrong/sai lầm/lỗi/
+그만==stop/thôi, đủ rồi/dừng lại/
+그만두다==quit/bỏ/từ bỏ/
+동시==simultaneous/đồng thời/cùng lúc/Đồng thời (同時)
+그치다==stop/ngừng/dừng lại (mưa, gió)/
+맞다==correct/đúng/chính xác/
+쪽==direction/phía, hướng/bên/
+새롭다==new/mới mẻ/tươi mới/
+옛==old/cũ, xưa/thuộc về quá khứ/
+옛날==long ago/ngày xưa/thời xa xưa/
+사이==between/giữa/khoảng cách giữa/
+새==new/mới/chưa từng có/
+글쎄==well/ừm/tỏ ý do dự/
+글쎄요==well/ừm ạ/tỏ ý do dự (lịch sự)/
+아==ah/a/thán từ ngạc nhiên/
+야==hey/ê, này/thán từ gọi thân mật/
+어==oh/ơ/thán từ ngạc nhiên/
+와==wow/oa/thán từ cảm thán/
+음==hmm/ừm/thán từ suy nghĩ/
+올림==sincerely/kính gửi/cách kết thúc thư/
+첫==first/đầu tiên/lần đầu tiên/

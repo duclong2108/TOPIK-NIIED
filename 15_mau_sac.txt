@@ -1,0 +1,26 @@
+﻿갈색==brown/nâu/màu nâu đất/Hạt sắc (褐色)
+검은색==black/đen/màu đen/Hắc sắc (黑色)
+검정==black/đen/màu đen/
+까만색==black/đen/màu đen (thuần Hàn)/
+까맣다==black/đen/có màu đen đậm/
+노란색==yellow/vàng/màu vàng/
+노랗다==yellow/vàng/có màu vàng/
+녹색==green/xanh lá/màu xanh lá cây/Lục sắc (綠色)
+보라색==purple/tím/màu tím/
+분홍색==pink/hồng/màu hồng/Phấn hồng sắc (粉紅色)
+빨간색==red/đỏ/màu đỏ/
+빨갛다==red/đỏ/có màu đỏ/
+색==color/màu/màu sắc nói chung/Sắc (色)
+색깔==color/màu sắc/tông màu/
+초록색==green/xanh lá/màu xanh lá cây/Thảo lục sắc (草綠色)
+파란색==blue/xanh dương/màu xanh nước biển/
+파랗다==blue/xanh/có màu xanh/
+하늘색==sky blue/xanh da trời/màu xanh nhạt/
+하얀색==white/trắng/màu trắng/
+하얗다==white/trắng/có màu trắng/
+흰색==white/trắng/màu trắng/
+회색==gray/xám/màu xám/Hội sắc (灰色)
+붉다==red/đỏ/có màu đỏ (văn chương)/
+주황색==orange/cam/màu cam/Chu hoàng sắc (朱黃色)
+푸르다==green, blue/xanh/có màu xanh (cây cối, trời)/
+진하다==dark, thick/đậm/màu đậm, đặc/

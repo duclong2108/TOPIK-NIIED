@@ -1,0 +1,39 @@
+﻿광주==Gwangju/Gwangju/thành phố ở miền nam Hàn Quốc/Quang Châu (光州)
+남대문==Namdaemun/Namdaemun/cổng phía nam Seoul/Nam đại môn (南大門)
+남산==Namsan/Namsan/núi ở trung tâm Seoul/Nam San (南山)
+대구==Daegu/Daegu/thành phố lớn miền đông nam/Đại Khâu (大邱)
+대전==Daejeon/Daejeon/thành phố ở trung tâm Hàn Quốc/Đại Điền (大田)
+독일==Germany/Đức/nước ở châu Âu/Đức (獨逸)
+동대문==Dongdaemun/Dongdaemun/cổng phía đông Seoul/Đông đại môn (東大門)
+러시아==Russia/Nga/quốc gia lớn nhất thế giới/
+말레이시아==Malaysia/Malaysia/quốc gia Đông Nam Á/
+몽골==Mongolia/Mông Cổ/quốc gia ở Trung Á/
+미국==USA/Mỹ/Hợp chủng quốc Hoa Kỳ/Mỹ quốc (美國)
+베트남==Vietnam/Việt Nam/quốc gia Đông Nam Á/
+부산==Busan/Busan/thành phố cảng lớn nhất Hàn Quốc/Phủ San (釜山)
+서울==Seoul/Seoul/thủ đô Hàn Quốc/
+영국==UK/Anh/Vương quốc Anh/Anh quốc (英國)
+울산==Ulsan/Ulsan/thành phố công nghiệp Hàn Quốc/Uất San (蔚山)
+인도네시아==Indonesia/Indonesia/quốc gia Đông Nam Á/
+인천==Incheon/Incheon/thành phố có sân bay quốc tế/Nhân Xuyên (仁川)
+일본==Japan/Nhật Bản/quốc gia đông Á/Nhật Bản (日本)
+제주도==Jeju Island/đảo Jeju/hòn đảo lớn nhất Hàn Quốc/Tế Châu đảo (濟州島)
+중국==China/Trung Quốc/quốc gia đông dân nhất/Trung Quốc (中國)
+캐나다==Canada/Canada/quốc gia Bắc Mỹ/
+태국==Thailand/Thái Lan/quốc gia Đông Nam Á/Thái quốc (泰國)
+프랑스==France/Pháp/quốc gia châu Âu/Pháp (佛蘭西)
+한강==Han River/sông Hàn/sông lớn chảy qua Seoul/Hàn Giang (漢江)
+한국==Korea/Hàn Quốc/đất nước Hàn Quốc/Hàn Quốc (韓國)
+나라==country/nước, quốc gia/đất nước/
+국내==domestic/trong nước/nội địa/Quốc nội (國內)
+국적==nationality/quốc tịch/công dân nước nào/Quốc tịch (國籍)
+국제==international/quốc tế/liên quan nhiều nước/Quốc tế (國際)
+외국==foreign country/nước ngoài/quốc gia khác/Ngoại quốc (外國)
+외국인==foreigner/người nước ngoài/công dân nước khác/Ngoại quốc nhân (外國人)
+우리나라==our country/nước ta/Hàn Quốc (cách nói thân mật)/
+해외==overseas/hải ngoại/nước ngoài/Hải ngoại (海外)
+세계==world/thế giới/toàn cầu/Thế giới (世界)
+세상==world/thế gian/cuộc đời/Thế gian (世上)
+시==city/thành phố/đơn vị hành chính/Thị (市)
+시민==citizen/công dân/cư dân thành phố/Thị dân (市民)
+서양==western/phương Tây/vùng châu Âu Mỹ/Tây dương (西洋)

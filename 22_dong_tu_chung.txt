@@ -1,0 +1,222 @@
+﻿가다==go/đi/di chuyển đến nơi khác/
+가르치다==teach/dạy/truyền đạt kiến thức/
+가리키다==point/chỉ/dùng tay chỉ hướng/
+가져가다==take away/mang đi/đem theo đi/
+가져오다==bring/mang đến/đem theo đến/
+가지다==have/có, sở hữu/nắm giữ/
+갖다==have/có/sở hữu (nói tắt)/
+감다==close (eyes)/nhắm/nhắm mắt lại/
+감다==wash (hair)/gội/rửa tóc/
+걸다==hang/treo/đặt lên cao/
+경험==experience/trải nghiệm/kinh nghiệm thực tế/Kinh nghiệm (經驗)
+곧==soon/sắp/không lâu nữa/
+굳다==harden/cứng lại/trở nên cứng/
+굵다==thick/dày, to/có đường kính lớn/
+기다리다==wait/chờ/đợi ai hoặc cái gì/
+깨다==wake up/tỉnh dậy/thức giấc/
+나가다==go out/ra ngoài/đi ra khỏi/
+나누다==divide/chia/phân chia thành nhiều phần/
+나다==happen/xảy ra/phát sinh/
+나오다==come out/ra/đi ra ngoài/
+나타나다==appear/xuất hiện/hiện ra/
+남기다==leave behind/để lại/bỏ sót/
+남다==remain/còn lại/sót lại/
+넘다==exceed/vượt/vượt qua giới hạn/
+넘어지다==fall down/ngã/bị ngã xuống/
+누르다==press/nhấn/ấn xuống/
+눕다==lie down/nằm/nằm xuống/
+늘다==increase/tăng/trở nên nhiều hơn/
+늙다==get old/già đi/trở nên già/
+달리다==run/chạy/di chuyển nhanh/
+닫다==close/đóng/đóng cửa lại/
+닮다==resemble/giống/trông giống nhau/
+던지다==throw/ném/ném đi/
+데려가다==take (person)/dẫn đi/đưa ai đó đi/
+데려오다==bring (person)/dẫn đến/đưa ai đó đến/
+돌다==spin/quay/xoay tròn/
+돌려주다==return/trả lại/đưa lại cho chủ/
+돌리다==turn/xoay/quay vòng/
+돌아가다==return/quay về/trở lại/
+돌아오다==come back/trở về/quay về/
+돕다==help/giúp/hỗ trợ ai đó/
+도와주다==help/giúp đỡ/hỗ trợ/
+되다==become/trở thành/biến thành/
+드리다==give (honorific)/dâng, biếu/tặng (kính ngữ)/
+듣다==listen/nghe/lắng nghe/
+들다==cost/tốn/mất (tiền, công)/
+들다==lift/nâng/nhấc lên/
+들르다==drop by/ghé qua/tạt vào/
+들리다==be heard/nghe thấy/âm thanh nghe được/
+들어가다==enter/đi vào/bước vào/
+들어오다==come in/đi vào/vào bên trong/
+떠나다==leave/rời đi/ra đi/
+떠들다==talk loudly/nói ồn/nói to/
+떨어지다==fall/rơi/rớt xuống/
+뜨다==open (eyes)/mở/mở mắt ra/
+만나다==meet/gặp/gặp gỡ ai đó/
+만들다==make/làm/tạo ra/
+만지다==touch/chạm/sờ vào/
+말다==stop/thôi/đừng, ngừng/
+맞다==be correct/đúng/chính xác/
+맞추다==adjust/điều chỉnh/làm cho khớp/
+매다==tie/buộc/thắt nút/
+먹다==eat/ăn/đưa thức ăn vào miệng/
+멈추다==stop/dừng/ngừng lại/
+모시다==serve/hầu, phục vụ/chăm sóc (kính ngữ)/
+모으다==gather/thu thập/gom lại/
+모이다==assemble/tụ họp/tập hợp lại/
+모자라다==insufficient/thiếu/không đủ/
+못하다==cannot/không thể/không có khả năng/
+받다==receive/nhận/tiếp nhận/
+보다==see/xem, nhìn/nhìn thấy/
+보이다==be seen/được nhìn thấy/hiện ra trước mắt/
+보이다==show/cho xem/trình bày/
+부르다==call/gọi/kêu ai đến/
+부르다==full/no/bụng đầy/
+불다==blow/thổi/luồng khí đi ra/
+붙다==stick/dính/bám vào/
+붙이다==paste/dán/gắn vào/
+뵙다==meet (honorific)/gặp (kính ngữ)/diện kiến/
+사귀다==make friends/kết bạn/làm bạn với ai/
+서다==stand/đứng/đứng lên/
+서두르다==hurry/vội vàng/gấp rút/
+세우다==set up/dựng lên/làm cho đứng/
+시키다==make do/sai bảo/yêu cầu ai làm/
+신다==put on (shoes)/đi (giày)/mang giày dép/
+싸우다==fight/đánh nhau/xung đột/
+쌓다==stack/chất đống/xếp chồng lên/
+쓰다==write/viết/ghi chép/
+쓰다==use/dùng/sử dụng/
+쓰다==wear (hat)/đội/đội mũ/
+알다==know/biết/hiểu biết/
+알리다==inform/thông báo/cho biết/
+알맞다==fit/phù hợp/vừa vặn/
+알아보다==investigate/tìm hiểu/nghiên cứu thông tin/
+안다==hug/ôm/ôm trong tay/
+앉다==sit/ngồi/hạ người xuống ghế/
+얻다==get/được/nhận được/
+얼다==freeze/đóng băng/trở thành nước đá/
+없다==not have/không có/thiếu vắng/
+올라가다==go up/lên/đi lên trên/
+올라오다==come up/lên đến/đi lên tới/
+올리다==raise/nâng lên/tăng lên/
+오다==come/đến/di chuyển đến đây/
+오르다==rise/tăng/đi lên/
+원하다==want/muốn/mong muốn/
+움직이다==move/di chuyển/hoạt động/
+이기다==win/thắng/chiến thắng/
+일어나다==wake up/thức dậy/tỉnh giấc/
+일어서다==stand up/đứng dậy/đứng lên từ ghế/
+있다==be, have/có, ở/tồn tại/
+잃다==lose/mất/bị mất/
+잃어버리다==lose (accidentally)/đánh mất/mất mát do bất cẩn/
+잊다==forget/quên/không nhớ/
+잊어버리다==forget/quên mất/quên hoàn toàn/
+잘되다==go well/tốt đẹp/thuận lợi/
+잘못되다==go wrong/sai lầm/không đúng/
+잘못하다==do wrong/làm sai/phạm lỗi/
+잘하다==do well/giỏi/làm tốt/
+잡다==catch/bắt/nắm lấy/
+잡수시다==eat (honorific)/xơi/ăn (kính ngữ)/
+적다==write down/ghi/ghi chép/
+전하다==deliver/truyền đạt/chuyển lời/
+접다==fold/gấp/xếp gấp/
+정하다==decide/quyết định/ấn định/
+젖다==get wet/ướt/bị thấm nước/
+주다==give/cho/trao cho/
+주무시다==sleep (honorific)/ngủ (kính ngữ)/nghỉ ngơi (kính ngữ)/
+줄다==decrease/giảm/trở nên ít hơn/
+줄이다==reduce/giảm bớt/làm cho ít đi/
+줍다==pick up/nhặt/lượm lên/
+죽다==die/chết/qua đời/
+지각==lateness/đi muộn/đến trễ/Chi giác (遲刻)
+지나가다==pass by/đi qua/lướt qua/
+지나다==pass/qua/trôi qua/
+지내다==spend time/sống/sinh sống trải qua/
+지다==lose/thua/thất bại/
+지키다==protect/bảo vệ/giữ gìn/
+지우다==erase/xóa/tẩy xóa bỏ/
+지르다==yell/la/hét to/
+찾다==find/tìm/tìm kiếm/
+찾아가다==go to/tìm đến/đến gặp/
+찾아보다==look up/tìm kiếm/tra cứu/
+찾아오다==come to/tìm đến/đến thăm/
+차다==kick/đá/đá bóng/
+차다==wear (watch)/đeo/đeo đồng hồ/
+참다==endure/chịu đựng/nhịn/
+타다==burn/cháy/bốc lửa/
+타다==make (coffee)/pha/pha chế/
+태어나다==be born/được sinh ra/chào đời/
+펴다==unfold/mở ra/trải ra/
+표현==expression/biểu hiện/thể hiện/Biểu hiện (表現)
+행동==action/hành động/cách cư xử/Hành động (行動)
+헤어지다==break up/chia tay/rời xa nhau/
+흐르다==flow/chảy/nước chảy/
+흔들다==shake/lắc/rung lắc/
+흘리다==shed/rơi/chảy ra (nước mắt)/
+걸리다==hang, take time/mắc, tốn/bị treo hoặc mất thời gian/
+날다==fly/bay/di chuyển trong không khí/
+날아다니다==fly around/bay lượn/bay qua bay lại/
+내다==give, produce/đưa ra/tạo ra, nộp/
+내려가다==go down/đi xuống/hạ xuống/
+내려오다==come down/đi xuống/từ trên xuống/
+다녀오다==be back (from)/đi về/đi rồi trở về/
+다니다==go (regularly)/đi lại/thường xuyên đến/
+다하다==complete/hết/làm hết sức/
+달다==hang/treo/gắn lên/
+미끄러지다==slip/trượt/trơn trượt/
+믿다==believe/tin/tin tưởng/
+바꾸다==change/đổi/thay đổi/
+바뀌다==be changed/bị đổi/thay đổi/
+바라다==hope/mong/hy vọng/
+바라보다==look at/nhìn/ngắm nhìn/
+바르다==apply/bôi/thoa lên da/
+변하다==change/biến đổi/thay đổi/Biến hóa (變化)
+빠지다==fall into/rơi vào/trượt vào/
+빼다==remove/bớt/lấy ra, trừ đi/
+뽑다==pull out/nhổ/rút ra/
+생각나다==think of/nhớ ra/nghĩ đến/
+생기다==arise/hình thành/xuất hiện, được tạo ra/
+셰우다==stop/dừng/làm cho dừng lại/
+싣다==load/chất hàng/xếp hàng lên xe/
+쳐다보다==stare/nhìn chằm chằm/ngước nhìn/
+켜다==turn on/bật/mở thiết bị điện/
+틀다==turn on/bật/mở (TV, radio)/
+틀리다==be wrong/sai/không đúng/
+피다==bloom/nở/hoa nở/
+피우다==bloom, smoke/nở (hoa), hút (thuốc)/hoa nở hoặc hút thuốc/
+인정받다==be recognized/được công nhận/được thừa nhận/Nhận chứng (認定)
+계시다==be (honorific)/ở (kính ngữ)/có mặt (kính ngữ)/
+담배==cigarette/thuốc lá/sản phẩm hút/
+여쭙다==ask (honorific)/hỏi (kính ngữ)/thưa hỏi/
+싶다==want/muốn/mong muốn/
+꾸다==dream/mơ/nằm mơ/
+놓다==put, release/đặt, buông/đặt xuống hoặc thả/
+닫다==close/đóng/đóng lại/
+밀다==push/đẩy/dùng lực đẩy đi/
+열다==open/mở/mở ra/
+열리다==be opened/được mở/cửa tự mở/
+차다==be full/đầy/chứa đầy/
+걸다==make (a call)/gọi/gọi điện thoại/
+가다==go/đi/di chuyển đến nơi khác/
+그리다==draw/vẽ/dùng bút tạo hình/
+막히다==be blocked/bị tắc/bị cản trở/
+메다==carry/mang/mang đồ trên vai/
+모르다==not know/không biết/thiếu kiến thức/
+버리다==throw away/vứt bỏ/loại bỏ đồ/
+부치다==send/gửi/gửi thư hoặc bưu kiện/
+어서==quickly/nhanh đi/mau lên/
+어울리다==suit, socialize/hợp, giao lưu/phù hợp hoặc hòa đồng/
+치다==hit/đánh/va chạm/
+하다==do/làm/thực hiện hành động/
+졸다==doze/ngủ gật/ngủ lơ mơ/
+찌다==gain weight/tăng cân/lên cân/
+찌다==steam/hấp/nấu bằng hơi nước/
+찍다==stamp/đóng dấu/ấn xuống/
+자라다==grow/lớn lên/phát triển/
+자르다==cut/cắt/dùng dao kéo cắt/
+식다==cool off/nguội/nhiệt độ giảm/
+안되다==cannot/không được/không thể/
+아래==below/phía dưới/bên dưới/
+아래쪽==downward/phía dưới/hướng xuống dưới/
+오래되다==be old/đã lâu/cũ, lâu năm/

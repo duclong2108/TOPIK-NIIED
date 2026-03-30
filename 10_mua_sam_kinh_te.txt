@@ -1,0 +1,42 @@
+﻿가격==price/giá cả/giá tiền sản phẩm/Giá cách (價格)
+가게==store/cửa hàng/nơi bán hàng hóa/
+값==price, value/giá trị/giá tiền/
+공짜==free/miễn phí/không tốn tiền/
+교환==exchange/đổi/trao đổi hàng hóa/Giao hoán (交換)
+돈==money/tiền/phương tiện thanh toán/
+마트==mart/siêu thị nhỏ/cửa hàng tạp hóa lớn/
+무료==free/miễn phí/không mất tiền/Vô liệu (無料)
+물건==thing, item/đồ vật/vật phẩm mua bán/
+백화점==department store/cửa hàng bách hóa/trung tâm mua sắm lớn/Bách hóa điếm (百貨店)
+벌다==earn/kiếm tiền/thu nhập/
+사다==buy/mua/trao tiền lấy hàng/
+상품==product/sản phẩm/hàng hóa bán/Thương phẩm (商品)
+사업==business/kinh doanh/hoạt động thương mại/Sự nghiệp (事業)
+선물==gift/quà tặng/vật tặng cho người khác/
+슈퍼마켓==supermarket/siêu thị/cửa hàng lớn bán đủ loại/
+시장==market/chợ/nơi mua bán hàng hóa/Thị trường (市場)
+쇼핑==shopping/mua sắm/việc đi mua hàng/
+영수증==receipt/hóa đơn/giấy xác nhận thanh toán/Lĩnh thu chứng (領收證)
+요금==fee/phí/tiền phải trả cho dịch vụ/Liệu kim (料金)
+원==won/won/đơn vị tiền tệ Hàn Quốc/Viên (圓)
+은행==bank/ngân hàng/tổ chức tài chính/Ngân hàng (銀行)
+저금==saving/tiết kiệm/để dành tiền/Trữ kim (貯金)
+카드==card/thẻ/thẻ thanh toán/
+통장==bankbook/sổ tiết kiệm/sổ ngân hàng/Thông trượng (通帳)
+팔다==sell/bán/trao hàng lấy tiền/
+팔리다==be sold/được bán/hàng bán được/
+편의점==convenience store/cửa hàng tiện lợi/cửa hàng mở cả ngày/
+할인==discount/giảm giá/bớt giá/Hạt nhân (割引)
+현금==cash/tiền mặt/tiền giấy và xu/Hiện kim (現金)
+환전==currency exchange/đổi tiền/chuyển đổi ngoại tệ/Hoán chuyển (換錢)
+월급==salary/lương tháng/tiền lương hàng tháng/Nguyệt cấp (月給)
+비싸다==expensive/đắt/giá cao/
+싸다==cheap/rẻ/giá thấp/
+택배==delivery/chuyển phát/dịch vụ giao hàng/Trạch bồi (宅配)
+소포==parcel/bưu kiện/gói hàng gửi qua bưu điện/Tiểu bao (小包)
+우체국==post office/bưu điện/nơi gửi thư và bưu phẩm/Ưu thể cục (郵遞局)
+우표==stamp/tem/tem dán trên thư/Ưu biểu (郵票)
+사용==usage/sử dụng/việc dùng/Sử dụng (使用)
+이용==use/sử dụng/tận dụng dịch vụ/Lợi dụng (利用)
+지갑==wallet/ví/đồ đựng tiền/
+인터넷==internet/internet/mạng toàn cầu/

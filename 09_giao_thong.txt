@@ -1,0 +1,59 @@
+﻿갈아타다==transfer/chuyển tuyến/đổi phương tiện/
+거리==street/đường phố/con đường trong thành phố/距離 (距離)
+걷다==walk/đi bộ/di chuyển bằng chân/
+걸어가다==walk (to)/đi bộ đến/đi bộ tới nơi/
+걸어오다==walk (from)/đi bộ về/đi bộ từ đâu đến/
+건너가다==cross over/băng qua/đi qua bên kia/
+건너다==cross/qua/đi ngang qua/
+건너편==other side/bên kia/phía đối diện/
+고속버스==express bus/xe buýt tốc hành/xe buýt đường dài/Cao tốc (高速)
+공항==airport/sân bay/nơi máy bay cất hạ cánh/Không cảng (空港)
+교통==transportation/giao thông/phương tiện đi lại/Giao thông (交通)
+교통비==transportation fee/phí giao thông/tiền đi lại/Giao thông phí (交通費)
+교통사고==traffic accident/tai nạn giao thông/tai nạn trên đường/
+기차==train/tàu hỏa/phương tiện chạy trên ray/Khí xa (汽車)
+기차역==train station/nhà ga/nơi dừng của tàu/
+기차표==train ticket/vé tàu/vé đi tàu hỏa/
+길==road/đường/lối đi/
+도로==road/đường bộ/đường giao thông/Đạo lộ (道路)
+버스==bus/xe buýt/phương tiện công cộng/
+비행기==airplane/máy bay/phương tiện bay/Phi hành cơ (飛行機)
+사거리==intersection/ngã tư/giao lộ bốn hướng/
+신호==signal/tín hiệu/đèn báo hiệu/Tín hiệu (信號)
+신호등==traffic light/đèn giao thông/đèn tín hiệu đường/
+운전==driving/lái xe/việc điều khiển xe/Vận chuyển (運轉)
+운전사==driver/tài xế/người lái xe/Vận chuyển sĩ (運轉士)
+자동차==car/ô tô/xe hơi/Tự động xa (自動車)
+자전거==bicycle/xe đạp/xe hai bánh đạp/Tự chuyển xa (自轉車)
+전철==subway train/tàu điện/tàu điện ngầm/Điện thiết (電鐵)
+정거장==station/trạm dừng/nơi xe dừng đón khách/Đình cứ tràng (停車場)
+정류장==bus stop/trạm xe buýt/nơi xe buýt dừng/Đình lưu tràng (停留場)
+주차==parking/đậu xe/để xe tại chỗ/Trú xa (駐車)
+주차장==parking lot/bãi đậu xe/nơi để xe/
+지하도==underpass/đường hầm/lối đi ngầm dưới đất/Địa hạ đạo (地下道)
+지하철==subway/tàu điện ngầm/phương tiện ngầm dưới đất/Địa hạ thiết (地下鐵)
+지하철역==subway station/ga tàu điện ngầm/nơi dừng tàu điện ngầm/
+차==car/xe/phương tiện giao thông/Xa (車)
+택시==taxi/xe taxi/xe cho thuê có tài xế/
+터미널==terminal/bến xe/nơi xe xuất phát/
+트럭==truck/xe tải/xe chở hàng lớn/
+표==ticket/vé/giấy phép đi lại/Biểu (票)
+매표소==ticket booth/quầy vé/nơi bán vé/Mại biểu sở (賣票所)
+횡단보도==crosswalk/vạch qua đường/đường cho người đi bộ/Hoành đoàn bộ đạo (橫斷步道)
+육교==overpass/cầu vượt/cầu đi bộ qua đường/Lục kiều (陸橋)
+출구==exit/lối ra/cửa ra ngoài/Xuất khẩu (出口)
+입구==entrance/lối vào/cửa đi vào/Nhập khẩu (入口)
+대==unit for machines/chiếc (đơn vị đếm xe)/lượng từ đếm máy móc/Đài (臺)
+타다==ride/đi, lên (xe)/sử dụng phương tiện/
+내리다==get off/xuống (xe)/rời phương tiện/
+출발==departure/xuất phát/bắt đầu đi/Xuất phát (出發)
+도착==arrival/đến nơi/tới đích/Đáo trước (到着)
+방향==direction/hướng/phía đi/Phương hướng (方向)
+역==station/ga/nhà ga tàu/Dịch (驛)
+역시==also/cũng/như dự đoán/Diệc thị (亦是)
+오른손==right hand/tay phải/bàn tay phải/
+오른쪽==right side/bên phải/phía tay phải/
+왼손==left hand/tay trái/bàn tay trái/
+왼쪽==left side/bên trái/phía tay trái/
+입장권==admission ticket/vé vào cửa/vé xem biểu diễn/Nhập trường quyến (入場券)
+열차==train/tàu hỏa/đoàn tàu/Liệt xa (列車)

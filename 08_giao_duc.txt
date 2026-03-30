@@ -1,0 +1,63 @@
+﻿교과서==textbook/sách giáo khoa/sách dùng trong trường/Giáo khoa thư (教科書)
+교실==classroom/phòng học/nơi học sinh học tập/Giáo thất (教室)
+교육==education/giáo dục/việc dạy và học/Giáo dục (教育)
+공부==study/học tập/việc học/Công phu (工夫)
+공책==notebook/vở/sách ghi chép/Công sách (工冊)
+국어==Korean language/tiếng Hàn (quốc ngữ)/ngôn ngữ chính thức/Quốc ngữ (國語)
+기말시험==final exam/thi cuối kỳ/bài thi cuối học kỳ/
+대학==university/đại học/trường đại học/Đại học (大學)
+대학교==university/trường đại học/cơ sở giáo dục bậc cao/Đại học hiệu (大學校)
+대학원==graduate school/cao học/trường sau đại học/Đại học viện (大學院)
+독서==reading/đọc sách/việc đọc sách/Đọc thư (讀書)
+문제==problem/vấn đề, bài tập/câu hỏi cần giải/Vấn đề (問題)
+복습==review/ôn tập/xem lại bài đã học/Phục tập (復習)
+선생님==teacher/thầy cô giáo/người giảng dạy (kính ngữ)/Tiên sinh (先生)
+성적==grade/điểm số/kết quả học tập/Thành tích (成績)
+수업==lesson/tiết học/buổi giảng dạy/Thụ nghiệp (授業)
+시험==exam/kỳ thi/bài kiểm tra/Thi nghiệm (試驗)
+숙제==homework/bài tập về nhà/bài tập giáo viên giao/Túc đề (宿題)
+외우다==memorize/học thuộc lòng/ghi nhớ vào đầu/
+연필==pencil/bút chì/dụng cụ viết bằng chì/Duyên bút (鉛筆)
+연습==practice/luyện tập/tập luyện để giỏi hơn/Diễn tập (演習)
+예습==preparation/bài chuẩn bị/học trước bài mới/Dự tập (豫習)
+입학==admission/nhập học/vào trường học/Nhập học (入學)
+입학시험==entrance exam/thi tuyển sinh/bài thi để vào trường/
+전공==major/chuyên ngành/lĩnh vực học chính/Chuyên công (專攻)
+점수==score/điểm/số điểm đạt được/Điểm số (點數)
+졸업==graduation/tốt nghiệp/hoàn thành chương trình học/Tốt nghiệp (卒業)
+질문==question/câu hỏi/điều muốn hỏi/Chất vấn (質問)
+출석==attendance/điểm danh/có mặt ở lớp/Xuất tịch (出席)
+결석==absent/vắng mặt/không đến lớp/Khuyết tịch (缺席)
+학기==semester/học kỳ/nửa năm học/Học kỳ (學期)
+학년==grade/khối lớp/năm học/Học niên (學年)
+학교==school/trường học/nơi đi học/Học hiệu (學校)
+학생==student/học sinh/người đi học/Học sinh (學生)
+학생증==student ID/thẻ học sinh/giấy tờ xác nhận học sinh/
+학원==academy/học viện/trung tâm học thêm/Học viện (學院)
+고등학교==high school/trung học phổ thông/trường cấp 3/Cao đẳng học hiệu (高等學校)
+고등학생==high school student/học sinh cấp 3/người học trung học phổ thông/
+중학교==middle school/trung học cơ sở/trường cấp 2/Trung học hiệu (中學校)
+중학생==middle schooler/học sinh cấp 2/người học trung học cơ sở/
+초등학교==elementary school/tiểu học/trường cấp 1/Sơ đẳng học hiệu (初等學校)
+초등학생==elementary student/học sinh tiểu học/người học tiểu học/
+유치원==kindergarten/mẫu giáo/trường dành cho trẻ nhỏ/Ấu trĩ viên (幼稚園)
+기숙사==dormitory/ký túc xá/nhà ở cho sinh viên/Ký túc xá (寄宿舍)
+지우개==eraser/cục tẩy/dụng cụ xóa chì/
+볼펜==ballpoint pen/bút bi/dụng cụ viết mực/
+단어==word/từ vựng/đơn vị ngôn ngữ/Đan ngữ (單語)
+글==writing/bài viết/văn bản viết/
+글씨==handwriting/chữ viết/nét chữ tay/
+글자==letter, character/chữ cái/ký tự/
+언어==language/ngôn ngữ/hệ thống giao tiếp/Ngôn ngữ (言語)
+외국어==foreign language/ngoại ngữ/ngôn ngữ nước ngoài/Ngoại quốc ngữ (外國語)
+영어==English/tiếng Anh/ngôn ngữ Anh/Anh ngữ (英語)
+한글==Hangul/chữ Hàn/hệ thống chữ viết Hàn Quốc/
+검사==inspection/kiểm tra/xem xét kỹ/Kiểm tra (檢査)
+시간표==schedule/thời khóa biểu/lịch học/Thời gian biểu (時間表)
+필통==pencil case/hộp bút/đồ đựng bút/
+칠판==blackboard/bảng đen/bảng viết trong lớp/
+노트==notebook/sổ tay/vở ghi chép/
+수첩==pocket notebook/sổ nhỏ/sổ bỏ túi/Thủ thiếp (手帖)
+받아쓰다==dictate/chép chính tả/viết theo lời đọc/
+읽다==read/đọc/nhìn chữ và hiểu/
+역사==history/lịch sử/quá trình phát triển/Lịch sử (歷史)

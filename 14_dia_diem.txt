@@ -1,0 +1,66 @@
+﻿가운데==middle/ở giữa/vị trí trung tâm/
+경찰서==police station/đồn cảnh sát/nơi làm việc của cảnh sát/Cảnh sát thự (警察署)
+공원==park/công viên/nơi vui chơi giải trí ngoài trời/Công viên (公園)
+공장==factory/nhà máy/nơi sản xuất hàng hóa/Công xưởng (工場)
+관광지==tourist destination/điểm du lịch/nơi thu hút khách du lịch/Quan quang địa (觀光地)
+교회==church/nhà thờ/nơi thờ phụng Cơ đốc giáo/Giáo hội (教會)
+극장==theater/rạp hát/nơi xem biểu diễn hoặc phim/Kịch trường (劇場)
+근처==nearby/gần đây/khu vực xung quanh/Cận xử (近處)
+꽃다발==bouquet/bó hoa/hoa bó lại tặng/
+노래방==karaoke/phòng karaoke/nơi hát karaoke/
+도서관==library/thư viện/nơi mượn và đọc sách/Đồ thư quán (圖書館)
+도시==city/thành phố/khu vực đô thị/Đô thị (都市)
+동물원==zoo/vườn thú/nơi nuôi giữ động vật/Động vật viên (動物園)
+동네==neighborhood/khu phố/vùng lân cận/
+레스토랑==restaurant/nhà hàng/quán ăn sang trọng/
+마을==village/làng/khu dân cư nhỏ/
+미술관==art gallery/phòng triển lãm nghệ thuật/nơi trưng bày tác phẩm nghệ thuật/Mỹ thuật quán (美術館)
+미용실==beauty salon/tiệm làm tóc/nơi cắt tóc làm đẹp/
+박물관==museum/bảo tàng/nơi trưng bày cổ vật/Bác vật quán (博物館)
+방송국==broadcast station/đài phát thanh/nơi sản xuất chương trình/Phát tống cục (放送局)
+백화점==department store/cửa hàng bách hóa/trung tâm thương mại/Bách hóa điếm (百貨店)
+서점==bookstore/hiệu sách/nơi bán sách/Thư điếm (書店)
+센터==center/trung tâm/cơ sở phục vụ/
+시내==downtown/trung tâm thành phố/khu vực trung tâm/Thị nội (市內)
+시골==countryside/nông thôn/vùng quê/
+시청==city hall/tòa thị chính/cơ quan chính quyền thành phố/Thị thính (市廳)
+식당==restaurant/nhà hàng/nơi ăn uống/Thực đường (食堂)
+양식집==Western restaurant/nhà hàng phương Tây/quán ăn kiểu Âu/
+영화관==cinema/rạp chiếu phim/nơi xem phim/Ảnh hoa quán (映畫館)
+음식점==restaurant/quán ăn/nơi phục vụ đồ ăn/
+일식집==Japanese restaurant/nhà hàng Nhật/quán ăn Nhật/
+중국집==Chinese restaurant/nhà hàng Trung Hoa/quán ăn Trung Quốc/
+카페==cafe/quán cà phê/nơi uống cà phê/
+커피숍==coffee shop/quán cà phê/nơi bán cà phê/
+고향==hometown/quê hương/nơi sinh ra và lớn lên/Cố hương (故鄕)
+곳==place/nơi/địa điểm/
+사무실==office/văn phòng/nơi làm việc/Sự vụ thất (事務室)
+수영장==swimming pool/hồ bơi/bể bơi/
+스키장==ski resort/khu trượt tuyết/nơi trượt tuyết/
+술집==bar/quán rượu/nơi uống rượu/
+여행사==travel agency/công ty du lịch/đại lý du lịch/Lữ hành xã (旅行社)
+운동장==playground/sân vận động/nơi tập thể dục/Vận động trường (運動場)
+체육관==gym/nhà thể dục/phòng tập/Thể dục quán (體育館)
+호텔==hotel/khách sạn/nơi lưu trú/
+회사==company/công ty/tổ chức kinh doanh/Hội xã (會社)
+대사관==embassy/đại sứ quán/cơ quan ngoại giao/Đại sứ quán (大使館)
+빵집==bakery/tiệm bánh mì/nơi bán bánh/
+헬스클럽==health club/phòng gym/câu lạc bộ sức khỏe/
+휴게실==rest area/phòng nghỉ/nơi nghỉ ngơi/Hưu kế thất (休憩室)
+지방==region/vùng, miền/khu vực địa lý/Địa phương (地方)
+장소==place/nơi chốn/địa điểm cụ thể/Trường sở (場所)
+테니스장==tennis court/sân tennis/nơi chơi tennis/
+하숙집==boarding house/nhà trọ/nơi ở thuê có ăn/Hạ túc tập (下宿집)
+남쪽==south/phía nam/hướng nam/Nam trắc (南쪽)
+북쪽==north/phía bắc/hướng bắc/Bắc trắc (北쪽)
+동쪽==east/phía đông/hướng đông/Đông trắc (東쪽)
+서쪽==west/phía tây/hướng tây/Tây trắc (西쪽)
+삼거리==three-way intersection/ngã ba/nơi ba đường gặp nhau/
+정문==front gate/cổng chính/cửa chính/Chính môn (正門)
+계단==stairs/cầu thang/bậc thang lên xuống/Giai đoạn (階段)
+옆==next to/bên cạnh/vị trí kế bên/
+옆집==next door/nhà bên cạnh/nhà hàng xóm/
+지하==basement/tầng hầm/dưới mặt đất/Địa hạ (地下)
+층==floor/tầng/mỗi tầng trong tòa nhà/Tằng (層)
+한식집==Korean restaurant/nhà hàng Hàn Quốc/quán ăn Hàn/
+양식집==Western restaurant/nhà hàng Tây/quán ăn phương Tây/

@@ -1,0 +1,44 @@
+﻿가을==autumn/mùa thu/mùa lá rụng/Thu (秋)
+겨울==winter/mùa đông/mùa lạnh nhất/Đông (冬)
+계절==season/mùa/bốn mùa trong năm/Quý tiết (季節)
+구름==cloud/mây/hơi nước trên trời/
+기온==temperature/nhiệt độ không khí/độ nóng lạnh/Khí ôn (氣溫)
+날씨==weather/thời tiết/tình hình khí hậu/
+눈==snow/tuyết/băng rơi từ trời/
+바다==ocean/biển/vùng nước mặn rộng lớn/
+바닷가==beach/bãi biển/bờ biển có cát/
+바람==wind/gió/không khí chuyển động/
+봄==spring/mùa xuân/mùa hoa nở/Xuân (春)
+비==rain/mưa/nước rơi từ trời/
+사계절==four seasons/bốn mùa/xuân hạ thu đông/Tứ quý tiết (四季節)
+산==mountain/núi/địa hình cao tự nhiên/San (山)
+산책==walk/đi dạo/đi bộ thư giãn/Tán sách (散策)
+섬==island/đảo/vùng đất bao quanh bởi nước/Đảo (島)
+석양==sunset/hoàng hôn/mặt trời lặn/
+안개==fog/sương mù/hơi nước che tầm nhìn/
+여름==summer/mùa hè/mùa nóng nhất/Hạ (夏)
+온도==temperature/nhiệt độ/độ nóng lạnh/Ôn độ (溫度)
+장마==rainy season/mùa mưa/thời kỳ mưa kéo dài/
+태풍==typhoon/bão/bão nhiệt đới/Đài phong (颱風)
+풍경==landscape/phong cảnh/cảnh đẹp thiên nhiên/Phong cảnh (風景)
+해==sun/mặt trời/ngôi sao chiếu sáng ban ngày/
+햇빛==sunshine/ánh nắng/ánh sáng mặt trời/
+강==river/sông/dòng nước chảy dài/Giang (江)
+호수==lake/hồ/vùng nước ngọt tự nhiên/Hồ thủy (湖水)
+별==star/ngôi sao/thiên thể phát sáng trên trời/Tinh (星)
+달==moon, month/trăng, tháng/thiên thể chiếu sáng ban đêm/
+하늘==sky/bầu trời/không gian phía trên/
+땅==land/đất/bề mặt trái đất/
+돌==stone/đá/vật cứng tự nhiên/
+깊다==deep/sâu/có độ sâu lớn/
+높다==high/cao/ở vị trí trên cao/
+맑다==clear/trong/không khí sạch, trời quang/
+불다==blow/thổi/gió thổi/
+흐리다==cloudy/u ám/trời nhiều mây/
+영하==sub-zero/dưới 0 độ/nhiệt độ âm/Linh hạ (零下)
+밤==night/đêm/thời gian tối sau hoàng hôn/
+낮==daytime/ban ngày/thời gian sáng/
+새벽==dawn/rạng đông/sáng sớm/
+자연==nature/thiên nhiên/thế giới tự nhiên/Tự nhiên (自然)
+경치==scenery/cảnh đẹp/phong cảnh tự nhiên/Cảnh trí (景致)
+얼음==ice/nước đá/nước đóng băng/

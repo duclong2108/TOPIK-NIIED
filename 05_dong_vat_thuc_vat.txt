@@ -1,0 +1,29 @@
+﻿강아지==puppy/chó con/con chó nhỏ/
+개==dog/chó/động vật nuôi trong nhà/
+고양이==cat/mèo/động vật nuôi trong nhà/
+돼지==pig/heo, lợn/gia súc nuôi lấy thịt/
+동물==animal/động vật/sinh vật sống/Động vật (動物)
+말==horse/ngựa/động vật cưỡi/Mã (馬)
+모기==mosquito/muỗi/côn trùng hút máu/
+물고기==fish/cá/động vật sống dưới nước/
+뱀==snake/rắn/loài bò sát không chân/
+새==bird/chim/động vật có cánh bay/
+소==cow/bò/gia súc nuôi lấy sữa và thịt/
+코끼리==elephant/voi/động vật lớn có vòi/
+토끼==rabbit/thỏ/động vật nhỏ tai dài/
+호랑이==tiger/hổ/thú dữ họ mèo/
+돼지고기==pork/thịt heo/thịt từ heo/
+공==ball/quả bóng/vật tròn dùng chơi thể thao/
+꽃==flower/hoa/phần đẹp của cây/
+꽃병==vase/bình hoa/đồ cắm hoa/
+꽃집==flower shop/tiệm hoa/cửa hàng bán hoa/
+나무==tree/cây/thực vật thân gỗ/
+잎==leaf/lá/phần xanh của cây/
+장미==rose/hoa hồng/loài hoa đẹp có gai/
+풀다==solve, untie/giải, tháo/mở nút thắt/
+단풍==autumn leaves/lá đỏ mùa thu/lá cây đổi màu vào mùa thu/Đan phong (丹楓)
+무궁화==mugunghwa/hoa vô cùng/quốc hoa Hàn Quốc/Vô cùng hoa (無窮花)
+식물==plant/thực vật/cây cối nói chung/Thực vật (植物)
+심다==plant/trồng/gieo trồng cây/
+기르다==raise/nuôi/chăm sóc động vật hoặc trồng cây/
+키우다==raise/nuôi dưỡng/chăm sóc cho lớn lên/
