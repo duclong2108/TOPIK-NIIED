@@ -1,821 +1,821 @@
--문==(writing)//(writing). VD: 기행문 = travelogue, travel essay/
--법==(method)//(method). VD: 교수법 = teaching method/
--사==-(professional)//-(professional). VD: 변호사 = lawyer/
--사==-(professional)//-(professional). VD: 신문사 = newspaper/
--사==-(professional)//-(professional). VD: 요리사 = chef/
--성==(characteristics)//(characteristics). VD: 인간성 = humanity, human nature/
--소==(institution)//(institution). VD: 연구소 = research institute/
--원==(institute)//(institute). VD: 대학원 = graduate school/
--화==becoming//becoming. VD: 간편화 = simplification/
-가능성==possibility//possibility. VD: 가능성이 높다 = high possibility/Gia Năng Thành
-가렵다==itchy//itchy. VD: 몸이 가렵다 = body is itchy/
-가리다==distinguish//distinguish. VD: 시비를 가리다 = distinguish right or wrong/Gia Lý Đa
-가만==just as it is/chỉ/just as it is. VD: 가만 놔두다 = leave alone/Gia Vạn
-가사==lyrics//lyrics. VD: 노래 가사 = song lyrics/Gia Sự
-가입자==subscriber, member//subscriber, member. VD: 가입자를 모집하다 = recruit member/Gia Nhập Tử
-가장==the head/đầu/the head. VD: 집안의 가장 = head of a household/Gia Trường
-가죽==leather//leather. VD: 가죽 잠바 = leather jacket/Gia Trúc
-각종==various/đa dạng/various. VD: 각종 과일 = various fruits/Giác Chung
-간격==space, distance//space, distance. VD: 간격을 넓히다 = widen the space/Gian Cách
-간섭==interference//interference. VD: 간섭을 받다 = receive interference/
-간지럽다==ticklish, itchy//ticklish, itchy. VD: 눈이 간지럽다 = eyes are itchy/
-갈라지다==be cracked//be cracked. VD: 벽이 갈라지다 = the wall is cracked/Cát La Chỉ Đa
-감독==supervision//supervision. VD: 감독을 강화하다 = strengthen supervision/Cảm Độc
-감상==appreciation//appreciation. VD: 음악 감상 = music appreciation/Cảm Thượng
-강사==teacher, instructor/giáo viên/teacher, instructor. VD: 시간 강사 = a part-time teacher/Cường Sự
-강요==coercion//coercion. VD: 부모의 강요 = parental coercion/Cường Yếu
-갖가지==various/đa dạng/various. VD: 갖가지 모양 = various shapes/
-개방==opening//opening. VD: 개방 시간 = opening hours/Khai Phương
-개선==improvement//improvement. VD: 제도 개선 = institutional improvement/Khai Tiên
-개최==hosting//hosting. VD: 공동 개최 = co-hosting/Khai Tối
-걔==that kid, he, she//that kid, he, she. VD: 그 아이 = that kid/
-거들다==assist, help/giúp đỡ/assist, help. VD: 일을 거들다 = help with a work/
-건설==construction//construction. VD: 아파트 건설 = apartment construction/Kiến Thiết
-검토==examine//examine. VD: 서류 검토 = review document/Kiểm Thổ
-게다가==furthermore//furthermore. VD: 게다가 ~까지 = in addition to/
-게시==posting//posting. VD: 안내문 게시 = notice posting/
-겨울철==wintertime//wintertime. VD: 겨우철을 보내다 = spend wintertime/
-결국==finally/cuối cùng/finally. VD: 결국 해내다 = make it in the end/Quyết Quốc
-결승==final round//final round. VD: 결승 경기 = final game/Quyết Thăng
-결혼식장==wedding hall//wedding hall. VD: 야외 결혼식장 = outdoor wedding hall/Quyết Hôn Thực Trường
-겹치다==overlap//overlap. VD: 행운이 겹치다 = overlap with luck/
-경비실==security office//security office. VD: 아파트 경비실 = apartment security office/Kinh Phi Thất
-경쟁력==competitiveness//competitiveness. VD: 경쟁력을 키우다 = raise competitiveness/Kinh Tranh Lực
-경제력==economic power//economic power. VD: 경제력이 있다 = have economic power/Kinh Chế Lực
-경제적==economical//economical. VD: 경제적 능력 = economical capability/Kinh Chế Tích
-곁==side//side. VD: 곁에 있다 = be by one's side/
-고궁==old palace/cũ/old palace. VD: 고궁을 산책하다 = walk in an old palace/Cổ Cung
-고급스럽다==luxurious//luxurious. VD: 자동차가 고급스럽다 = luxurious car/
-고요==silence//silence. VD: 고요를 깨트리다 = break the silence/Cổ Yếu
-고유==inherence, native//inherence, native. VD: 고유 음식 = traditional food/Cổ Du
-고장==hometown//hometown. VD: 우리 고장 = our hometown/Cổ Trường
-곧바로==right away//right away. VD: 곧바로 처리하다 = handle immediately/
-곧장==right away//right away. VD: 곧장 가다 = good straight ahead/
-공공요금==utility bill//utility bill. VD: 공공요금이 인상되다 = utility bills increase/Công Công Yếu Kim
-공기==air//air. VD: 공기를 마시다 = breathe air/Công Kỳ
-공사==construction//construction. VD: 신축 공사 = new construction site/Công Sự
-공손하다==be polite//be polite. VD: 공손한 태도 = a polite manner/Công Tổn Hạ Đa
-공식==official//official. VD: 공식 발표 = an official announcement/Công Thực
-공주==princess//princess. VD: 왕자와 공주 = prince and princess/Công Chủ
-공통점==commonality//commonality. VD: 공통점을 찾다 = find commonality/Công Thông Điểm
-과식==overeating//overeating. VD: 과식으로 배탈이 나다 = get a stomachache from overeating/Quả Thực
-관객==audience//audience. VD: 관객이 모여들다 = audiences gather/Quan Khách
-관계없다==irrelevant, unrelated//irrelevant, unrelated. VD: 전혀 관계없다 = have nothing to do with/
-관계없이==irrelevantly//irrelevantly. VD: 시간에 관계없이 = regardless of time/
-광경==scene, sight//scene, sight. VD: 광경을 보다 = see a sight/Quang Kinh
-괴롭히다==distress, torment//distress, torment. VD: 동생을 괴롭히다 = torment one's brother/
-교체==substitute//substitute. VD: 건전지 교체 = battery replacement/Giáo Thể
-구성==composition//composition. VD: 구성 인원 = number of people/Cửu Thành
-구체적==detailed//detailed. VD: 구체적 성과 = detailed result/Cửu Thể Tích
-국내선==domestic flight//domestic flight. VD: 국내선으로 갈아타다 = transfer to a domestic flight/Quốc Nội Tiên
-국산==domestic//domestic. VD: 국산을 애용하다 = use domestic products/Quốc Sơn
-귀가==homecoming//homecoming. VD: 귀가 시간 = time of returning home/Quý Gia
-귀중하다==valuable, precious//valuable, precious. VD: 귀중한 보석 = a precious jewel/Quý Trung Hạ Đa
-귀하==(formal title) you//(formal title) you. VD: 편지에 쓰기 = writing in letter/Quý Hạ
-그녀==she//she. VD: 사람(3인칭) = (calling the third person)/
-그대==you//you. VD: 그대를 만나다 = meet you/
-그리움==homesick, longing//homesick, longing. VD: 그리움을 느끼다 = feel homesick for/
-그만큼==that much//that much. VD: 그만큼 남다 = remain that much/
-그야말로==truly, simply//truly, simply. VD: 그야말로 최고다 = It's simply the best/
-그중==among them//among them. VD: 그중에서 제일 = best among them/
-극복==overcome//overcome. VD: 위기 극복 = overcoming a crisis/Cực Phục
-금==Fri//Fri. VD: 금요일 = Friday/
-금년==this year/năm/this year. VD: 금년 여름 = this summer/Kim Niên
-긍정적==positive/tích cực/positive. VD: 긍정적 태도 = positive attitude/Khẳng Chính Tích
-기념==commemoration//commemoration. VD: 결혼 기념 = wedding anniversary/Kỳ Niệm
-기대다==lean//lean. VD: 벽에 기대다 = lean against the wall/Kỳ Đại Đa
-기독교==Christian//Christian. VD: 종교 = religion/Kỳ Độc Giáo
-기본==basics//basics. VD: 기본을 익히다 = learn the basics/Kỳ Bản
-기울다==tilt//tilt. VD: 액자가 기울다 = the frame tilts/
-기울이다==lean, pay attention to/trả/lean, pay attention to. VD: 몸을 기울이다 = lean over (the body)/
-기원==origin//origin. VD: 인류의 기원 = the origin of mankind/Kỳ Viên
-기적==miracle//miracle. VD: 기적이 일어나다 = a miracle happens/Kỳ Tích
-기존==existing//existing. VD: 기존 시설 = existing facility/Kỳ Tồn
-기혼==married//married. VD: 기혼 여성 = a married woman/Kỳ Hôn
-길가==roadside//roadside. VD: 길가에 서다 = stand by the road/
-까다롭다==picky//picky. VD: 조건이 까다롭다 = condition is picky/
-깔리다==lay down//lay down. VD: 이불이 깔리다 = a blanket is laid down/
-깨==sesame//sesame. VD: 깨를 볶다 = toast sesame/
-깨닫다==realize//realize. VD: 의미를 깨닫다 = realize the meaning/
-깨물다==bite//bite. VD: 사탕을 깨물다 = bite a candy/
-깨어나다==wake up, regain/thức dậy/wake up, regain. VD: 의식이 깨어나다 = regain consciousness/
-꺼지다==be blown out//be blown out. VD: 불이 꺼지다 = the fire is blown out/
-꼬리==tail//tail. VD: 꼬리를 흔들다 = wag one's tail/
-꼭대기==top//top. VD: 꼭대기에 오르다 = climb to the top/
-꼼꼼하다==meticulous, careful//meticulous, careful. VD: 꼼꼼하게 살펴보다 = examine carefully/
-꼼짝==with a slight move/di chuyển/with a slight move. VD: 꼼짝 못하다 = get stuck/
-꿈속==in a dream//in a dream. VD: 꿈석에서 만나다 = meet in a dream/
-끼어들다==cut in, cross in/cắt/cut in, cross in. VD: 틈으로 끼어들다 = cut in the gap/
-끼이다==be stuck in//be stuck in. VD: 틈에 끼이다 = be stuck in the gap/
-나란히==side by side//side by side. VD: 나란히 걷다 = walk side by side/
-나름==depending on, up to//depending on, up to. VD: 당신 하기 나름이다 = it's up to you/
-나물==herbs//herbs. VD: 나물을 다듬다 = trim herbs/Na Vật
-난리==chaos, commotion//chaos, commotion. VD: 난리를 피하다 = avoid commotion/Nan Lý
-난방==heating//heating. VD: 냉방 = cooling/Nan Phương
-날리다==be flown//be flown. VD: 눈발이 날리다 = snow flurries fall/
-남부==southern//southern. VD: 남부 지방 = southern area/Nam Phụ
-내내==all the time, throughout/thời gian/all the time, throughout. VD: 일 년 내내 = all year around/Nội Nội
-내려앉다==sit down, sink/ngồi/sit down, sink. VD: 나비가 내려앉다 = a butterfly lands/
-냉방==cooling//cooling. VD: 냉방을 하다 = cool down/
-넉넉하다==plentiful//plentiful. VD: 시간이 넉넉하다 = have plenty of time/
-널리==extensively//extensively. VD: 널리 알려지다 = be widely known/
-넓어지다==be widened//be widened. VD: 폭이 넓어지다 = the width is widened/
-넓히다==widen, broaden//widen, broaden. VD: 길을 넓히다 = broaden the road/
-네티즌==netizen//netizen. VD: 네티즌으로 활동하다 = act as a netizen/
-노동==labor//labor. VD: 노동 시간 = working hours/Nô Đồng
-노트북==laptop//laptop. VD: 노트북이 고장나다 = laptop is broken/
-녹다==(sth) melt/tan chảy/(sth) melt. VD: 얼음이 녹다 = ice melts/
-녹이다==melt (sth)/tan chảy/melt (sth). VD: 얼음을 녹이다 = melt the ice/
-논리적==logical//logical. VD: 논리적 사고 = logical thinking/
-놀이공원==amusement park//amusement park. VD: 놀이공원에 가다 = go to an amusement park/
-높아지다==rise/tăng/rise. VD: 파도가 높아지다 = the waves rise/
-눈동자==pupil//pupil. VD: 눈동자가 크다 = have big eyes/
-눈부시다==dazzle//dazzle. VD: 조명이 눈부시다 = the light is dazzling/
-눈빛==a look in the eyes/nhìn/a look in the eyes. VD: 따뜻한 눈빛 = a warm look/
-눈앞==in front of//in front of. VD: 눈앞에 보이다 = see in front of, see ahead/
-눈치==sense, wits//sense, wits. VD: 눈치가 없다 = be slow-witted, have no sense/
-늘어서다==line up//line up. VD: 차가 늘어서다 = cars line up/
-늦가을==late autumn//late autumn. VD: 늦가을의 날씨 = late autumn weather/
-늦잠==oversleeping//oversleeping. VD: 늦잠을 자다 = oversleep/
-님==sir//sir. VD: 홍길동 님 = Sir. Gildong Hong/
-다가오다==come towards/đến/come towards. VD: 우리 쪽으로 다가오다 = come towards us/Đa Gia Ngũ Đa
-다듬다==trim//trim. VD: 배추를 다듬다 = trim the cabbages/
-다루다==deal with, handle//deal with, handle. VD: 업무를 다루다 = deal with business/
-다소==little, rather, slight/nhỏ, khá/little, rather, slight. VD: 다소 빠르다 = rather fast/Đa Tiểu
-다지다==mince//mince. VD: 마늘을 다지다 = mince garlic/Đa Chỉ Đa
-단골==regular (customer)//regular (customer). VD: 단골 손님 = regular customer/Đoàn Cốt
-단독==being independent//being independent. VD: 단독으로 만나다 = meet alone/Đoàn Độc
-단순히==simply//simply. VD: 단순히 생각하다 = simply think/
-단점==disadvantage//disadvantage. VD: 단점을 극복하다 = overcome one's disadvantage/Đoàn Điểm
-단지==a housing complex//a housing complex. VD: 단지를 조성하다 = build a complex/Đoàn Chỉ
-달리다==be attached, be hung//be attached, be hung. VD: 단추가 달리다 = button is attached/Đạt Lý Đa
-달성==achievement//achievement. VD: 목표 달성 = goal achieved/Đạt Thành
-달하다==reach//reach. VD: 한계에 달하다 = reach the limit/Đạt Hạ Đa
-담그다==dip//dip. VD: 물에 담그다 = soak in water/
-담임==homeroom teacher/giáo viên/homeroom teacher. VD: 담임을 맡다 = take charge of homeroom/Đàm Nhậm
-당시==at the time/thời gian/at the time. VD: 그 당시 = at that time/Đang Thị
-당신==you//you. VD: 인칭 대명사 = a personal pronoun/Đang Tân
-당일==the same day/giống nhau/the same day. VD: 당일로 다녀오다 = go back the same day/Đang Nhất
-대강==outline//outline. VD: 대강 정리하다 = organize outline/Đại Cường
-대기==air, atmosphere//air, atmosphere. VD: 대기가 오염되다 = the air is polluted/Đại Kỳ
-대기==waiting, standby//waiting, standby. VD: 대기를 시키다 = put on standby/Đại Kỳ
-대다==be on time/thời gian/be on time. VD: 열차 시간에 대다 = be on time for the train/Đại Đa
-대다수==majority//majority. VD: 대다수가 찬성하다 = the majority agrees/Đại Đa Thủ
-대도시==big city/to/big city. VD: 대도시에 살다 = live in a big city/Đại Đồ Thị
-대리==deputy, substitute//deputy, substitute. VD: 대리로 참석하다 = attend as a substitute/Đại Lý
-대사==line//line. VD: 대사를 외우다 = memorize one's lines/Đại Sự
-대접==hospitality//hospitality. VD: 손님 대접 = guest treatment/Đại Tiếp
-대처==coping with//coping with. VD: 대처 방안 = preparation plan, coping plan/Đại Xử
-더러워지다==get dirty/bẩn/get dirty. VD: 옷이 더러워지다 = clothes get dirty/
-더불다==together/cùng nhau/together. VD: 더불어 살다 = live together/
-데리다==bring with/mang/bring with. VD: 데리고 가다 = take someone to somewhere/
-도난==theft//theft. VD: 도난을 당하다 = be robbed/Đồ Nan
-도대체==come to the point/đến/come to the point. VD: 도대체 얼마 만이니? = how long has it been?/Đồ Đại Thể
-도둑==thief//thief. VD: 도둑을 잡다 = catch a thief/
-도중==being in the middle//being in the middle. VD: 도중에 끼어들다 = cut in the midway/Đồ Trung
-동그라미==circle//circle. VD: 동그라미를 그리다 = draw a circle/
-동기==motivation//motivation. VD: 대학 동기 = alumnus, same university/Đồng Kỳ
-동기==motivation//motivation. VD: 동기를 유발하다 = arouse motivation/Đồng Kỳ
-동양인==an Asian//an Asian. VD: 동양인을 만나다 = meet an Asian/Đồng Dương Nhân
-동일==same/giống nhau/same. VD: 동일 조건 = the same condition/Đồng Nhất
-동창==alumni//alumni. VD: 동창을 만나다 = meet an alumni/Đồng Sáng
-동창회==reunion//reunion. VD: 초등학교 동창회 = elementary school reunion/Đồng Sáng Hội
-되살리다==revive (sth)//revive (sth). VD: 생명을 되살리다 = revive life/
-되살아나다==be revived//be revived. VD: 입맛이 되살아나다 = appetite is revived/
-되찾다==get back, regain//get back, regain. VD: 기억을 되찾다 = regain memory/
-되풀이==repetition//repetition. VD: 되풀이가 되다 = be repeated/
-두드러지다==prominent, noticeable//prominent, noticeable. VD: 이마가 두드러지다 = have a prominent forehead/
-두려워하다==to be afraid of/sợ/to be afraid of. VD: 미래를 두려워하다 = be afraid of the future/
-두렵다==be afraid/sợ/be afraid. VD: 후환이 두렵다 = be afraid of the future trouble/
-드러나다==be revealed//be revealed. VD: 사실이 드러나다 = the truth is revealed/
-들려오다==be heard//be heard. VD: 소식이 들려오다 = the news is heard/
-들어서다==step in//step in. VD: 집에 들어서다 = step in a house/
-등기==the register/đăng ký/the register. VD: 등기를 이전하다 = transfer the register/Đẳng Kỳ
-따다==pick//pick. VD: 사과를 따다 = pick an apple/
-땅속==in the ground//in the ground. VD: 땅속에 묻다 = bury in the ground/
-때==dirt//dirt. VD: 때를 밀다 = wash off the dirt/
-떠나오다==leave (a place and come to this place)/rời/leave (a place and come to this place). VD: 고향을 떠나오다 = leave one's hometown/
-떠오르다==rise (up), float/tăng/rise (up), float. VD: 태양이 떠오르다 = the sun rises/
-떨다==shiver, tremble//shiver, tremble. VD: 무서움에 떨다 = tremble with fear/
-또다시==again//again. VD: 또다시 반복하다 = repeat again/
-똥==poop, shit//poop, shit. VD: 똥을 싸다 = to shit, to poop/
-뚜껑==lid//lid. VD: 뚜껑을 닫다 = close the lid/
-뚫리다==have a hole, be found//have a hole, be found. VD: 구멍이 뚫리다 = a hole is made, there is a hole/
-뜨다==(sth) rise/tăng/(sth) rise. VD: 달이 뜨다 = the moon rises/
-뜻대로==at one's will//at one's will. VD: 뜻대로 되다 = come up to one's expectation/
-레몬==lemon//lemon. VD: 레몬 과일 = lemon fruit/
-로그인==login//login. VD: 로그인을 하다 = to login/
-마땅히==rightly//rightly. VD: 마땅히 해야 하다 = be the right thing to do/
-마음가짐==mental attitude, mindset//mental attitude, mindset. VD: 마음가짐을 가지다 = have a mindset/
-마음껏==to one's satisfaction//to one's satisfaction. VD: 마음껏 쓰다 = use freely (as you want)/
-마음대로==as you please, at will//as you please, at will. VD: 마음대로 되다 = have one's own way/Mã Âm Đại Lộ
-마이크==mic//mic. VD: 마이크를 잡다 = grab the mic/
-마주치다==come across, meet/đến, gặp/come across, meet. VD: 손바닥을 마주치다 = come across a high five/Mã Chủ Trí Đa
-마찬가지==same here/giống nhau/same here. VD: 예전과 마찬가지이다 = same as before/Mã Tán Gia Chỉ
-마침==just, just in time/chỉ, thời gian/just, just in time. VD: 마침 잘 왔다 = come just fine/Mã Xâm
-마침내==finally/cuối cùng/finally. VD: 마침내 해내다 = finally make it/Mã Xâm Nội
-막내==youngest//youngest. VD: 막내로 태어나다 = be born as the youngest/Mạc Nội
-막대기==a stick//a stick. VD: 막대기로 치다 = hit with a stick/Mạc Đại Kỳ
-막상==in reality//in reality. VD: 막상 보니까 = when I saw in reality/Mạc Thượng
-막연하다==vague//vague. VD: 앞날이 막연하다 = the future is vague/Mạc Diên Hạ Đa
-막차==last train/tàu hỏa/last train. VD: 막차를 타다 = catch the last train/Mạc Xa
-만남==meeting//meeting. VD: 만남을 갖다 = have a meeting/Vạn Nam
-만원==one' capacity//one' capacity. VD: 만원을 이루다 = to achieve one's capacity/Vạn Viên
-맘대로==as you like/thích/as you like. VD: 맘대로 고르다 = pick your own (as you like)/
-망설이다==hesitate//hesitate. VD: 잠시 망설이다 = hesitate for a moment/Vọng Thiết Nhị Đa
-망치다==ruin, spoil, mess up//ruin, spoil, mess up. VD: 일을 망치다 = ruin work/Vọng Trí Đa
-망하다==failed, perish//failed, perish. VD: 나라가 망하다 = a country perishes/Vọng Hạ Đa
-맞다==be struck, be hit/đánh/be struck, be hit. VD: 매를 맞다 = be beaten/
-맞벌이==dual income//dual income. VD: 맞벌이 부부 = a double-income couple/
-맞은편==opposite side//opposite side. VD: 맞은편에 앉다 = seat on the opposite side/
-맞이하다==greet, welcome/chào, chào đón/greet, welcome. VD: 새해를 맞이하다 = welcome the new year/
-맞춤법==spelling//spelling. VD: 맞춤법에 맞다 = fit the spelling/
-맡기다==entrust//entrust. VD: 수리를 맡기다 = entrust the repair/
-맡다==smell, sniff, detect/ngửi/smell, sniff, detect. VD: 냄새를 맡다 = smell (a scent)/
-머뭇거리다==waver//waver. VD: 말을 머뭇거리다 = hesitate to speak/
-메우다==fill up/đổ đầy/fill up. VD: 구멍을 메우다 = fill a hole/
-멜로디==melody//melody. VD: 멜로디가 아름답다 = the melody is beautiful/
-면접관==interviewer//interviewer. VD: 면접관이 질문하다 = the interviewer asks/Miên Tiếp Quan
-면하다==get rid of//get rid of. VD: 책임을 면하다 = be freed from responsibility/Miên Hạ Đa
-명==name, title//name, title. VD: 작품명 = title of work/
-명단==list//list. VD: 합격자 명단 = list of successful candidates/Minh Đoàn
-모니터==monitor//monitor. VD: 모니터를 보다 = look at the monitor/
-모여들다==gather//gather. VD: 구름처럼 모여들다 = gather like clouds/
-모집==recruitment//recruitment. VD: 학생 모집 = student recruitment/Mô Tập
-모처럼==with much trouble//with much trouble. VD: 모처럼 웃다 = laugh hard/
-목==Fri//Fri. VD: 목요일 = Friday/
-목록==list//list. VD: 목록을 작성하다 = make a list/Mộc Lục
-몸무게==weight//weight. VD: 몸무게를 재다 = measure weight/
-몸속==in the body/cơ thể/in the body. VD: 몸속의 피 = blood in body/
-무관하다==irrelevant, unrelated//irrelevant, unrelated. VD: 사건과 무관하다 = unrelated to the incident/Vũ Quan Hạ Đa
-무더위==intense heat//intense heat. VD: 무더위가 꺾이다 = intense heat is subsided/
-무덤==tomb//tomb. VD: 무덤을 파다 = dig a grave/
-무덥다==hot and stuffy/nóng/hot and stuffy. VD: 날씨가 무덥다 = weather is hot/
-무리==impracticality//impracticality. VD: 무리가 되다 = become unreasonable/Vũ Lý
-무용==traditional dancing//traditional dancing. VD: 무용을 배우다 = learn dancing/Vũ Dụng
-무의미==meaningless//meaningless. VD: 유의미 = being meaningful/Vũ Nghị Mỹ
-묵묵히==silently//silently. VD: 묵묵히 일하다 = work quietly/
-문서==document//document. VD: 문서를 위조하다 = forge/Văn Thư
-문의==inquiry//inquiry. VD: 문의 전화 = an inquiry call/Văn Nghị
-문화재==cultural heritage//cultural heritage. VD: 문화재를 보호하다 = protect cultural assets/Văn Hóa Tài
-묻다==be stained//be stained. VD: 때가 묻다 = stained with dirt, become dirty/
-묻히다==smear, stain//smear, stain. VD: 손에 물을 묻히다 = wet one's hands with water/
-묻히다==be buried//be buried. VD: 땅에 묻히다 = be buried in the ground/
-물가==riverside//riverside. VD: 물가에 앉다 = sit by the riverside/Vật Gia
-물기==moisture, wetness//moisture, wetness. VD: 물기가 마르다 = dry out (the moisture)/Vật Kỳ
-물다==bite//bite. VD: 개가 물다 = a dog bites/Vật Đa
-물리다==be bitten//be bitten. VD: 개에 물리다 = be bitten by a dog/Vật Lý Đa
-물소리==sound of water/nước/sound of water. VD: 물소리가 나다 = there is sound of water/Vật Tiểu Lý
-물약==liquid medicine/thuốc/liquid medicine. VD: 물약을 마시다 = drink (liquid) medicine/Vật Ước
-물음==question/câu hỏi/question. VD: 물음에 답하다 = answer a question/Vật Âm
-뭘==what//what. VD: 뭘, 당연히 와야지 = What? Of course I should come/
-미국인==American//American. VD: 미국인을 만나다 = meet an American/Mỹ Quốc Nhân
-미끄럽다==slippery//slippery. VD: 길이 미끄럽다 = the road is slippery/
-미니==mini//mini. VD: 미니 자동차 = a minicar/
-미용사==hairdresser//hairdresser. VD: 미용사가 되다 = become a hairdresser/Mỹ Dụng Sự
-미장원==beauty salon/vẻ đẹp/beauty salon. VD: 미장원에서 머리를 하다 = get hair done at a beauty salon/Mỹ Trường Viên
-미팅==meeting//meeting. VD: 미팅을 하다 = have a meeting/
-밀리다==be jammed//be jammed. VD: 차가 밀리다 = there is a traffic jam/Mật Lý Đa
-밀리다==be pushed//be pushed. VD: 사람들에게 밀리다 = be pushed around by people/Mật Lý Đa
-밑바닥==bottom//bottom. VD: 밑바닥이 드러나다 = the bottom is exposed/
-바==way, side/cách/way, side. VD: 느낀 바 = the way one felt about/
-바람직하다==desirable//desirable. VD: 자세가 바람직하다 = desirable posture/
-바르다==right, righteous//right, righteous. VD: 예의가 바르다 = be polite, have good manners/
-반기다==welcome/chào đón/welcome. VD: 친구를 반기다 = welcome a friend/Bán Kỳ Đa
-반대쪽==opposite direction//opposite direction. VD: 반대쭉으로 향하다 = head to the opposite direction/
-반면==on the other hand/tay/on the other hand. VD: 반면에 = on the other side/Bán Miên
-반성==introspection//introspection. VD: 자기 반성 = self-reflection/Bán Thành
-반짝반짝==glittering//glittering. VD: 반짝반짝 빛나다 = glitter/
-반창고==adhesive tape, bandaid//adhesive tape, bandaid. VD: 반창고가 떨어지다 = the bandaid falls off/Bán Sáng Cổ
-발걸음==footfall, gait//footfall, gait. VD: 발걸음이 느리다 = slow walking/Phát Kiệt Âm
-발급==issued//issued. VD: 카드 발급 = card issuance/Phát Cấp
-발음==pronunciation//pronunciation. VD: 발음이 좋다 = good pronunciation/Phát Âm
-밝혀내다==uncover, find out//uncover, find out. VD: 원인을 밝혀내다 = find out the cause/
-밝혀지다==be illuminated//be illuminated. VD: 빛으로 밝혀지다 = illuminated by light/
-밤==chestnut//chestnut. VD: 밤을 따다 = pick chestnuts/
-배다==cling to//cling to. VD: 냄새가 옷에 배다 = the smell clings to clothes/Bồi Đa
-뱉다==spit//spit. VD: 침을 뱉다 = spit saliva/
-번화하다==bustling, busy/bận/bustling, busy. VD: 거리가 번화하다 = the street is bustling/Phiên Hóa Hạ Đa
-벌==punishment//punishment. VD: 벌을 받다 = be punished/
-벌리다==widen, spread//widen, spread. VD: 간격을 벌리다 = widen the gap/Phạt Lý Đa
-범죄==crime//crime. VD: 범죄를 저지르다 = commit a crime/Phạm Tội
-벤치==bench//bench. VD: 벤치에 앉다 = sit on a bench/
-벨==bell//bell. VD: 벨을 누르다 = ring the bell/
-변덕스럽다==capricious, changeable//capricious, changeable. VD: 성격이 변덕스럽다 = personality is capricious/
-변동==variance//variance. VD: 변동이 심하다 = fluctuate greatly/Biến Đồng
-별명==nickname//nickname. VD: 별명을 짓다 = make a nickname/Biệt Minh
-보급==diffusion//diffusion. VD: 기술 보급 = technology diffusion/Bảo Cấp
-보상==compensation//compensation. VD: 보상을 받다 = receive compensation/Bảo Thượng
-보석==jewel//jewel. VD: 보석이 반짝이다 = jewels sparkle/Bảo Thạch
-보안==security//security. VD: 보안을 유지하다 = maintain security/Bảo An
-보완==supplement, correction//supplement, correction. VD: 문제점 보완 = fix the problem/Bảo Hoàn
-보전==integrity//integrity. VD: 생태계 보전 = ecosystem conservation/Bảo Toàn
-보충==supplement//supplement. VD: 보충 수업 = supplementary class/Bảo Trung
-복사기==copy machine//copy machine. VD: 복사기로 문서를 복사하다 = copy a document with a copier/Phục Sự Kỳ
-복용==taking//taking. VD: 약물 복용 = taking medication/Phục Dụng
-본인==me, oneself//me, oneself. VD: 본인 명의 = my name/Bản Nhân
-부대==army unit//army unit. VD: 육군 부대 = army forces/Phụ Đại
-부자==wealthy//wealthy. VD: 부자가 닮다 = be like a rich person/Phụ Tử
-부잣집==rich house/giàu/rich house. VD: 으리으리한 부잣집 = a grand rich house/
-부정==fraud//fraud. VD: 부정을 저지르다 = commit fraud/Phụ Chính
-부정==negation//negation. VD: 긍정 = affirmation/Phụ Chính
-부정확==inaccuracy//inaccuracy. VD: 발음의 부정확 = inaccurate pronunciation/Phụ Chính Xác
-부친==father/bố/father. VD: 모친 = mother/
-북부==northern//northern. VD: 북부 지방 = northern province/Bắc Phụ
-분수==one's places//one's places. VD: conditions = 분수를 모르다/Phân Thủ
-불가피하다==inevitable//inevitable. VD: 선택이 불가피하다 = choice is inevitable/Bất Gia Bì Hạ Đa
-불교==Buddhism//Buddhism. VD: 불교를 믿다 = believe in Buddhism/Bất Giáo
-불구하다==disregard//disregard. VD: 그럼에도 불구하고 = nevertheless, despite this/Bất Cửu Hạ Đa
-불균형==imbalance//imbalance. VD: 불균형이 심해지다 = imbalance becomes worse/Bất Quân Hình
-불러일으키다==arouse//arouse. VD: 관심을 불러일으키다 = arouse interest/
-불만족스럽다==dissatisfied//dissatisfied. VD: 표정이 불만족스럽다 = be dissatisfied with one's expression/
-불빛==a light/nhẹ/a light. VD: 불빛이 비치다 = a light shines/
-불충분==insufficiency//insufficiency. VD: 충분 = sufficient/Bất Trung Phân
-붙잡히다==be caught//be caught. VD: 범인이 붙잡히다 = the criminal is caught/
-비-==in-//in-. VD: 비공식 = informal/
-비결==secret//secret. VD: 비결을 공개하다 = reveal the secret/Phi Quyết
-비닐==vinyl//vinyl. VD: 비닐로 싸다 = wrap in plastic/
-비로소==for the first time/thời gian/for the first time. VD: 비로소 깨닫다 = finally realize/Phi Lộ Tiểu
-비롯되다==come from, be originated/đến/come from, be originated. VD: 경험에서 비롯되다 = come from experience/
-비상구==emergency exit/ra/emergency exit. VD: 비상구로 대피하다 = evacuate to the emergency exit/Phi Thượng Cửu
-비추다==shine, illuminate//shine, illuminate. VD: 달빛이 비추다 = the moon shines/Phi Thu Đa
-비타민==vitamin//vitamin. VD: 비타민을 섭취하다 = take vitamins/Phi Tha Dân
-비판적==critical//critical. VD: 비판적 사고 = critical thinking/Phi Phán Tích
-빗길==wet road/đường/wet road. VD: 빗길에 미끄러지다 = slip on wet road/
-빛나다==shine//shine. VD: 별빛이 빛나다 = starlight shines/
-빠뜨리다==drown, fall into/rơi/drown, fall into. VD: 바다에 빠뜨리다 = drown in the sea/
-빠트리다==drown, fall into/rơi/drown, fall into. VD: 물에 빠트리다 = drown/
-뽀뽀==kiss//kiss. VD: 뽀뽀를 하다 = kiss/
-사건==incident//incident. VD: 사건이 발생하다 = an incident occurs/Sự Kiến
-사과==apologize/xin lỗi/apologize. VD: 사과를 하다 = apologize/Sự Quả
-사기==scam, fraud//scam, fraud. VD: 사기를 치다 = commit fraud/Sự Kỳ
-사로잡다==captivate//captivate. VD: 마음을 사로잡다 = capture one's heart/
-사립==private//private. VD: 사립 학교 = private school/Sự Lập
-사무==affairs//affairs. VD: 서무를 보다 = look at the affairs/Sự Vũ
-사설==editorial//editorial. VD: 사설을 읽다 = read an editorial/Sự Thiết
-사업자==businessman//businessman. VD: 사업자 등록 = business registration/Sự Nghiệp Tử
-사이트==site//site. VD: 사이트에 접속하다 = access the site/
-사적==private//private. VD: 사적 생활 = private life/Sự Tích
-사촌==cousin//cousin. VD: 사촌 언니 = cousin sister/
-사태==situation/tình huống/situation. VD: 사태를 해결하다 = resolve the situation/Sự Thái
-사항==item, detail//item, detail. VD: 주의 사항 = caution/Sự Hàng
-삭제==delete//delete. VD: 파일 삭제 = delete file/
-산꼭대기==mountain top/núi/mountain top. VD: 산꼭대기에 오르다 = climb to the top of the mountain/
-산속==in the mountains//in the mountains. VD: 산속을 헤매다 = wander in the mountains/Sơn Tốc
-살아나다==be revived, revive//be revived, revive. VD: 겨우 살아나다 = barely survive/Sát Á Na Đa
-살아남다==survive/sống sót/survive. VD: 전쟁에서 살아남다 = survive the war/Sát Á Nam Đa
-살인==murder//murder. VD: 살인을 저지르다 = commit murder/Sát Nhân
-살짝==a little/nhỏ/a little. VD: 살짝 빠져나가다 = slip away/
-살찌다==getting fat//getting fat. VD: 몸이 살찌다 = gain weight/
-살피다==check, examine//check, examine. VD: 주위를 살피다 = look around/Sát Bì Đa
-상담실==service center//service center. VD: 고객 상담실 = customer service center/Thượng Đàm Thất
-상당하다==considerable//considerable. VD: 실력이 상당하다 = the skill is considerable/Thượng Đang Hạ Đa
-상대==someone, a person/người/someone, a person. VD: 상대를 대하다 = deal with a person/Thượng Đại
-상대방==opponent, other person/người/opponent, other person. VD: 상대방을 바라보다 = look at the other person/Thượng Đại Phương
-상대편==the other side//the other side. VD: 상대편을 이해하다 = understand the other side/Thượng Đại Thiên
-상반기==the first half//the first half. VD: 상반기 소득 = first-half income/Thượng Bán Kỳ
-상상력==imagination (power)//imagination (power). VD: 상상력이 풍부하다 = have a lot of imagination/Thượng Thượng Lực
-상쾌하다==refreshing//refreshing. VD: 마음이 상쾌하다 = my mind is refreshed/
-상태==situation/tình huống/situation. VD: 상태를 점검하다 = check the condition/Thượng Thái
-상황==situation/tình huống/situation. VD: 상황이 불리하다 = the situation is unfavorable/Thượng Hoàng
-새엄마==stepmother//stepmother. VD: 새엄마를 맞이하다 = welcome a new mother/Tân Nghiêm Mã
-새우==shrimp//shrimp. VD: 새우를 먹다 = eat shrimp/Tân Vũ
-생겨나다==arise//arise. VD: 문제가 생겨나다 = a problem arises/
-생기==vitality//vitality. VD: 생기가 넘치다 = lively, vibrant/Sinh Kỳ
-생략==skip, omission//skip, omission. VD: 생략을 하다 = omit/
-생존==survival//survival. VD: 생존을 위협하다 = threaten survival/Sinh Tồn
-섞이다==be mixed//be mixed. VD: 냄새가 섞이다 = smells are mixed/
-선==line//line. VD: 선을 긋다 = draw a line/
-선약==prior appointment//prior appointment. VD: 선약이 있다 = have a prior appointment/Tiên Ước
-선전==advertisement//advertisement. VD: 선전을 보다 = see an advertisement/Tiên Toàn
-설레다==flutter, excited//flutter, excited. VD: 가슴이 설레다 = my heart flutters/
-설립==establish//establish. VD: 회사 설립 = company establishment/Thiết Lập
-설마==no way/cách/no way. VD: 설마 진심은 아니지? = you're not serious, are you?/Thiết Mã
-설사==diarrhea//diarrhea. VD: 설사가 멈추다 = diarrhea stops/Thiết Sự
-설정==setting//setting. VD: 상황 설정 = setting the situation/Thiết Chính
-성립==establishment//establishment. VD: 성립 조건 = establishment conditions/Thành Lập
-성명==name//name. VD: 성명을 부르다 = call by name/Thành Minh
-성숙==maturity//maturity. VD: 성숙이 늦다 = late in maturity/Thành Túc
-성실==sincerity//sincerity. VD: 불성실 = insincerity/Thành Thất
-세련되다==stylish//stylish. VD: 옷차림이 세련되다 = dress stylishly/
-세로==vertical//vertical. VD: 가로 = width/Thế Lộ
-세모==triangle//triangle. VD: 세모를 만들다 = make a triangle/Thế Mô
-소개팅==blind date//blind date. VD: 소개팅에서 만나다 = meet on a blind date/
-소녀==girl//girl. VD: 어린 소녀 = such the girl/Tiểu Nữ
-소아과==pediatrics//pediatrics. VD: 소아관에서 진찰 받다 = have a checkup at a pediatric/Tiểu Á Quả
-소요==requirement//requirement. VD: 소요 시간 = the time required/Tiểu Yếu
-소유==possession, ownership//possession, ownership. VD: 개인 소유 = private ownership/Tiểu Du
-소중히==valuably//valuably. VD: 소중히 여기다 = cherish/
-소화==digestion//digestion. VD: 소화를 돕다 = help digestion/Tiểu Hóa
-속이다==cheat//cheat. VD: 친구를 속이다 = fool a friend/Tốc Nhị Đa
-손질==trimming//trimming. VD: 머리 손질 = hairstyling/Tổn Chất
-송아지==calf//calf. VD: 송아지를 키우다 = raise a calf/Tống Á Chỉ
-송이==cluster//cluster. VD: 송이가 맺히다 = clusters are formed/Tống Nhị
-수도권==metropolitan area//metropolitan area. VD: 수도권에 거주하다 = live in the metropolitan area/Thủ Đồ Quyền
-수많다==numerous//numerous. VD: 수많은 사람 = numerous people/
-수사==investigation//investigation. VD: 경찰 수가 = police investigation/Thủ Sự
-수수께끼==riddle//riddle. VD: 수수께끼를 풀다 = solve a riddle/
-숙박==lodge, stay//lodge, stay. VD: 숙박 시설 = accommodation facility/Túc Bác
-숙소==lodging, accommodation//lodging, accommodation. VD: 숙소에 머물다 = stay in accommodation/Túc Tiểu
-숙이다==bow down//bow down. VD: 고개를 숙이다 = bow one's head/Túc Nhị Đa
-순간적==momentary//momentary. VD: 순간적 느낌 = a momentary feeling/Thuần Gian Tích
-술자리==drinking (party, section)//drinking (party, section). VD: 술자리에 모이다 = gather for a drink/Thuật Tử Lý
-쉿==shh//shh. VD: 쉿! 조용히 해 봐 = Shh! Be quiet./
-스무째==twentieth//twentieth. VD: 스무째 날 = 20th day/
-스치다==brush (against)//brush (against). VD: 옷깃이 스치다 = brush against one's collar/
-습기==moisture//moisture. VD: 습기를 제거하다 = remove moisture/
-습하다==humid//humid. VD: 공기가 습하다 = the air is humid/
-시내버스==city ​​bus/thành phố/city ​​bus. VD: 시내버스를 타다 = take a city bus/
-시댁==in-law's house/nhà/in-law's house. VD: 시댁에 가다 = go to in-laws' house/
-시들다==wither//wither. VD: 꽃이 시들다 = flowers wither/
-시멘트==cement//cement. VD: 시멘트가 굳다 = cement hardens/
-시부모==mother-in-law//mother-in-law. VD: 시부모에게 효도하다 = be filial to one's parents-in-law/Thị Phụ Mô
-시선==sight//sight. VD: 시선이 마주치다 = make eye contact/Thị Tiên
-시설==facility//facility. VD: 시설에 투자하다 = invest in facilities/Thị Thiết
-시아버지==father-in-law//father-in-law. VD: 시아버지를 모시다 = serve one's father-in-law/
-시외버스==intercity bus/xe buýt/intercity bus. VD: 시외버스를 타다 = take an intercity bus/
-시집==in-law's house/nhà/in-law's house. VD: 시집 식구 = in-laws' family/Thị Tập
-시청률==(viewer) rating//(viewer) rating. VD: 시청률이 높다 = viewer ratings are high/Thị Thanh Luật
-시청자==viewers//viewers. VD: 시청자에게 전달하다 = deliver to viewers/Thị Thanh Tử
-시행==implementation//implementation. VD: 시행 예정 = execution schedule/Thị Hành
-식료품==groceries//groceries. VD: 식료품을 사다 = buy groceries/Thực Liệu Phẩm
-식후==after meal//after meal. VD: 식후 30분 = 30 minutes after meal/Thực Hậu
-신나다==excited//excited. VD: 나들이에 신나다 = excited about the trip/Tân Na Đa
-신문사==newspaper publisher//newspaper publisher. VD: 신문사에 다니다 = work for a newspaper/Tân Văn Sự
-신부==priest//priest. VD: 가톨릭 신부 = Catholic priest/Tân Phụ
-신분==status//status. VD: 신분에 맞다 = fit the status/Tân Phân
-신비==mystery//mystery. VD: 우주의 신비 = mystery of the universe/Tân Phi
-실감==realization//realization. VD: 실감이 나다 = feel real/Thất Cảm
-실망==disappointment//disappointment. VD: 실망이 크다 = big dissapointment/Thất Vọng
-실장==head of a department/đầu/head of a department. VD: 실장으로 승진하다 = be promoted to head of a department/Thất Trường
-실컷==as much as one likes//as much as one likes. VD: 실컷 놀다 = play to your heart's content/
-실현==realization//realization. VD: 꿈의 실현 = fulfilment of a dream/Thất Hiện
-심각하다==serious/nghiêm trọng/serious. VD: 문제가 심각하다 = the problem is serious/Tâm Giác Hạ Đa
-싸구려==cheap thing/rẻ/cheap thing. VD: 싸구려 화장품 = cheap cosmetics/
-쌓이다==pile up//pile up. VD: 책들이 쌓이다 = books piled up/
-썰렁하다==chilly//chilly. VD: 날씨가 썰렁하다 = the weather is chilly/
-쓰기==writing//writing. VD: 쓰기 평가 = writing test/
-쓰러지다==fall down/rơi/fall down. VD: 나무가 쓰러지다 = tree falls/
-쓰이다==be written//be written. VD: 칠판에 쓰이다 = write on the blackboard/
-쓰이다==be used//be used. VD: 저울이 쓰이다 = a scale is used/
-쓸데없다==useless//useless. VD: 물건이 쓸데없다 = things are useless/
-씻기다==be washed//be washed. VD: 비에 씻기다 = be washed with rain/
-아래층==downstairs//downstairs. VD: 아래층으로 내려가다 = go downstairs/
-아랫사람==subordinate//subordinate. VD: 아랫사람의 도리 = duty of the subordinate/
-아랫집==apartment downstairs//apartment downstairs. VD: 아랫집에 내려가다 = go to the neighbors who live downstairs/
-아이==hey//hey. VD: 아이, 나도 바쁜데 = Hey, I'm busy too./Á Nhị
-안부==regard//regard. VD: 안부를 묻다 = check in on somebody/An Phụ
-안정==stability//stability. VD: 안정을 유지하다 = maintain stability/An Chính
-알아내다==find out//find out. VD: 사실을 알아내다 = find out the facts/Yết Á Nội Đa
-알아맞히다==guess/đoán/guess. VD: 답을 알아맞히다 = guess the answer/
-알차다==fruitful//fruitful. VD: 내용이 알차다 = be full of content/Yết Xa Đa
-앓다==be ill with//be ill with. VD: 감기를 앓다 = suffer from cold/
-암기==memorization//memorization. VD: 암기 과목 = subjects that need memorizing/Ám Kỳ
-앗==oh//oh. VD: 앗! 깜짝이야. = Oh! It's a surprise./
-액자==photo frame//photo frame. VD: 액자를 걸다 = hang a picture frame/Dịch Tử
-야경==night view/đêm/night view. VD: 야경을 감상하다 = admire the night view/Dã Kinh
-야옹==meow//meow. VD: 고양이가 야옹 울다 = cat meows/
-야하다==sexy, erotic//sexy, erotic. VD: 옷차림이 야하다 = the outfit is sexy/Dã Hạ Đa
-약점==weakness//weakness. VD: 약점을 잡다 = seize a weakness/Ước Điểm
-약혼==engagement//engagement. VD: 약혼을 발표하다 = announce the engagement/Ước Hôn
-약혼녀==fiancee//fiancee. VD: 약혼녀와 헤어지다 = break up with fiancee/Ước Hôn Nữ
-약혼자==fiance//fiance. VD: 약혼자를 소개하다 = introduce one's fiancé/Ước Hôn Tử
-얌전==well-mannered//well-mannered. VD: 얌전을 떨다 = behave nicely/
-양국==both countries//both countries. VD: 양국이 교류하다 = exchange between the two countries/Dương Quốc
-양보==yield//yield. VD: 자리 양보 = give up one's seat/Dương Bảo
-양옆==both sides//both sides. VD: 양옆에 앉다 = sit side by side/
-양쪽==both sides//both sides. VD: 양쪽 뺨 = both cheeks/
-얘==this child/con/this child. VD: 이 아이 = this child/
-어려워하다==have a hard time/cứng/have a hard time. VD: 선배를 어려워하다 = have a hard time with seniors/
-어머==oh my//oh my. VD: 어머, 눈이 오네 = oh my, it's snowing/
-어색하다==awkward//awkward. VD: 사이가 어색하다 = feel awkward with each other/Ngữ Sắc Hạ Đa
-어지럽다==dizzy//dizzy. VD: 머리가 어지럽다 = feel dizzy/
-어휘==vocabulary//vocabulary. VD: 어휘를 외우다 = memorize vocabulary/
-어휴==ugh//ugh. VD: 어휴, 정신이 없군 = ugh, I'm out of my mind/Ngữ Hưu
-억울하다==unfair//unfair. VD: 죽음이 억울하다 = death is unfair/
-언급==mention//mention. VD: 언급을 피하다 = avoid mentioning/Ngôn Cấp
-엄숙하다==solemn, serious/nghiêm trọng/solemn, serious. VD: 분위기가 엄숙하다 = atmosphere is solemn/Nghiêm Túc Hạ Đa
-업다==carry on one's back/mang/carry on one's back. VD: 동생을 업다 = carry younger brother/Nghiệp Đa
-업적==achievement//achievement. VD: 업적을 남기다 = accomplish something/Nghiệp Tích
-엉뚱하다==irrelevant//irrelevant. VD: 대답이 엉뚱하다 = the answer is irrelevant/
-엉망==mess//mess. VD: 엉망으로 만들다 = make a mess/
-여가==leisure time/thời gian/leisure time. VD: 여가를 즐기다 = enjoy leisure time/Dư Gia
-여건==conditions//conditions. VD: 여건이 좋다 = conditions are good/Dư Kiến
-여기다==consider//consider. VD: 가족으로 여기다 = consider as family/Dư Kỳ Đa
-여름철==summertime//summertime. VD: 여름철 날씨 = summer weather/
-여름휴가==summer vacation//summer vacation. VD: 여름휴가를 떠나다 = go on summer vacation/
-여유롭다==relaxed//relaxed. VD: 시간이 여유롭다 = have plenty of time/
-여전히==still/vẫn/still. VD: 여전히 그대로 = still the same/
-역사가==historian//historian. VD: 역사가가 연구하다 = historian studies/Dịch Sự Gia
-역사상==in history//in history. VD: 한국 역사상 = in Korean history/Dịch Sự Thượng
-연간==annual//annual. VD: 연간 수입 = annual income/Diên Gian
-연고==ointment//ointment. VD: 연고를 바르다 = apply/Diên Cổ
-연관==relation//relation. VD: 연관이 있다 = be related to/Diên Quan
-연구실==lab//lab. VD: 연구실에서 공부하다 = study in the lab/Diên Cửu Thất
-연구원==researcher//researcher. VD: 연구원이 되다 = become a researcher/Diên Cửu Viên
-연구자==researcher//researcher. VD: 연구자로 일하다 = work as a researcher/Diên Cửu Tử
-연기==postponement//postponement. VD: 무기한 연기 = indefinite postponement/Diên Kỳ
-연기==smoke//smoke. VD: 담배 연기 = cigarette smoke/Diên Kỳ
-연속==consecutively//consecutively. VD: 일주일 연속 = week in a row/Diên Tốc
-연장==extension//extension. VD: 연장 근무 = overtime/Diên Trường
-연합==union//union. VD: 유럽 연합 = the European Union/Diên Hợp
-열기==heat//heat. VD: 뜨거운 열기 = high heat/Nhiệt Kỳ
-열리다==bear (fruit)//bear (fruit). VD: 열매가 열리다 = bears fruits/Nhiệt Lý Đa
-열매==fruit/trái cây/fruit. VD: 열매가 열리다 = bears fruits/Nhiệt Mại
-열정==enthusiasm//enthusiasm. VD: 열정을 쏟다 = pour one's passion (into)/Nhiệt Chính
-열중==immersion//immersion. VD: 열중을 하다 = be absorbed in/Nhiệt Trung
-영양==nutrition//nutrition. VD: 영양이 풍부하다 = nutritious/Vĩnh Dương
-영양제==nutritional supplements//nutritional supplements. VD: 영양제를 먹다 = take nutritional supplements/Vĩnh Dương Chế
-영웅==hero//hero. VD: 전쟁 영웅 = war hero/
-영원==eternity//eternity. VD: 영원을 약속하다 = promise eternity/Vĩnh Viên
-예==old times/cũ/old times. VD: 예로부터 = since old times/
-예감==presentiment//presentiment. VD: 불길한 예감 = ominous presentiment/Lễ Cảm
-예선==preliminary round//preliminary round. VD: 예선에 통과하다 = pass the preliminary round/Lễ Tiên
-예식장==wedding hall//wedding hall. VD: 예식장을 예약하다 = book a wedding hall/Lễ Thực Trường
-예의==courtesy, polite//courtesy, polite. VD: 예의가 바르다 = be polite/Lễ Nghị
-오늘날==this day/ngày/this day. VD: 오늘날에 이르다 = to this day/
-오랜==long-time//long-time. VD: 오랜 시간 = long time/
-오른편==right side//right side. VD: 오른편에 앉다 = sit on the right/
-오징어==squid//squid. VD: 오징어를 먹다 = eat squid/Ngũ Trưng Ngữ
-오히려==rather/khá/rather. VD: 오히려 화를 내다 = get rather angry/
-온라인==online//online. VD: 온라인 게임 = online game/Ôn La Nhân
-올==this (year)//this (year). VD: 올 삼월 = this March/
-올여름==this summer//this summer. VD: 올여름 날씨 = this summer's weather/
-외==other than//other than. VD: 그 외 = others/
-외가==mother's side (family)//mother's side (family). VD: − = −/Ngoại Gia
-외갓집==mother's family house/gia đình/mother's family house. VD: 외갓집에 가다 = go to one's mother's house/
-외할머니==maternal grandmother//maternal grandmother. VD: 가족 = family/
-외할아버지==maternal grandfather//maternal grandfather. VD: 가족 = family/
-왼편==left side//left side. VD: 왼편에 앉다 = sit on the left/
-요==this//this. VD: 요 녀석 = this kid/
-요새==these days//these days. VD: 요 사이 = lately/Yếu Tân
-요즈음==these days//these days. VD: 요즈음 유행이다 = trendy these days/
-욕==swear word, curse//swear word, curse. VD: 욕을 퍼붓다 = abuse, insult/
-용건==business/kinh doanh/business. VD: 용건만 말하다 = get right to the point/Dụng Kiến
-우물==well//well. VD: 우물을 파다 = dig a well/Vũ Vật
-우선==priority//priority. VD: 우선으로 하다 = give priority/Vũ Tiên
-우울==melancholy//melancholy. VD: 우울을 느끼다 = feel melancholy/
-우주==the universe//the universe. VD: 우주 만물 = (the) whole creation/Vũ Chủ
-우체통==mailbox//mailbox. VD: 우체통에 편지를 넣다 = put a letter in the mailbox/Vũ Thể Thông
-우편물==mail//mail. VD: 우편물을 보내다 = send mail/Vũ Thiên Vật
-운동량==amount of exercise//amount of exercise. VD: 운동량을 조절하다 = adjust the amount of exercise/Vận Đồng Lượng
-원==circle//circle. VD: 원을 그리다 = draw a circle/
-원래==usually/thường/usually. VD: 원래 그렇다 = that's how it is/
-원인==cause//cause. VD: 원인을 밝히다 = determine the cause/Viên Nhân
-위기==crisis//crisis. VD: 위기를 면하다 = avoid crisis/Vị Kỳ
-위반==violation//violation. VD: 신호 위반 = signal violation/Vị Bán
-위원회==committee//committee. VD: 위원회가 열리다 = a committee is held/Vị Viên Hội
-위험성==risks//risks. VD: 위험성이 크다 = the risk is high/Vị Hiểm Thành
-윗글==written above//written above. VD: 윗글을 읽다 = read the text above/
-유교==Confucianism//Confucianism. VD: 유교 문화 = Confucian culture/Du Giáo
-유산==legacy//legacy. VD: 유산을 물려받다 = inherit the legacy/Du Sơn
-유적==ruins//ruins. VD: 유적이 발견되다 = ruins are discovered/Du Tích
-유적지==historic site//historic site. VD: 유적지를 조사하다 = inspect a historical site/Du Tích Chỉ
-유혹==temptation//temptation. VD: 뇌물의 유혹 = temptation of bribery/Du Hoặc
-음성==voice//voice. VD: 음성을 듣다 = hear a voice/Âm Thành
-응급실==emergency room/phòng/emergency room. VD: 응급실에 실려 가다 = be taken to the emergency room/Ứng Cấp Thất
-의식==consciousness//consciousness. VD: 의식을 잃다 = lose consciousness/Nghị Thực
-의심==suspicion//suspicion. VD: 의심을 받다 = be under suspicion/Nghị Tâm
-의지==reliance//reliance. VD: 의지를 하다 = rely on/Nghị Chỉ
-의지==willpower//willpower. VD: 의지가 강하다 = be strong-willed/Nghị Chỉ
-이곳저곳==all over the place/nơi/all over the place. VD: 이곳저곳에 다니다 = go here and there/
-이국적==exotic//exotic. VD: 이국적 풍경 = exotic scenery/Nhị Quốc Tích
-이달==this month/tháng/this month. VD: 이달 말 = end of the month/Nhị Đạt
-이대로==like this, as it is/thích/like this, as it is. VD: 이대로 두다 = leave it as it is/Nhị Đại Lộ
-이동==movement//movement. VD: 장소 이동 = move location/Nhị Đồng
-이러다==like this/thích/like this. VD: 이러다 말하다 = talk like this/
-이런저런==this and that//this and that. VD: 이런저런 문제 = problems of one kind or another/
-이롭다==beneficial//beneficial. VD: 건강에 이롭다 = good for health/
-이루어지다==come true/đến/come true. VD: 소원이 이루어지다 = have wish come true/
-이름표==name tag//name tag. VD: 이름표를 달다 = put a name tag on/
-이리==over here//over here. VD: 이리 오다 = come here/Nhị Lý
-이리저리==here and there//here and there. VD: 이리저리 돌아다니다 = wander around/Nhị Lý Trữ Lý
-이만큼==this much//this much. VD: 이만큼 달라지다 = change this much/
-이메일==e-mail//e-mail. VD: 이메일을 보내다 = send an email/
-이미지==image//image. VD: 청각적 이미지 = auditory image/Nhị Mỹ Chỉ
-이성==opposite sex//opposite sex. VD: 이성 친구 = opposite sex friend/Nhị Thành
-이외==other than//other than. VD: 관계자 이외 = other than those involved/Nhị Ngoại
-인력==manpower//manpower. VD: 인력을 양성하다 = train manpower/Nhân Lực
-인쇄==printing//printing. VD: 인쇄 매체 = printed media/
-인쇄물==prints//prints. VD: 인쇄물을 찍다 = print out the prints/
-인정==recognition//recognition. VD: 인정을 받다 = receive recognition/Nhân Chính
-인하다==be caused by//be caused by. VD: 그로 인하여 = because of that/Nhân Hạ Đa
-일시==date and time/thời gian/date and time. VD: 모임 일시 = meeting date and time/Nhất Thị
-일회용==disposable//disposable. VD: 일회용 젓가락 = disposable chopsticks/Nhất Hội Dụng
-일회용품==disposable products//disposable products. VD: 일회용품을 사용하다 = use disposable products/Nhất Hội Dụng Phẩm
-입대==(army) enlistment//(army) enlistment. VD: 제대 = (army) discharge/Nhập Đại
-잇따르다==happen one after another/xảy ra/happen one after another. VD: 차가 잇따르다 = cars follow one another/
-자==ruler//ruler. VD: 자로 재다 = measure with a ruler/
-자극==irritation//irritation. VD: 피부에 자극이 되다 = irritate the skin/Tử Cực
-자기==self//self. VD: 자기를 반성하다 = reflect on oneself/Tử Kỳ
-자막==subtitle//subtitle. VD: 자막이 나오다 = subtitles appear/Tử Mạc
-자살==suicide//suicide. VD: 자살을 시도하다 = attempt suicide/Tử Sát
-자세하다==detailed//detailed. VD: 설명이 자세하다 = explanation is detailed/Tử Thế Hạ Đa
-자신==self-confidence//self-confidence. VD: 자신이 있다 = be confident/Tử Tân
-자신감==confidence//confidence. VD: 자신감이 넘치다 = full of confidence/Tử Tân Cảm
-자연환경==natural environment/môi trường/natural environment. VD: 자연환경을 보호하다 = protect the natural environment/Tử Diên Hoàn Kinh
-작곡==composition//composition. VD: 작곡 공부 = composition study/Tác Khúc
-작성==writing out//writing out. VD: 보고서 작성 = report writing/Tác Thành
-작은아버지==uncle (father's younger brother)//uncle (father's younger brother). VD: 친척 = relative/
-잔디밭==lawn//lawn. VD: 잔디밭에 앉다 = sit on the lawn/
-잔소리==nitpicking, nagging//nitpicking, nagging. VD: 잔소리를 늘어 놓다 = nag, give a nagging word/Tàn Tiểu Lý
-잘살다==be rich/giàu/be rich. VD: 잘사는 나라 = prosperous country/
-잡히다==be caught//be caught. VD: 도둑이 잡히다 = thief is caught/
-장기간==long time/dài/long time. VD: 장기간 머물다 = stay for a long time/Trường Kỳ Gian
-장난==joke//joke. VD: 장난이 심하다 = be mischievous/Trường Nan
-장면==scene//scene. VD: 장면을 목격하다 = witness the scene/Trường Miên
-장모==mother-in-law (wife's mother)//mother-in-law (wife's mother). VD: 장인 = father-in-law (wife's father)/Trường Mô
-장사==business/kinh doanh/business. VD: 장사가 잘되다 = business is going well/Trường Sự
-장애인==disabled//disabled. VD: 장애인 복지 = disabled welfare/Trường Ái Nhân
-장인==father-in-law (wife's father)//father-in-law (wife's father). VD: 장모 = mother-in-law (wife's mother)/Trường Nhân
-장하다==admirable//admirable. VD: 아들이 장하다 = my son is amazing/Trường Hạ Đa
-재-==re-//re-. VD: 재등록 = re-register/
-쟤==him//him. VD: 저 아이 = that kid/
-저기==there//there. VD: 저기, 잠깐만요 = Hey there, wait a minute./Trữ Kỳ
-저리==over there//over there. VD: 저리 가라 = go away/Trữ Lý
-저절로==by itself//by itself. VD: 저절로 가다 = go by itself/Trữ Tiết Lộ
-저지르다==commit//commit. VD: 실수를 저지르다 = make a mistake/
-적==enemy//enemy. VD: 적을 공격하다 = attack the enemy/
-적성==aptitude//aptitude. VD: 적성에 맞다 = fit one's style/Tích Thành
-적자==deficit//deficit. VD: 적자가 나다 = have a deficit/Tích Tử
-적절하다==appropriate//appropriate. VD: 상황이 적절하다 = situation is appropriate/Tích Tiết Hạ Đa
-적히다==be written down//be written down. VD: 숫자가 적히다 = number is written down/
-전세==lease on a deposit basis//lease on a deposit basis. VD: 전세로 살다 = live on a lease/Toàn Thế
-전시장==exhibition hall//exhibition hall. VD: 전시장을 둘러보다 = take a look around the exhibition hall/Toàn Thị Trường
-전용==exclusive//exclusive. VD: 외국인 전용 = exclusively for foreigners/Toàn Dụng
-전체적==overall//overall. VD: 전체적 분위기 = overall atmosphere/Toàn Thể Tích
-전통==tradition/truyền thống/tradition. VD: 전통을 잇다 = continue the tradition/Toàn Thông
-전후==details//details. VD: 전후 사정 = context, circumstances/Toàn Hậu
-절==Buddhist temple//Buddhist temple. VD: 절에 다니다 = go to temple/
-정답==right answer/trả lời/right answer. VD: 정답을 고르다 = choose the right answer/Chính Đáp
-정반대==the opposite, the reverse//the opposite, the reverse. VD: 정반대가 되다 = become the opposite/Chính Bán Đại
-정성==sincerity//sincerity. VD: 정성을 다하다 = put one's heart into/Chính Thành
-정신없다==not in one's right mind//not in one's right mind. VD: 게임에 정신없다 = crazy about the game/
-정육점==butcher shop/cửa hàng/butcher shop. VD: 정육점에서 고기를 사다 = buy meat from the butcher/Chính Dục Điểm
-정의==definition//definition. VD: 정의를 내리다 = give definition/Chính Nghị
-정치인==politician//politician. VD: 정치인이 되다 = become a politician/Chính Trí Nhân
-제==my//my. VD: 제 생각 = my thoughts/
-제도==institution//institution. VD: 결혼 제도 = institution of marriage/Chế Đồ
-제때==right time/thời gian/right time. VD: 제때를 놓치다 = miss the right time/
-제사==ancestral rite//ancestral rite. VD: 제사를 지내다 = perform a ancestral rite/Chế Sự
-제시간==on time/thời gian/on time. VD: 제시간에 맞추다 = be on time/Chế Thị Gian
-제약==restrictions//restrictions. VD: 제약이 많다 = many restrictions/Chế Ước
-제자==disciple//disciple. VD: 스승과 제자 = teacher and disciple/Chế Tử
-제자리==Same place/giống nhau/Same place. VD: 제자리에 꽂다 = put in the same place/Chế Tử Lý
-제출==submission//submission. VD: 보고서 제출 = submission of written report/Chế Xuất
-조건==condition/điều kiện/condition. VD: 성공 조건 = condition of success/Tổ Kiến
-조리==cooking//cooking. VD: 조리 시간 = cooking time/Tổ Lý
-조정==adjustment//adjustment. VD: 시간 조정 = time adjustment/Tổ Chính
-죄==crime//crime. VD: 죄를 짓다 = commit a crime/
-주민==resident//resident. VD: 주민이 모이다 = residents gather/Chủ Dân
-주방==kitchen//kitchen. VD: 주방에서 요리하다 = cook in the kitchen/Chủ Phương
-주요==main//main. VD: 주요 인물 = main character/Chủ Yếu
-주의==caution//caution. VD: 주의를 시키다 = draw attention/Chủ Nghị
-주제==topic//topic. VD: 대화 주제 = topic of conversation/Chủ Chế
-주택==housing//housing. VD: 주택을 짓다 = build housing/Chủ Trạch
-줄곧==continuously//continuously. VD: 줄곧 생각하다 = think all the time/
-중==monk//monk. VD: 불교 = Buddhism/
-중급==intermediate level//intermediate level. VD: 중급 수준 = intermediate level standard/Trung Cấp
-중반==middle stage//middle stage. VD: 중반에 들어서다 = enter the middle stage/Trung Bán
-중얼거리다==mutter//mutter. VD: 혼자 중얼거리다 = mutter to oneself/
-즉==in other words//in other words. VD: 즉, 다시 말해서 = In other words,/
-지금껏==up to this point//up to this point. VD: 지금껏 모르다 = don't know until now/
-지치다==exhausted//exhausted. VD: 몸이 지치다 = physically exhausted/Chỉ Trí Đa
-지하실==cellar//cellar. VD: 지하실로 내려가다 = go down to the basement/Chỉ Hạ Thất
-직후==immediately after/ngay lập tức/immediately after. VD: 식사 직후 = immediately after meal/Trực Hậu
-진단서==medical certificate//medical certificate. VD: 진단서를 떼다 = take off a written diagnosis/Trần Đoàn Thư
-진술==statement//statement. VD: 진술을 듣다 = listen to the statement/Trần Thuật
-진심==sincerity//sincerity. VD: 진심으로 축하하다 = congratulate sincerely/Trần Tâm
-질==quality//quality. VD: 질이 좋다 = quality is good/
-집중적==intensive//intensive. VD: 집중적 관심 = focused attention/Tập Trung Tích
-짚다==lean on//lean on. VD: 지팡이를 짚다 = walk with a cane/
-짜다==knit, crochet//knit, crochet. VD: 목도리를 짜다 = knit a scarf/
-쫓겨나다==be kicked out//be kicked out. VD: 집에서 쫓겨나다 = be kicked out of one's home/
-쫓아내다==drive out/lái/drive out. VD: 마을에서 쫓아내다 = drive somebody out of town/
-쭉==all the way/cách/all the way. VD: 줄을 쭉 긋다 = draw a straight line/
-찌르다==pierce//pierce. VD: 바늘로 찌르다 = pierce with a needle/
-찌푸리다==frown//frown. VD: 인상을 찌푸리다 = make a grimace, frown/
-찡그리다==frown//frown. VD: 얼굴을 찡그리다 = frown one's face/
-차라리==rather/khá/rather. VD: 차라리 죽는 게 낫다 = I'd rather die/Xa La Lý
-차리다==set up//set up. VD: 음식을 차리다 = set the table with food/Xa Lý Đa
-차이점==difference//difference. VD: 차이점이 없다 = there is no difference/Xa Nhị Điểm
-착각==illusion//illusion. VD: 착각에 빠지다 = fall into an illusion/Trước Giác
-참기름==sesame oil//sesame oil. VD: 참기름을 바르다 = rub in sesame oil/
-창작==creation//creation. VD: 창작과 모방 = creation and imitation/Sáng Tác
-창피==embarrassment//embarrassment. VD: 창피를 당하다 = embarrass oneself/Sáng Bì
-찾아다니다==visit//visit. VD: 명소를 찾아다니다 = visit famous places/
-채우다==fill/đổ đầy/fill. VD: 자리를 채우다 = fill a gap/Thái Vũ Đa
-책임==responsibility/trách nhiệm/responsibility. VD: 책임을 지다 = take the responsibility/Sách Nhậm
-책임감==sense of responsibility/trách nhiệm/sense of responsibility. VD: 책임감이 강하다 = have a strong sense of responsibility/Sách Nhậm Cảm
-챔피언==champion//champion. VD: 챔피언을 차지하다 = win the championship/
-처리==dealing with//dealing with. VD: 사고 처리 = handling the accident/Xử Lý
-처벌==punishment//punishment. VD: 처벌을 받다 = be punished/Xử Phạt
-천재==genius//genius. VD: 천재 시인 = genius poet/Thiên Tài
-철==maturity//maturity. VD: 철이 들다 = grow up/
-첫사랑==first love/tình yêu/first love. VD: 첫사랑과 재회하다 = meet the first love again/
-청혼==marriage proposal//marriage proposal. VD: 청혼을 거절하다 = turn down a marriage proposal/Thanh Hôn
-초승달==crescent//crescent. VD: 초승달이 뜨다 = the crescent moon rises/Sơ Thăng Đạt
-초여름==early summer//early summer. VD: 초여름 더위 = early summer heat/
-초점==focus//focus. VD: 초점을 맞추다 = set the focus/Sơ Điểm
-초청==invitation//invitation. VD: 초청 강연 = guest lecture/Sơ Thanh
-초청장==letter of invitation//letter of invitation. VD: 초청장을 보내다 = send an invitation/Sơ Thanh Trường
-최저==the lowest//the lowest. VD: 최고 = the highest/Tối Trữ
-최초==the first//the first. VD: 최초로 발견하다 = discover first/Tối Sơ
-추가==addition//addition. VD: 추가 모집 = additional recruitment/Thu Gia
-추측==guess/đoán/guess. VD: 추측이 맞다 = the guess is correct/Thu Trắc
-출현==emergence//emergence. VD: 출현 시기 = emergence moment/Xuất Hiện
-충격적==shocking//shocking. VD: 충격적 사실 = shocking fact/Trung Cách Tích
-취업==employment//employment. VD: 취업을 알선하다 = help with employment/Thủ Nghiệp
-취업난==unemployment crisis//unemployment crisis. VD: 취업난에 시달리다 = suffer from employment crisis/Thủ Nghiệp Nan
-측==side//side. VD: 학교 측 = school side/
-측면==side//side. VD: 오른쪽 측면 = right side/Trắc Miên
-치다==sprinkle//sprinkle. VD: 후추를 치다 = sprinkle with pepper/Trí Đa
-치료제==medication//medication. VD: 혈압 치료제 = blood pressure medication/Trí Liệu Chế
-치수==size//size. VD: 치수를 재다 = measure the size/Trí Thủ
-치즈==cheese//cheese. VD: 치즈를 먹다 = eat cheese/
-친딸==biological daughter/con gái/biological daughter. VD: 친딸처럼 대하다 = treat like one's own daughter/
-친아버지==biological father/bố/biological father. VD: 친아버지처럼 대하다 = treat like one's own father/
-친어머니==birth mother/mẹ/birth mother. VD: 친아버지친어머니처럼 대하다 = treat like one's own mother/
-친언니==older biological sister/chị/em gái/older biological sister. VD: 친언니처럼 대하다 = treat like your own sister/
-친오빠==older biological brother/anh/em trai/older biological brother. VD: 친오빠처럼 대하다 = treat like your own brother/
-침==saliva//saliva. VD: 침을 뱉다 = spit saliva/
-침묵==silence//silence. VD: 침묵을 깨다 = break the silence/
-캄캄하다==pitch dark//pitch dark. VD: 밖이 캄캄하다 = it's dark outside/
-커다랗다==huge//huge. VD: 문제가 커다랗다 = the problem is huge/
-커지다==grow big/lớn lên/grow big. VD: 문제가 커지다 = the problem grows/
-코스==course//course. VD: 드라이브 코스 = drive course/
-콧노래==humming//humming. VD: 콧노래를 부르다 = hum a song/
-큰길==main street//main street. VD: 큰길로 다니다 = walk on the main street/
-큰집==home of the eldest son of a family/con trai/home of the eldest son of a family. VD: 큰집에 가다 = go to the eldest brother's home/
-키스==kiss//kiss. VD: 키스를 하다 = kiss/
-타인==others//others. VD: 타인을 의식하다 = be conscious of others/Tha Nhân
-탑승==boarding//boarding. VD: 비행기 탑승 = boarding the plane/
-태양==the sun/mặt trời/the sun. VD: 태양이 뜨다 = the sun rises/Thái Dương
-털다==brush off//brush off. VD: 옷을 털다 = brush off one's clothes/
-텅==emptiness//emptiness. VD: 텅 비다 = completely empty/
-토하다==vomit//vomit. VD: 음식을 토하다 = vomit food/Thổ Hạ Đa
-통통하다==chubby//chubby. VD: 몸매가 통통하다 = chubby figure/Thông Thông Hạ Đa
-틈틈이==from time to time/thời gian/from time to time. VD: 틈틈이 하다 = do from time to time/
-파다==dig//dig. VD: 땅을 파다 = dig the ground/Phá Đa
-파출소==police precinct//police precinct. VD: 파출소에 신고하다 = report to the precinct/Phá Xuất Tiểu
-편==side//side. VD: 저쪽 편 = other side/
-평상시==usual//usual. VD: 평상시와 같다 = same as usual/Bình Thượng Thị
-평생==lifetime//lifetime. VD: 평생을 보내다 = spend a lifetime/Bình Sinh
-폐지==abolition//abolition. VD: 제도의 폐지 = system abolition/Phế Chỉ
-포근하다==cozy//cozy. VD: 잠자리가 포근하다 = bed is cozy/Bao Cận Hạ Đa
-포기==giving up//giving up. VD: 중도 포기 = quitting midway through/Bao Kỳ
-포함==include//include. VD: 세금 포함 = tax included/Bao Hàm
-폭발==explosion//explosion. VD: 감정 폭발 = emotional outburst/Bạo Phát
-폭우==heavy rain/nặng/heavy rain. VD: 폭우가 내리다 = heavy rain falls/Bạo Vũ
-품질==quality//quality. VD: 품질이 뛰어나다 = quality is excellent/Phẩm Chất
-풍기다==emit//emit. VD: 냄새를 풍기다 = emit an odor/Phong Kỳ Đa
-피서==summer vacation//summer vacation. VD: 피서를 즐기다 = enjoy summer vacation/Bì Thư
-피하다==avoid/tránh/avoid. VD: 책임을 피하다 = avoid responsibility/Bì Hạ Đa
-필수==essential//essential. VD: 필수 조건 = prerequisite/Tất Thủ
-필수품==necessity//necessity. VD: 필수품을 장만하다 = stock up on necessities/Tất Thủ Phẩm
-하숙==boarding house/nhà/boarding house. VD: 하숙을 옮기다 = move to the boarding house/Hạ Túc
-학자==scholar//scholar. VD: 학자를 초청하다 = invite a scholar/Học Tử
-한계==limits//limits. VD: 한계를 넘다 = go over the limits/Hàn Kế
-한눈==glance//glance. VD: 한눈에 알아보다 = recognize at a glance/
-한문==Chinese writing//Chinese writing. VD: 한문을 읽다 = read Chinese characters/Hàn Văn
-한숨==sigh//sigh. VD: 한숨을 쉬다 = let out a sigh/
-한여름==midsummer//midsummer. VD: 한여름을 지내다 = spend midsummer/
-한자==Chinese character//Chinese character. VD: 한자로 쓰다 = write in Chinese characters/Hàn Tử
-할부==installment plan//installment plan. VD: 할부 기간 = installment period/Cát Phụ
-합리적==rational//rational. VD: 합리적 방법 = rational method/Hợp Lý Tích
-합하다==unite//unite. VD: 힘을 합하다 = join forces/Hợp Hạ Đa
-해변==seaside//seaside. VD: 해변을 거닐다 = walk on the seaside/Hải Biến
-해치다==ruin//ruin. VD: 경관을 해치다 = ruin the landscape/Hải Trí Đa
-핵심==key point//key point. VD: 핵심이 되다 = be the key point/Hạch Tâm
-햇볕==sunshine//sunshine. VD: 햇볕을 쬐다 = bask in the sun/
-향==incense//incense. VD: 향을 피우다 = burn incense/
-향기==scent//scent. VD: 향기를 맡다 = smell/Hương Kỳ
-향상==improvement//improvement. VD: 기술 향상 = skill improvement/Hương Thượng
-헤엄치다==swim/bơi/swim. VD: 물에서 헤엄치다 = swim in water/
-현상==phenomenon//phenomenon. VD: 열대야 현상 = tropical night phenomenon/Hiện Thượng
-현장==site//site. VD: 현장에 나가다 = go on site/Hiện Trường
-형님==older brother/anh/em trai/older brother. VD: 형님과 아우 = big brother and little brother/
-혜택==benefits//benefits. VD: 혜택을 누리다 = enjoy the benefits/Huệ Trạch
-호기심==curiosity//curiosity. VD: 호기심이 강하다 = curiosity is strong/Hồ Kỳ Tâm
-호두==walnut//walnut. VD: 호두 열매 = walnut fruit/Hồ Đầu
-호박==pumpkin//pumpkin. VD: 식물 = plant/Hồ Bác
-혼내다==scold//scold. VD: 동생을 혼내다 = scold one's younger brother/Hôn Nội Đa
-홈페이지==home page//home page. VD: 홈페이지에 접속하다 = access the homepage/
-화장대==vanity table/bàn/vanity table. VD: 화장대에 앉다 = sit at the vanity table/Hóa Trường Đại
-화장지==toilet paper/giấy/toilet paper. VD: 화장지로 닦다 = wipe with toilet paper/Hóa Trường Chỉ
-화제==topic//topic. VD: 화제를 바꾸다 = change the topic/Hóa Chế
-화창하다==sunny//sunny. VD: 날씨가 화창하다 = the weather is sunny/Hóa Sáng Hạ Đa
-환상==illusion//illusion. VD: 환상이 깨지다 = the illusion is broken/Hoàn Thượng
-활동==activity/hoạt động/activity. VD: 활동이 어렵다 = activity is difficult/Hoạt Đồng
-회담==meeting//meeting. VD: 회담을 열다 = hold a meeting/Hội Đàm
-회의실==meeting room/phòng/meeting room. VD: 회의실에 모이다 = gather in meeting room/Hội Nghị Thất
-횟수==number of times//number of times. VD: 횟수를 세다 = count the number of times/
-효과==effect//effect. VD: 효과가 있다 = there is an effect/Hiếu Quả
-효과적==effective//effective. VD: 효과적 사용 = effective use/Hiếu Quả Tích
-효율적==efficient//efficient. VD: 효율적 방법 = efficient way/
-흉내==imitation//imitation. VD: 흉내를 내다 = imitate/Hung Nội
-흥분==excitement//excitement. VD: 흥분을 가라앉히다 = calm oneself down/Hưng Phân
-희생자==victim//victim. VD: 희생자가 늘다 = the number of victims increases/Hy Sinh Tử
-힘껏==with all strength//with all strength. VD: 힘껏 밀다 = push hard/
-힘쓰다==strive//strive. VD: 학업에 힘쓰다 = put effort into one's studies/
-힘차다==powerful//powerful. VD: 목소리가 힘차다 = voice is powerful/
+-문==(writing)//(writing)/
+-법==(method)//(method)/
+-사==-(professional)//-(professional)/
+-사==-(professional)//-(professional)/
+-사==-(professional)//-(professional)/
+-성==(characteristics)//(characteristics)/
+-소==(institution)//(institution)/
+-원==(institute)//(institute)/
+-화==becoming//becoming/
+가능성==possibility//possibility/Gia Năng Thành
+가렵다==itchy//itchy/
+가리다==distinguish//distinguish/Gia Lý Đa
+가만==just as it is/chỉ/just as it is/Gia Vạn
+가사==lyrics//lyrics/Gia Sự
+가입자==subscriber, member//subscriber, member/Gia Nhập Tử
+가장==the head/đầu/the head/Gia Trường
+가죽==leather//leather/Gia Trúc
+각종==various/đa dạng/various/Giác Chung
+간격==space, distance//space, distance/Gian Cách
+간섭==interference//interference/
+간지럽다==ticklish, itchy//ticklish, itchy/
+갈라지다==be cracked//be cracked/Cát La Chỉ Đa
+감독==supervision//supervision/Cảm Độc
+감상==appreciation//appreciation/Cảm Thượng
+강사==teacher, instructor/giáo viên/teacher, instructor/Cường Sự
+강요==coercion//coercion/Cường Yếu
+갖가지==various/đa dạng/various/
+개방==opening//opening/Khai Phương
+개선==improvement//improvement/Khai Tiên
+개최==hosting//hosting/Khai Tối
+걔==that kid, he, she//that kid, he, she/
+거들다==assist, help/giúp đỡ/assist, help/
+건설==construction//construction/Kiến Thiết
+검토==examine//examine/Kiểm Thổ
+게다가==furthermore//furthermore/
+게시==posting//posting/
+겨울철==wintertime//wintertime/
+결국==finally/cuối cùng/finally/Quyết Quốc
+결승==final round//final round/Quyết Thăng
+결혼식장==wedding hall//wedding hall/Quyết Hôn Thực Trường
+겹치다==overlap//overlap/
+경비실==security office//security office/Kinh Phi Thất
+경쟁력==competitiveness//competitiveness/Kinh Tranh Lực
+경제력==economic power//economic power/Kinh Chế Lực
+경제적==economical//economical/Kinh Chế Tích
+곁==side//side/
+고궁==old palace/cũ/old palace/Cổ Cung
+고급스럽다==luxurious//luxurious/
+고요==silence//silence/Cổ Yếu
+고유==inherence, native//inherence, native/Cổ Du
+고장==hometown//hometown/Cổ Trường
+곧바로==right away//right away/
+곧장==right away//right away/
+공공요금==utility bill//utility bill/Công Công Yếu Kim
+공기==air/không khí/air/Công Kỳ
+공사==construction//construction/Công Sự
+공손하다==be polite//be polite/Công Tổn
+공식==official//official/Công Thực
+공주==princess//princess/Công Chủ
+공통점==commonality//commonality/Công Thông Điểm
+과식==overeating//overeating/Quả Thực
+관객==audience//audience/Quan Khách
+관계없다==irrelevant, unrelated//irrelevant, unrelated/
+관계없이==irrelevantly//irrelevantly/
+광경==scene, sight//scene, sight/Quang Kinh
+괴롭히다==distress, torment//distress, torment/
+교체==substitute//substitute/Giáo Thể
+구성==composition//composition/Cửu Thành
+구체적==detailed//detailed/Cửu Thể Tích
+국내선==domestic flight//domestic flight/Quốc Nội Tiên
+국산==domestic//domestic/Quốc Sơn
+귀가==homecoming//homecoming/Quý Gia
+귀중하다==valuable, precious//valuable, precious/Quý Trung
+귀하==(formal title) you//(formal title) you/Quý Hạ
+그녀==she//she/
+그대==you//you/
+그리움==homesick, longing//homesick, longing/
+그만큼==that much//that much/
+그야말로==truly, simply//truly, simply/
+그중==among them//among them/
+극복==overcome//overcome/Cực Phục
+금==Fri//Fri/
+금년==this year/năm/this year/Kim Niên
+긍정적==positive/tích cực/positive/Khẳng Chính Tích
+기념==commemoration//commemoration/Kỳ Niệm
+기대다==lean//lean/Kỳ Đại Đa
+기독교==Christian//Christian/Kỳ Độc Giáo
+기본==basics//basics/Kỳ Bản
+기울다==tilt//tilt/
+기울이다==lean, pay attention to/trả/lean, pay attention to/
+기원==origin//origin/Kỳ Viên
+기적==miracle//miracle/Kỳ Tích
+기존==existing//existing/Kỳ Tồn
+기혼==married//married/Kỳ Hôn
+길가==roadside//roadside/
+까다롭다==picky//picky/
+깔리다==lay down//lay down/
+깨==sesame//sesame/
+깨닫다==realize//realize/
+깨물다==bite//bite/
+깨어나다==wake up, regain/thức dậy/wake up, regain/
+꺼지다==be blown out//be blown out/
+꼬리==tail//tail/
+꼭대기==top//top/
+꼼꼼하다==meticulous, careful//meticulous, careful/
+꼼짝==with a slight move/di chuyển/with a slight move/
+꿈속==in a dream//in a dream/
+끼어들다==cut in, cross in/cắt/cut in, cross in/
+끼이다==be stuck in//be stuck in/
+나란히==side by side//side by side/
+나름==depending on, up to//depending on, up to/
+나물==herbs//herbs/Na Vật
+난리==chaos, commotion//chaos, commotion/Nan Lý
+난방==heating//heating/Nan Phương
+날리다==be flown//be flown/
+남부==southern//southern/Nam Phụ
+내내==all the time, throughout/thời gian/all the time, throughout/Nội Nội
+내려앉다==sit down, sink/ngồi/sit down, sink/
+냉방==cooling//cooling/
+넉넉하다==plentiful//plentiful/
+널리==extensively//extensively/
+넓어지다==be widened//be widened/
+넓히다==widen, broaden//widen, broaden/
+네티즌==netizen//netizen/
+노동==labor/lao động/labor/Nô Đồng
+노트북==laptop//laptop/
+녹다==(sth) melt/tan chảy/(sth) melt/
+녹이다==melt (sth)/tan chảy/melt (sth)/
+논리적==logical//logical/
+놀이공원==amusement park//amusement park/
+높아지다==rise/tăng/rise/
+눈동자==pupil//pupil/
+눈부시다==dazzle//dazzle/
+눈빛==a look in the eyes/nhìn/a look in the eyes/
+눈앞==in front of//in front of/
+눈치==sense, wits//sense, wits/
+늘어서다==line up//line up/
+늦가을==late autumn//late autumn/
+늦잠==oversleeping//oversleeping/
+님==sir//sir/
+다가오다==come towards/đến/come towards/Đa Gia Ngũ Đa
+다듬다==trim//trim/
+다루다==deal with, handle//deal with, handle/
+다소==little, rather, slight/nhỏ/little, rather, slight/Đa Tiểu
+다지다==mince//mince/Đa Chỉ Đa
+단골==regular (customer)//regular (customer)/Đoàn Cốt
+단독==being independent//being independent/Đoàn Độc
+단순히==simply//simply/
+단점==disadvantage//disadvantage/Đoàn Điểm
+단지==a housing complex//a housing complex/Đoàn Chỉ
+달리다==be attached, be hung//be attached, be hung/Đạt Lý Đa
+달성==achievement//achievement/Đạt Thành
+달하다==reach/tháng/reach/
+담그다==dip//dip/
+담임==homeroom teacher/giáo viên/homeroom teacher/Đàm Nhậm
+당시==at the time/thời gian/at the time/Đang Thị
+당신==you//you/Đang Tân
+당일==the same day/giống nhau/the same day/Đang Nhất
+대강==outline//outline/Đại Cường
+대기==air, atmosphere/bầu khí quyển/air, atmosphere/Đại Kỳ
+대기==waiting, standby/bầu khí quyển/waiting, standby/Đại Kỳ
+대다==be on time/thời gian/be on time/Đại Đa
+대다수==majority//majority/Đại Đa Thủ
+대도시==big city/to/big city/Đại Đồ Thị
+대리==deputy, substitute/phó/deputy, substitute/Đại Lý
+대사==line//line/Đại Sự
+대접==hospitality//hospitality/Đại Tiếp
+대처==coping with//coping with/Đại Xử
+더러워지다==get dirty/bẩn/get dirty/
+더불다==together/cùng nhau/together/
+데리다==bring with/mang/bring with/
+도난==theft//theft/Đồ Nan
+도대체==come to the point/đến/come to the point/Đồ Đại Thể
+도둑==thief//thief/
+도중==being in the middle//being in the middle/Đồ Trung
+동그라미==circle//circle/
+동기==motivation//motivation/Đồng Kỳ
+동기==motivation//motivation/Đồng Kỳ
+동양인==an Asian//an Asian/Đồng Dương Nhân
+동일==same/giống nhau/same/Đồng Nhất
+동창==alumni//alumni/Đồng Sáng
+동창회==reunion//reunion/Đồng Sáng Hội
+되살리다==revive (sth)//revive (sth)/
+되살아나다==be revived//be revived/
+되찾다==get back, regain//get back, regain/
+되풀이==repetition//repetition/
+두드러지다==prominent, noticeable//prominent, noticeable/
+두려워하다==to be afraid of/sợ/to be afraid of/
+두렵다==be afraid/sợ/be afraid/
+드러나다==be revealed//be revealed/
+들려오다==be heard//be heard/
+들어서다==step in//step in/
+등기==the register/đăng ký/the register/Đẳng Kỳ
+따다==pick//pick/
+땅속==in the ground//in the ground/
+때==dirt//dirt/
+떠나오다==leave (a place and come to this place)/rời/leave (a place and come to this place)/
+떠오르다==rise (up), float/tăng/rise (up), float/
+떨다==shiver, tremble//shiver, tremble/
+또다시==again//again/
+똥==poop, shit//poop, shit/
+뚜껑==lid//lid/
+뚫리다==have a hole, be found//have a hole, be found/
+뜨다==(sth) rise/tăng/(sth) rise/
+뜻대로==at one's will//at one's will/
+레몬==lemon//lemon/
+로그인==login//login/
+마땅히==rightly//rightly/
+마음가짐==mental attitude, mindset//mental attitude, mindset/
+마음껏==to one's satisfaction//to one's satisfaction/
+마음대로==as you please, at will//as you please, at will/Mã Âm Đại Lộ
+마이크==mic//mic/
+마주치다==come across, meet/gặp/come across, meet/Mã Chủ Trí Đa
+마찬가지==same here/giống nhau/same here/Mã Tán Gia Chỉ
+마침==just, just in time/chỉ/just, just in time/Mã Xâm
+마침내==finally/rốt cuộc/finally/Mã Xâm Nội
+막내==youngest//youngest/Mạc Nội
+막대기==a stick//a stick/Mạc Đại Kỳ
+막상==in reality//in reality/Mạc Thượng
+막연하다==vague//vague/Mạc Diên
+막차==last train/tàu hỏa/last train/Mạc Xa
+만남==meeting//meeting/Vạn Nam
+만원==one' capacity//one' capacity/Vạn Viên
+맘대로==as you like/thích/as you like/
+망설이다==hesitate//hesitate/Vọng Thiết Nhị Đa
+망치다==ruin, spoil, mess up//ruin, spoil, mess up/Vọng Trí Đa
+망하다==failed, perish//failed, perish/
+맞다==be struck, be hit/đánh/be struck, be hit/
+맞벌이==dual income//dual income/
+맞은편==opposite side//opposite side/
+맞이하다==greet, welcome/chào/greet, welcome/
+맞춤법==spelling//spelling/
+맡기다==entrust//entrust/
+맡다==smell, sniff, detect/ngửi/smell, sniff, detect/
+머뭇거리다==waver//waver/
+메우다==fill up/đổ đầy/fill up/
+멜로디==melody//melody/
+면접관==interviewer//interviewer/Miên Tiếp Quan
+면하다==get rid of//get rid of/
+명==name, title//name, title/
+명단==list//list/Minh Đoàn
+모니터==monitor//monitor/
+모여들다==gather//gather/
+모집==recruitment//recruitment/Mô Tập
+모처럼==with much trouble//with much trouble/
+목==Fri/cổ/Fri/
+목록==list//list/Mộc Lục
+몸무게==weight//weight/
+몸속==in the body/cơ thể/in the body/
+무관하다==irrelevant, unrelated//irrelevant, unrelated/Vũ Quan
+무더위==intense heat//intense heat/
+무덤==tomb//tomb/
+무덥다==hot and stuffy/nóng/hot and stuffy/
+무리==impracticality//impracticality/Vũ Lý
+무용==traditional dancing//traditional dancing/Vũ Dụng
+무의미==meaningless//meaningless/Vũ Nghị Mỹ
+묵묵히==silently//silently/
+문서==document//document/Văn Thư
+문의==inquiry//inquiry/Văn Nghị
+문화재==cultural heritage//cultural heritage/Văn Hóa Tài
+묻다==be stained//be stained/
+묻히다==smear, stain//smear, stain/
+묻히다==be buried//be buried/
+물가==riverside//riverside/Vật Gia
+물기==moisture, wetness//moisture, wetness/Vật Kỳ
+물다==bite//bite/Vật Đa
+물리다==be bitten//be bitten/Vật Lý Đa
+물소리==sound of water/nước/sound of water/Vật Tiểu Lý
+물약==liquid medicine/thuốc/liquid medicine/Vật Ước
+물음==question/câu hỏi/question/Vật Âm
+뭘==what//what/
+미국인==American//American/Mỹ Quốc Nhân
+미끄럽다==slippery//slippery/
+미니==mini//mini/
+미용사==hairdresser//hairdresser/Mỹ Dụng Sự
+미장원==beauty salon/vẻ đẹp/beauty salon/Mỹ Trường Viên
+미팅==meeting//meeting/
+밀리다==be jammed//be jammed/Mật Lý Đa
+밀리다==be pushed//be pushed/Mật Lý Đa
+밑바닥==bottom//bottom/
+바==way, side/cách/way, side/
+바람직하다==desirable//desirable/
+바르다==right, righteous//right, righteous/
+반기다==welcome/chào đón/welcome/Bán Kỳ Đa
+반대쪽==opposite direction//opposite direction/
+반면==on the other hand/tay/on the other hand/Bán Miên
+반성==introspection//introspection/Bán Thành
+반짝반짝==glittering//glittering/
+반창고==adhesive tape, bandaid//adhesive tape, bandaid/Bán Sáng Cổ
+발걸음==footfall, gait//footfall, gait/Phát Kiệt Âm
+발급==issued//issued/Phát Cấp
+발음==pronunciation//pronunciation/Phát Âm
+밝혀내다==uncover, find out//uncover, find out/
+밝혀지다==be illuminated//be illuminated/
+밤==chestnut/đêm/chestnut/
+배다==cling to//cling to/Bồi Đa
+뱉다==spit//spit/
+번화하다==bustling, busy/bận/bustling, busy/Phiên Hóa
+벌==punishment//punishment/
+벌리다==widen, spread//widen, spread/Phạt Lý Đa
+범죄==crime/tội phạm/crime/Phạm Tội
+벤치==bench//bench/
+벨==bell//bell/
+변덕스럽다==capricious, changeable//capricious, changeable/
+변동==variance//variance/Biến Đồng
+별명==nickname//nickname/Biệt Minh
+보급==diffusion//diffusion/Bảo Cấp
+보상==compensation//compensation/Bảo Thượng
+보석==jewel//jewel/Bảo Thạch
+보안==security//security/Bảo An
+보완==supplement, correction//supplement, correction/Bảo Hoàn
+보전==integrity//integrity/Bảo Toàn
+보충==supplement//supplement/Bảo Trung
+복사기==copy machine//copy machine/Phục Sự Kỳ
+복용==taking//taking/Phục Dụng
+본인==me, oneself//me, oneself/Bản Nhân
+부대==army unit//army unit/Phụ Đại
+부자==wealthy//wealthy/Phụ Tử
+부잣집==rich house/giàu/rich house/
+부정==fraud//fraud/Phụ Chính
+부정==negation//negation/Phụ Chính
+부정확==inaccuracy//inaccuracy/Phụ Chính Xác
+부친==father/bố/father/
+북부==northern//northern/Bắc Phụ
+분수==one's places//one's places/Phân Thủ
+불가피하다==inevitable//inevitable/Bất Gia Bì
+불교==Buddhism//Buddhism/Bất Giáo
+불구하다==disregard//disregard/Bất Cửu
+불균형==imbalance//imbalance/Bất Quân Hình
+불러일으키다==arouse//arouse/
+불만족스럽다==dissatisfied//dissatisfied/
+불빛==a light/nhẹ/a light/
+불충분==insufficiency//insufficiency/Bất Trung Phân
+붙잡히다==be caught//be caught/
+비-==in-//in-/
+비결==secret//secret/Phi Quyết
+비닐==vinyl//vinyl/
+비로소==for the first time/thời gian/for the first time/Phi Lộ Tiểu
+비롯되다==come from, be originated/đến/come from, be originated/
+비상구==emergency exit/ra/emergency exit/Phi Thượng Cửu
+비추다==shine, illuminate//shine, illuminate/Phi Thu Đa
+비타민==vitamin//vitamin/
+비판적==critical//critical/Phi Phán Tích
+빗길==wet road/đường/wet road/
+빛나다==shine//shine/
+빠뜨리다==drown, fall into/rơi/drown, fall into/
+빠트리다==drown, fall into/rơi/drown, fall into/
+뽀뽀==kiss//kiss/
+사건==incident//incident/Sự Kiến
+사과==apologize/xin lỗi/apologize/Sự Quả
+사기==scam, fraud//scam, fraud/Sự Kỳ
+사로잡다==captivate//captivate/
+사립==private//private/Sự Lập
+사무==affairs//affairs/Sự Vũ
+사설==editorial//editorial/Sự Thiết
+사업자==businessman//businessman/Sự Nghiệp Tử
+사이트==site//site/
+사적==private//private/Sự Tích
+사촌==cousin//cousin/
+사태==situation/tình huống/situation/Sự Thái
+사항==item, detail//item, detail/Sự Hàng
+삭제==delete//delete/
+산꼭대기==mountain top/núi/mountain top/
+산속==in the mountains//in the mountains/Sơn Tốc
+살아나다==be revived, revive//be revived, revive/Sát Á Na Đa
+살아남다==survive/sống sót/survive/Sát Á Nam Đa
+살인==murder//murder/Sát Nhân
+살짝==a little/nhỏ/a little/
+살찌다==getting fat//getting fat/
+살피다==check, examine//check, examine/Sát Bì Đa
+상담실==service center//service center/Thượng Đàm Thất
+상당하다==considerable//considerable/Thượng Đang
+상대==someone, a person/người/someone, a person/Thượng Đại
+상대방==opponent, other person/người/opponent, other person/Thượng Đại Phương
+상대편==the other side//the other side/Thượng Đại Thiên
+상반기==the first half//the first half/Thượng Bán Kỳ
+상상력==imagination (power)//imagination (power)/Thượng Thượng Lực
+상쾌하다==refreshing//refreshing/
+상태==situation/tình huống/situation/Thượng Thái
+상황==situation/tình huống/situation/Thượng Hoàng
+새엄마==stepmother//stepmother/Tân Nghiêm Mã
+새우==shrimp//shrimp/Tân Vũ
+생겨나다==arise//arise/
+생기==vitality//vitality/Sinh Kỳ
+생략==skip, omission//skip, omission/
+생존==survival//survival/Sinh Tồn
+섞이다==be mixed//be mixed/
+선==line//line/
+선약==prior appointment//prior appointment/Tiên Ước
+선전==advertisement//advertisement/Tiên Toàn
+설레다==flutter, excited//flutter, excited/
+설립==establish//establish/Thiết Lập
+설마==no way/cách/no way/Thiết Mã
+설사==diarrhea//diarrhea/Thiết Sự
+설정==setting//setting/Thiết Chính
+성립==establishment//establishment/Thành Lập
+성명==name//name/Thành Minh
+성숙==maturity//maturity/Thành Túc
+성실==sincerity//sincerity/Thành Thất
+세련되다==stylish//stylish/
+세로==vertical//vertical/Thế Lộ
+세모==triangle//triangle/Thế Mô
+소개팅==blind date//blind date/
+소녀==girl//girl/Tiểu Nữ
+소아과==pediatrics//pediatrics/Tiểu Á Quả
+소요==requirement//requirement/Tiểu Yếu
+소유==possession, ownership//possession, ownership/Tiểu Du
+소중히==valuably//valuably/
+소화==digestion//digestion/Tiểu Hóa
+속이다==cheat//cheat/Tốc Nhị Đa
+손질==trimming//trimming/Tổn Chất
+송아지==calf//calf/Tống Á Chỉ
+송이==cluster//cluster/Tống Nhị
+수도권==metropolitan area//metropolitan area/Thủ Đồ Quyền
+수많다==numerous//numerous/
+수사==investigation//investigation/Thủ Sự
+수수께끼==riddle//riddle/
+숙박==lodge, stay//lodge, stay/Túc Bác
+숙소==lodging, accommodation//lodging, accommodation/Túc Tiểu
+숙이다==bow down//bow down/Túc Nhị Đa
+순간적==momentary//momentary/Thuần Gian Tích
+술자리==drinking (party, section)//drinking (party, section)/Thuật Tử Lý
+쉿==shh//shh/
+스무째==twentieth//twentieth/
+스치다==brush (against)//brush (against)/
+습기==moisture//moisture/
+습하다==humid//humid/
+시내버스==city ​​bus/thành phố/city ​​bus/
+시댁==in-law's house/nhà/in-law's house/
+시들다==wither//wither/
+시멘트==cement//cement/
+시부모==mother-in-law//mother-in-law/Thị Phụ Mô
+시선==sight//sight/Thị Tiên
+시설==facility//facility/Thị Thiết
+시아버지==father-in-law//father-in-law/
+시외버스==intercity bus/xe buýt/intercity bus/
+시집==in-law's house/nhà/in-law's house/Thị Tập
+시청률==(viewer) rating//(viewer) rating/Thị Thanh Luật
+시청자==viewers//viewers/Thị Thanh Tử
+시행==implementation//implementation/Thị Hành
+식료품==groceries/thực phẩm/groceries/Thực Liệu Phẩm
+식후==after meal//after meal/Thực Hậu
+신나다==excited//excited/Tân Na Đa
+신문사==newspaper publisher//newspaper publisher/Tân Văn Sự
+신부==priest//priest/Tân Phụ
+신분==status//status/Tân Phân
+신비==mystery//mystery/Tân Phi
+실감==realization//realization/Thất Cảm
+실망==disappointment//disappointment/Thất Vọng
+실장==head of a department/đầu/head of a department/Thất Trường
+실컷==as much as one likes//as much as one likes/
+실현==realization//realization/Thất Hiện
+심각하다==serious/nghiêm trọng/serious/Tâm Giác
+싸구려==cheap thing/rẻ/cheap thing/
+쌓이다==pile up//pile up/
+썰렁하다==chilly//chilly/
+쓰기==writing//writing/
+쓰러지다==fall down/rơi/fall down/
+쓰이다==be written//be written/
+쓰이다==be used//be used/
+쓸데없다==useless//useless/
+씻기다==be washed//be washed/
+아래층==downstairs//downstairs/
+아랫사람==subordinate//subordinate/
+아랫집==apartment downstairs//apartment downstairs/
+아이==hey//hey/
+안부==regard//regard/An Phụ
+안정==stability//stability/An Chính
+알아내다==find out//find out/Yết Á Nội Đa
+알아맞히다==guess/đoán/guess/
+알차다==fruitful//fruitful/Yết Xa Đa
+앓다==be ill with//be ill with/
+암기==memorization//memorization/Ám Kỳ
+앗==oh//oh/
+액자==photo frame//photo frame/Dịch Tử
+야경==night view/đêm/night view/Dã Kinh
+야옹==meow//meow/
+야하다==sexy, erotic//sexy, erotic/
+약점==weakness//weakness/Ước Điểm
+약혼==engagement//engagement/Ước Hôn
+약혼녀==fiancee//fiancee/Ước Hôn Nữ
+약혼자==fiance//fiance/Ước Hôn Tử
+얌전==well-mannered//well-mannered/
+양국==both countries//both countries/Dương Quốc
+양보==yield//yield/Dương Bảo
+양옆==both sides//both sides/
+양쪽==both sides//both sides/
+얘==this child/con/this child/
+어려워하다==have a hard time/cứng/have a hard time/
+어머==oh my//oh my/
+어색하다==awkward//awkward/Ngữ Sắc
+어지럽다==dizzy//dizzy/
+어휘==vocabulary//vocabulary/
+어휴==ugh//ugh/Ngữ Hưu
+억울하다==unfair//unfair/
+언급==mention//mention/Ngôn Cấp
+엄숙하다==solemn, serious/nghiêm trọng/solemn, serious/Nghiêm Túc
+업다==carry on one's back/mang/carry on one's back/Nghiệp Đa
+업적==achievement//achievement/Nghiệp Tích
+엉뚱하다==irrelevant//irrelevant/
+엉망==mess//mess/
+여가==leisure time/thời gian/leisure time/Dư Gia
+여건==conditions//conditions/Dư Kiến
+여기다==consider//consider/Dư Kỳ Đa
+여름철==summertime//summertime/
+여름휴가==summer vacation//summer vacation/
+여유롭다==relaxed//relaxed/
+여전히==still/vẫn/still/
+역사가==historian//historian/Dịch Sự Gia
+역사상==in history//in history/Dịch Sự Thượng
+연간==annual//annual/Diên Gian
+연고==ointment//ointment/Diên Cổ
+연관==relation//relation/Diên Quan
+연구실==lab//lab/Diên Cửu Thất
+연구원==researcher//researcher/Diên Cửu Viên
+연구자==researcher//researcher/Diên Cửu Tử
+연기==postponement//postponement/Diên Kỳ
+연기==smoke//smoke/Diên Kỳ
+연속==consecutively//consecutively/Diên Tốc
+연장==extension//extension/Diên Trường
+연합==union//union/Diên Hợp
+열기==heat//heat/Nhiệt Kỳ
+열리다==bear (fruit)//bear (fruit)/Nhiệt Lý Đa
+열매==fruit/trái cây/fruit/Nhiệt Mại
+열정==enthusiasm//enthusiasm/Nhiệt Chính
+열중==immersion//immersion/Nhiệt Trung
+영양==nutrition//nutrition/Vĩnh Dương
+영양제==nutritional supplements//nutritional supplements/Vĩnh Dương Chế
+영웅==hero//hero/
+영원==eternity//eternity/Vĩnh Viên
+예==old times/cũ/old times/
+예감==presentiment//presentiment/Lễ Cảm
+예선==preliminary round//preliminary round/Lễ Tiên
+예식장==wedding hall//wedding hall/Lễ Thực Trường
+예의==courtesy, polite//courtesy, polite/Lễ Nghị
+오늘날==this day/ngày/this day/
+오랜==long-time//long-time/
+오른편==right side//right side/
+오징어==squid//squid/Ngũ Trưng Ngữ
+오히려==rather/khá/rather/
+온라인==online//online/
+올==this (year)//this (year)/
+올여름==this summer//this summer/
+외==other than//other than/
+외가==mother's side (family)//mother's side (family)/Ngoại Gia
+외갓집==mother's family house/gia đình/mother's family house/
+외할머니==maternal grandmother//maternal grandmother/
+외할아버지==maternal grandfather//maternal grandfather/
+왼편==left side//left side/
+요==this//this/
+요새==these days//these days/Yếu Tân
+요즈음==these days//these days/
+욕==swear word, curse//swear word, curse/
+용건==business/kinh doanh/business/Dụng Kiến
+우물==well//well/Vũ Vật
+우선==priority//priority/Vũ Tiên
+우울==melancholy//melancholy/
+우주==the universe//the universe/Vũ Chủ
+우체통==mailbox//mailbox/Vũ Thể Thông
+우편물==mail//mail/Vũ Thiên Vật
+운동량==amount of exercise//amount of exercise/Vận Đồng Lượng
+원==circle//circle/
+원래==usually/thường/usually/
+원인==cause/nguyên nhân/cause/Viên Nhân
+위기==crisis//crisis/Vị Kỳ
+위반==violation//violation/Vị Bán
+위원회==committee//committee/Vị Viên Hội
+위험성==risks//risks/Vị Hiểm Thành
+윗글==written above//written above/
+유교==Confucianism//Confucianism/Du Giáo
+유산==legacy//legacy/Du Sơn
+유적==ruins//ruins/Du Tích
+유적지==historic site//historic site/Du Tích Chỉ
+유혹==temptation//temptation/Du Hoặc
+음성==voice//voice/Âm Thành
+응급실==emergency room/phòng cấp cứu/emergency room/Ứng Cấp Thất
+의식==consciousness//consciousness/Nghị Thực
+의심==suspicion//suspicion/Nghị Tâm
+의지==reliance//reliance/Nghị Chỉ
+의지==willpower//willpower/Nghị Chỉ
+이곳저곳==all over the place/nơi/all over the place/
+이국적==exotic//exotic/Nhị Quốc Tích
+이달==this month/tháng/this month/Nhị Đạt
+이대로==like this, as it is/thích/like this, as it is/Nhị Đại Lộ
+이동==movement//movement/Nhị Đồng
+이러다==like this/thích/like this/
+이런저런==this and that//this and that/
+이롭다==beneficial//beneficial/
+이루어지다==come true/đến/come true/
+이름표==name tag//name tag/
+이리==over here//over here/Nhị Lý
+이리저리==here and there//here and there/Nhị Lý Trữ Lý
+이만큼==this much//this much/
+이메일==e-mail//e-mail/
+이미지==image//image/Nhị Mỹ Chỉ
+이성==opposite sex//opposite sex/Nhị Thành
+이외==other than//other than/Nhị Ngoại
+인력==manpower//manpower/Nhân Lực
+인쇄==printing//printing/
+인쇄물==prints//prints/
+인정==recognition//recognition/Nhân Chính
+인하다==be caused by//be caused by/
+일시==date and time/thời gian/date and time/Nhất Thị
+일회용==disposable//disposable/Nhất Hội Dụng
+일회용품==disposable products//disposable products/Nhất Hội Dụng Phẩm
+입대==(army) enlistment//(army) enlistment/Nhập Đại
+잇따르다==happen one after another/xảy ra/happen one after another/
+자==ruler//ruler/
+자극==irritation//irritation/Tử Cực
+자기==self//self/Tử Kỳ
+자막==subtitle//subtitle/Tử Mạc
+자살==suicide//suicide/Tử Sát
+자세하다==detailed//detailed/Tử Thế
+자신==self-confidence//self-confidence/Tử Tân
+자신감==confidence/tự tin/confidence/Tử Tân Cảm
+자연환경==natural environment/môi trường/natural environment/Tử Diên Hoàn Kinh
+작곡==composition//composition/Tác Khúc
+작성==writing out//writing out/Tác Thành
+작은아버지==uncle (father's younger brother)//uncle (father's younger brother)/
+잔디밭==lawn//lawn/
+잔소리==nitpicking, nagging//nitpicking, nagging/Tàn Tiểu Lý
+잘살다==be rich/giàu/be rich/
+잡히다==be caught//be caught/
+장기간==long time/dài/long time/Trường Kỳ Gian
+장난==joke//joke/Trường Nan
+장면==scene//scene/Trường Miên
+장모==mother-in-law (wife's mother)//mother-in-law (wife's mother)/Trường Mô
+장사==business/kinh doanh/business/Trường Sự
+장애인==disabled//disabled/Trường Ái Nhân
+장인==father-in-law (wife's father)//father-in-law (wife's father)/Trường Nhân
+장하다==admirable//admirable/
+재-==re-//re-/
+쟤==him//him/
+저기==there//there/Trữ Kỳ
+저리==over there//over there/Trữ Lý
+저절로==by itself//by itself/Trữ Tiết Lộ
+저지르다==commit//commit/
+적==enemy//enemy/
+적성==aptitude//aptitude/Tích Thành
+적자==deficit//deficit/Tích Tử
+적절하다==appropriate//appropriate/Tích Tiết
+적히다==be written down//be written down/
+전세==lease on a deposit basis//lease on a deposit basis/Toàn Thế
+전시장==exhibition hall//exhibition hall/Toàn Thị Trường
+전용==exclusive//exclusive/Toàn Dụng
+전체적==overall//overall/Toàn Thể Tích
+전통==tradition/truyền thống/tradition/Toàn Thông
+전후==details//details/Toàn Hậu
+절==Buddhist temple//Buddhist temple/
+정답==right answer/trả lời/right answer/Chính Đáp
+정반대==the opposite, the reverse//the opposite, the reverse/Chính Bán Đại
+정성==sincerity//sincerity/Chính Thành
+정신없다==not in one's right mind//not in one's right mind/
+정육점==butcher shop/cửa hàng/butcher shop/Chính Dục Điểm
+정의==definition/công lý/definition/Chính Nghị
+정치인==politician//politician/Chính Trí Nhân
+제==my//my/
+제도==institution/chế độ/institution/Chế Đồ
+제때==right time/thời gian/right time/
+제사==ancestral rite//ancestral rite/Chế Sự
+제시간==on time/thời gian/on time/Chế Thị Gian
+제약==restrictions//restrictions/Chế Ước
+제자==disciple//disciple/Chế Tử
+제자리==Same place/giống nhau/Same place/Chế Tử Lý
+제출==submission//submission/Chế Xuất
+조건==condition/điều kiện/condition/Tổ Kiến
+조리==cooking//cooking/Tổ Lý
+조정==adjustment//adjustment/Tổ Chính
+죄==crime//crime/
+주민==resident//resident/Chủ Dân
+주방==kitchen//kitchen/Chủ Phương
+주요==main//main/Chủ Yếu
+주의==caution//caution/Chủ Nghị
+주제==topic/chủ đề/topic/Chủ Chế
+주택==housing//housing/Chủ Trạch
+줄곧==continuously//continuously/
+중==monk//monk/
+중급==intermediate level//intermediate level/Trung Cấp
+중반==middle stage//middle stage/Trung Bán
+중얼거리다==mutter//mutter/
+즉==in other words//in other words/
+지금껏==up to this point//up to this point/
+지치다==exhausted//exhausted/Chỉ Trí Đa
+지하실==cellar//cellar/Chỉ Hạ Thất
+직후==immediately after/ngay lập tức/immediately after/Trực Hậu
+진단서==medical certificate//medical certificate/Trần Đoàn Thư
+진술==statement//statement/Trần Thuật
+진심==sincerity//sincerity/Trần Tâm
+질==quality//quality/
+집중적==intensive//intensive/Tập Trung Tích
+짚다==lean on//lean on/
+짜다==knit, crochet//knit, crochet/
+쫓겨나다==be kicked out//be kicked out/
+쫓아내다==drive out/lái/drive out/
+쭉==all the way/cách/all the way/
+찌르다==pierce//pierce/
+찌푸리다==frown//frown/
+찡그리다==frown//frown/
+차라리==rather/khá/rather/Xa La Lý
+차리다==set up//set up/Xa Lý Đa
+차이점==difference//difference/Xa Nhị Điểm
+착각==illusion//illusion/Trước Giác
+참기름==sesame oil//sesame oil/
+창작==creation//creation/Sáng Tác
+창피==embarrassment//embarrassment/Sáng Bì
+찾아다니다==visit//visit/
+채우다==fill/đổ đầy/fill/Thái Vũ Đa
+책임==responsibility/trách nhiệm/responsibility/Sách Nhậm
+책임감==sense of responsibility/trách nhiệm/sense of responsibility/Sách Nhậm Cảm
+챔피언==champion//champion/
+처리==dealing with//dealing with/Xử Lý
+처벌==punishment//punishment/Xử Phạt
+천재==genius//genius/Thiên Tài
+철==maturity//maturity/
+첫사랑==first love/tình yêu/first love/
+청혼==marriage proposal//marriage proposal/Thanh Hôn
+초승달==crescent//crescent/Sơ Thăng Đạt
+초여름==early summer//early summer/
+초점==focus//focus/Sơ Điểm
+초청==invitation//invitation/Sơ Thanh
+초청장==letter of invitation//letter of invitation/Sơ Thanh Trường
+최저==the lowest//the lowest/Tối Trữ
+최초==the first//the first/Tối Sơ
+추가==addition//addition/Thu Gia
+추측==guess/đoán/guess/Thu Trắc
+출현==emergence//emergence/Xuất Hiện
+충격적==shocking//shocking/Trung Cách Tích
+취업==employment/xin việc/employment/Thủ Nghiệp
+취업난==unemployment crisis//unemployment crisis/Thủ Nghiệp Nan
+측==side//side/
+측면==side//side/Trắc Miên
+치다==sprinkle//sprinkle/Trí Đa
+치료제==medication//medication/Trí Liệu Chế
+치수==size//size/Trí Thủ
+치즈==cheese//cheese/
+친딸==biological daughter/con gái/biological daughter/
+친아버지==biological father/bố/biological father/
+친어머니==birth mother/mẹ/birth mother/
+친언니==older biological sister/chị/em gái/older biological sister/
+친오빠==older biological brother/anh/em trai/older biological brother/
+침==saliva//saliva/
+침묵==silence//silence/
+캄캄하다==pitch dark//pitch dark/
+커다랗다==huge//huge/
+커지다==grow big/lớn lên/grow big/
+코스==course//course/
+콧노래==humming//humming/
+큰길==main street//main street/
+큰집==home of the eldest son of a family/con trai/home of the eldest son of a family/
+키스==kiss//kiss/
+타인==others//others/Tha Nhân
+탑승==boarding//boarding/
+태양==the sun/mặt trời/the sun/Thái Dương
+털다==brush off//brush off/
+텅==emptiness//emptiness/
+토하다==vomit//vomit/
+통통하다==chubby//chubby/Thông Thông
+틈틈이==from time to time/thời gian/from time to time/
+파다==dig//dig/Phá Đa
+파출소==police precinct//police precinct/Phá Xuất Tiểu
+편==side//side/
+평상시==usual//usual/Bình Thượng Thị
+평생==lifetime//lifetime/Bình Sinh
+폐지==abolition//abolition/Phế Chỉ
+포근하다==cozy//cozy/Bao Cận
+포기==giving up//giving up/Bao Kỳ
+포함==include//include/Bao Hàm
+폭발==explosion//explosion/Bạo Phát
+폭우==heavy rain/nặng/heavy rain/Bạo Vũ
+품질==quality//quality/Phẩm Chất
+풍기다==emit//emit/Phong Kỳ Đa
+피서==summer vacation//summer vacation/Bì Thư
+피하다==avoid/máu/avoid/
+필수==essential//essential/Tất Thủ
+필수품==necessity//necessity/Tất Thủ Phẩm
+하숙==boarding house/nhà/boarding house/Hạ Túc
+학자==scholar//scholar/Học Tử
+한계==limits//limits/Hàn Kế
+한눈==glance//glance/
+한문==Chinese writing//Chinese writing/Hàn Văn
+한숨==sigh//sigh/
+한여름==midsummer//midsummer/
+한자==Chinese character//Chinese character/Hàn Tử
+할부==installment plan//installment plan/Cát Phụ
+합리적==rational//rational/Hợp Lý Tích
+합하다==unite//unite/
+해변==seaside//seaside/Hải Biến
+해치다==ruin//ruin/Hải Trí Đa
+핵심==key point//key point/Hạch Tâm
+햇볕==sunshine//sunshine/
+향==incense//incense/
+향기==scent//scent/Hương Kỳ
+향상==improvement//improvement/Hương Thượng
+헤엄치다==swim/bơi/swim/
+현상==phenomenon//phenomenon/Hiện Thượng
+현장==site//site/Hiện Trường
+형님==older brother/anh/em trai/older brother/
+혜택==benefits//benefits/Huệ Trạch
+호기심==curiosity//curiosity/Hồ Kỳ Tâm
+호두==walnut//walnut/Hồ Đầu
+호박==pumpkin//pumpkin/Hồ Bác
+혼내다==scold//scold/Hôn Nội Đa
+홈페이지==home page//home page/
+화장대==vanity table/bàn/vanity table/Hóa Trường Đại
+화장지==toilet paper/giấy/toilet paper/Hóa Trường Chỉ
+화제==topic//topic/Hóa Chế
+화창하다==sunny//sunny/Hóa Sáng
+환상==illusion//illusion/Hoàn Thượng
+활동==activity/hoạt động/activity/Hoạt Đồng
+회담==meeting//meeting/Hội Đàm
+회의실==meeting room/phòng/meeting room/Hội Nghị Thất
+횟수==number of times//number of times/
+효과==effect/hiệu quả/effect/Hiếu Quả
+효과적==effective//effective/Hiếu Quả Tích
+효율적==efficient//efficient/
+흉내==imitation//imitation/Hung Nội
+흥분==excitement//excitement/Hưng Phân
+희생자==victim//victim/Hy Sinh Tử
+힘껏==with all strength//with all strength/
+힘쓰다==strive//strive/
+힘차다==powerful//powerful/

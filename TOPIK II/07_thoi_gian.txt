@@ -1,134 +1,134 @@
--당==(per)//(per). VD: 시간당 = per hour/
--어==(language)//(language). VD: 한국어 = Korean/
-가만있다==remain still (quiet)/vẫn/remain still (quiet). VD: 잠자코 가만있다 = keep quiet/
-가만히==still/vẫn/still. VD: 가만히 두다 = hold still/
-간혹==sometimes/đôi khi/sometimes. VD: 간혹 생기다 = sometimes occur/Gian Hoặc
-견디다==endure//endure. VD: 고통을 견디다 = endure pain/
-결코==never/không bao giờ/never. VD: 결코 울지 않다 = never cry/
-고대==ancient//ancient. VD: 고대와 현대 = ancient and modern/Cổ Đại
-곧잘==often/thường xuyên/often. VD: 곧잘 하다 = do often/
-관람==view, watch/xem/view, watch. VD: 연극 관람 = watching a play/Quan Lãm
-관련==related//related. VD: 관련이 있다 = be related/Quan Liên
-구부리다==bend over//bend over. VD: 허리를 구부리다 = bend one's back/Cửu Phụ Lý Đa
-굽히다==bend//bend. VD: 허리를 굽히다 = bend one's back/
-그나마==still, even that/vẫn, thậm chí/still, even that. VD: 그나마 낫다 = still better/
-그제==the day before yesterday/ngày/the day before yesterday. VD: 그저께 = the day before yesterday/
-근대==modern//modern. VD: 근대의 사고 = modern thinking/Cận Đại
-근래==lately, recently//lately, recently. VD: 근래에 만나다 = meet lately/
-끝내==finish, end/hoàn thành, kết thúc/finish, end. VD: 끝내 모르다 = never know/
-끝없다==endless//endless. VD: 욕심이 끝없다 = greed is endless/
-내달==next month/tháng/next month. VD: 내달 중순 = middle of next month/Nội Đạt
-내후년==three years from now//three years from now. VD: 내후년까지 지속되다 = last until the next 3 years/Nội Hậu Niên
-낼모레==day after tomorrow/ngày/day after tomorrow. VD: 내일모레 = day after tomorrow/
-년도==year/năm/year. VD: 이천 년도 = year 2000/Niên Đồ
-늦어지다==(sb) be late//(sb) be late. VD: 일이 늦어지다 = be late in one's work/
-단기==short-term//short-term. VD: 단기 교육 = short-term education/Đoàn Kỳ
-담==next//next. VD: 담 날 = next day/
-닷새==five days//five days. VD: 닷새가 걸리다 = take five days/
-뒤늦다==be late//be late. VD: 뒤늦게 깨닫다 = realize late/
-때때로==occasionally//occasionally. VD: 때때로 변하다 = change from time to time/
-때로==sometimes/đôi khi/sometimes. VD: 때로는 느끼다 = sometimes feel/
-마무리==wrap-up, finish/hoàn thành/wrap-up, finish. VD: 마무리를 짓다 = wrap up, finish, finalize/Mã Vũ Lý
-마사지==massage//massage. VD: 마사지를 받다 = get a massage/Mã Sự Chỉ
-말기==last period//last period. VD: 임신 말기 = late pregnancy/Mạt Kỳ
-문득==suddenly/đột nhiên/suddenly. VD: 문득 떠오르다 = suddenly appear/Văn Đắc
-문자==message//message. VD: 문자 메시지 = a text message/Văn Tử
-박==night/đêm/night. VD: 1박 2일 = 1 Night 2 Days/
-밤낮==night and day/đêm/night and day. VD: 밤낮으로 일하다 = work day and night/
-밤늦다==late at night/đêm/late at night. VD: 밤늦게 귀가하다 = return home late at night/
-밤새우다==stay up all night/đêm/stay up all night. VD: 밤새워 일하다 = stay up all night/
-밤중==midnight//midnight. VD: 밤중에 다니다 = go around at night/
-벌이다==start, launch/bắt đầu/start, launch. VD: 사업을 벌이다 = start a business/Phạt Nhị Đa
-베란다==veranda//veranda. VD: 베란다로 나가다 = go to the veranda/
-사전==beforehand, early//beforehand, early. VD: 사전 준비 = advance preparation/Sự Toàn
-새==span, duration, time//span, duration, time. VD: 하루 새 = in a day, over a day/
-새다==dawn//dawn. VD: 날이 새다 = a day dawns/Tân Đa
-새우다==stay up all night/đêm/stay up all night. VD: 밤을 새우다 = stay up all night/Tân Vũ Đa
-성별==gender//gender. VD: 성별을 구분하다 = distinguish between genders/Thành Biệt
-세기==century//century. VD: 세기의 영웅 = hero of the century/Thế Kỳ
-세월==time/thời gian/time. VD: 세월이 흐르다 = time passes/Thế Nguyệt
-소시지==sausage//sausage. VD: 소시지를 먹다 = eat sausage/Tiểu Thị Chỉ
-수시로==frequently//frequently. VD: 수시로 열다 = open frequently/Thủ Thị Lộ
-순간==moment//moment. VD: 순간 놀라다 = be surprised for a moment/Thuần Gian
-스케줄==schedule//schedule. VD: 스케줄을 짜다 = make a schedule/
-시각==time/thời gian/time. VD: 일출 시각 = sunrise time/Thị Giác
-시기==period//period. VD: 등록 시기 = registration period/Thị Kỳ
-시일==time/thời gian/time. VD: 시일이 걸리다 = take time/Thị Nhất
-시절==days, (-hood)//days, (-hood). VD: 어린 시절 = childhood/Thị Tiết
-시청==watch/xem/watch. VD: 텔레비전 시청 = watching television/Thị Thanh
-아침저녁==morning and evening/buổi sáng/morning and evening. VD: 아침저녁으로 만나다 = meet in mornings and evenings/
-악몽==nightmare//nightmare. VD: 악몽을 꾸다 = have a nightmare/
-앞날==future//future. VD: 앞날을 기약하다 = make plans together/
-야간==nighttime//nighttime. VD: 야간 근무 = night shift/Dã Gian
-양력==solar calendar//solar calendar. VD: 음력 = lunar calendar/Dương Lực
-어느덧==already/đã rồi/already. VD: 어느덧 사라지다 = already disappear/
-어느새==already, so soon/đã rồi/already, so soon. VD: 어느새 다 자라다 = grow up so soon/
-어저께==yesterday//yesterday. VD: 어저께 아침 = yesterday morning/
-엊그제==a couple of days ago//a couple of days ago. VD: 엊그제 아침 = the morning before yesterday/
-연==year/năm/year. VD: 연 강수량 = annual precipitation/
-연도==year/năm/year. VD: 졸업 연도 = graduation year/Diên Đồ
-연령==age//age. VD: 연령 제한 = age limit/Diên Lệnh
-영원히==forever//forever. VD: 영원히 사랑하다 = love forever/
-예정==schedule//schedule. VD: 예정을 앞당기다 = move up in schedule/Lễ Chính
-온종일==all day/ngày/all day. VD: 온종일을 보내다 = spend the whole day/Ôn Chung Nhất
-외박==overnight stay//overnight stay. VD: 외박이 잦다 = stay overnight often/Ngoại Bác
-용기==courage//courage. VD: 용기를 내다 = take courage/Dụng Kỳ
-용어==terms//terms. VD: 법률 용어 = legal term/Dụng Ngữ
-월==month/tháng/month. VD: 월요일 = Monday/
-월말==end of month/kết thúc/end of month. VD: 월말이 되다 = be the end of the month/Nguyệt Mạt
-음력==lunar calendar//lunar calendar. VD: 양력 = solar calendar/Âm Lực
-의존==dependence//dependence. VD: 알코올 의존 = alcohol dependence/Nghị Tồn
-이따==later//later. VD: 이따 만나요 = see you later/
-이왕==already, the past/đã rồi/already, the past. VD: 이왕의 일 = a matter of fact/Nhị Vương
-이윽고==eventually//eventually. VD: 이윽고 밤이 되다 = eventually night falls/
-이튿날==the next day/ngày/the next day. VD: 이튿날이 되다 = the next day comes/
-인스턴트==instant//instant. VD: 인스턴트 커피 = instant coffee/
-일==day/ngày/day. VD: 일요일 = sunday/
-일교차==daily temperature range//daily temperature range. VD: 일교차가 크다 = daily temperature range is wide/Nhất Giáo Xa
-일단==first//first. VD: 먼저 = first/Nhất Đoàn
-일등==first grade//first grade. VD: 일등 신랑 = good guy to marry/Nhất Đẳng
-일상적==daily//daily. VD: 일상적 사용 = everyday use/Nhất Thượng Tích
-일시적==temporary//temporary. VD: 일시적 감정 = temporary emotion/Nhất Thị Tích
-일쑤==occasionally//occasionally. VD: 굶기가 일쑤이다 = skip meals occasionally/
-일정==schedule//schedule. VD: 일정을 짜다 = make a schedule/Nhất Chính
-일정표==schedule//schedule. VD: 일정표가 바뀌다 = schedule changes/Nhất Chính Biểu
-일찍이==early//early. VD: 일찍이 나서다 = come out early/
-임시==temporary//temporary. VD: 임시로 맡다 = take charge temporarily/Nhậm Thị
-장가==marriage//marriage. VD: 장가를 가다 = get married/Trường Gia
-장기적==long term/dài/long term. VD: 장기적 목표 = long term goals/Trường Kỳ Tích
-장래==future//future. VD: 장래를 준비하다 = prepare for the future/
-저녁때==evening//evening. VD: 저녁때에 만나다 = meet in the evening/
-저장==storage//storage. VD: 파일 저장 = file storage/Trữ Trường
-절대로==never/không bao giờ/never. VD: 절대로 아니다 = Absolutely not./Tiết Đại Lộ
-정오==at noon//at noon. VD: 정오 뉴스 = noon news/Chính Ngũ
-조기==early//early. VD: 이른 시기 = early days/Tổ Kỳ
-좀처럼==seldom, rarely//seldom, rarely. VD: 좀처럼 안 되다 = rarely works/
-종일==all day/ngày/all day. VD: 종일 흐리다 = cloudy all day/Chung Nhất
-종종==often/thường xuyên/often. VD: 종종 들르다 = stop by often/Chung Chung
-주간==week/tuần/week. VD: 주간 계획 = weekly plan/Chủ Gian
-중순==middle ten days of a month/tháng/middle ten days of a month. VD: 내달 중순 = middle of next month/Trung Thuần
-즉시==immediately/ngay lập tức/immediately. VD: 즉시 시작하다 = start immediately/Tức Thị
-지각==lateness//lateness. VD: 지각이 들다 = be late/Chỉ Giác
-지난날==old days/cũ/old days. VD: 지난날을 기억하다 = remember the past/
-지켜보다==watch/xem/watch. VD: 몰래 지켜보다 = secretly watch/
-진정하다==true//true. VD: 진정한 친구 = true friend/Trần Chính Hạ Đa
-쪽==page//page. VD: 쪽 번호 = page number/
-참석자==attendees//attendees. VD: 참석자 명단 = list of participants/Tham Thạch Tử
-창고==storage//storage. VD: 창고에 보관하다 = keep in a storage/Sáng Cổ
-첫눈==first sight//first sight. VD: 첫눈에 반하다 = love at first sight/
-첫인상==first impression//first impression. VD: 첫인상이 좋다 = good first impression/
-초-==early//early. VD: 초봄 = early spring/
-초기==early//early. VD: 초기 단계 = early stage/Sơ Kỳ
-초반==early stage//early stage. VD: 경기 초반 = early in the game/Sơ Bán
-초저녁==early evening//early evening. VD: 초저녁이 지나다 = early evening passes/
-최종==final//final. VD: 최종 목표 = final goal/Tối Chung
-페이지==page//page. VD: 페이지를 넘기다 = turn the page/
-평균==average//average. VD: 평균을 구하다 = find the average/Bình Quân
-플라스틱==plastic//plastic. VD: 플라스틱 용기 = plastic container/
-한국말==Korean language//Korean language. VD: 한국말로 말하다 = speak Korean/Hàn Quốc Mạt
-한국어==Korean language//Korean language. VD: 한국어를 말하다 = speak Korean/Hàn Quốc Ngữ
-한낮==noon//noon. VD: 한낮이 되다 = noon comes/
-한밤중==midnight//midnight. VD: 한밤중이 지나다 = midnight passes/
-현대==modern times//modern times. VD: 현대 문명 = modern civilization/Hiện Đại
-현대적==modern//modern. VD: 현대적 감각 = modern viewpoint/Hiện Đại Tích
-확==suddenly, instantly/đột nhiên/suddenly, instantly. VD: 소름이 확 끼치다 = get goosebumps suddenly/
+-당==(per)//(per)/
+-어==(language)//(language)/
+가만있다==remain still (quiet)/vẫn/remain still (quiet)/
+가만히==still/vẫn/still/
+간혹==sometimes/đôi khi/sometimes/Gian Hoặc
+견디다==endure//endure/
+결코==never/không bao giờ/never/
+고대==ancient//ancient/Cổ Đại
+곧잘==often/thường xuyên/often/
+관람==view, watch/xem/view, watch/Quan Lãm
+관련==related//related/Quan Liên
+구부리다==bend over//bend over/Cửu Phụ Lý Đa
+굽히다==bend//bend/
+그나마==still, even that/vẫn/still, even that/
+그제==the day before yesterday/ngày/the day before yesterday/
+근대==modern//modern/Cận Đại
+근래==lately, recently//lately, recently/
+끝내==finish, end/hoàn thành/finish, end/
+끝없다==endless//endless/
+내달==next month/tháng/next month/Nội Đạt
+내후년==three years from now//three years from now/Nội Hậu Niên
+낼모레==day after tomorrow/ngày/day after tomorrow/
+년도==year/năm/year/Niên Đồ
+늦어지다==(sb) be late//(sb) be late/
+단기==short-term//short-term/Đoàn Kỳ
+담==next//next/
+닷새==five days//five days/
+뒤늦다==be late//be late/
+때때로==occasionally//occasionally/
+때로==sometimes/đôi khi/sometimes/
+마무리==wrap-up, finish/hoàn thành/wrap-up, finish/Mã Vũ Lý
+마사지==massage//massage/Mã Sự Chỉ
+말기==last period//last period/Mạt Kỳ
+문득==suddenly/đột nhiên/suddenly/Văn Đắc
+문자==message//message/Văn Tử
+박==night/đêm/night/
+밤낮==night and day/đêm/night and day/
+밤늦다==late at night/đêm/late at night/
+밤새우다==stay up all night/đêm/stay up all night/
+밤중==midnight//midnight/
+벌이다==start, launch/bắt đầu/start, launch/Phạt Nhị Đa
+베란다==veranda//veranda/
+사전==beforehand, early//beforehand, early/Sự Toàn
+새==span, duration, time/chim/span, duration, time/
+새다==dawn//dawn/Tân Đa
+새우다==stay up all night/đêm/stay up all night/Tân Vũ Đa
+성별==gender//gender/Thành Biệt
+세기==century//century/Thế Kỳ
+세월==time/thời gian/time/Thế Nguyệt
+소시지==sausage//sausage/Tiểu Thị Chỉ
+수시로==frequently//frequently/Thủ Thị Lộ
+순간==moment//moment/Thuần Gian
+스케줄==schedule//schedule/
+시각==time/thời gian/time/Thị Giác
+시기==period//period/Thị Kỳ
+시일==time/thời gian/time/Thị Nhất
+시절==days, (-hood)//days, (-hood)/Thị Tiết
+시청==watch/xem/watch/Thị Thanh
+아침저녁==morning and evening/buổi sáng/morning and evening/
+악몽==nightmare//nightmare/
+앞날==future//future/
+야간==nighttime//nighttime/Dã Gian
+양력==solar calendar//solar calendar/Dương Lực
+어느덧==already/đã rồi/already/
+어느새==already, so soon/đã rồi/already, so soon/
+어저께==yesterday//yesterday/
+엊그제==a couple of days ago//a couple of days ago/
+연==year/năm/year/
+연도==year/năm/year/Diên Đồ
+연령==age//age/Diên Lệnh
+영원히==forever//forever/
+예정==schedule//schedule/Lễ Chính
+온종일==all day/ngày/all day/Ôn Chung Nhất
+외박==overnight stay//overnight stay/Ngoại Bác
+용기==courage/dũng cảm/courage/Dụng Kỳ
+용어==terms//terms/Dụng Ngữ
+월==month/tháng/month/
+월말==end of month/kết thúc/end of month/Nguyệt Mạt
+음력==lunar calendar//lunar calendar/Âm Lực
+의존==dependence//dependence/Nghị Tồn
+이따==later//later/
+이왕==already, the past/đã rồi/already, the past/Nhị Vương
+이윽고==eventually//eventually/
+이튿날==the next day/ngày/the next day/
+인스턴트==instant//instant/
+일==day/ngày/day/
+일교차==daily temperature range//daily temperature range/Nhất Giáo Xa
+일단==first//first/Nhất Đoàn
+일등==first grade//first grade/Nhất Đẳng
+일상적==daily//daily/Nhất Thượng Tích
+일시적==temporary//temporary/Nhất Thị Tích
+일쑤==occasionally//occasionally/
+일정==schedule//schedule/Nhất Chính
+일정표==schedule//schedule/Nhất Chính Biểu
+일찍이==early//early/
+임시==temporary//temporary/Nhậm Thị
+장가==marriage//marriage/Trường Gia
+장기적==long term/dài/long term/Trường Kỳ Tích
+장래==future//future/
+저녁때==evening//evening/
+저장==storage//storage/Trữ Trường
+절대로==never/không bao giờ/never/Tiết Đại Lộ
+정오==at noon//at noon/Chính Ngũ
+조기==early//early/Tổ Kỳ
+좀처럼==seldom, rarely//seldom, rarely/
+종일==all day/ngày/all day/Chung Nhất
+종종==often/thường xuyên/often/Chung Chung
+주간==week/tuần/week/Chủ Gian
+중순==middle ten days of a month/tháng/middle ten days of a month/Trung Thuần
+즉시==immediately/ngay lập tức/immediately/Tức Thị
+지각==lateness//lateness/Chỉ Giác
+지난날==old days/cũ/old days/
+지켜보다==watch/xem/watch/
+진정하다==true//true/Trần Chính
+쪽==page//page/
+참석자==attendees//attendees/Tham Thạch Tử
+창고==storage//storage/Sáng Cổ
+첫눈==first sight//first sight/
+첫인상==first impression//first impression/
+초-==early//early/
+초기==early//early/Sơ Kỳ
+초반==early stage//early stage/Sơ Bán
+초저녁==early evening//early evening/
+최종==final//final/Tối Chung
+페이지==page//page/
+평균==average//average/Bình Quân
+플라스틱==plastic//plastic/
+한국말==Korean language//Korean language/Hàn Quốc Mạt
+한국어==Korean language//Korean language/Hàn Quốc Ngữ
+한낮==noon//noon/
+한밤중==midnight//midnight/
+현대==modern times//modern times/Hiện Đại
+현대적==modern//modern/Hiện Đại Tích
+확==suddenly, instantly/đột nhiên/suddenly, instantly/

@@ -1,21 +1,21 @@
-구조==structure//structure. VD: 구조를 바꾸다 = change structure/Cửu Tổ
-도자기==ceramic//ceramic. VD: 도자기를 빚다 = make pottery/Đồ Tử Kỳ
-동화==fairy tale//fairy tale. VD: 동화를 읽다 = read a fairy tale/Đồng Hóa
-미인==beauty/vẻ đẹp/beauty. VD: 미인 대회 = a beauty contest/Mỹ Nhân
-상징==symbol//symbol. VD: 상징이 되다 = become a symbol/Thượng Trưng
-시==poetry//poetry. VD: 시를 읽다 = read poetry/
-시인==poet//poet. VD: 여류 시인 = female poet/Thị Nhân
-신화==myth//myth. VD: 단군 신화 = the myth of Dangun/Tân Hóa
-역사적==historical//historical. VD: 역사적 기록 = historical record/Dịch Sự Tích
-연기자==actor//actor. VD: 드라마 연기자 = drama actor/Diên Kỳ Tử
-예술가==artist//artist. VD: 예술가로 활동하다 = work as an artist/Lễ Thuật Gia
-예술적==artistic//artistic. VD: 예술적 작품 = artistic work/Lễ Thuật Tích
-유물==relics//relics. VD: 유물을 전시하다 = display relics/Du Vật
-작가==writer//writer. VD: 시나리오 작가 = screenwriter/Tác Gia
-작곡가==composer//composer. VD: 가요 작곡가 = songwriter/Tác Khúc Gia
-장르==genre//genre. VD: 영화 장르 = movie genre/
-저자==author//author. VD: 책의 저자 = author of a book/Trữ Tử
-전설==legend//legend. VD: 전설이 내려오다 = a legend descends/Toàn Thiết
-전통적==traditional//traditional. VD: 전통적 방식 = traditional way/Toàn Thông Tích
-참가==participation//participation. VD: 참가 신청서 = participation application form/Tham Gia
-현실적==realistic//realistic. VD: 현실적 조건 = realistic conditions/Hiện Thất Tích
+구조==structure//structure/Cửu Tổ
+도자기==ceramic//ceramic/Đồ Tử Kỳ
+동화==fairy tale//fairy tale/Đồng Hóa
+미인==beauty/vẻ đẹp/beauty/Mỹ Nhân
+상징==symbol//symbol/Thượng Trưng
+시==poetry//poetry/
+시인==poet//poet/Thị Nhân
+신화==myth//myth/Tân Hóa
+역사적==historical//historical/Dịch Sự Tích
+연기자==actor//actor/Diên Kỳ Tử
+예술가==artist//artist/Lễ Thuật Gia
+예술적==artistic//artistic/Lễ Thuật Tích
+유물==relics//relics/Du Vật
+작가==writer//writer/Tác Gia
+작곡가==composer//composer/Tác Khúc Gia
+장르==genre//genre/
+저자==author//author/Trữ Tử
+전설==legend//legend/Toàn Thiết
+전통적==traditional//traditional/Toàn Thông Tích
+참가==participation//participation/Tham Gia
+현실적==realistic//realistic/Hiện Thất Tích

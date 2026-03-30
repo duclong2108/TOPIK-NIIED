@@ -1,78 +1,78 @@
-가루==powder//powder. VD: 가루로 만들다 = make powder/
-개다==fold//fold. VD: 옷을 개다 = fold clothes/Khai Đa
-걷다==fold up//fold up. VD: 소매를 걷다 = roll up sleeves/
-걸치다==hang//hang. VD: 구름 위에 걸치다 = hang over the clouds/Kiệt Trí Đa
-겉옷==outerwear//outerwear. VD: 겉옷을 벗다 = take off coat/
-고춧가루==chili powder//chili powder. VD: 고춧가루를 넣다 = add chili powder/
-국기==flag//flag. VD: 국기를 달다 = hang a flag/Quốc Kỳ
-굽==heel//heel. VD: 구두의 굽 = heel of shoes/
-긴팔==long sleeve/dài/long sleeve. VD: 긴팔을 입다 = wear long sleeves/Khẩn Bát
-꽃무늬==floral (pattern)//floral (pattern). VD: 꽃무늬 커튼 = a floral curtain/
-끈==string//string. VD: 끈을 묶다 = tie a string/
-끌리다==be dragged//be dragged. VD: 바지가 끌리다 = trousers are dragged/
-다리다==iron (clothes)//iron (clothes). VD: 옷을 다리다 = iron clothes/Đa Lý Đa
-다리미==an iron//an iron. VD: 다리미로 옷을 다리다 = iron clothes with an iron/Đa Lý Mỹ
-닳다==wear out/mặc/wear out. VD: 신발이 닳다 = shoes are worn out/
-뒤집다==reverse//reverse. VD: 옷을 뒤집다 = turn one's clothes inside out/
-드나들다==go in and out, hang out/đi/go in and out, hang out. VD: 차량이 드나들다 = vehicles go in and out/
-드레스==dress/mặc/dress. VD: 드레스를 입다 = wear a dress/
-등산복==mountaineering clothes//mountaineering clothes. VD: 등산복을 입다 = wear mountaineering clothes/Đẳng Sơn Phục
-디자이너==designer//designer. VD: 패션 디자이너 = fashion designer/
-띠==belt//belt. VD: 띠를 매다 = tie a belt/
-렌즈==lens//lens. VD: 렌즈를 끼다 = put on lenses/
-리본==ribbon//ribbon. VD: 리본으로 묶다 = tie with a ribbon/Lý Bản
-매달다==hang//hang. VD: 문에 매달다 = hang on the door/Mại Đạt Đa
-매달리다==hang on//hang on. VD: 철봉에 매달리다 = hang on an iron bar/Mại Đạt Lý Đa
-모델==model//model. VD: 모델을 개발하다 = develop a model/
-모자==hat//hat. VD: 모자가 닮다 = the hat resembles/Mô Tử
-무늬==pattern//pattern. VD: 무늬를 이루다 = form a pattern/
-묶다==tie//tie. VD: 끈을 묶다 = tie a string/
-묶이다==be tied//be tied. VD: 끈이 묶이다 = a string is tied up/
-물질적==material//material. VD: 물질적 보상 = material compensation/Vật Chất Tích
-미련==lingering regret//lingering regret. VD: 미련을 버리다 = throw away lingering regrets/Mỹ Liên
-바늘==needle//needle. VD: 바늘로 꿰매다 = sew with a needle/
-반팔==short sleeves/ngắn/short sleeves. VD: 반팔을 입다 = wear short sleeves/Bán Bát
-발꿈치==heel//heel. VD: 발꿈치를 들다 = raise one's heels/
-버튼==button//button. VD: 버튼을 누르다 = press the button/
-벨트==belt//belt. VD: 벨트를 매다 = tie a belt/
-부츠==boots//boots. VD: 부츠를 신다 = wear boots/
-비명==scream//scream. VD: 비명을 지르다 = scream/Phi Minh
-비틀거리다==stagger, reel//stagger, reel. VD: 비틀거리며 걷다 = walk staggeringly/
-샌들==sandal//sandal. VD: 샌들을 신다 = wear sandals/
-선글라스==sunglasses//sunglasses. VD: 선글라스를 끼다 = wear sunglasses/
-세제==detergent//detergent. VD: 세제로 닦아내다 = wipe with detergent/Thế Chế
-셔츠==shirt//shirt. VD: 셔츠를 입다 = put on a shirt/
-소매==sleeve//sleeve. VD: 소매가 길다 = sleeves are long/Tiểu Mại
-소재==material//material. VD: 소재로 삼다 = use as material/Tiểu Tài
-손목시계==watch/xem/watch. VD: 손목시계를 차다 = wear a watch/Tổn Mộc Thị Kế
-수다==chat//chat. VD: 수다를 떨다 = talk, meet up/Thủ Đa
-스커트==skirt//skirt. VD: 스커트를 입다 = wear a skirt/
-스타일==style//style. VD: 머리의 스타일 = style of hair/
-슬리퍼==slipper//slipper. VD: 슬리퍼를 신다 = wear slippers/
-실==thread//thread. VD: 실로 묶다 = tie with thread/
-씌우다==cover//cover. VD: 모자를 씌우다 = put on a hat/
-양식==pattern, form//pattern, form. VD: 양식에 맞추다 = conform to a form/Dương Thực
-엮다==weave//weave. VD: 짚을 엮다 = weave straw/
-옷차림==attire//attire. VD: 옷차림이 단정하다 = neatly dressed/
-외출복==outside clothes//outside clothes. VD: 외출복을 벗다 = take off outside clothes/Ngoại Xuất Phục
-외투==overcoat//overcoat. VD: 외투를 입다 = put on a coat/Ngoại Đầu
-울리다==ring//ring. VD: 전화기가 울리다 = the phone rings/
-의류==clothing//clothing. VD: 여성 의류 = women's clothing/Nghị Lưu
-의복==clothes//clothes. VD: 의복을 갈아입다 = change clothes/Nghị Phục
-의상==outfit//outfit. VD: 의상을 고르다 = choose an outfit/Nghị Thượng
-재킷==jacket//jacket. VD: 재킷을 입다 = wear a jacket/
-저만큼==that much//that much. VD: 저만큼 느끼다 = feel that much/
-점퍼==jacket//jacket. VD: 점퍼를 입다 = wear a jacket/
-접촉==contact//contact. VD: 접촉을 피하다 = avoid contact/Tiếp Xúc
-정장==suit//suit. VD: 정장을 입다 = wear a suit/Chính Trường
-지퍼==zipper//zipper. VD: 지퍼를 올리다 = zip up/
-촌스럽다==old-fashioned//old-fashioned. VD: 옷차림이 촌스럽다 = the clothes are tacky/
-코트==coat//coat. VD: 코트를 입다 = put on a coat/
-크림==cream//cream. VD: 크림을 넣다(음식) = add cream (food)/
-탈출==escape/thoát/escape. VD: 비상 탈출 = emergency escape/Thoát Xuất
-패션==fashion//fashion. VD: 패션 잡지 = fashion magazine/
-펼쳐지다==be unfold//be unfold. VD: 길이 펼쳐지다 = the road unfolds/
-펼치다==unfold//unfold. VD: 책을 펼치다 = open a book/
-향수==perfume//perfume. VD: 향수를 뿌리다 = spray perfume/Hương Thủ
-호주머니==pocket//pocket. VD: 호주머니를 노리다 = seek the pocket/
-화장==makeup//makeup. VD: 화장이 진하다 = makeup is heavy/Hóa Trường
+가루==powder//powder/
+개다==fold//fold/Khai Đa
+걷다==fold up/đi bộ/fold up/
+걸치다==hang//hang/Kiệt Trí Đa
+겉옷==outerwear//outerwear/
+고춧가루==chili powder//chili powder/
+국기==flag//flag/Quốc Kỳ
+굽==heel//heel/
+긴팔==long sleeve/dài/long sleeve/Khẩn Bát
+꽃무늬==floral (pattern)//floral (pattern)/
+끈==string//string/
+끌리다==be dragged//be dragged/
+다리다==iron (clothes)//iron (clothes)/Đa Lý Đa
+다리미==an iron//an iron/Đa Lý Mỹ
+닳다==wear out/mặc/wear out/
+뒤집다==reverse//reverse/
+드나들다==go in and out, hang out//go in and out, hang out/
+드레스==dress/mặc/dress/
+등산복==mountaineering clothes//mountaineering clothes/Đẳng Sơn Phục
+디자이너==designer//designer/
+띠==belt//belt/
+렌즈==lens//lens/
+리본==ribbon//ribbon/Lý Bản
+매달다==hang//hang/Mại Đạt Đa
+매달리다==hang on//hang on/Mại Đạt Lý Đa
+모델==model//model/
+모자==hat/mũ/hat/Mô Tử
+무늬==pattern//pattern/
+묶다==tie//tie/
+묶이다==be tied//be tied/
+물질적==material//material/Vật Chất Tích
+미련==lingering regret//lingering regret/Mỹ Liên
+바늘==needle//needle/
+반팔==short sleeves/ngắn/short sleeves/Bán Bát
+발꿈치==heel//heel/
+버튼==button//button/
+벨트==belt//belt/
+부츠==boots//boots/
+비명==scream//scream/Phi Minh
+비틀거리다==stagger, reel//stagger, reel/
+샌들==sandal//sandal/
+선글라스==sunglasses//sunglasses/
+세제==detergent//detergent/Thế Chế
+셔츠==shirt//shirt/
+소매==sleeve//sleeve/Tiểu Mại
+소재==material//material/Tiểu Tài
+손목시계==watch/xem/watch/Tổn Mộc Thị Kế
+수다==chat//chat/Thủ Đa
+스커트==skirt//skirt/
+스타일==style//style/
+슬리퍼==slipper//slipper/
+실==thread//thread/
+씌우다==cover//cover/
+양식==pattern, form//pattern, form/Dương Thực
+엮다==weave//weave/
+옷차림==attire//attire/
+외출복==outside clothes//outside clothes/Ngoại Xuất Phục
+외투==overcoat//overcoat/Ngoại Đầu
+울리다==ring//ring/
+의류==clothing//clothing/Nghị Lưu
+의복==clothes//clothes/Nghị Phục
+의상==outfit//outfit/Nghị Thượng
+재킷==jacket//jacket/
+저만큼==that much//that much/
+점퍼==jacket//jacket/
+접촉==contact//contact/Tiếp Xúc
+정장==suit//suit/Chính Trường
+지퍼==zipper//zipper/
+촌스럽다==old-fashioned//old-fashioned/
+코트==coat//coat/
+크림==cream//cream/
+탈출==escape/thoát/escape/Thoát Xuất
+패션==fashion//fashion/
+펼쳐지다==be unfold//be unfold/
+펼치다==unfold//unfold/
+향수==perfume//perfume/Hương Thủ
+호주머니==pocket//pocket/
+화장==makeup//makeup/Hóa Trường

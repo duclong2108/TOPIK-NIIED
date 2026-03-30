@@ -1,76 +1,76 @@
--권==(right)//(right). VD: 투표권 = voting right/
--장==(place)//(place). VD: 운동장 = playground/
-경기장==stadium//stadium. VD: 실내 경기장 = indoor stadium/Kinh Kỳ Trường
-경찰관==police officer//police officer. VD: 교통 경찰관 = traffic police officer/Kinh Sát Quan
-공간==space//space. VD: 공간을 차지하다 = take up space/Công Gian
-공공장소==public places//public places. VD: 공공장소를 이용하다 = use public places/Công Công Trường Tiểu
-교외==suburbs//suburbs. VD: 교외로 나가다 = go out to the suburbs/Giáo Ngoại
-구==district//district. VD: 행정 구역 = administrative district/
-구역==area//area. VD: 금연 구역 = no-smoking area/Cửu Dịch
-군데==place/nơi/place. VD: 여러 군데 = several places/
-권리==right//right. VD: 권리를 누리다 = enjoy one's right/Quyền Lý
-그러게==I know, right/biết/I know, right. VD: 그러게요 = I know/
-그렇지==right//right. VD: 그렇지, 바로 그거야 = Right. That's it./
-근교==suburb//suburb. VD: 서울 근교 = Seoul suburbs/Cận Giáo
-남==south//south. VD: 남쪽 = south/
-내부==inside, interior//inside, interior. VD: 내부 수리 = internal repair/Nội Phụ
-내외==inside and outside//inside and outside. VD: 건물 내외 = inside and outside the building/Nội Ngoại
-놀이터==playground//playground. VD: 놀이터에서 놀다 = play in the playground/
-농촌==rural, countryside//rural, countryside. VD: 농촌에서 농사를 짓다 = do farming in the countryside/
-당장==right now//right now. VD: 지금 당장 = right now/Đang Trường
-당황==embarrassment//embarrassment. VD: 당황을 하다 = be embarrassed/Đang Hoàng
-댐==dam//dam. VD: 댐을 건설하다 = build a dam/
-도==province//province. VD: 행정 구역 = an administrative district/
-도심==downtown//downtown. VD: 도심에 위치하다 = be located downtown/Đồ Tâm
-동==east, eastern//east, eastern. VD: 동쪽 = the east/
-멍멍==woof woof, bowbow//woof woof, bowbow. VD: 멍멍 짖다 = bark bowbow/
-면적==area//area. VD: 면적이 넓다 = the area is large/Miên Tích
-반짝거리다==twinkle, sparkle//twinkle, sparkle. VD: 보석이 반짝거리다 = jewels sparkle/
-방면==direction, side//direction, side. VD: 서울 방면 = To Seoul/Phương Miên
-방해==disturbance//disturbance. VD: 방해를 받다 = be disturbed, be interrupted/Phương Hải
-뱃속==one's inside, mind//one's inside, mind. VD: 뱃속을 모르다 = don't one's mind/
-법원==court//court. VD: 법원에 가다 = go to court/Pháp Viên
-보리==barley//barley. VD: 보리를 재배하다 = grow barley/Bảo Lý
-부근==vicinity, near//vicinity, near. VD: 학교 부근 = near school/Phụ Cận
-분수==fountain//fountain. VD: 분수가 내뿜다 = a fountain spit out/Phân Thủ
-불꽃==flame, spark//flame, spark. VD: 불꽃이 일어나다 = a spark arises/
-사이버==cyber//cyber. VD: 사이버 공간 = cyberspace/
-사진관==studio//studio. VD: 사전관에서 사진을 찍다 = take a picture at a photo studio/Sự Trần Quan
-사춘기==puberty, adolescence//puberty, adolescence. VD: 사춘기를 맞다 = reach adolescence/
-서==west//west. VD: 서로 이동하다 = move to the west/
-서부==west//west. VD: 서부 지역 = western region/Thư Phụ
-성당==cathedral church//cathedral church. VD: 성당에 다니다 = go to the church/Thành Đang
-소방서==fire station//fire station. VD: 소방서에 신고하다 = report to the fire station/Tiểu Phương Thư
-수도==capital//capital. VD: 수도를 정하다 = establish a capital/Thủ Đồ
-스튜디오==studio//studio. VD: 녹음 스튜디오 = recording studio/
-시외==out of town//out of town. VD: 시외로 나가다 = go out of town/Thị Ngoại
-실내==inside//inside. VD: 실내로 들어가다 = go inside/Thất Nội
-안내서==guide//guide. VD: 안내서를 읽다 = read the guide/An Nội Thư
-안팎==inside and outside//inside and outside. VD: 나라 안팎 = inside and outside the country/
-여관==motel//motel. VD: 여관에서 자다 = sleep in a motel/Dư Quan
-연출==direction//direction. VD: 영화 연출 = film directing/Diên Xuất
-영상==above zero//above zero. VD: 영하 = below zero/Vĩnh Thượng
-영역==area//area. VD: 활동 영역 = activity area/Vĩnh Dịch
-외부==outside//outside. VD: 외부로 나가다 = go outside/Ngoại Phụ
-우측==right//right. VD: 우측 방향 = right direction/Vũ Trắc
-우회전==right turn/quay/right turn. VD: 우회전을 알리다 = signal a right turn/Vũ Hội Toàn
-이하==below//below. VD: 수준 이하 = subpar/Nhị Hạ
-일대==area//area. VD: 서울 일대 = Seoul area/Nhất Đại
-자본==capital//capital. VD: 자본이 부족하다 = lack of capital/Tử Bản
-적어도==at least//at least. VD: 적어도 일주일 = at least a week/Tích Ngữ Đồ
-절망==despair//despair. VD: 절망에 빠지다 = fall into despair/Tiết Vọng
-정면==front//front. VD: 정면을 향하다 = face forward/Chính Miên
-제과점==bakery//bakery. VD: 제과점에서 빵을 사다 = buy bread at a bakery/Chế Quả Điểm
-좌우==left and right//left and right. VD: 좌우 날개 = left and right wings/Tả Vũ
-좌측==left side//left side. VD: 좌측에 배치되다 = placed on the left/Tả Trắc
-좌회전==left turn/quay/left turn. VD: 좌회전을 하다 = turn left/Tả Hội Toàn
-중심지==center//center. VD: 경제의 중심지 = economic center/Trung Tâm Chỉ
-지역==region//region. VD: 서울 지역 = Seoul area/Chỉ Dịch
-짖다==bark//bark. VD: 강아지가 짖다 = the dog barks/
-최소한==at least//at least. VD: 최소한으로 유지하다 = maintain the minimum/Tối Tiểu Hàn
-칸==space//space. VD: 칸을 나누다 = divide space/
-탑==tower//tower. VD: 탑을 쌓다 = build a tower/
-펴내다==publish/xuất bản/publish. VD: 책을 펴내다 = publish a book/
-한가운데==center//center. VD: 한가운데에 놓다 = put in the very middle/
-화==fire//fire. VD: 화요일 = Tuesday/
-화재==fire//fire. VD: 화재가 발생하다 = fire breaks out/Hóa Tài
+-권==(right)//(right)/
+-장==(place)//(place)/
+경기장==stadium//stadium/Kinh Kỳ Trường
+경찰관==police officer//police officer/Kinh Sát Quan
+공간==space//space/Công Gian
+공공장소==public places//public places/Công Công Trường Tiểu
+교외==suburbs//suburbs/Giáo Ngoại
+구==district//district/
+구역==area//area/Cửu Dịch
+군데==place/nơi/place/
+권리==right/quyền lợi/right/Quyền Lý
+그러게==I know, right/biết/I know, right/
+그렇지==right//right/
+근교==suburb//suburb/Cận Giáo
+남==south/nam/south/
+내부==inside, interior//inside, interior/Nội Phụ
+내외==inside and outside//inside and outside/Nội Ngoại
+놀이터==playground//playground/
+농촌==rural, countryside//rural, countryside/
+당장==right now//right now/Đang Trường
+당황==embarrassment//embarrassment/Đang Hoàng
+댐==dam//dam/
+도==province//province/
+도심==downtown//downtown/Đồ Tâm
+동==east, eastern//east, eastern/
+멍멍==woof woof, bowbow//woof woof, bowbow/
+면적==area//area/Miên Tích
+반짝거리다==twinkle, sparkle//twinkle, sparkle/
+방면==direction, side//direction, side/Phương Miên
+방해==disturbance//disturbance/Phương Hải
+뱃속==one's inside, mind//one's inside, mind/
+법원==court//court/Pháp Viên
+보리==barley//barley/Bảo Lý
+부근==vicinity, near//vicinity, near/Phụ Cận
+분수==fountain//fountain/Phân Thủ
+불꽃==flame, spark//flame, spark/
+사이버==cyber//cyber/
+사진관==studio//studio/Sự Trần Quan
+사춘기==puberty, adolescence//puberty, adolescence/
+서==west//west/
+서부==west//west/Thư Phụ
+성당==cathedral church//cathedral church/Thành Đang
+소방서==fire station//fire station/Tiểu Phương Thư
+수도==capital/thủ đô/capital/Thủ Đồ
+스튜디오==studio//studio/
+시외==out of town//out of town/Thị Ngoại
+실내==inside//inside/Thất Nội
+안내서==guide//guide/An Nội Thư
+안팎==inside and outside//inside and outside/
+여관==motel//motel/Dư Quan
+연출==direction//direction/Diên Xuất
+영상==above zero//above zero/Vĩnh Thượng
+영역==area//area/Vĩnh Dịch
+외부==outside//outside/Ngoại Phụ
+우측==right//right/Vũ Trắc
+우회전==right turn/quay/right turn/Vũ Hội Toàn
+이하==below//below/Nhị Hạ
+일대==area//area/Nhất Đại
+자본==capital//capital/Tử Bản
+적어도==at least//at least/Tích Ngữ Đồ
+절망==despair/tuyệt vọng/despair/Tiết Vọng
+정면==front//front/Chính Miên
+제과점==bakery//bakery/Chế Quả Điểm
+좌우==left and right//left and right/Tả Vũ
+좌측==left side//left side/Tả Trắc
+좌회전==left turn/quay/left turn/Tả Hội Toàn
+중심지==center//center/Trung Tâm Chỉ
+지역==region/khu vực/region/Chỉ Dịch
+짖다==bark//bark/
+최소한==at least//at least/Tối Tiểu Hàn
+칸==space//space/
+탑==tower//tower/
+펴내다==publish/xuất bản/publish/
+한가운데==center//center/
+화==fire/cơn giận/fire/
+화재==fire//fire/Hóa Tài

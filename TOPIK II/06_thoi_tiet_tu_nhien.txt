@@ -1,79 +1,79 @@
-가뭄==drought//drought. VD: 가뭄이 들다 = have a drought/
-강수량==precipitation, rainfall//precipitation, rainfall. VD: 강수량이 많다 = have a lot of precipitation/Cường Thủ Lượng
-계곡==valley//valley. VD: 계곡에 가다 = go to a valley/Kế Khúc
-고국==homeland//homeland. VD: 고국으로 돌아가다 = return homeland/Cổ Quốc
-공해==pollution//pollution. VD: 공해가 심각하다 = serious pollution/Công Hải
-굴==cave, tunnel//cave, tunnel. VD: 굴을 파다 = dig a tunnel/
-굶다==starve//starve. VD: 밥을 굶다 = starve meal/
-기후==climate//climate. VD: 기후가 좋다 = the climate is good/Kỳ Hậu
-꾸중==rebuke, scolding//rebuke, scolding. VD: 꾸중을 듣다 = receive scolding/
-끼다==cloudy//cloudy. VD: 구름이 끼다 = be cloudy/
-냉정하다==cold-tempered//cold-tempered. VD: 성격이 냉정하다 = cold-tempered/
-넘어오다==fall over/rơi/fall over. VD: 나무가 넘어오다 = a tree falls over/
-늦겨울==late winter//late winter. VD: 늦겨울이 지나다 = late winter passes/
-늦봄==late spring//late spring. VD: 늦봄이 지나다 = late spring passes/
-늦여름==late summer//late summer. VD: 늦여름이 지나다 = late summer passes/
-달빛==moonlight//moonlight. VD: 달빛이 비치다 = the moon shines/
-대낮==daylight//daylight. VD: 대낮처럼 밝다 = as bright as daylight/
-더위==hot/nóng/hot. VD: 더위를 피하다 = avoid the heat/
-돌==rock, stone//rock, stone. VD: 돌을 맞다 = be struck by a stone/
-뒷산==hill behind//hill behind. VD: 뒷산에 오르다 = climb the mountain behind/
-땅바닥==on the ground//on the ground. VD: 땅바닥에 놓다 = put on the ground/
-머무르다==stay//stay. VD: 호텔에서 머무르다 = stay at a hotel/
-멋지다==cool//cool. VD: 경치가 멋지다 = the view is beautiful/
-모래==sand//sand. VD: 모래 사막 = a sand desert/
-무지개==rainbow//rainbow. VD: 무지개가 뜨다 = a rainbow rises/Vũ Chỉ Khai
-묵다==lodge, stay//lodge, stay. VD: 호텔에서 묵다 = stay at a hotel/
-물결==wave//wave. VD: 물결이 잔잔하다 = the waves are calm/Vật Quyết
-바위==rock//rock. VD: 바위에 걸터앉다 = sit on a rock/
-반달==halfmoon//halfmoon. VD: 반달이 뜨다 = halfmoon rises/Bán Đạt
-반하다==fall in love/rơi/fall in love. VD: 첫눈에 반하다 = love at first sight/Bán Hạ Đa
-번개==lightning//lightning. VD: 번개를 맞다 = get hit by lightning/Phiên Khai
-별==star//star. VD: 별 볼 일 없다 = be insignificant, be trivial/
-보관==keep//keep. VD: 냉장 보관 = cold storage/Bảo Quan
-보름==full moon/mặt trăng/full moon. VD: 정월 보름 = first full moon/
-보름달==full moon/mặt trăng/full moon. VD: 보름달이 뜨다 = the full moon rises/
-불평==complain/phàn nàn/complain. VD: 불평을 늘어놓다 = make a complaint/Bất Bình
-비바람==rainstorm, rain and wind/mưa/rainstorm, rain and wind. VD: 비바람이 치다 = It's rainy and windy/
-빗방울==raindrop//raindrop. VD: 빗방울이 떨어지다 = raindrops fall/
-빠지다==fall out/rơi/fall out. VD: 앞니가 빠지다 = front teeth fall out/
-사막==desert//desert. VD: 사막 지역 = desert area/Sự Mạc
-사진첩==photo album//photo album. VD: 사진첩에 사진을 끼우다 = insert a photo into a photo album/
-산길==mountain path/núi/mountain path. VD: 산길을 오르다 = climb a mountain path/
-상류==upstream//upstream. VD: 상류에서 떠내려오다 = drift down from upstream/Thượng Lưu
-서늘하다==cool//cool. VD: 밤공기가 서늘하다 = the night air is cool/
-서명==signature//signature. VD: 서명을 받다 = get signature/Thư Minh
-수천==thousands//thousands. VD: 수천 명 = thousands of people/Thủ Thiên
-습도==humidity//humidity. VD: 습도가 높다 = humidity is high/
-신혼==honeymoon//honeymoon. VD: 신혼 생활 = newlywed life/Tân Hôn
-쏘다==shoot//shoot. VD: 총을 쏘다 = fire a shot/
-앞바다==offshore//offshore. VD: 앞바다로 나가다 = go out to sea/
-야단==scold//scold. VD: 야단을 떨다 = make a fuss/Dã Đoàn
-언덕==hill//hill. VD: 언덕을 오르다 = climb a hill/Ngôn Đức
-연못==pond//pond. VD: 연못에 빠지다 = fall into a pond/
-오염==pollution//pollution. VD: 오염 물질 = pollutant/Ngũ Nhiễm
-온천==hot spring/nóng/hot spring. VD: 온천에 가다 = go to hot springs/Ôn Thiên
-육지==land//land. VD: 육지에서 살다 = live on land/Dục Chỉ
-일출==sunrise//sunrise. VD: 일출을 보다 = watch the sunrise/Nhất Xuất
-장마철==the rainy season//the rainy season. VD: 장마철이 다가오다 = the rainy season is approaching/Trường Mã Thiết
-지구==earth//earth. VD: 지구에 살다 = live on earth/Chỉ Cửu
-지진==earthquake//earthquake. VD: 지진이 발생하다 = an earthquake occurs/Chỉ Trần
-찜질==bath//bath. VD: 모래 찜질 = sand bath/
-참조==reference//reference. VD: 사진 참조 = photo reference/Tham Tổ
-천둥==thunder//thunder. VD: 천둥이 치다 = thunder strikes/
-철==season//season. VD: 철이 바뀌다 = seasons change/
-첫눈==first snow/tuyết/first snow. VD: 첫눈이 내리다 = the first snow falls/
-초가을==early autumn//early autumn. VD: 초가을 바람 = early autumn wind/Sơ Gia Ất
-초겨울==early winter//early winter. VD: 초겨울 추위 = early winter cold/
-초봄==early spring//early spring. VD: 초봄의 바람 = early spring wind/
-추위==cold/lạnh/cold. VD: 추위를 견디다 = endure the cold/Thu Vị
-파도==wave//wave. VD: 파도가 부서지다 = wave crashes/Phá Đồ
-폭설==heavy snow/nặng/heavy snow. VD: 폭설이 내리다 = heavy snow falls/Bạo Thiết
-폭포==waterfall//waterfall. VD: 폭포를 구경하다 = see a waterfall/Bạo Bao
-한겨울==midwinter//midwinter. VD: 한겨울이 지나가다 = midwinter passes/
-해돋이==sunrise//sunrise. VD: 해돋이를 감상하다 = enjoy the sunrise/
-해수욕장==beach//beach. VD: 해수욕장을 개장하다 = open a beach/Hải Thủ Dục Trường
-해안==coast//coast. VD: 해안 지방 = coastal region/Hải An
-햇살==sunlight//sunlight. VD: 햇살이 따뜻하다 = sunlight is warm/
-혼나다==get scolded//get scolded. VD: 아파서 혼나다 = get scolded for being sick/Hôn Na Đa
-홍수==flood//flood. VD: 홍수가 나다 = flood/Hồng Thủ
+가뭄==drought/hạn hán/drought/
+강수량==precipitation, rainfall//precipitation, rainfall/Cường Thủ Lượng
+계곡==valley//valley/Kế Khúc
+고국==homeland//homeland/Cổ Quốc
+공해==pollution//pollution/Công Hải
+굴==cave, tunnel//cave, tunnel/
+굶다==starve//starve/
+기후==climate/khí hậu/climate/Kỳ Hậu
+꾸중==rebuke, scolding//rebuke, scolding/
+끼다==cloudy//cloudy/
+냉정하다==cold-tempered//cold-tempered/
+넘어오다==fall over/rơi/fall over/
+늦겨울==late winter//late winter/
+늦봄==late spring//late spring/
+늦여름==late summer//late summer/
+달빛==moonlight//moonlight/
+대낮==daylight//daylight/
+더위==hot/nóng/hot/
+돌==rock, stone//rock, stone/
+뒷산==hill behind//hill behind/
+땅바닥==on the ground//on the ground/
+머무르다==stay//stay/
+멋지다==cool//cool/
+모래==sand//sand/
+무지개==rainbow//rainbow/Vũ Chỉ Khai
+묵다==lodge, stay//lodge, stay/
+물결==wave//wave/Vật Quyết
+바위==rock//rock/
+반달==halfmoon//halfmoon/Bán Đạt
+반하다==fall in love/rơi/fall in love/
+번개==lightning//lightning/Phiên Khai
+별==star/ngôi sao/star/
+보관==keep//keep/Bảo Quan
+보름==full moon/mặt trăng/full moon/
+보름달==full moon/mặt trăng/full moon/
+불평==complain/phàn nàn/complain/Bất Bình
+비바람==rainstorm, rain and wind/mưa/rainstorm, rain and wind/
+빗방울==raindrop//raindrop/
+빠지다==fall out/rơi/fall out/
+사막==desert/sa mạc/desert/Sự Mạc
+사진첩==photo album//photo album/
+산길==mountain path/núi/mountain path/
+상류==upstream//upstream/Thượng Lưu
+서늘하다==cool//cool/
+서명==signature//signature/Thư Minh
+수천==thousands//thousands/Thủ Thiên
+습도==humidity/độ ẩm/humidity/
+신혼==honeymoon//honeymoon/Tân Hôn
+쏘다==shoot//shoot/
+앞바다==offshore//offshore/
+야단==scold//scold/Dã Đoàn
+언덕==hill//hill/Ngôn Đức
+연못==pond//pond/
+오염==pollution//pollution/Ngũ Nhiễm
+온천==hot spring/nóng/hot spring/Ôn Thiên
+육지==land//land/Dục Chỉ
+일출==sunrise//sunrise/Nhất Xuất
+장마철==the rainy season//the rainy season/Trường Mã Thiết
+지구==earth//earth/Chỉ Cửu
+지진==earthquake/động đất/earthquake/Chỉ Trần
+찜질==bath//bath/
+참조==reference//reference/Tham Tổ
+천둥==thunder//thunder/
+철==season//season/
+첫눈==first snow/tuyết/first snow/
+초가을==early autumn//early autumn/Sơ Gia Ất
+초겨울==early winter//early winter/
+초봄==early spring//early spring/
+추위==cold/lạnh/cold/Thu Vị
+파도==wave//wave/Phá Đồ
+폭설==heavy snow/nặng/heavy snow/Bạo Thiết
+폭포==waterfall//waterfall/Bạo Bao
+한겨울==midwinter//midwinter/
+해돋이==sunrise//sunrise/
+해수욕장==beach//beach/Hải Thủ Dục Trường
+해안==coast//coast/Hải An
+햇살==sunlight//sunlight/
+혼나다==get scolded//get scolded/Hôn Na Đa
+홍수==flood/lũ lụt/flood/Hồng Thủ

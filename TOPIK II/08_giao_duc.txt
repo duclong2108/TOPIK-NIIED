@@ -1,101 +1,101 @@
--관==(organization)//(organization). VD: 도서관 = library/
--생==(student)//(student). VD: 실습생 = trainee/
--제==medicine/thuốc/medicine. VD: 영양제 = nutrients/
--학==branch of study/học/branch of study. VD: 경제학 = economics/
-감상문==review//review. VD: 독서 감상문 = book review/Cảm Thượng Văn
-강의==lecture//lecture. VD: 강의를 듣다 = attend a lecture/Cường Nghị
-강의실==lecture room/phòng/lecture room. VD: 대형 강의실 = a large lecture hall/Cường Nghị Thất
-결론==conclusion//conclusion. VD: 결론을 내리다 = draw a conclusion/Quyết Luận
-고급==advance, high class//advance, high class. VD: 고급 시계 = a luxury watch/Cổ Cấp
-과목==subject//subject. VD: 암기 과목 = memorization subject/Quả Mộc
-과제==assignment//assignment. VD: 과제를 해결하다 = solve a problem/Quả Chế
-과학==science/khoa học/science. VD: 과학을 연구하다 = study science/Quả Học
-관찰==observation//observation. VD: 식물 관찰 = plant observation/Quan Sát
-교내==on campus//on campus. VD: 교내 방송 = school broadcasting/Giáo Nội
-교시==class//class. VD: 1교시 = the first class/Giáo Thị
-교장==principal//principal. VD: 초등학교 교장 = elementary school principal/Giáo Trường
-교재==textbook//textbook. VD: 학습 교재 = learning textbook/Giáo Tài
-교훈==lesson//lesson. VD: 교훈을 얻다 = learn a lesson/Giáo Huấn
-국어==official language, Korean//official language, Korean. VD: 국어를 가르치다 = teach Korean/Quốc Ngữ
-기반==base, foundation//base, foundation. VD: 기반을 다지다 = lay the foundation/Kỳ Bán
-기초==foundation//foundation. VD: 기초를 다지다 = learn the basics/Kỳ Sơ
-논의==discussion//discussion. VD: 논의를 거치다 = go through discussion/
-대상==target, subject//target, subject. VD: 연구 대상 = subject of study/Đại Thượng
-대상자==subject//subject. VD: 합격 대상자 = a successful candidate/Đại Thượng Tử
-동아리==club//club. VD: 동아리에 가입하다 = join a club/Đồng Á Lý
-동호회==club//club. VD: 동호회에 가입하다 = join a club/Đồng Hồ Hội
-등록금==tuition//tuition. VD: 등록금을 내다 = pay tuition/Đẳng Lục Kim
-만점==perfect score//perfect score. VD: 만점을 받다 = get a perfect score/Vạn Điểm
-면담==interview, one-on-one talk/nói chuyện/interview, one-on-one talk. VD: 면담을 요청하다 = request an interview/Miên Đàm
-면접==interview//interview. VD: 면접을 요구하다 = ask for an interview/Miên Tiếp
-면허증==license, certificate//license, certificate. VD: 면허증을 따다 = get a certificate/Miên Hứa Tăng
-문학==literature//literature. VD: 문학을 창작하다 = create literature/Văn Học
-미술==art/nghệ thuật/art. VD: 미술을 배우다 = learn art/Mỹ Thuật
-밑줄==underscore, underline//underscore, underline. VD: 밑즐을 치다 = to underline/
-발표==presentation//presentation. VD: 발표를 듣다 = listen to the presentation/Phát Biểu
-발행==publication//publication. VD: 잡지 발행 = magazine publication/Phát Hành
-법==law/pháp luật/law. VD: 법을 지키다 = follow the law/
-법률==law/pháp luật/law. VD: 법률을 위반하다 = break the law/Pháp Luật
-벽지==wallpaper//wallpaper. VD: 벽지를 바르다 = apply wallpaper/Bích Chỉ
-보고==report/báo cáo/report. VD: 보고를 받다 = receive a report/Bảo Cổ
-보고서==report/báo cáo/report. VD: 보고서를 작성하다 = write a report/Bảo Cổ Thư
-비난==criticism//criticism. VD: 비난을 받다 = be criticized/Phi Nan
-비판==criticism//criticism. VD: 비판을 가하다 = criticize/Phi Phán
-설문==survey//survey. VD: 설문에 답하다 = answer the survey/Thiết Văn
-설문지==questionnaire//questionnaire. VD: 설문지를 작성하다 = fill out a questionnaire/Thiết Văn Chỉ
-성적표==grade card//grade card. VD: 성적표를 받다 = receive a grade card/Thành Tích Biểu
-세미나==seminar//seminar. VD: 세미나를 열다 = hold a seminar/Thế Mỹ Na
-수학==math//math. VD: 수학을 가르치다 = teach math/Thủ Học
-승진==promotion//promotion. VD: 승진 시험 = promotion exam/Thăng Trần
-시험지==test paper/giấy/test paper. VD: 시험지를 채점하다 = grade a test paper/Thị Hiểm Chỉ
-실험==experiment//experiment. VD: 실험을 하다 = do experiment/Thất Hiểm
-심리==psychology//psychology. VD: 심리를 나타내다 = show mental state/Tâm Lý
-심사==evaluation//evaluation. VD: 심사를 받다 = undergo evaluation/Tâm Sự
-약품==medicine/thuốc/medicine. VD: 약품을 구입하다 = buy medicine/Ước Phẩm
-양심==conscience//conscience. VD: 양심에 찔리다 = have a guilty conscience/Dương Tâm
-여고==girls' high school/trường/girls' high school. VD: 여고 시절 = girls' high school days/Dư Cổ
-연구==research/nghiên cứu/research. VD: 연구에 몰두하다 = devote oneself to research/Diên Cửu
-연구소==research institute/nghiên cứu/research institute. VD: 연구소를 세우다 = establish a research institute/Diên Cửu Tiểu
-연구원==institute//institute. VD: 연구원에서 일하다 = work at a research institute/Diên Cửu Viên
-유도==lead, guidance/dẫn/lead, guidance. VD: 대화 유도 = guidance of conversation/Du Đồ
-의논==discussion//discussion. VD: 의논을 하다 = debate/
-이론==theory//theory. VD: 이론을 세우다 = build a theory/Nhị Luận
-인터뷰==interview//interview. VD: 인터뷰 기사 = interview article/
-일부분==a part//a part. VD: 일부분에 속하다 = belong to a part/Nhất Phụ Phân
-입시==entrance exam//entrance exam. VD: 대학 입시 = college entrance exam/Nhập Thị
-입장==admission//admission. VD: 무료 입장 = free admission/Nhập Trường
-자격증==certificate//certificate. VD: 자격증을 따다 = get a sertificate/Tử Cách Tăng
-자료==data//data. VD: 자료를 찾다 = find data/Tử Liệu
-작문==essay//essay. VD: 작문을 읽다 = read an essay/Tác Văn
-장학==scholarship//scholarship. VD: 장학 사업 = scholarship project/Trường Học
-장학금==scholarship//scholarship. VD: 장학금을 받다 = receive a scholarship/Trường Học Kim
-재학==enrollment//enrollment. VD: 재학 증명서 = proof of enrollment/Tài Học
-재학생==enrolled student/học sinh/enrolled student. VD: 재학생이 늘다 = number of enrolled students increases/Tài Học Sinh
-조사==survey//survey. VD: 조사 결과 = survey results/Tổ Sự
-졸업생==graduate//graduate. VD: 졸업생을 배출하다 = turn out graduates/
-중단==suspension//suspension. VD: 운행 중단 = suspension of service/Trung Đoàn
-증거==evidence//evidence. VD: 증거를 찾다 = find evidence/Tăng Cư
-증명==proof//proof. VD: 증명을 하다 = prove/Tăng Minh
-증명서==certificate//certificate. VD: 증명서를 발급하다 = issue a certificate/Tăng Minh Thư
-지도==guidance//guidance. VD: 지도를 받다 = receive guidance/Chỉ Đồ
-지시==instruction//instruction. VD: 지시를 하다 = give instructions/Chỉ Thị
-지식==knowledge//knowledge. VD: 지식을 얻다 = gain knowledge/Chỉ Thực
-진학==school admission/trường/school admission. VD: 진학 상담 = admission counseling/Trần Học
-참석==attendance//attendance. VD: 회의 참석 = meeting attendance/Tham Thạch
-참여==participation//participation. VD: 참여가 많다 = participation is high/Tham Dư
-책가방==school bag/trường/school bag. VD: 책가방을 메다 = carry a school bag/Sách Gia Phương
-최고급==top class//top class. VD: 최고급 호텔 = top class hotel/Tối Cổ Cấp
-출판==publication//publication. VD: 도서 출판 = book publication/Xuất Phán
-클래식==classical music/âm nhạc/classical music. VD: 클래식을 듣다 = listen to classical music/
-클럽==club//club. VD: 클럽에서 놀다 = hang out at the club/
-테스트==test//test. VD: 테스트를 받다 = take a test/
-토론==debate//debate. VD: 찬반 토론 = pros and cons debate/Thổ Luận
-토의==discussion//discussion. VD: 토의 주제 = topic of discussion/Thổ Nghị
-통계==statistics//statistics. VD: 통계 자료 = statistical data/Thông Kế
-평==review//review. VD: 평이 좋다 = reviews are good/
-평가==evaluation//evaluation. VD: 평가를 받다 = get evaluation/Bình Gia
-포장지==wrapping paper/giấy/wrapping paper. VD: 포장지로 싸다 = wrap in wrapping paper/Bao Trường Chỉ
-학문==study/học/study. VD: 학문에 정진하다 = devote oneself to one's studies/Học Văn
-학비==tuition//tuition. VD: 학비를 내다 = pay tuition/Học Phi
-홍보==promotion//promotion. VD: 신제품 홍보 = new product promotion/Hồng Bảo
-훈련==training//training. VD: 훈련을 마치다 = finish training/Huấn Liên
+-관==(organization)//(organization)/
+-생==(student)//(student)/
+-제==medicine/thuốc/medicine/
+-학==branch of study/học/branch of study/
+감상문==review//review/Cảm Thượng Văn
+강의==lecture/bài giảng/lecture/Cường Nghị
+강의실==lecture room/phòng/lecture room/Cường Nghị Thất
+결론==conclusion//conclusion/Quyết Luận
+고급==advance, high class//advance, high class/Cổ Cấp
+과목==subject/môn học/subject/Quả Mộc
+과제==assignment//assignment/Quả Chế
+과학==science/khoa học/science/Quả Học
+관찰==observation//observation/Quan Sát
+교내==on campus//on campus/Giáo Nội
+교시==class//class/Giáo Thị
+교장==principal//principal/Giáo Trường
+교재==textbook//textbook/Giáo Tài
+교훈==lesson//lesson/Giáo Huấn
+국어==official language, Korean//official language, Korean/Quốc Ngữ
+기반==base, foundation//base, foundation/Kỳ Bán
+기초==foundation//foundation/Kỳ Sơ
+논의==discussion//discussion/
+대상==target, subject//target, subject/Đại Thượng
+대상자==subject//subject/Đại Thượng Tử
+동아리==club//club/Đồng Á Lý
+동호회==club//club/Đồng Hồ Hội
+등록금==tuition//tuition/Đẳng Lục Kim
+만점==perfect score//perfect score/Vạn Điểm
+면담==interview, one-on-one talk/nói chuyện/interview, one-on-one talk/Miên Đàm
+면접==interview//interview/Miên Tiếp
+면허증==license, certificate//license, certificate/Miên Hứa Tăng
+문학==literature/văn học/literature/Văn Học
+미술==art/nghệ thuật/art/Mỹ Thuật
+밑줄==underscore, underline//underscore, underline/
+발표==presentation//presentation/Phát Biểu
+발행==publication//publication/Phát Hành
+법==law/pháp luật/law/
+법률==law/pháp luật/law/Pháp Luật
+벽지==wallpaper//wallpaper/Bích Chỉ
+보고==report/báo cáo/report/Bảo Cổ
+보고서==report/báo cáo/report/Bảo Cổ Thư
+비난==criticism//criticism/Phi Nan
+비판==criticism//criticism/Phi Phán
+설문==survey//survey/Thiết Văn
+설문지==questionnaire//questionnaire/Thiết Văn Chỉ
+성적표==grade card//grade card/Thành Tích Biểu
+세미나==seminar//seminar/Thế Mỹ Na
+수학==math/toán học/math/Thủ Học
+승진==promotion//promotion/Thăng Trần
+시험지==test paper/giấy/test paper/Thị Hiểm Chỉ
+실험==experiment/thí nghiệm/experiment/Thất Hiểm
+심리==psychology//psychology/Tâm Lý
+심사==evaluation//evaluation/Tâm Sự
+약품==medicine/thuốc/medicine/Ước Phẩm
+양심==conscience//conscience/Dương Tâm
+여고==girls' high school/trường/girls' high school/Dư Cổ
+연구==research/nghiên cứu/research/Diên Cửu
+연구소==research institute/nghiên cứu/research institute/Diên Cửu Tiểu
+연구원==institute//institute/Diên Cửu Viên
+유도==lead, guidance/dẫn/lead, guidance/Du Đồ
+의논==discussion//discussion/
+이론==theory//theory/Nhị Luận
+인터뷰==interview//interview/
+일부분==a part//a part/Nhất Phụ Phân
+입시==entrance exam//entrance exam/Nhập Thị
+입장==admission//admission/Nhập Trường
+자격증==certificate//certificate/Tử Cách Tăng
+자료==data/tài liệu/data/Tử Liệu
+작문==essay//essay/Tác Văn
+장학==scholarship//scholarship/Trường Học
+장학금==scholarship/học bổng/scholarship/Trường Học Kim
+재학==enrollment//enrollment/Tài Học
+재학생==enrolled student/học sinh/enrolled student/Tài Học Sinh
+조사==survey//survey/Tổ Sự
+졸업생==graduate//graduate/
+중단==suspension//suspension/Trung Đoàn
+증거==evidence//evidence/Tăng Cư
+증명==proof//proof/Tăng Minh
+증명서==certificate//certificate/Tăng Minh Thư
+지도==guidance//guidance/Chỉ Đồ
+지시==instruction//instruction/Chỉ Thị
+지식==knowledge/kiến thức/knowledge/Chỉ Thực
+진학==school admission/trường/school admission/Trần Học
+참석==attendance//attendance/Tham Thạch
+참여==participation//participation/Tham Dư
+책가방==school bag/trường/school bag/Sách Gia Phương
+최고급==top class//top class/Tối Cổ Cấp
+출판==publication//publication/Xuất Phán
+클래식==classical music/âm nhạc/classical music/
+클럽==club//club/
+테스트==test//test/
+토론==debate//debate/Thổ Luận
+토의==discussion//discussion/Thổ Nghị
+통계==statistics//statistics/Thông Kế
+평==review//review/
+평가==evaluation//evaluation/Bình Gia
+포장지==wrapping paper/giấy/wrapping paper/Bao Trường Chỉ
+학문==study/học/study/Học Văn
+학비==tuition//tuition/Học Phi
+홍보==promotion//promotion/Hồng Bảo
+훈련==training//training/Huấn Liên

@@ -1,148 +1,148 @@
--료==(fee, charge)//(fee, charge). VD: 통화료 = call fee/
--물==(product)//(product). VD: 농산물 = agricultural products/
--비==-fee//-fee. VD: 휴가비 = vacation fee/
--째==order//order. VD: 첫째 = first/
-감다==wrap, wire//wrap, wire. VD: 붕대를 감다 = wrap bandage/Cảm Đa
-감싸다==cover, wrap//cover, wrap. VD: 얼굴을 감싸다 = cover one's face/
-값싸다==cheap/rẻ/cheap. VD: 값싼 물건 = cheap goods/
-강도==burglar, robber//burglar, robber. VD: 은행 강도 = a bank robber/Cường Đồ
-개발==development/sự phát triển/development. VD: 재능 개발 = talent development/Khai Phát
-거래==deal, transaction//deal, transaction. VD: 거래가 이루어지다 = deal is finalized/
-거래처==customer, client//customer, client. VD: 거래처 직원 = customer staff/
-결제==payment//payment. VD: 카드 결제 = card payment/Quyết Chế
-경기==economy/kinh tế/economy. VD: 경기가 회복되다 = economy is recovered/Kinh Kỳ
-경쟁==competition/cuộc thi/competition. VD: 경쟁 상대 = a competitor/Kinh Tranh
-경제==economy/kinh tế/economy. VD: 경제 개발 = economic development/Kinh Chế
-계약금==deposit//deposit. VD: 계야금을 받다 = receive a deposit/Kế Ước Kim
-계좌==account//account. VD: 계좌 번호 = account number/Kế Tả
-고객==client, customer//client, customer. VD: 고객을 맞다 = greet a customer/Cổ Khách
-곱하다==multiply//multiply. VD: 7에 3을 곱하다 = multiply 7 by 3/
-공과금==dues, utility fee//dues, utility fee. VD: 공과금을 내다 = pay utility fees/Công Quả Kim
-공급==supply/cung cấp/supply. VD: 공급을 받다 = receive a supply/Công Cấp
-공업==industry//industry. VD: 공업이 발달하다 = develop industry/Công Nghiệp
-관심사==matter of interest//matter of interest. VD: 관심사가 다르다 = have a different interest/Quan Tâm Sự
-구매==purchase//purchase. VD: 상품 구매 = product purchase/Cửu Mại
-구입==purchase//purchase. VD: 물품 구입 = purchased goods/Cửu Nhập
-균형==balance//balance. VD: 균형을 잡다 = take balance/Quân Hình
-금액==amount//amount. VD: 금액을 지불하다 = pay an amount/Kim Dịch
-금융==finance//finance. VD: 금융 분야 = financial sector/
-기도==pray//pray. VD: 기도를 올리다 = offer a prayer/Kỳ Đồ
-내보내다==put out, export/đặt/put out, export. VD: 밖으로 내보내다 = put sb out/Nội Bảo Nội Đa
-농산물==agricultural products//agricultural products. VD: 농사물을 판매하다 = sell agricultural products/Nông Sơn Vật
-놓이다==feel relieved/cảm thấy/feel relieved. VD: 마음이 놓이다 = feel relieved/
-다방==coffee house/nhà/coffee house. VD: 다방에서 만나다 = meet at a coffee house/Đa Phương
-단속==regulation, supervision//regulation, supervision. VD: 단속을 피하다 = avoid supervision/Đoàn Tốc
-담당==in charge//in charge. VD: 담당 부서 = department in charge/Đàm Đang
-대가==cost//cost. VD: 대가를 지불하다(물건) = (goods) pay the price/Đại Gia
-대량==bulk, large amount/lớn/bulk, large amount. VD: 대량으로 생산하다 = mass produce/Đại Lượng
-대출==loan//loan. VD: 도서 대출 = book loan/Đại Xuất
-량==amount//amount. VD: 작업량 = workload/
-만족감==feeling of satisfaction//feeling of satisfaction. VD: 만족감이 들다 = feel satisfied/Vạn Tộc Cảm
-맡다==take charge of/lấy/take charge of. VD: 업무를 맡다 = take charge of business/
-매점==a stall, a shop/cửa hàng/a stall, a shop. VD: 매점을 운영하다 = run a stall/Mại Điểm
-먹이다==feed//feed. VD: 밥을 먹이다 = feed someone meal/
-명함==business card/kinh doanh/business card. VD: 명함을 교환하다 = exchange business cards/Minh Hàm
-무역==trade//trade. VD: 무역 회사 = a trading company/Vũ Dịch
-물가==price/giá/price. VD: 물가가 비싸다 = price is high/Vật Gia
-바구니==basket//basket. VD: 바구니에 담다 = put in a basket/
-바치다==devote, offer, make//devote, offer, make. VD: 제물을 바치다 = make a sacrifice/
-반값==half price/giá/half price. VD: 반값에 팔다 = sell at half price/
-발전==development/sự phát triển/development. VD: 경제 발전 = economic development/Phát Toàn
-배송==shipping, delivery//shipping, delivery. VD: 배송이 빠르다 = delivery is fast/Bồi Tống
-백==bag//bag. VD: 백에 넣다 = put in a bag/
-변비==constipation//constipation. VD: 변비가 심하다 = have severe constipation/Biến Phi
-보너스==bonus//bonus. VD: 보너스를 받다 = receive a bonus/
-보장==guarantee//guarantee. VD: 보장을 받다 = be guaranteed/Bảo Trường
-보험==insurance//insurance. VD: 보험에 가입하다 = sign up for insurance/Bảo Hiểm
-봉지==bag//bag. VD: 봉지에 넣다 = put in bag/Phong Chỉ
-부==wealth//wealth. VD: 부를 누리다 = enjoy wealth/
-부서==department//department. VD: 부서를 옮기다 = change department/Phụ Thư
-분량==amount//amount. VD: 분량을 조절하다 = adjust the amount/Phân Lượng
-비용==cost//cost. VD: 비용이 들다 = cost money/Phi Dụng
-빚==debt//debt. VD: 빚을 갚다 = pay off debt/
-사들이다==buy/mua/buy. VD: 토지를 사들이다 = buy land/
-사용료==fee, dues//fee, dues. VD: 휴대폰 사용료 = mobile phone usage fee/Sự Dụng Liệu
-산업==industry//industry. VD: 자동차 산업 = automobile industry/Sơn Nghiệp
-상업==commerce//commerce. VD: 상업에 종사하다 = engage in commerce/Thượng Nghiệp
-성장==growth//growth. VD: 성장이 멈추다 = stop growing/Thành Trường
-세계화==globalization//globalization. VD: 세계화 시대 = era of globalization/Thế Kế Hóa
-세금==tax//tax. VD: 세금을 내다 = pay taxes/Thế Kim
-세일==sale//sale. VD: 세일 가격 = sale price/Thế Nhất
-소-==(small)//(small). VD: 소규모 = small scale/
-소득==income//income. VD: 소득이 많다 = have high income/Tiểu Đắc
-소비==consumption//consumption. VD: 소비가 늘다 = consumption increases/Tiểu Phi
-소비자==consumer//consumer. VD: 소비자 물가 = consumer prices/Tiểu Phi Tử
-소형==small type/nhỏ/small type. VD: 소형 자동차 = mini car/Tiểu Hình
-손발==hands and feet//hands and feet. VD: 손발이 저리다 = hands and feet are numb./Tổn Phát
-손해==loss, damage//loss, damage. VD: 손해를 입히다 = cause damage/Tổn Hải
-쇼핑몰==shopping mall//shopping mall. VD: 쇼핑몰을 운영하다 = run a shopping mall/
-쇼핑센터==shopping center//shopping center. VD: 쇼핑센터에서 사다 = buy at a shopping center/
-수리비==repair cost//repair cost. VD: 수리비를 내다 = pay for repairs/Thủ Lý Phi
-수수료==commission//commission. VD: 수수료를 내다 = pay a fee/Thủ Thủ Liệu
-수입==income//income. VD: 수입이 많다 = have a lot of income/Thủ Nhập
-수입==import//import. VD: 수출 = export/Thủ Nhập
-수입품==import goods//import goods. VD: 수출품 = export goods/Thủ Nhập Phẩm
-수출==export//export. VD: 수입 = import/Thủ Xuất
-수표==check//check. VD: 수표를 발행하다 = issue a check/Thủ Biểu
-숙박비==room charge/phòng/room charge. VD: 숙박비를 지불하다 = pay fo the room/Túc Bác Phi
-슈퍼==supermarket//supermarket. VD: 슈퍼에서 사다 = buy at the supermarket/
-스타킹==stockings//stockings. VD: 스타킹을 신다 = wear stockings/
-시중==market//market. VD: 시중 가격 = market price/Thị Trung
-신상품==new product/mới/new product. VD: 신상품을 내놓다 = present new product/Tân Thượng Phẩm
-신용==credit//credit. VD: 신용을 잃다 = lose credibility/Tân Dụng
-신제품==new product/mới/new product. VD: 신제품이 나오다 = new product comes out/Tân Chế Phẩm
-실업==unemployment//unemployment. VD: 실업 위기 = unemployment crisis/Thất Nghiệp
-심정==feelings//feelings. VD: 심정이 답답하다 = feel frustrated/Tâm Chính
-싸이다==be wrapped//be wrapped. VD: 보자기에 싸이다 = wrapped in a cloth/
-싼값==low price/giá/low price. VD: 싼값에 팔다 = sell at a low price/
-액수==amount//amount. VD: 액수가 크다 = amount is large/Dịch Thủ
-양==amount//amount. VD: 양이 많다 = there's a lot/
-업계==industry//industry. VD: 서비스 업계 = service industry/Nghiệp Kế
-업체==business/kinh doanh/business. VD: 업체와 거래하다 = deal with a business/Nghiệp Thể
-연봉==salary//salary. VD: 연봉이 오르다 = salary increases/Diên Phong
-연체료==late fee//late fee. VD: 연체료를 내다 = pay a late fee/Diên Thể Liệu
-영업==business/kinh doanh/business. VD: 영업을 마치다 = close business/Vĩnh Nghiệp
-예금==deposit//deposit. VD: 예금을 찾다 = withdraw one's deposit/Lễ Kim
-예산==budget//budget. VD: 예산을 짜다 = set up a budget/Lễ Sơn
-요구==demand//demand. VD: 요구를 들어주다 = satisfy one's demands/Yếu Cửu
-용돈==pocket money/tiền/pocket money. VD: 용돈을 쓰다 = spend pocket money/Dụng Đốn
-용품==goods//goods. VD: 등산 용품 = mountain climbing equipment/Dụng Phẩm
-이상적==ideal//ideal. VD: 이상적 방법 = ideal way/Nhị Thượng Tích
-이익==profit//profit. VD: 이익이 남다 = make a profit/Nhị Ích
-이자==interest//interest. VD: 이자가 비싸다 = interest is high/Nhị Tử
-이해관계==interest//interest. VD: 이해관계를 따지다 = consider interests/Nhị Hải Quan Kế
-인용==quotation//quotation. VD: 인용 문구 = quoted phrase/Nhân Dụng
-입금==deposit//deposit. VD: 입금 통장 = deposit account/Nhập Kim
-입장료==admission fee//admission fee. VD: 입장료를 내다 = pay the entrance fee/Nhập Trường Liệu
-잔액==balance//balance. VD: 잔액이 부족하다 = short of balance/Tàn Dịch
-재산==wealth//wealth. VD: 재산을 모으다 = accumulate wealth/Tài Sơn
-저렴하다==cheap/rẻ/cheap. VD: 비용이 저렴하다 = costs are low/
-저축==savings//savings. VD: 저축 예금 = savings account/Trữ Súc
-전개==development/sự phát triển/development. VD: 전개가 이루어지다 = development takes place/Toàn Khai
-전달==delivery//delivery. VD: 물건 전달 = goods delivery/Toàn Đạt
-절약==saving//saving. VD: 시간 절약 = time saving/Tiết Ước
-제공==offer, provide//offer, provide. VD: 자료 제공 = data provided/Chế Công
-제작==production//production. VD: 음반 제작 = record production/Chế Tác
-제품==product//product. VD: 가죽 제품 = leather goods/Chế Phẩm
-조르다==pester, beg//pester, beg. VD: 사 달라고 조르다 = pester to buy/
-졸리다==feel sleepy/cảm thấy/feel sleepy. VD: 졸려서 자다 = fall asleep/
-주식==stock//stock. VD: 주식에 투자하다 = invest in stocks/Chủ Thực
-주차료==parking fee//parking fee. VD: 주차료를 내다 = pay parking fee/Chủ Xa Liệu
-중소기업==small business/nhỏ/small business. VD: 중소기업에 취직하다 = get a job at a small business/Trung Tiểu Kỳ Nghiệp
-지급==payment//payment. VD: 이자 지급 = interest payment/Chỉ Cấp
-지불==payment//payment. VD: 비용 지불 = cost payment/Chỉ Bất
-지폐==banknote//banknote. VD: 지폐를 세다 = count banknotes/Chỉ Phế
-챙기다==pack up//pack up. VD: 가방을 챙기다 = pack a bag/
-청구서==bill//bill. VD: 청구서가 오다 = the bill comes/Thanh Cửu Thư
-쿠폰==coupon//coupon. VD: 쿠폰을 모으다 = collect coupons/
-큰돈==fortune//fortune. VD: 큰돈을 모으다 = save a lot of money/
-투자==investment//investment. VD: 투자를 유치하다 = attract investment/Đầu Tử
-판매==sale//sale. VD: 판매 가격 = selling price/Phán Mại
-판매자==seller//seller. VD: 구매자 = buyer/Phán Mại Tử
-학과==department//department. VD: 전공 학과 = major department/Học Quả
-호감==good feeling/tốt/good feeling. VD: 호감을 느끼다 = feel good (toward someone)/Hồ Cảm
-화폐==money/tiền/money. VD: 전자 화폐 = e-money/Hóa Phế
-환불==refund//refund. VD: 요금 환불 = fee refund/Hoàn Bất
-환율==exchange rate//exchange rate. VD: 환율이 오르다 = exchange rate rises/
-회비==membership fee//membership fee. VD: 회비를 내다 = pay fees/Hội Phi
-흥미==interest//interest. VD: 흥미가 생기다 = become interested/Hưng Mỹ
+-료==(fee, charge)//(fee, charge)/
+-물==(product)//(product)/
+-비==-fee//-fee/
+-째==order//order/
+감다==wrap, wire//wrap, wire/Cảm Đa
+감싸다==cover, wrap//cover, wrap/
+값싸다==cheap/rẻ/cheap/
+강도==burglar, robber//burglar, robber/Cường Đồ
+개발==development/sự phát triển/development/Khai Phát
+거래==deal, transaction//deal, transaction/
+거래처==customer, client//customer, client/
+결제==payment//payment/Quyết Chế
+경기==economy/trận đấu/economy/Kinh Kỳ
+경쟁==competition/cuộc thi/competition/Kinh Tranh
+경제==economy/kinh tế/economy/Kinh Chế
+계약금==deposit//deposit/Kế Ước Kim
+계좌==account//account/Kế Tả
+고객==client, customer//client, customer/Cổ Khách
+곱하다==multiply//multiply/
+공과금==dues, utility fee//dues, utility fee/Công Quả Kim
+공급==supply/cung cấp/supply/Công Cấp
+공업==industry/công nghiệp/industry/Công Nghiệp
+관심사==matter of interest//matter of interest/Quan Tâm Sự
+구매==purchase//purchase/Cửu Mại
+구입==purchase//purchase/Cửu Nhập
+균형==balance//balance/Quân Hình
+금액==amount//amount/Kim Dịch
+금융==finance//finance/
+기도==pray//pray/Kỳ Đồ
+내보내다==put out, export/đặt/put out, export/Nội Bảo Nội Đa
+농산물==agricultural products//agricultural products/Nông Sơn Vật
+놓이다==feel relieved/cảm thấy/feel relieved/
+다방==coffee house/nhà/coffee house/Đa Phương
+단속==regulation, supervision//regulation, supervision/Đoàn Tốc
+담당==in charge//in charge/Đàm Đang
+대가==cost//cost/Đại Gia
+대량==bulk, large amount/lớn/bulk, large amount/Đại Lượng
+대출==loan//loan/Đại Xuất
+량==amount//amount/
+만족감==feeling of satisfaction//feeling of satisfaction/Vạn Tộc Cảm
+맡다==take charge of/lấy/take charge of/
+매점==a stall, a shop/cửa hàng/a stall, a shop/Mại Điểm
+먹이다==feed//feed/
+명함==business card/kinh doanh/business card/Minh Hàm
+무역==trade/thương mại/trade/Vũ Dịch
+물가==price/giá/price/Vật Gia
+바구니==basket//basket/
+바치다==devote, offer, make//devote, offer, make/
+반값==half price/giá/half price/
+발전==development/phát triển/development/Phát Toàn
+배송==shipping, delivery//shipping, delivery/Bồi Tống
+백==bag//bag/
+변비==constipation//constipation/Biến Phi
+보너스==bonus//bonus/
+보장==guarantee//guarantee/Bảo Trường
+보험==insurance/bảo hiểm/insurance/Bảo Hiểm
+봉지==bag//bag/Phong Chỉ
+부==wealth//wealth/
+부서==department//department/Phụ Thư
+분량==amount//amount/Phân Lượng
+비용==cost//cost/Phi Dụng
+빚==debt//debt/
+사들이다==buy/mua/buy/
+사용료==fee, dues//fee, dues/Sự Dụng Liệu
+산업==industry//industry/Sơn Nghiệp
+상업==commerce//commerce/Thượng Nghiệp
+성장==growth//growth/Thành Trường
+세계화==globalization//globalization/Thế Kế Hóa
+세금==tax/thuế/tax/Thế Kim
+세일==sale//sale/Thế Nhất
+소-==(small)//(small)/
+소득==income//income/Tiểu Đắc
+소비==consumption/tiêu dùng/consumption/Tiểu Phi
+소비자==consumer//consumer/Tiểu Phi Tử
+소형==small type/nhỏ/small type/Tiểu Hình
+손발==hands and feet//hands and feet/Tổn Phát
+손해==loss, damage/tổn thất/loss, damage/Tổn Hải
+쇼핑몰==shopping mall//shopping mall/
+쇼핑센터==shopping center//shopping center/
+수리비==repair cost//repair cost/Thủ Lý Phi
+수수료==commission//commission/Thủ Thủ Liệu
+수입==income/nhập khẩu/income/Thủ Nhập
+수입==import/nhập khẩu/import/Thủ Nhập
+수입품==import goods//import goods/Thủ Nhập Phẩm
+수출==export/xuất khẩu/export/Thủ Xuất
+수표==check//check/Thủ Biểu
+숙박비==room charge/phòng/room charge/Túc Bác Phi
+슈퍼==supermarket//supermarket/
+스타킹==stockings//stockings/
+시중==market//market/Thị Trung
+신상품==new product/mới/new product/Tân Thượng Phẩm
+신용==credit//credit/Tân Dụng
+신제품==new product/mới/new product/Tân Chế Phẩm
+실업==unemployment/thất nghiệp/unemployment/Thất Nghiệp
+심정==feelings//feelings/Tâm Chính
+싸이다==be wrapped//be wrapped/
+싼값==low price/giá/low price/
+액수==amount//amount/Dịch Thủ
+양==amount//amount/
+업계==industry//industry/Nghiệp Kế
+업체==business/kinh doanh/business/Nghiệp Thể
+연봉==salary//salary/Diên Phong
+연체료==late fee//late fee/Diên Thể Liệu
+영업==business/kinh doanh/business/Vĩnh Nghiệp
+예금==deposit//deposit/Lễ Kim
+예산==budget//budget/Lễ Sơn
+요구==demand//demand/Yếu Cửu
+용돈==pocket money/tiền/pocket money/Dụng Đốn
+용품==goods//goods/Dụng Phẩm
+이상적==ideal//ideal/Nhị Thượng Tích
+이익==profit/lợi nhuận/profit/Nhị Ích
+이자==interest//interest/Nhị Tử
+이해관계==interest//interest/Nhị Hải Quan Kế
+인용==quotation//quotation/Nhân Dụng
+입금==deposit//deposit/Nhập Kim
+입장료==admission fee//admission fee/Nhập Trường Liệu
+잔액==balance//balance/Tàn Dịch
+재산==wealth//wealth/Tài Sơn
+저렴하다==cheap/rẻ/cheap/
+저축==savings/tiết kiệm/savings/Trữ Súc
+전개==development/sự phát triển/development/Toàn Khai
+전달==delivery//delivery/Toàn Đạt
+절약==saving//saving/Tiết Ước
+제공==offer, provide//offer, provide/Chế Công
+제작==production//production/Chế Tác
+제품==product//product/Chế Phẩm
+조르다==pester, beg//pester, beg/
+졸리다==feel sleepy/cảm thấy/feel sleepy/
+주식==stock//stock/Chủ Thực
+주차료==parking fee//parking fee/Chủ Xa Liệu
+중소기업==small business/nhỏ/small business/Trung Tiểu Kỳ Nghiệp
+지급==payment//payment/Chỉ Cấp
+지불==payment//payment/Chỉ Bất
+지폐==banknote//banknote/Chỉ Phế
+챙기다==pack up//pack up/
+청구서==bill//bill/Thanh Cửu Thư
+쿠폰==coupon//coupon/
+큰돈==fortune//fortune/
+투자==investment/đầu tư/investment/Đầu Tử
+판매==sale//sale/Phán Mại
+판매자==seller//seller/Phán Mại Tử
+학과==department//department/Học Quả
+호감==good feeling/tốt/good feeling/Hồ Cảm
+화폐==money/tiền/money/Hóa Phế
+환불==refund//refund/Hoàn Bất
+환율==exchange rate//exchange rate/
+회비==membership fee//membership fee/Hội Phi
+흥미==interest//interest/Hưng Mỹ

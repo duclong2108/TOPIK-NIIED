@@ -1,74 +1,74 @@
-가스레인지==gas stove//gas stove. VD: 가스레인지를 켜다 = turn on gas stove/
-가습기==humidifier//humidifier. VD: 가습기를 켜다 = turn on humidifier/
-가전제품==home appliances//home appliances. VD: 가전제품을 구입하다 = buy home appliances/Gia Toàn Chế Phẩm
-건전지==battery//battery. VD: 건전지를 갈다 = change battery/Kiến Toàn Chỉ
-고층==high-rise, high floor//high-rise, high floor. VD: 고층 빌딩 = skyscraper/
-공중전화==payphone//payphone. VD: 공중전화 박스 = a telephone booth/Công Trung Toàn Hóa
-구멍==hole//hole. VD: 구멍을 뚫다 = drill a hole/
-깔다==lay//lay. VD: 이불을 깔다 = lay a blanket/
-난로==stove, heater//stove, heater. VD: 난로를 피우다 = turn on a heater/Nan Lộ
-담==wall//wall. VD: 담을 쌓다 = build a wall/
-담요==blanket//blanket. VD: 담요를 덮다 = cover with a blanket/Đàm Yếu
-덮다==cover//cover. VD: 이불을 덮다 = cover the blanket/
-도구==tool//tool. VD: 청소 도구 = cleaning tools/Đồ Cửu
-뚫다==drill, dig//drill, dig. VD: 구멍을 똟다 = drill a hole/
-리듬==rhythm//rhythm. VD: 리듬에 맞추다 = match the rhythm/
-리모컨==remote//remote. VD: 리모컨으로 켜다 = turn on with remote/
-마땅하다==proper, suitable//proper, suitable. VD: 상대가 마땅하다 = worthy of opponent/
-마루==floor//floor. VD: 마루에 앉다 = sit on the floor/
-막다==block//block. VD: 귀를 막다 = cover one's ears/Mạc Đa
-몰려들다==flock//flock. VD: 사람들이 몰려들다 = people flock/
-몰려오다==flock in//flock in. VD: 피서객들이 몰려오다 = vacationers flock in/Một Lữ Ngũ Đa
-물질==matter//matter. VD: 물질을 추구하다 = pursue matter/Vật Chất
-박다==drive, hammer/lái/drive, hammer. VD: 못을 박다 = drive a nail, nail down/Bác Đa
-박스==box//box. VD: 박스를 열다 = open the box/
-박히다==be nailed, be embedded//be nailed, be embedded. VD: 벽에 못이 박히다 = nail in the wall/
-방바닥==(room) floor//(room) floor. VD: 방바닥에 눕다 = lie on the floor/
-배낭==backpack//backpack. VD: 배낭을 메다 = carry a backpack/Bồi Lang
-배터리==battery//battery. VD: 배터리를 충전하다 = recharge battery/
-베개==pillow//pillow. VD: 베개를 베다 = rest on a pillow/
-벽시계==wall clock//wall clock. VD: 벽시계를 걸다 = hang a wall clock/Bích Thị Kế
-복도==hallway, corridor//hallway, corridor. VD: 복도로 나가다 = step out into the corridor/Phục Đồ
-부서지다==be broken//be broken. VD: 문이 부서지다 = door is broken/Phụ Thư Chỉ Đa
-부채==fan//fan. VD: 부채를 부치다 = wave a fan/Phụ Thái
-사무소==office//office. VD: 사무소를 열다 = open an office/Sự Vũ Tiểu
-삼키다==swallow//swallow. VD: 침을 삼키다 = swallow saliva/
-상==table/bàn/table. VD: 상을 차리다 = set a table/
-손가방==purse//purse. VD: 손가방을 들다 = carry a bag/Tổn Gia Phương
-쇠==iron//iron. VD: 쇠가 녹슬다 = iron rusts/
-수도꼭지==faucet//faucet. VD: 수도꼭지를 잠그다 = close the faucet/
-스위치==switch//switch. VD: 스위치를 켜다 = switch on/
-식기==tableware//tableware. VD: 식기를 씻다 = wash tableware/Thực Kỳ
-안내소==information desk/thông tin/information desk. VD: 안내소에 들르다 = stop by the information desk/An Nội Tiểu
-안방==master bedroom//master bedroom. VD: 안방에서 자다 = sleep in the master bedroom/An Phương
-열쇠고리==key ring//key ring. VD: 열쇠고리에 끼우다 = put on key ring/
-요==futon, mattress//futon, mattress. VD: 요를 깔다 = lay a futon/
-욕실==bathroom//bathroom. VD: 욕실에서 씻다 = wash in the bathroom/Dục Thất
-우편함==mailbox//mailbox. VD: 우편함에 넣다 = put in mailbox/Vũ Thiên Hàm
-위층==upstairs//upstairs. VD: 위층으로 올라가다 = go upstairs/
-자동==automatic//automatic. VD: 자동으로 움직이다 = move automatically/Tử Đồng
-잠그다==lock//lock. VD: 문을 잠그다 = lock the door/
-잠기다==to be locked//to be locked. VD: 문이 잠기다 = the door is locked/Trầm Kỳ Đa
-잠기다==sink//sink. VD: 물에 잠기다 = sink into the water/Trầm Kỳ Đa
-전자레인지==microwave//microwave. VD: 전자레인지에 데우다 = heat in the microwave/
-접근==access//access. VD: 접근을 막다 = block access/Tiếp Cận
-제대로==properly//properly. VD: 제대로 갖추다 = be properly equipped/Chế Đại Lộ
-조명==lighting//lighting. VD: 실내 조명 = indoor lighting/Tổ Minh
-조절==control/kiểm soát/control. VD: 컨디션 조절 = condition control/Tổ Tiết
-주저앉다==collapse//collapse. VD: 바닥에 주저앉다 = collapse to the floor/
-줄넘기==jump rope/nhảy/jump rope. VD: 줄넘기를 하다 = to jump rope/
-지붕==roof//roof. VD: 지붕에 올라가다 = climb on the roof/
-짐작==guess/đoán/guess. VD: 짐작도 못하다 = can't even guess/
-참고==reference//reference. VD: 참고 자료 = reference materials/Tham Cổ
-채우다==lock//lock. VD: 자물쇠를 채우다 = lock up/Thái Vũ Đa
-천장==ceiling//ceiling. VD: 천장이 높다 = the ceiling is high/Thiên Trường
-커튼==curtain//curtain. VD: 커튼을 매달다 = hang curtains/
-키==key//key. VD: 키로 문을 열다 = open the door with a key/
-탁자==table/bàn/table. VD: 탁자에 내려놓다 = put down on the table/Trác Tử
-테이프==tape//tape. VD: 테이프로 장식하다 = decorate with tape/
-통==container//container. VD: 통에 담다 = put in a container/
-풀==glue//glue. VD: 풀로 붙이다 = stick with glue/
-프린터==printer//printer. VD: 프린터를 연결하다 = connect a printer/
-합치다==combine//combine. VD: 하나로 합치다 = combine into one/Hợp Trí Đa
-호실==room/phòng/room. VD: 2호실 = Room 2/Hồ Thất
-확인==confirmation//confirmation. VD: 확인을 받다 = receive confirmation/Xác Nhân
+가스레인지==gas stove//gas stove/
+가습기==humidifier//humidifier/
+가전제품==home appliances//home appliances/Gia Toàn Chế Phẩm
+건전지==battery//battery/Kiến Toàn Chỉ
+고층==high-rise, high floor//high-rise, high floor/
+공중전화==payphone//payphone/Công Trung Toàn Hóa
+구멍==hole//hole/
+깔다==lay//lay/
+난로==stove, heater//stove, heater/Nan Lộ
+담==wall//wall/
+담요==blanket//blanket/Đàm Yếu
+덮다==cover//cover/
+도구==tool//tool/Đồ Cửu
+뚫다==drill, dig//drill, dig/
+리듬==rhythm//rhythm/
+리모컨==remote//remote/
+마땅하다==proper, suitable//proper, suitable/
+마루==floor//floor/
+막다==block//block/Mạc Đa
+몰려들다==flock//flock/
+몰려오다==flock in//flock in/Một Lữ Ngũ Đa
+물질==matter//matter/Vật Chất
+박다==drive, hammer/lái/drive, hammer/Bác Đa
+박스==box//box/
+박히다==be nailed, be embedded//be nailed, be embedded/
+방바닥==(room) floor//(room) floor/
+배낭==backpack//backpack/Bồi Lang
+배터리==battery//battery/
+베개==pillow//pillow/
+벽시계==wall clock//wall clock/Bích Thị Kế
+복도==hallway, corridor//hallway, corridor/Phục Đồ
+부서지다==be broken//be broken/Phụ Thư Chỉ Đa
+부채==fan//fan/Phụ Thái
+사무소==office//office/Sự Vũ Tiểu
+삼키다==swallow//swallow/
+상==table/bàn/table/
+손가방==purse//purse/Tổn Gia Phương
+쇠==iron//iron/
+수도꼭지==faucet//faucet/
+스위치==switch//switch/
+식기==tableware//tableware/Thực Kỳ
+안내소==information desk/thông tin/information desk/An Nội Tiểu
+안방==master bedroom//master bedroom/An Phương
+열쇠고리==key ring//key ring/
+요==futon, mattress//futon, mattress/
+욕실==bathroom//bathroom/Dục Thất
+우편함==mailbox//mailbox/Vũ Thiên Hàm
+위층==upstairs//upstairs/
+자동==automatic//automatic/Tử Đồng
+잠그다==lock//lock/
+잠기다==to be locked//to be locked/Trầm Kỳ Đa
+잠기다==sink//sink/Trầm Kỳ Đa
+전자레인지==microwave//microwave/
+접근==access//access/Tiếp Cận
+제대로==properly//properly/Chế Đại Lộ
+조명==lighting//lighting/Tổ Minh
+조절==control/kiểm soát/control/Tổ Tiết
+주저앉다==collapse//collapse/
+줄넘기==jump rope/nhảy/jump rope/
+지붕==roof/mái nhà/roof/
+짐작==guess/đoán/guess/
+참고==reference//reference/Tham Cổ
+채우다==lock//lock/Thái Vũ Đa
+천장==ceiling//ceiling/Thiên Trường
+커튼==curtain//curtain/
+키==key/chiều cao/key/
+탁자==table/bàn/table/Trác Tử
+테이프==tape//tape/
+통==container//container/
+풀==glue/cỏ/glue/
+프린터==printer//printer/
+합치다==combine//combine/Hợp Trí Đa
+호실==room/phòng/room/Hồ Thất
+확인==confirmation//confirmation/Xác Nhân

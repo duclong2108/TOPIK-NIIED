@@ -1,136 +1,136 @@
--감==sense of//sense of. VD: 책임감 = responsibility/
--짜리==of a value//of a value. VD: 백 원짜리 = a hundred-won coin/
--형==type//type. VD: 기본형 = basic type/
-가정==assumption//assumption. VD: 가정을 해 보다 = let assume/Gia Chính
-가짜==fake//fake. VD: 가짜로 꾸미다 = fake up/
-가치==value//value. VD: 가치가 높다 = high value/Gia Trí
-가치관==values//values. VD: 가치관이 바뀌다 = change one's values/Gia Trí Quan
-각오==resolution//resolution. VD: 각오를 다지다 = strengthen resolution/Giác Ngũ
-감각==sense//sense. VD: 감각이 없다 = be senseless/Cảm Giác
-개념==concept, idea/ý tưởng/concept, idea. VD: 개념을 이해하다 = understand the concept/Khai Niệm
-객관적==objective//objective. VD: 객관적 증거 = objective evidence/Khách Quan Tích
-거품==bubble//bubble. VD: 거품이 나다 = bubble up/Cư Phẩm
-결합==combination//combination. VD: 결합을 이루다 = form a union/Quyết Hợp
-경향==tendency//tendency. VD: 새로운 경향 = new tendency/Kinh Hương
-고무==rubber//rubber. VD: 고무로 만들다 = made from rubber/Cổ Vũ
-과정==process//process. VD: 과정을 겪다 = go through a process/Quả Chính
-구별==distinction//distinction. VD: 남녀 구별 = gender distinction/Cửu Biệt
-구분==division, section//division, section. VD: 구분을 짓다 = make a section/Cửu Phân
-구속==restriction//restriction. VD: 구속이 심하다 = have a lot of restraint/Cửu Tốc
-권력==power//power. VD: 권력을 강화하다 = strengthen one's power/Quyền Lực
-규모==scale//scale. VD: 규모가 크다 = the scale is large/Quy Mô
-규정==rule//rule. VD: 규정을 지키다 = follow the rule/Quy Chính
-그룹==group//group. VD: 스터디 그룹 = study group/
-근거==evidence, basis//evidence, basis. VD: 법적 근거 = a legal basis/Cận Cư
-기대==expectation//expectation. VD: 기대를 저버리지 않다 = don't give up expectations/Kỳ Đại
-기운==strength//strength. VD: 기운이 없다 = no strength/Kỳ Vận
-기준==standard//standard. VD: 기준을 세우다 = set the standard/Kỳ Chuẩn
-끼치다==cause//cause. VD: 걱정을 끼치다 = cause anxiety/
-논리==logic//logic. VD: 논리에 맞다 = be logical, make senses/
-다가서다==approach//approach. VD: 옆으로 바짝 다가서다 = come close to the side/Đa Gia Thư Đa
-단계==step, stage//step, stage. VD: 마무리 단계 = final stage, final step/Đoàn Kế
-단체==group//group. VD: 단체에 가입하다 = join a group/Đoàn Thể
-대비==contrast, comparison//contrast, comparison. VD: 색채 대비 = color contrast/Đại Phi
-대조==contrast, comparison//contrast, comparison. VD: 지문 대조 = fingerprint verification/Đại Tổ
-대표==representative//representative. VD: 대표로 꼽히다 = be chosen as a representative/Đại Biểu
-대표적==representative//representative. VD: 대표적 작품 = a representative work/Đại Biểu Tích
-덩어리==lump, mass//lump, mass. VD: 덩어리가 생기다 = lump forms/
-도전==challenge//challenge. VD: 도전을 계속하다 = keep up the challenge/Đồ Toàn
-떼==group//group. VD: 떼를 지어 다니다 = move around in groups/
-만족스럽다==satisfactory//satisfactory. VD: 결과가 만족스럽다 = the result is satisfactory/
-모범==model, example//model, example. VD: 모범이 되다 = set an example/Mô Phạm
-목표==target, goal//target, goal. VD: 목표를 세우다 = set a goal/Mộc Biểu
-무대==stage//stage. VD: 무대로 나가다 = go on stage/Vũ Đại
-무조건==unconditionally//unconditionally. VD: 무조건 화를 내다 = get angry unconditionally/Vũ Tổ Kiến
-바탕==basis, foundation//basis, foundation. VD: 바탕을 이루다 = form the basis/
-밟다==to step on//to step on. VD: 브레이크를 밟다 = step on the brake/
-밟히다==be stepped on//be stepped on. VD: 잔디가 밟히다 = the grass is stepped on/
-방식==method//method. VD: 생활 방식 = lifestyle/Phương Thực
-배경==background//background. VD: 배경이 좋다 = the background is good/Bồi Kinh
-배치==arrangement//arrangement. VD: 자리 배치 = seat arrangement/Bồi Trí
-범위==range//range. VD: 범위가 넓다 = has a wide range/Phạm Vị
-법칙==rule//rule. VD: 법칙을 지키다 = follow the law/
-별다르다==particular, special/đặc biệt/particular, special. VD: 별다른 방법 = a special method/
-별말씀==particular remark//particular remark. VD: 별말씀이 없으시다 = don't have much to say/
-보기==example//example. VD: 보기를 보이다 = show example/Bảo Kỳ
-본질==nature, essence/tự nhiên/nature, essence. VD: 본질을 파악하다 = grasp the essence/Bản Chất
-부==department, section//department, section. VD: 각 부의 책임자 = head of each department/
-부담==burden//burden. VD: 부담을 하다 = burden/Phụ Đàm
-부분적==partial//partial. VD: 부분적 차이 = partial difference/Phụ Phân Tích
-부위==part//part. VD: 상처 부위 = wound area/Phụ Vị
-부정적==negative/tiêu cực/negative. VD: 부정적 태도 = negative attitude/Phụ Chính Tích
-부품==part//part. VD: 부품을 생산하다 = produce parts/Phụ Phẩm
-분노==anger//anger. VD: 분노가 폭발하다 = anger explodes/Phân Nô
-분류==classification//classification. VD: 분류 기준 = classification criteria/Phân Lưu
-분석==analysis//analysis. VD: 원인 분석 = cause analysis/Phân Thạch
-비중==proportion//proportion. VD: 비중이 높다 = the proportion is high/Phi Trung
-사례==example//example. VD: 사례를 들다 = give an example/Sự Lễ
-사상==thought//thought. VD: 사상 최초 = for the first time/Sự Thượng
-상관==correlation//correlation. VD: 상관이 없다 = have no relation/Thượng Quan
-상대적==relative//relative. VD: 상대적 평가 = relative evaluation/Thượng Đại Tích
-상상==imagination//imagination. VD: 상상을 뛰어넘다 = beyond imagination/Thượng Thượng
-선호==preference//preference. VD: 선호 직업 = preferred job/Tiên Hồ
-소년==boy//boy. VD: 소년 시절 = boyhood/Tiểu Niên
-속담==proverb//proverb. VD: 속담을 인용하다 = quote a proverb/Tốc Đàm
-수속==procedure//procedure. VD: 수속을 밟다 = go through formalities/Thủ Tốc
-수준==level, standard//level, standard. VD: 수준이 높다 = the standard is high/Thủ Chuẩn
-시력==vision//vision. VD: 시력이 좋다 = have good eyesight/Thị Lực
-시리즈==series//series. VD: 시리즈로 방영되다 = aired as a series/
-시스템==system//system. VD: 시스템을 개선하다 = improve the system/
-실력==skill//skill. VD: 실력이 뛰어나다 = have excellent skills/Thất Lực
-실례==example//example. VD: 실례를 들다 = give an example/Thất Lễ
-실제==real//real. VD: 실제 일어나다 = actually happen/Thất Chế
-실체==truth/sự thật/truth. VD: 실체를 보다 = see the reality/Thất Thể
-심판==judgment//judgment. VD: 법의 심판 = judgment of the law/Tâm Phán
-아이디어==idea/ý tưởng/idea. VD: 아이디어를 내다 = give an idea/
-여드름==acne//acne. VD: 여드름이 나다 = have acne/
-영향==effect//effect. VD: 영향을 미치다 = affect/Vĩnh Hương
-예==example//example. VD: 예를 들다 = for example/
-예상==expectation//expectation. VD: 예상과 다르다 = be contrary to one's expectations/Lễ Thượng
-온==whole//whole. VD: 온 집안 = whole house/
-올라서다==step up//step up. VD: 계단에 올라서다 = step up the stairs/
-요소==element//element. VD: 구성 요소 = component, constituent/Yếu Tiểu
-요인==factor//factor. VD: 성공 요인 = success factors/Yếu Nhân
-용도==purpose//purpose. VD: 용도에 맞다 = fit for purpose/Dụng Đồ
-우연히==by chance//by chance. VD: 우연히 발견하다 = discover by chance, stumble upon/
-원리==principle//principle. VD: 원리를 발견하다 = discover the principle/Viên Lý
-원칙==rule//rule. VD: 원칙을 지키다 = follow the rules/
-위협==threat//threat. VD: 위협을 당하다 = be threatened/Vị Hiệp
-유형==category//category. VD: 유형을 나누다 = divide into types/Du Hình
-인식==awareness//awareness. VD: 인식이 강하다 = awareness is strong/Nhân Thực
-인연==relationship/mối quan hệ/relationship. VD: 인연을 맺다 = establish a relationship/Nhân Diên
-작용==effect//effect. VD: 불리한 작용 = unfavorable effect/Tác Dụng
-작전==strategy//strategy. VD: 작전을 생각하다 = think about strategy/Tác Toàn
-장애==obstacle//obstacle. VD: 장애가 되다 = be an obstacle/Trường Ái
-재능==talent//talent. VD: 예술적 재능 = artistic talent/Tài Năng
-재생==regeneration//regeneration. VD: 재생의 기회 = opportunity for regeneration/Tài Sinh
-재주==talent//talent. VD: 재주가 많다 = have many talents/Tài Chủ
-저울==scale//scale. VD: 저울에 달다 = weigh on the scale/
-전제==premise, assumption//premise, assumption. VD: 전제 조건 = precondition/Toàn Chế
-절==verse//verse. VD: 1장 1절 = Chapter 1 Verse 1/
-절대적==unconditional//unconditional. VD: 절대적 신뢰 = absolute trust/Tiết Đại Tích
-절차==procedure//procedure. VD: 수속 절차 = process procedure/Tiết Xa
-조각==piece//piece. VD: 조각이 나다 = break into pieces/Tổ Giác
-조화==harmony//harmony. VD: 조화를 이루다 = be in harmony/Tổ Hóa
-주관적==subjective//subjective. VD: 주관적 생각 = subjective thoughts/Chủ Quan Tích
-중요성==importance//importance. VD: 중요성을 지니다 = have importance/Trung Yếu Thành
-진리==truth/sự thật/truth. VD: 진리를 깨닫다 = realize the truth/Trần Lý
-진실==truth/sự thật/truth. VD: 진실을 말하다 = tell the truth/Trần Thất
-집단==group//group. VD: 집단을 이루다 = form a group/Tập Đoàn
-쪽==piece//piece. VD: 사과 몇 쪽 = a few pieces of apple/
-차이==difference//difference. VD: 나이 차이 = age difference/Xa Nhị
-체계==system//system. VD: 체계가 잡히다 = organize/Thể Kế
-최대==maximum//maximum. VD: 최대로 늘리다 = increase to the maximum/Tối Đại
-최소==minimum//minimum. VD: 최대 = maximum/Tối Tiểu
-충격==shock//shock. VD: 충격을 받다 = be shocked/Trung Cách
-특성==characteristic//characteristic. VD: 특성을 살리다 = bring out the characteristics/Đặc Thành
-특정==specific//specific. VD: 특정 집단 = specific population/Đặc Chính
-판단==judgment//judgment. VD: 상황 판단 = estimate of the situation/Phán Đoàn
-표정==expression//expression. VD: 표정이 밝다 = look happy/Biểu Chính
-표준==standard//standard. VD: 표준 시간 = standard time/Biểu Chuẩn
-표준어==standard language//standard language. VD: 표준어를 사용하다 = use standard language/Biểu Chuẩn Ngữ
-표현==expression//expression. VD: 표현을 쓰다 = use expressions/Biểu Hiện
-필수적==necessary/cần thiết/necessary. VD: 필수적 과정 = necessary process/Tất Thủ Tích
-해설==explanation//explanation. VD: 정답 해설 = answer explanation/Hải Thiết
-현실==reality//reality. VD: 현실에 만족하다 = satisfied with reality/Hiện Thất
-형편==circumstance//circumstance. VD: 형편을 보다 = look at the situation/Hình Thiên
+-감==sense of//sense of/
+-짜리==of a value//of a value/
+-형==type//type/
+가정==assumption/gia đình/assumption/Gia Chính
+가짜==fake//fake/
+가치==value/giá trị/value/Gia Trí
+가치관==values//values/Gia Trí Quan
+각오==resolution//resolution/Giác Ngũ
+감각==sense//sense/Cảm Giác
+개념==concept, idea/ý tưởng/concept, idea/Khai Niệm
+객관적==objective//objective/Khách Quan Tích
+거품==bubble//bubble/Cư Phẩm
+결합==combination//combination/Quyết Hợp
+경향==tendency//tendency/Kinh Hương
+고무==rubber//rubber/Cổ Vũ
+과정==process/quá trình/process/Quả Chính
+구별==distinction//distinction/Cửu Biệt
+구분==division, section/phân biệt/division, section/Cửu Phân
+구속==restriction//restriction/Cửu Tốc
+권력==power//power/Quyền Lực
+규모==scale//scale/Quy Mô
+규정==rule//rule/Quy Chính
+그룹==group//group/
+근거==evidence, basis//evidence, basis/Cận Cư
+기대==expectation//expectation/Kỳ Đại
+기운==strength//strength/Kỳ Vận
+기준==standard//standard/Kỳ Chuẩn
+끼치다==cause//cause/
+논리==logic//logic/
+다가서다==approach//approach/Đa Gia Thư Đa
+단계==step, stage/giai đoạn/step, stage/Đoàn Kế
+단체==group//group/Đoàn Thể
+대비==contrast, comparison//contrast, comparison/Đại Phi
+대조==contrast, comparison//contrast, comparison/Đại Tổ
+대표==representative//representative/Đại Biểu
+대표적==representative//representative/Đại Biểu Tích
+덩어리==lump, mass//lump, mass/
+도전==challenge//challenge/Đồ Toàn
+떼==group//group/
+만족스럽다==satisfactory//satisfactory/
+모범==model, example//model, example/Mô Phạm
+목표==target, goal//target, goal/Mộc Biểu
+무대==stage//stage/Vũ Đại
+무조건==unconditionally//unconditionally/Vũ Tổ Kiến
+바탕==basis, foundation//basis, foundation/
+밟다==to step on//to step on/
+밟히다==be stepped on//be stepped on/
+방식==method//method/Phương Thực
+배경==background//background/Bồi Kinh
+배치==arrangement//arrangement/Bồi Trí
+범위==range//range/Phạm Vị
+법칙==rule//rule/
+별다르다==particular, special/đặc biệt/particular, special/
+별말씀==particular remark//particular remark/
+보기==example//example/Bảo Kỳ
+본질==nature, essence/tự nhiên/nature, essence/Bản Chất
+부==department, section//department, section/
+부담==burden//burden/Phụ Đàm
+부분적==partial//partial/Phụ Phân Tích
+부위==part//part/Phụ Vị
+부정적==negative/tiêu cực/negative/Phụ Chính Tích
+부품==part//part/Phụ Phẩm
+분노==anger//anger/Phân Nô
+분류==classification/phân loại/classification/Phân Lưu
+분석==analysis//analysis/Phân Thạch
+비중==proportion//proportion/Phi Trung
+사례==example//example/Sự Lễ
+사상==thought//thought/Sự Thượng
+상관==correlation//correlation/Thượng Quan
+상대적==relative//relative/Thượng Đại Tích
+상상==imagination//imagination/Thượng Thượng
+선호==preference//preference/Tiên Hồ
+소년==boy//boy/Tiểu Niên
+속담==proverb//proverb/Tốc Đàm
+수속==procedure//procedure/Thủ Tốc
+수준==level, standard//level, standard/Thủ Chuẩn
+시력==vision//vision/Thị Lực
+시리즈==series//series/
+시스템==system//system/
+실력==skill//skill/Thất Lực
+실례==example//example/Thất Lễ
+실제==real//real/Thất Chế
+실체==truth/sự thật/truth/Thất Thể
+심판==judgment//judgment/Tâm Phán
+아이디어==idea/ý tưởng/idea/
+여드름==acne//acne/
+영향==effect/ảnh hưởng/effect/Vĩnh Hương
+예==example//example/
+예상==expectation//expectation/Lễ Thượng
+온==whole//whole/
+올라서다==step up//step up/
+요소==element//element/Yếu Tiểu
+요인==factor//factor/Yếu Nhân
+용도==purpose//purpose/Dụng Đồ
+우연히==by chance//by chance/
+원리==principle//principle/Viên Lý
+원칙==rule//rule/
+위협==threat//threat/Vị Hiệp
+유형==category//category/Du Hình
+인식==awareness//awareness/Nhân Thực
+인연==relationship/mối quan hệ/relationship/Nhân Diên
+작용==effect//effect/Tác Dụng
+작전==strategy//strategy/Tác Toàn
+장애==obstacle/khuyết tật/obstacle/Trường Ái
+재능==talent//talent/Tài Năng
+재생==regeneration//regeneration/Tài Sinh
+재주==talent//talent/Tài Chủ
+저울==scale//scale/
+전제==premise, assumption//premise, assumption/Toàn Chế
+절==verse//verse/
+절대적==unconditional//unconditional/Tiết Đại Tích
+절차==procedure/thủ tục/procedure/Tiết Xa
+조각==piece//piece/Tổ Giác
+조화==harmony//harmony/Tổ Hóa
+주관적==subjective//subjective/Chủ Quan Tích
+중요성==importance//importance/Trung Yếu Thành
+진리==truth/sự thật/truth/Trần Lý
+진실==truth/sự thật/truth/Trần Thất
+집단==group//group/Tập Đoàn
+쪽==piece//piece/
+차이==difference/sự khác biệt/difference/Xa Nhị
+체계==system/hệ thống/system/Thể Kế
+최대==maximum//maximum/Tối Đại
+최소==minimum//minimum/Tối Tiểu
+충격==shock//shock/Trung Cách
+특성==characteristic//characteristic/Đặc Thành
+특정==specific//specific/Đặc Chính
+판단==judgment//judgment/Phán Đoàn
+표정==expression//expression/Biểu Chính
+표준==standard//standard/Biểu Chuẩn
+표준어==standard language//standard language/Biểu Chuẩn Ngữ
+표현==expression//expression/Biểu Hiện
+필수적==necessary/cần thiết/necessary/Tất Thủ Tích
+해설==explanation//explanation/Hải Thiết
+현실==reality//reality/Hiện Thất
+형편==circumstance//circumstance/Hình Thiên

@@ -1,37 +1,37 @@
-검다==black//black. VD: 색깔이 검다 = black color/Kiểm Đa
-그늘==shade//shade. VD: 그늘이 지다 = be shaded, get shady/
-금==gold//gold. VD: 황금 = gold, wealth/
-깜깜하다==dark//dark. VD: 방이 깜깜하다 = the room is dark/
-깜박하다==blink, flicker//blink, flicker. VD: 등불이 깜박하다 = lamp flicker/
-노랑==yellow//yellow. VD: 노란 색 = yellow color/Nô Lang
-더럽히다==pollute, stain//pollute, stain. VD: 옷을 더럽히다 = stain clothes/
-덮이다==be covered//be covered. VD: 뚜껑이 덮이다 = be lidded/
-들키다==be discovered//be discovered. VD: 거짓말을 들키다 = caught a lie/
-마련==prepared//prepared. VD: 학비 마련 = provision of tuition/Mã Liên
-물감==paint/sơn/paint. VD: 물감으로 색칠하다 = color with paint/Vật Cảm
-물들다==be colored, be dyed//be colored, be dyed. VD: 단풍이 물들다 = autumn leaves change color/
-발생==occur/xảy ra/occur. VD: 사건 발생 = incident occurred/Phát Sinh
-밤색==brown//brown. VD: 밤색 머리카락 = brown hair/
-복숭아==peach//peach. VD: 복숭아를 먹다 = eat a peach/
-분필==chalk//chalk. VD: 분필로 쓰다 = write with chalk/Phân Tất
-빛깔==color, hue/màu sắc/color, hue. VD: 빛깔이 곱다 = the color is pretty/
-빨강==red/đỏ/red. VD: 빨강으로 칠하다 = paint red/
-빨개지다==turn red/quay/turn red. VD: 얼굴이 빨개지다 = blush, the face turns red/
-사고방식==way of thinking/cách/way of thinking. VD: 사고방식이 다르다 = different way of thinking/Sự Cổ Phương Thực
-사정==circumstances//circumstances. VD: 사정이 좋다 = circumstances are good/Sự Chính
-생생하다==vivid//vivid. VD: 기억이 생생하다 = remember vividly/Sinh Sinh Hạ Đa
-수백==hundreds//hundreds. VD: 수백 마리 = hundreds of them/Thủ Bạch
-어둠==darkness//darkness. VD: 어둠이 깔리다 = darkness falls/
-얼룩==stain//stain. VD: 얼룩을 지우다 = erase a stain/
-연두색==light green/nhẹ/light green. VD: 연두색 새싹 = light green sprout/Diên Đầu Sắc
-연탄==briquet, charcoal//briquet, charcoal. VD: 연탄을 때다 = burn briquet/Diên Thán
-염색==dyeing//dyeing. VD: 염색을 들이다 = be dyed/Nhiễm Sắc
-은==silver//silver. VD: 금과 은 = gold and silver/
-자주색==purple//purple. VD: 자주색으로 색칠하다 = paint purple/Tử Chủ Sắc
-초록==green//green. VD: 초록으로 칠하다 = paint green/Sơ Lục
-파랑==blue/xanh/blue. VD: 색깔 = color/Phá Lang
-하양==white//white. VD: 하양으로 색칠하다 = paint white/Hạ Dương
-환하다==bright//bright. VD: 불빛이 환하다 = the lights are bright/Hoàn Hạ Đa
-후추==black pepper//black pepper. VD: 후추를 뿌리다 = sprinkle black pepper/Hậu Thu
-흑백==black and white//black and white. VD: 흑백의 대비 = contrast of black and white/Hắc Bạch
-희다==white//white. VD: 색깔이 희다 = the color is white/Hy Đa
+검다==black//black/Kiểm Đa
+그늘==shade//shade/
+금==gold//gold/
+깜깜하다==dark//dark/
+깜박하다==blink, flicker//blink, flicker/
+노랑==yellow//yellow/Nô Lang
+더럽히다==pollute, stain//pollute, stain/
+덮이다==be covered//be covered/
+들키다==be discovered//be discovered/
+마련==prepared//prepared/Mã Liên
+물감==paint/sơn/paint/Vật Cảm
+물들다==be colored, be dyed//be colored, be dyed/
+발생==occur/xảy ra/occur/Phát Sinh
+밤색==brown//brown/
+복숭아==peach//peach/
+분필==chalk//chalk/Phân Tất
+빛깔==color, hue/màu sắc/color, hue/
+빨강==red/đỏ/red/
+빨개지다==turn red/quay/turn red/
+사고방식==way of thinking/cách/way of thinking/Sự Cổ Phương Thực
+사정==circumstances//circumstances/Sự Chính
+생생하다==vivid//vivid/Sinh Sinh
+수백==hundreds//hundreds/Thủ Bạch
+어둠==darkness//darkness/
+얼룩==stain//stain/
+연두색==light green/nhẹ/light green/Diên Đầu Sắc
+연탄==briquet, charcoal//briquet, charcoal/Diên Thán
+염색==dyeing//dyeing/Nhiễm Sắc
+은==silver//silver/
+자주색==purple//purple/Tử Chủ Sắc
+초록==green//green/Sơ Lục
+파랑==blue/xanh/blue/Phá Lang
+하양==white//white/Hạ Dương
+환하다==bright//bright/
+후추==black pepper//black pepper/Hậu Thu
+흑백==black and white//black and white/Hắc Bạch
+희다==white//white/Hy Đa

@@ -1,16 +1,16 @@
-감시==surveillance//surveillance. VD: 감시를 당하다 = be under surveillance/Cảm Thị
-국회==congress//congress. VD: 대한민국 국회 = National Assembly of the Republic of Korea/Quốc Hội
-대응==response, action//response, action. VD: 법적 대응 = legal action/Đại Ứng
-범인==criminal//criminal. VD: 범인을 체포하다 = arrest a criminal/Phạm Nhân
-법적==legal//legal. VD: 법적 조치 = legal action/Pháp Tích
-비자==visa//visa. VD: 비자를 신청하다 = apply for a visa/Phi Tử
-시도==trial, attempt//trial, attempt. VD: 시도가 성공하다 = attempt succeeds/Thị Đồ
-어기다==violate//violate. VD: 약속을 어기다 = break a promise/Ngữ Kỳ Đa
-육군==army//army. VD: 육군 부대 = army force/Dục Quân
-이민==immigration//immigration. VD: 이민을 가다 = immigrate/Nhị Dân
-일치==agreement//agreement. VD: 의견 일치 = consensus/Nhất Trí
-재판==trial//trial. VD: 재판이 열리다 = a trial is held/Tài Phán
-정치==politics//politics. VD: 정치 활동 = political activity/Chính Trí
-찬성==agreement//agreement. VD: 반대 = opposition/Tán Thành
-합의==agreement//agreement. VD: 합의를 보다 = be in agreement/Hợp Nghị
-행위==act//act. VD: 불법 행위 = illegal act/Hành Vị
+감시==surveillance//surveillance/Cảm Thị
+국회==congress//congress/Quốc Hội
+대응==response, action//response, action/Đại Ứng
+범인==criminal//criminal/Phạm Nhân
+법적==legal//legal/Pháp Tích
+비자==visa//visa/Phi Tử
+시도==trial, attempt//trial, attempt/Thị Đồ
+어기다==violate//violate/Ngữ Kỳ Đa
+육군==army//army/Dục Quân
+이민==immigration//immigration/Nhị Dân
+일치==agreement//agreement/Nhất Trí
+재판==trial/phiên tòa/trial/Tài Phán
+정치==politics/chính trị/politics/Chính Trí
+찬성==agreement//agreement/Tán Thành
+합의==agreement//agreement/Hợp Nghị
+행위==act//act/Hành Vị
