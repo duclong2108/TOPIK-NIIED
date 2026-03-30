@@ -1,106 +1,106 @@
-간==salty seasoning//salty seasoning/
-거지==beggar//beggar/Cư Chỉ
-건지다==fish, scoop/cá/fish, scoop/Kiến Chỉ Đa
-게==crab//crab/
-고구마==sweet potato//sweet potato/Cổ Cửu Mã
-고등어==mackerel//mackerel/Cổ Đẳng Ngữ
-고소하다==nutty//nutty/Cổ Tiểu
-고추==pepper//pepper/Cổ Thu
-곡식==grain//grain/Khúc Thực
-공기==bowl/không khí/bowl/Công Kỳ
-구르다==recoil, roll//recoil, roll/
-구석==corner//corner/Cửu Thạch
-구수하다==(smell, taste) good/tốt/(smell, taste) good/Cửu Thủ
-국물==soup//soup/Quốc Vật
-김==steam//steam/
-까다==peel//peel/
-끼==meal//meal/
-나이프==knife//knife/
-냉동==frozen, freeze/đóng băng/frozen, freeze/
-단맛==sweetness//sweetness/
-달콤하다==sweet//sweet/
-당근==carrot//carrot/Đang Cận
-데치다==blanch, parboil//blanch, parboil/
-도시락==lunch box//lunch box/Đồ Thị Lạc
-땅콩==peanut//peanut/
-마늘==garlic//garlic/
-말다==put, mix/đặt/put, mix/Mạt Đa
-매==beating//beating/
-매운맛==spicy//spicy/
-매운탕==spicy soup//spicy soup/
-먹이==food/thức ăn/food/
-먹히다==get eaten//get eaten/
-메뉴판==menu//menu/
-멸치==anchovy//anchovy/Diệt Trí
-바가지==large bowl/lớn/large bowl/
-반죽==dough//dough/Bán Trúc
-밥그릇==rice bowl/cơm/rice bowl/
-밥맛==appetite//appetite/
-밥솥==rice cooker/cơm/rice cooker/
-버섯==mushroom//mushroom/
-버터==butter//butter/
-벗기다==peel//peel/
-벼==rice/cơm/rice/
-볶음==stir-fry//stir-fry/
-볼링==bowling//bowling/
-뷔페==buffet//buffet/
-빈자리==vacant seat//vacant seat/Bần Tử Lý
-삶다==boil/đun sôi/boil/
-상하다==rot//rot/
-석유==oil//oil/Thạch Du
-소금물==brine, salt water/nước/brine, salt water/Tiểu Kim Vật
-소스==sauce//sauce/
-쇠고기==beef//beef/
-수명==lifespan//lifespan/Thủ Minh
-스님==monk//monk/
-식당가==food court/thức ăn/food court/Thực Đang Gia
-식량==food, ration/lương thực/food, ration/Thực Lượng
-식비==food expenses/thức ăn/food expenses/Thực Phi
-식사량==food intake/thức ăn/food intake/Thực Sự Lượng
-식욕==appetite//appetite/Thực Dục
-식용유==cooking oil//cooking oil/Thực Dụng Du
-썩다==rot//rot/
-쏟다==pour/đổ/pour/
-쓴맛==bitter taste//bitter taste/
-아침밥==breakfast//breakfast/
-안과==ophthalmology//ophthalmology/An Quả
-안주==snack//snack/An Chủ
-알==egg//egg/
-양배추==cabbage//cabbage/Dương Bồi Thu
-양파==onion//onion/Dương Phá
-얻어먹다==beg food, be abused/thức ăn/beg food, be abused/
-얼리다==freeze/đóng băng/freeze/
-예비==reserve/đặt trước/reserve/Lễ Phi
-옥수수==corn//corn/Ngọc Thủ Thủ
-외식==eat out/ăn/eat out/Ngoại Thực
-요리법==recipe//recipe/Yếu Lý Pháp
-우려==concern//concern/Vũ Lữ
-위대하다==great//great/Vị Đại
-음식물==food/thức ăn/food/Âm Thực Vật
-익히다==cook/nấu/cook/
-일본어==Japanese language//Japanese language/Nhất Bản Ngữ
-일어==Japanese language//Japanese language/Nhất Ngữ
-입맛==appetite//appetite/
-잡아먹다==prey on//prey on/
-젓다==stir/khuấy/stir/
-조림==braised food/thức ăn/braised food/Tổ Lâm
-주전자==kettle//kettle/Chủ Toàn Tử
-지방==fat/địa phương/fat/Chỉ Phương
-짠맛==salty taste//salty taste/
-찍다==chop//chop/
-차림표==menu//menu/Xa Lâm Biểu
-창조==creation//creation/Sáng Tổ
-취향==taste//taste/Thủ Hương
-코너==corner//corner/
-파==green onion//green onion/
-패스트푸드==fast food/nhanh/fast food/
-팬티==underpants//underpants/
-편식==picky eating//picky eating/Thiên Thực
-표시==mark//mark/Biểu Thị
-해물==seafood//seafood/Hải Vật
-해산물==seafood//seafood/Hải Sơn Vật
-확대==expansion//expansion/Xác Đại
-확장==expansion//expansion/Xác Trường
-회==sliced raw fish/cá/sliced raw fish/
-회식==company dinner//company dinner/Hội Thực
-후식==dessert//dessert/Hậu Thực
+간==salty seasoning/mặn/salty seasoning. VD: 간을 보다 = taste saltiness/
+거지==beggar/ăn xin/beggar. VD: 거지가 되다 = become beggar/
+건지다==fish, scoop/vớt/fish, scoop. VD: 그물을 건지다 = scoop a net (out of water)/Kiến Chỉ Đa
+게==crab/cua/crab. VD: 게를 먹다 = eat crab/
+고구마==sweet potato/khoai lang/sweet potato. VD: 고구마를 캐다 = dig up sweet potato/
+고등어==mackerel//mackerel. VD: 고등어 구이 = grilled mackerel/
+고소하다==nutty//nutty. VD: 맛이 고소하다 = nutty taste/
+고추==pepper//pepper. VD: 고추를 따다 = pick red pepper/
+곡식==grain//grain. VD: 곡식을 거두다 = harvest grain/Khúc Thực
+공기==bowl//bowl. VD: 공기에 밥을 담다 = fill rice in a bowl/Công Kỳ
+구르다==recoil, roll//recoil, roll. VD: 공이 구르디 = a ball rolls/
+구석==corner//corner. VD: 한쪽 구석 = one-side corner/
+구수하다==(smell, taste) good/tốt/(smell, taste) good. VD: 맛이 구수하다 = taste good/
+국물==soup//soup. VD: 국물을 떠먹다 = scoop and eat soup/
+김==steam//steam. VD: 김이 나다 = emit steam/
+까다==peel//peel. VD: 껍데기를 까다 = peel shell/
+끼==meal//meal. VD: 하루 세 끼 = 3 meals a day/
+나이프==knife//knife. VD: 나이프로 썰다 = cut with knife/
+냉동==frozen, freeze/đóng băng/frozen, freeze. VD: 냉동을 시키다 = freeze sth/
+단맛==sweetness//sweetness. VD: 단맛을 느끼다 = feel sweet taste/
+달콤하다==sweet//sweet. VD: 케이크가 달콤하다 = the cake is sweet/
+당근==carrot//carrot. VD: 당근을 먹다 = eat carrot/
+데치다==blanch, parboil//blanch, parboil. VD: 채소를 데치다 = blanch vegetables/
+도시락==lunch box//lunch box. VD: 도시락을 싸다 = wrap the lunch box/
+땅콩==peanut//peanut. VD: 땅콩을 까먹다 = peel and eat peanuts/
+마늘==garlic//garlic. VD: 마늘을 까다 = peel the garlic/
+말다==put, mix/đặt/put, mix. VD: 국에 밥을 말다 = put rice into soup/Mạt Đa
+매==beating//beating. VD: 매를 맞다 = be beaten/
+매운맛==spicy//spicy. VD: 매운맛이 나다 = the taste is spicy/
+매운탕==spicy soup//spicy soup. VD: 매우탕을 먹다 = eat hot soup/
+먹이==food/thức ăn/food. VD: 먹이를 주다 = feed, give food to/
+먹히다==get eaten//get eaten. VD: 양이 늑대에게 먹히다 = sheep get eaten by wolves/
+메뉴판==menu//menu. VD: 메뉴판에서 고르다 = choose from the menu/
+멸치==anchovy//anchovy. VD: 멸치를 볶다 = fry anchovies/
+바가지==large bowl/lớn/large bowl. VD: 바가지에 담다 = put in a large bowl/
+반죽==dough//dough. VD: 반죽을 만들다 = make dough/
+밥그릇==rice bowl//rice bowl. VD: 밥그릇을 비우다 = empty the rice bowl/
+밥맛==appetite//appetite. VD: 밥맛이 좋다 = appetite is good/
+밥솥==rice cooker//rice cooker. VD: 밥솥에 밥을 하다 = cook rice in a rice cooker/
+버섯==mushroom//mushroom. VD: 버섯을 재배하다 = grow mushrooms/
+버터==butter//butter. VD: 버터를 바르다 = spread butter/
+벗기다==peel//peel. VD: 옷을 벗기다 = take off one's clothes/
+벼==rice//rice. VD: 벼를 베다 = cut rice/
+볶음==stir-fry//stir-fry. VD: 볶음 멸치 = stir-fried anchovies/
+볼링==bowling//bowling. VD: 볼링을 치다 = play bowling/
+뷔페==buffet//buffet. VD: 뷔페에서 밥을 먹다 = eat at a buffet/
+빈자리==vacant seat//vacant seat. VD: 빈자리에 앉다 = sit in an vacant seat/
+삶다==boil/đun sôi/boil. VD: 국수를 삶다 = boil noodles/
+상하다==rot//rot. VD: 음식이 상하다 = food spoils/
+석유==oil//oil. VD: 석유 산업 = petroleum industry/Thạch Du
+소금물==brine, salt water/nước/brine, salt water. VD: 소금물에 절이다 = pickle in salt water/
+소스==sauce//sauce. VD: 소스를 뿌리다 = sprinkle sauce/
+쇠고기==beef//beef. VD: 쇠고기를 굽다 = roast beef/
+수명==lifespan//lifespan. VD: 수명이 길다 = have a long lifespan/Thủ Minh
+스님==monk//monk. VD: 스님을 모시다 = serve a monk/
+식당가==food court/thức ăn/food court. VD: 식당가에서 먹다 = eat at a food court/Thực Đang Gia
+식량==food, ration/thức ăn/food, ration. VD: 식량을 구하다 = seek food/Thực Lượng
+식비==food expenses/thức ăn/food expenses. VD: 식비를 내다 = pay for food/Thực Phi
+식사량==food intake/thức ăn/food intake. VD: 식사량을 줄이다 = reduce food intake/Thực Sự Lượng
+식욕==appetite//appetite. VD: 식욕이 떨어지다 = lose one's appetite/Thực Dục
+식용유==cooking oil//cooking oil. VD: 식용유에 튀기다 = fry in cooking oil/Thực Dụng Du
+썩다==rot//rot. VD: 고기가 썩다 = meat rots/
+쏟다==pour/đổ/pour. VD: 기름을 쏟다 = pour oil/
+쓴맛==bitter taste//bitter taste. VD: 쓴맛이 나다 = tastes bitter/
+아침밥==breakfast//breakfast. VD: 아침밥을 먹다 = to have a breakfast/
+안과==ophthalmology//ophthalmology. VD: 안과에서 치료를 받다 = be treated at an ophthalmologist/An Quả
+안주==snack//snack. VD: 안주를 먹다 = eat snacks/An Chủ
+알==egg//egg. VD: 알에서 깨다 = hatch from an egg/
+양배추==cabbage//cabbage. VD: 양배추를 먹다 = eat cabbage/
+양파==onion//onion. VD: 양파를 볶다 = fry onions/
+얻어먹다==beg food, be abused/thức ăn/beg food, be abused. VD: 구걸해서 얻어먹다 = beg for food/
+얼리다==freeze/đóng băng/freeze. VD: 얼음을 얼리다 = freeze ice/
+예비==reserve//reserve. VD: 예비 식량 = reserve of food/Lễ Phi
+옥수수==corn//corn. VD: 옥수수를 먹다 = eat corn/
+외식==eat out/ăn/eat out. VD: 외식을 나가다 = go out to eat/Ngoại Thực
+요리법==recipe//recipe. VD: 요리법을 개발하다 = develop a recipe/Yếu Lý Pháp
+우려==concern//concern. VD: 우려가 크다 = be of great concern/Vũ Lữ
+위대하다==great//great. VD: 업적이 위대하다 = great achievements/
+음식물==food/thức ăn/food. VD: 음식물을 삼키다 = swallow food/Âm Thực Vật
+익히다==cook/nấu/cook. VD: 고기를 익히다 = cook meat/
+일본어==Japanese language//Japanese language. VD: 일본어로 말하다 = speak Japanese/Nhất Bản Ngữ
+일어==Japanese language//Japanese language. VD: 일어로 말하다 = speak Japanese/Nhất Ngữ
+입맛==appetite//appetite. VD: 입맛이 좋다 = have a good appetite/
+잡아먹다==prey on//prey on. VD: 소를 잡아먹다 = kill and eat a cow/
+젓다==stir//stir. VD: 커피를 젓다 = stir coffee/
+조림==braised food/thức ăn/braised food. VD: 생선 조림 = braised fish/Tổ Lâm
+주전자==kettle//kettle. VD: 주전자에 물을 끓이다 = boil water in a kettle/
+지방==fat//fat. VD: 식물성 지방 = vegetable fats/Chỉ Phương
+짠맛==salty taste//salty taste. VD: 짠맛이 나다 = tastes salty/
+찍다==chop//chop. VD: 도끼로 찍다 = chop with an axe/
+차림표==menu//menu. VD: 차림표를 주다 = give a menu/
+창조==creation//creation. VD: 한글 창조 = creation of Hangeul/Sáng Tổ
+취향==taste//taste. VD: 취향이 독특하다 = taste is peculiar/Thủ Hương
+코너==corner//corner. VD: 코너를 돌다 = go round the corner/
+파==green onion//green onion. VD: 파를 썰다 = chop green onions/
+패스트푸드==fast food/nhanh/fast food. VD: 패스트푸드를 먹다 = eat fast food/
+팬티==underpants//underpants. VD: 팬티를 입다 = put on underpants/
+편식==picky eating//picky eating. VD: 편식이 심하다 = to be a picky eater/Thiên Thực
+표시==mark//mark. VD: 가격 표시 = price mark/Biểu Thị
+해물==seafood//seafood. VD: 해물로 요리를 만들다 = cook with seafood/Hải Vật
+해산물==seafood//seafood. VD: 해산물을 맛보다 = taste seafood/Hải Sơn Vật
+확대==expansion//expansion. VD: 축소 = reduction/Xác Đại
+확장==expansion//expansion. VD: 확장 공사 = expansion construction/Xác Trường
+회==sliced raw fish//sliced raw fish. VD: 회를 먹다 = eat raw fish/
+회식==company dinner//company dinner. VD: 회식을 하다 = have a company dinner/Hội Thực
+후식==dessert//dessert. VD: 후식을 먹다 = eat dessert/Hậu Thực

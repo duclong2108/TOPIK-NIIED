@@ -1,82 +1,82 @@
--점==store//store/
-가라앉다==settle//settle/
-갖추다==be equipped, prepare/chuẩn bị/be equipped, prepare/
-거스름돈==change (money)/sự thay đổi/change (money)/
-건조==dry/khô/dry/Kiến Tổ
-걸레==rag//rag/
-교류==exchange//exchange/Giáo Lưu
-깔끔하다==neat, clean/sạch/neat, clean/
-깨우다==wake up/thức dậy/wake up/
-꾸미다==decorate//decorate/
-꿈꾸다==dream//dream/
-끼다==put on, fasten/đặt/put on, fasten/
-내세우다==put on, nominate/đặt/put on, nominate/Nội Thế Vũ Đa
-널다==hang//hang/
-눈뜨다==wake up/thức dậy/wake up/
-단정하다==neat, tidy//neat, tidy/Đoàn Chính
-달다==put on (a button)/đặt/put on (a button)/Đạt Đa
-대청소==house cleansing/nhà/house cleansing/Đại Thanh Tiểu
-두르다==put on, wear (a scarf)/đặt/put on, wear (a scarf)/
-드라이==dry/khô/dry/
-드라이어==dryer//dryer/
-드라이클리닝==dry cleaning/khô/dry cleaning/
-뚜렷하다==distinct, clear//distinct, clear/
-띠다==put on, tie/đặt/put on, tie/
-말끔히==cleanly//cleanly/
-말리다==dry/khô/dry/Mạt Lý Đa
-매장==store//store/Mại Trường
-머물다==stay//stay/
-먼지==dust//dust/
-면도==shave//shave/Miên Đồ
-명확하다==clear//clear/Minh Xác
-문구점==stationery store//stationery store/Văn Cửu Điểm
-문방구==stationery store//stationery store/Văn Phương Cửu
-변경==change/sự thay đổi/change/Biến Kinh
-변화==change/sự thay đổi/change/Biến Hóa
-별도==separately//separately/Biệt Đồ
-빗==comb//comb/
-빗다==comb//comb/
-살림==living//living/
-상가==store//store/Thượng Gia
-상점==shop/cửa hàng/shop/Thượng Điểm
-생활비==living expenses//living expenses/Sinh Hoạt Phi
-세차==car wash/xe hơi/car wash/Thế Xa
-세탁물==laundry//laundry/Thế Trác Vật
-세트==set//set/
-속상하다==upset//upset/Tốc Thượng
-수도==water supply/thủ đô/water supply/Thủ Đồ
-수리==repair/sửa chữa/repair/Thủ Lý
-수면==sleep/giấc ngủ/sleep/Thủ Miên
-수선==repair//repair/Thủ Tiên
-순위==ranking, order//ranking, order/Thuần Vị
-식품점==grocery store//grocery store/Thực Phẩm Điểm
-심부름==errand//errand/
-쓸다==sweep//sweep/
-씨름==wrestling//wrestling/
-씻기다==wash/rửa/wash/
-얹다==put on/đặt/put on/
-올려놓다==put on/đặt/put on/
-의식==ritual//ritual/Nghị Thực
-일상==daily life/hàng ngày/daily life/Nhất Thượng
-일생==everyday//everyday/Nhất Sinh
-임무==task//task/Nhậm Vũ
-잔돈==change money/sự thay đổi/change money/Tàn Đốn
-재우다==put to sleep/đặt/put to sleep/Tài Vũ Đa
-전문점==specialty store//specialty store/Toàn Văn Điểm
-정기==routine//routine/Chính Kỳ
-정신==mindset//mindset/Chính Tân
-정착==settlement//settlement/Chính Trước
-주고받다==exchange//exchange/
-지다==set//set/Chỉ Đa
-지저분하다==dirty/bẩn/dirty/Chỉ Trữ Phân
-질서==order//order/Chất Thư
-집다==pick up//pick up/Tập Đa
-집안==household//household/Tập An
-청소기==vacuum cleaner//vacuum cleaner/Thanh Tiểu Kỳ
-치우다==clean up/sạch/clean up/Trí Vũ Đa
-편의==convenience//convenience/Thiên Nghị
-풍습==custom/phong tục/custom/
-하품==yawn//yawn/Hạ Phẩm
-할인점==discount store//discount store/Cát Nhân Điểm
-활발하다==animated//animated/Hoạt Phát
-효도==filial duty//filial duty/Hiếu Đồ
+-점==store//store. VD: 백화점 = department store/
+가라앉다==settle/chìm, lắng/settle. VD: 먼지가 가라앉다 = dust settles/
+갖추다==be equipped, prepare/chuẩn bị, trang bị/be equipped, prepare. VD: 시설을 갖추다 = be equipped with facilities/
+거스름돈==change (money)/tiền thối/change (money). VD: 거스롬돈을 받다 = receive a change/
+건조==dry/khô/dry. VD: 건조 기후 = dry climate/Kiến Tổ
+걸레==rag/giẻ lau/rag. VD: 걸레로 닦다 = clean using rag/
+교류==exchange//exchange. VD: 문화 교류 = cultural exchange/Giáo Lưu
+깔끔하다==neat, clean/lau/neat, clean. VD: 외모가 깔끔하다 = neat in appearance/
+깨우다==wake up//wake up. VD: 잠을 깨우다 = wake up/
+꾸미다==decorate//decorate. VD: 외모를 꾸미다 = make up appearance/
+꿈꾸다==dream//dream. VD: 꿈꾸며 자다 = sleep dreaming/
+끼다==put on, fasten/đặt/put on, fasten. VD: 단추를 끼다 = button up, faster a button/
+내세우다==put on, nominate/đặt/put on, nominate. VD: 무대에 내세우다 = put sb on the stage/Nội Thế Vũ Đa
+널다==hang//hang. VD: 빨래를 널다 = hang the laundry/
+눈뜨다==wake up//wake up. VD: 아침에 눈뜨다 = wake up in the morning/
+단정하다==neat, tidy//neat, tidy. VD: 옷차림이 단정하다 = one's dress is neat/Đoàn Chính (하다)
+달다==put on (a button)/đặt/put on (a button). VD: 단추를 달다 = put on a button/
+대청소==house cleansing/nhà/house cleansing. VD: 집안 대청소 = house cleaning/Đại Thanh Tiểu
+두르다==put on, wear (a scarf)/đặt/put on, wear (a scarf). VD: 목도리를 두르다 = put on a scarf/
+드라이==dry//dry. VD: 드라이가 잘 되다 = dry well (hair)/
+드라이어==dryer//dryer. VD: 드라이어로 머리를 말리다 = dry one's hair with a dryer/
+드라이클리닝==dry cleaning//dry cleaning. VD: 드라이클리닝을 맡기다 = do dry cleaning/
+뚜렷하다==distinct, clear//distinct, clear. VD: 의식이 뚜렷하다 = have a clear consciousness/
+띠다==put on, tie/đặt/put on, tie. VD: 허리띠를 띠다 = put on a belt/
+말끔히==cleanly//cleanly. VD: 말끔히 닦다 = wipe clean/
+말리다==dry//dry. VD: 빨래를 말리다 = dry the laundry/
+매장==store//store. VD: 매장을 열다 = open a store/Mại Trường
+머물다==stay//stay. VD: 휴게소에 머물다 = stay a a rest stop/
+먼지==dust//dust. VD: 먼지를 닦다 = wipe the dust/
+면도==shave//shave. VD: 면도를 하다 = to shave/Miên Đồ
+명확하다==clear//clear. VD: 근거가 명확하다 = the basic is clear/Minh Xác (하다)
+문구점==stationery store//stationery store. VD: 문구점에 가다 = go to a stationery store/Văn Cửu Điểm
+문방구==stationery store//stationery store. VD: 문방구에 가다 = go to a stationery store/Văn Phương Cửu
+변경==change/thay đổi/change. VD: 계획 변경 = change of plan/Biến Kinh
+변화==change/thay đổi/change. VD: 변화를 겪다 = undergo change/Biến Hóa
+별도==separately//separately. VD: 별도로 마련하다 = arrange separately/Biệt Đồ
+빗==comb//comb. VD: 빗으로 빗다 = comb with a comb/
+빗다==comb//comb. VD: 머리를 빗다 = comb one's hair/
+살림==living//living. VD: 살림을 차리다 = set up a home/Sát Lâm
+상가==store//store. VD: 상가에서 사다 = buy at a store/Thượng Gia
+상점==shop//shop. VD: 상점을 운영하다 = run a store/Thượng Điểm
+생활비==living expenses//living expenses. VD: 생활비를 벌다 = earn one's living expenses/Sinh Hoạt Phi
+세차==car wash/xe/car wash. VD: 자동 세차 = automatic car wash/Thế Xa
+세탁물==laundry//laundry. VD: 세탁물을 맡기다 = drop off laundry/Thế Trác Vật
+세트==set//set. VD: 세트로 구입하다 = buy as a set/
+속상하다==upset//upset. VD: 마음이 속상하다 = feel upset/Tốc Thượng (하다)
+수도==water supply/nước/water supply. VD: 수도를 놓다 = build a water supply/Thủ Đồ
+수리==repair//repair. VD: 수리를 맡기다 = leave to repair/Thủ Lý
+수면==sleep/ngủ/sleep. VD: 수면을 방해하다 = disrupt one's sleep/Thủ Miên
+수선==repair//repair. VD: 수선을 맡기다 = entrust repair work/Thủ Tiên
+순위==ranking, order//ranking, order. VD: 순위를 정하다 = set order/Thuần Vị
+식품점==grocery store//grocery store. VD: 식품점에서 사다 = buy at a grocery store/Thực Phẩm Điểm
+심부름==errand//errand. VD: 심부름을 보내다 = send out on an errand/
+쓸다==sweep//sweep. VD: 낙엽을 쓸다 = sweep fallen leaves/
+씨름==wrestling//wrestling. VD: 씨름 경기 = wrestling match/
+씻기다==wash/rửa/wash. VD: 아이를 씻기다 = bath the child/
+얹다==put on/đặt/put on. VD: 무릎 위에 얹다 = put on one's lap/
+올려놓다==put on/đặt/put on. VD: 난로 위에 올려놓다 = put on the stove/
+의식==ritual//ritual. VD: 의식을 치르다 = go through a ritual/Nghị Thực
+일상==daily life/cuộc sống/daily life. VD: 일상에 만족하다 = be satisfied with daily life/Nhất Thượng
+일생==everyday//everyday. VD: 일생을 살다 = live/Nhất Sinh
+임무==task//task. VD: 임무를 맡기다 = give a task/Nhậm Vũ
+잔돈==change money/thay đổi/change money. VD: 잔돈을 모으다 = save up change money/Tàn Đốn
+재우다==put to sleep/đặt/put to sleep. VD: 아이를 재우다 = put a child to sleep/Tài Vũ Đa
+전문점==specialty store//specialty store. VD: 커피 전문점 = coffee shop/Toàn Văn Điểm
+정기==routine//routine. VD: 정기 휴일 = regular day off/Chính Kỳ
+정신==mindset//mindset. VD: 절약 정신 = frugal mindset/Chính Tân
+정착==settlement//settlement. VD: 정착 생활 = settled life/Chính Trước
+주고받다==exchange//exchange. VD: 이야기를 주고받다 = exchange stories/
+지다==set//set. VD: 해가 지다 = the sun sets/
+지저분하다==dirty//dirty. VD: 길이 지저분하다 = the street is messy/Chỉ Trữ Phân (하다)
+질서==order//order. VD: 질서를 유지하다 = maintain the order/Chất Thư
+집다==pick up//pick up. VD: 손가락으로 집다 = pick up with fingers/Tập Đa
+집안==household//household. VD: 집안이 편안하다 = household is comfortable/Tập An
+청소기==vacuum cleaner//vacuum cleaner. VD: 청소기를 사다 = buy a vacuum cleaner/Thanh Tiểu Kỳ
+치우다==clean up/lau/clean up. VD: 물건들을 치우다 = put things away/Trí Vũ Đa
+편의==convenience//convenience. VD: 편의를 봐주다 = accommodate/Thiên Nghị
+풍습==custom//custom. VD: 풍습을 지키다 = observe customs/
+하품==yawn//yawn. VD: 하품이 나오다 = yawn/Hạ Phẩm
+할인점==discount store//discount store. VD: 할인점을 이용하다 = use a discount storeStudy next #38: The 3701st – 3800th vocabulary words for TOPIK 2 by NIIEDStudy previous #36: The 3501st – 3600th vocabulary words for TOPIK 2 by NIIED/Cát Nhân Điểm
+활발하다==animated//animated. VD: 교류가 활발하다 = exchange is thriving/Hoạt Phát (하다)
+효도==filial duty//filial duty. VD: 효도를 하다 = practice filial duty/Hiếu Đồ

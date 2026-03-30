@@ -1,9 +1,9 @@
-낮추다==lower, reduce/giảm/lower, reduce/
-덜다==reduce, lessen/giảm/reduce, lessen/
-보존==preservation//preservation/Bảo Tồn
-자연스럽다==natural//natural/
-자연적==natural//natural/Tử Diên Tích
-재활용==recycling//recycling/Tài Hoạt Dụng
-해롭다==harmful//harmful/
-환경==environment/môi trường/environment/Hoàn Kinh
-활기==energy//energy/Hoạt Kỳ
+낮추다==lower, reduce//lower, reduce. VD: 온도를 낮추다 = lower the temperature/
+덜다==reduce, lessen//reduce, lessen. VD: 밥을 덜다 = reduce rice/
+보존==preservation//preservation. VD: 보존 상태 = preserved condition/Bảo Tồn
+자연스럽다==natural//natural. VD: 표정이 자연스럽다 = expression is natural/
+자연적==natural//natural. VD: 자연적 환경 = natural environment/Tử Diên Tích
+재활용==recycling//recycling. VD: 재활용 쓰레기 = recyclable waste/Tài Hoạt Dụng
+해롭다==harmful//harmful. VD: 건강에 해롭다 = bad for your health/
+환경==environment/môi trường/environment. VD: 자연 환경 = natural environment/Hoàn Kinh
+활기==energy//energy. VD: 활기를 띠다 = become active/Hoạt Kỳ

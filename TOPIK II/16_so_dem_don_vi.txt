@@ -1,104 +1,104 @@
--가량==about//about/Gia Lượng
--률==(ratio, rate)//(ratio, rate)/
--씩==(one by one)//(one by one)/
--율==rate//rate/
-가로==length//length/Gia Lộ
-계산대==counter//counter/Kế Sơn Đại
-고독==loneliness//loneliness/Cổ Độc
-공==zero//zero/
-과장==exaggeration/trưởng ban/exaggeration/Quả Trường
-그램==gram//gram/
-그런대로==enough//enough/
-깊이==depth//depth/
-꼽다==count//count/
-꼽히다==be counted//be counted/
-꿀==honey//honey/
-넓이==area//area/
-높이다==heighten, elevate//heighten, elevate/
-눈길==eyes, attention//eyes, attention/
-다수==many//many/Đa Thủ
-단위==unit//unit/Đoàn Vị
-대여섯==five or six//five or six/
-대책==countermeasure, action//countermeasure, action/Đại Sách
-덜==less//less/
-도장==stamp//stamp/Đồ Trường
-독신자==single//single/Độc Tân Tử
-돌멩이==small stone, pebble/nhỏ/small stone, pebble/
-둘레==circumference//circumference/
-듣기==listening//listening/
-리터==liter//liter/
-맘껏==as much as, freely//as much as, freely/
-맨발==bare foot/chân/bare foot/
-문법==grammar//grammar/Văn Pháp
-미소==a smile/mỉm cười/a smile/Mỹ Tiểu
-미치다==crazy//crazy/Mỹ Trí Đa
-미혼==single, unmarried//single, unmarried/Mỹ Hôn
-밀리미터==millimeter//millimeter/
-발등==the top of the foot/chân/the top of the foot/Phát Đẳng
-배꼽==belly button//belly button/
-복==luck//luck/
-비율==ratio//ratio/
-상관없이==regardless of//regardless of/
-샴푸==shampoo//shampoo/
-서넛==three or four, a few//three or four, a few/
-선진==advanced, developed//advanced, developed/Tiên Trần
-선진국==developed countries//developed countries/Tiên Trần Quốc
-섭씨==celsius//celsius/
-세다==count//count/Thế Đa
-센티==centimeter//centimeter/
-수==number//number/
-수량==quantity//quantity/Thủ Lượng
-수만==tens of thousands//tens of thousands/Thủ Vạn
-수십==dozens//dozens/Thủ Thập
-수없이==countless//countless/
-시야==one's view, sight//one's view, sight/Thị Dã
-시점==point of view//point of view/Thị Điểm
-쌍==pair//pair/
-아홉째==ninth//ninth/
-억양==intonation//intonation/
-여덟째==eighth//eighth/
-여럿==many//many/
-여보==honey//honey/Dư Bảo
-여섯째==sixth//sixth/
-열째==tenth//tenth/
-영==zero//zero/
-오른발==right foot/chân/right foot/
-외로움==loneliness/cô đơn/loneliness/
-왼발==left foot/chân/left foot/
-요약==summary//summary/Yếu Ước
-운명==fate//fate/Vận Minh
-운영==operate//operate/Vận Vĩnh
-유지==maintenance//maintenance/Du Chỉ
-의도==intent//intent/Nghị Đồ
-인원==number of people/người dân/number of people/Nhân Viên
-일곱째==seventh//seventh/
-일석이조==killing two birds with one stone//killing two birds with one stone/Nhất Thạch Nhị Tổ
-일시불==lump sum payment, single payment//lump sum payment, single payment/Nhất Thị Bất
-일일이==one by one//one by one/Nhất Nhất Nhị
-재다==measure/đo/measure/Tài Đa
-절반==half//half/Tiết Bán
-제-==the number-th//the number-th/
-조==trillion//trillion/
-조작==manipulation, counterfeiting//manipulation, counterfeiting/Tổ Tác
-주목==attention//attention/Chủ Mộc
-줄거리==summary//summary/
-진동==vibration//vibration/Trần Đồng
-집중==concentration//concentration/Tập Trung
-찍히다==get stamped//get stamped/
-창구==counter//counter/Sáng Cửu
-처하다==encounter//encounter/
-총==total//total/
-최대한==most//most/Tối Đại Hàn
-타다==be prone to//be prone to/Tha Đa
-퍼센트==percent//percent/
-품==width//width/
-하나하나==one by one//one by one/Hạ Na Hạ Na
-한결==much more//much more/Hàn Quyết
-한둘==one or two//one or two/
-한마디==one word//one word/
-한쪽==one side//one side/
-한편==one side//one side/Hàn Thiên
-함부로==thoughtlessly//thoughtlessly/Hàm Phụ Lộ
-합계==sum//sum/Hợp Kế
-헤아리다==count//count/
-후반==second half//second half/Hậu Bán
+-가량==about//about. VD: 한 시간가량 = about an hour/Gia Lượng
+-률==(ratio, rate)//(ratio, rate). VD: 출생률 = birth rate/
+-씩==(one by one)//(one by one). VD: 조금씩 = gradually/
+-율==rate//rate. VD: 할인율 = discount rate/
+가로==length/chiều ngang/length. VD: 가로 대 세로 = length vs width/Gia Lộ
+계산대==counter/quầy tính tiền/counter. VD: 계산대에서 계산하다 = pay at the counter/Kế Sơn Đại
+고독==loneliness//loneliness. VD: 고독을 느끼다 = feel lonely/Cổ Độc
+공==zero//zero. VD: 숫자 = number zero/
+과장==exaggeration//exaggeration. VD: 과장이 심하다 = exaggerate a lot/Quả Trường
+그램==gram//gram. VD: 몇 그램 = several grams/
+그런대로==enough//enough. VD: 그런대로 괜찮다 = it's good enough/
+깊이==depth//depth. VD: 깊이가 깊다 = be deep in depth/
+꼽다==count//count. VD: 손가락을 꼽다 = count one's fingers/
+꼽히다==be counted//be counted. VD: 다섯 손가락 안에 꼽히다 = be counted within 5 fingers/
+꿀==honey//honey. VD: 꿀을 찍어 먹다 = dip in honey (and eat)/
+넓이==area//area. VD: 넓이를 재다 = measure the area/
+높이다==heighten, elevate//heighten, elevate. VD: 건물을 높이다 = elevate the building/
+눈길==eyes, attention//eyes, attention. VD: 눈길이 가다 = catch one's eyes/
+다수==many//many. VD: 다수가 참여하다 = many participate/Đa Thủ
+단위==unit//unit. VD: 화폐 단위 = monetary unit/Đoàn Vị
+대여섯==five or six//five or six. VD: 대여섯 살 = five or six years old/
+대책==countermeasure, action//countermeasure, action. VD: 대책을 마련하다 = prepare a countermeasure/Đại Sách
+덜==less//less. VD: 덜 익다 = unripe/
+도장==stamp//stamp. VD: 도장을 찍다 = stamp one's seal/Đồ Trường
+독신자==single//single. VD: 독신자로 살다 = live as a single person/Độc Tân Tử
+돌멩이==small stone, pebble/nhỏ/small stone, pebble. VD: 돌멩이를 던지다 = throw a pebble/
+둘레==circumference//circumference. VD: 둘레를 재다 = measure the circumference/
+듣기==listening//listening. VD: 듣기 평가 = listening exam/
+리터==liter//liter. VD: 일 리터 = one liter/
+맘껏==as much as, freely//as much as, freely. VD: 맘껏 놀다 = play freely (as you wish)/
+맨발==bare foot//bare foot. VD: 맨발로 걷다 = walk barefoot/
+문법==grammar//grammar. VD: 문법을 배우다 = learn grammar/Văn Pháp
+미소==a smile/mỉm cười/a smile. VD: 미소를 짓다 = to smile/Mỹ Tiểu
+미치다==crazy//crazy. VD: 정신이 미치다 = be out of one's mind/Mỹ Trí Đa
+미혼==single, unmarried//single, unmarried. VD: 미혼으로 지내다 = stay single/Mỹ Hôn
+밀리미터==millimeter//millimeter. VD: 밀리미터 = millimeter/
+발등==the top of the foot//the top of the foot. VD: 발등을 다치다 = hurt one's foot/Phát Đẳng
+배꼽==belly button//belly button. VD: 배꼽을 잡다 = grab one's belly button/
+복==luck//luck. VD: 복을 받다 = be blessed/
+비율==ratio//ratio. VD: 비율이 낮다 = the ratio is low/
+상관없이==regardless of//regardless of. VD: 나이에 상관없이 = regardless of age/
+샴푸==shampoo//shampoo. VD: 샴푸로 머리를 감다 = wash hair with shampoo/
+서넛==three or four, a few//three or four, a few. VD: 서넛이랑 = with three or four/
+선진==advanced, developed//advanced, developed. VD: 선진 국가 = developed countries/Tiên Trần
+선진국==developed countries//developed countries. VD: 선진국으로 성장하다 = grow into a developed country/Tiên Trần Quốc
+섭씨==celsius//celsius. VD: 섭씨 영 도 = zero degrees celsius/
+세다==count//count. VD: 수를 세다 = count numbers/Thế Đa
+센티==centimeter//centimeter. VD: 1센티 = 1cm/
+수==number//number. VD: 수요일 = Wednesday/
+수량==quantity//quantity. VD: 수량이 모자라다 = not enough quantity/Thủ Lượng
+수만==tens of thousands//tens of thousands. VD: 수만 원 = tens of thousands won/Thủ Vạn
+수십==dozens//dozens. VD: 수십 개 = dozens of/Thủ Thập
+수없이==countless//countless. VD: 수없이 많다 = there are countless/
+시야==one's view, sight//one's view, sight. VD: 시야를 가리다 = block one's view/Thị Dã
+시점==point of view//point of view. VD: 시점에 이르다 = reach a point (e.g. milestone)/Thị Điểm
+쌍==pair//pair. VD: 쌍으로 묶다 = tie in pairs/
+아홉째==ninth//ninth. VD: 아홉째 날 = ninth day/
+억양==intonation//intonation. VD: 억양을 높이다 = raise intonation/
+여덟째==eighth//eighth. VD: 여덟째 날 = eighth day/
+여럿==many//many. VD: 여럿 가운데 = among many/
+여보==honey//honey. VD: 여보, 마누라 = honey, missus/Dư Bảo
+여섯째==sixth//sixth. VD: 여섯째 날 = sixth day/
+열째==tenth//tenth. VD: 열째 날 = tenth day/
+영==zero//zero. VD: 영 모르겠다 = have no idea/
+오른발==right foot//right foot. VD: 오른발을 쓰다 = use one's right foot/
+외로움==loneliness/cô đơn/loneliness. VD: 외로움을 느끼다 = feel lonely/
+왼발==left foot//left foot. VD: 왼발을 쓰다 = use one's left foot/
+요약==summary//summary. VD: 내용 요약 = content summary/Yếu Ước
+운명==fate//fate. VD: 운명을 받아들이다 = accept one's fate/Vận Minh
+운영==operate//operate. VD: 기업 운영 = corporate operation/Vận Vĩnh
+유지==maintenance//maintenance. VD: 질서 유지 = maintenance of order/Du Chỉ
+의도==intent//intent. VD: 의도를 가지다 = have intention/Nghị Đồ
+인원==number of people/mọi người/number of people. VD: 인원이 남다 = be left with several people/Nhân Viên
+일곱째==seventh//seventh. VD: 일곱째 날 = seventh day/
+일석이조==killing two birds with one stone//killing two birds with one stone. VD: 일석이조를 노리다 = aiming to kill two birds with one stone/Nhất Thạch Nhị Tổ
+일시불==lump sum payment, single payment//lump sum payment, single payment. VD: 일시불로 내다 = pay in lump sum/Nhất Thị Bất
+일일이==one by one//one by one. VD: 일일이 검사하다 = inspect one by one/Nhất Nhất Nhị
+재다==measure/đo/measure. VD: 무게를 재다 = weigh/
+절반==half//half. VD: 절반 이상 = more than half/Tiết Bán
+제-==the number-th//the number-th. VD: 제삼 = the third/
+조==trillion//trillion. VD: 오조 이천억 = 5 trillion 200 billion won/
+조작==manipulation, counterfeiting//manipulation, counterfeiting. VD: 음성 조작 = voice manipulation/Tổ Tác
+주목==attention//attention. VD: 주목을 끌다 = attract attention/Chủ Mộc
+줄거리==summary//summary. VD: 줄거리를 얘기하다 = tell a summary/
+진동==vibration//vibration. VD: 진동이 울리다 = vibrate/Trần Đồng
+집중==concentration//concentration. VD: 시선 집중 = drawing attention/Tập Trung
+찍히다==get stamped//get stamped. VD: 도장이 찍히다 = be stamped with a seal/
+창구==counter//counter. VD: 예매 창구 = reservation counter/Sáng Cửu
+처하다==encounter//encounter. VD: 위험에 처하다 = face danger/
+총==total//total. VD: 총 인원 = total number of people/
+최대한==most//most. VD: 최대한의 노력 = maximum effort/Tối Đại Hàn
+타다==be prone to//be prone to. VD: 때가 타다 = get stained easily/
+퍼센트==percent//percent. VD: 백 퍼센트 = one hundred percent/
+품==width//width. VD: 품이 넉넉하다 = wide enough/
+하나하나==one by one//one by one. VD: 하나하나 세다 = count each one/Hạ Na Hạ Na
+한결==much more//much more. VD: 한결 쉽다 = much easier/Hàn Quyết
+한둘==one or two//one or two. VD: 한둘이 아니다 = not just one or two/
+한마디==one word//one word. VD: 한마디를 남기다 = leave a message/
+한쪽==one side//one side. VD: 한쪽으로 기울어지다 = be lopsided/
+한편==one side//one side. VD: 한편을 이루다 = complete one side/Hàn Thiên
+함부로==thoughtlessly//thoughtlessly. VD: 함부로 말하다 = speak carelessly/Hàm Phụ Lộ
+합계==sum//sum. VD: 합계를 내다 = find the sum/Hợp Kế
+헤아리다==count//count. VD: 숫자를 헤아리다 = count the numbers/
+후반==second half//second half. VD: 전반 = first half/Hậu Bán

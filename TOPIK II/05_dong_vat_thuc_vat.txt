@@ -1,76 +1,76 @@
-가지==branch/cành/branch/
-가톨릭==Catholic//Catholic/
-개구리==frog//frog/Khai Cửu Lý
-개나리==forsythia (a flower)//forsythia (a flower)/Khai Na Lý
-개미==ant//ant/Khai Mỹ
-거미==spider//spider/Cư Mỹ
-거북이==turtle//turtle/Cư Bắc Nhị
-고래==whale//whale/
-고려==consideration//consideration/Cổ Lữ
-곰==bear//bear/
-교육비==education expenses/giáo dục/education expenses/Giáo Dục Phi
-교육자==educator//educator/Giáo Dục Tử
-국화==chrysanthemum//chrysanthemum/Quốc Hóa
-근본==basis, root//basis, root/Cận Bản
-긁다==scratch//scratch/
-꽃잎==flower petal/hoa/flower petal/
-나뭇가지==branch//branch/
-나뭇잎==leaf//leaf/
-나비==butterfly//butterfly/Na Phi
-날리다==fly/bay/fly/
-날아가다==fly away/bay/fly away/
-날아오다==fly in/bay/fly in/
-농민==farmer, peasant//farmer, peasant/Nông Dân
-대==(plant) stem, stick//(plant) stem, stick/
-대비==preparation//preparation/Đại Phi
-둥지==nest//nest/
-등록==registration//registration/Đẳng Lục
-등록증==registration certificate//registration certificate/Đẳng Lục Tăng
-뜰==garden//garden/
-마우스==mouse//mouse/
-반대말==antonym//antonym/Bán Đại Mạt
-배려==consideration//consideration/Bồi Lữ
-번지==street number//street number/Phiên Chỉ
-벌==bee//bee/
-벌레==bug//bug/
-분야==field//field/Phân Dã
-불리==disadvantage//disadvantage/Bất Lý
-불이익==disadvantage//disadvantage/Bất Nhị Ích
-불행==unhappiness//unhappiness/Bất Hành
-뿌리==root/rễ/root/
-사자==lion//lion/Sự Tử
-사회자==moderator//moderator/Sự Hội Tử
-상관없다==irrelevant//irrelevant/
-소나무==pine tree/cây/pine tree/Tiểu Na Vũ
-순식간==an instant//an instant/Thuần Thực Gian
-숲==forest/rừng/forest/
-식물==plant/thực vật/plant/Thực Vật
-신고==declaration//declaration/Tân Cổ
-씨==seed/hạt giống/seed/
-씨앗==seed//seed/
-애완동물==pet//pet/Ái Hoàn Đồng Vật
-양==sheep//sheep/
-어긋나다==be dislocated//be dislocated/
-오리==duck//duck/Ngũ Lý
-원숭이==monkey//monkey/
-유능==competence//competence/Du Năng
-유리==advantage//advantage/Du Lý
-임신==pregnant//pregnant/Nhậm Tân
-자격==qualification//qualification/Tử Cách
-장미꽃==rose//rose/
-장식==decoration//decoration/Trường Thực
-장점==advantages//advantages/Trường Điểm
-적당히==moderately//moderately/
-정직==honesty//honesty/Chính Trực
-줄기==stem//stem/
-쥐==mouse, rat//mouse, rat/
-짐승==animal/động vật/animal/
-천주교==catholic//catholic/Thiên Chủ Giáo
-쾌적하다==pleasant//pleasant/
-토==soil//soil/
-풀==grass/cỏ/grass/
-해당==relevant//relevant/Hải Đang
-행정==administration//administration/Hành Chính
-화분==flowerpot//flowerpot/Hóa Phân
-흙==soil//soil/
-흩어지다==scatter//scatter/
+가지==branch/cành/branch. VD: 가지를 꺾다 = break a branch/
+가톨릭==Catholic//Catholic. VD: 가톨릭을 믿다 = believe in Catholicism/
+개구리==frog/ếch/frog. VD: 개구리를 잡다 = catch a frog/Khai Cửu Lý
+개나리==forsythia (a flower)/hoa mai mùa xuân/forsythia (a flower). VD: 개나리가 피다 = forsythia blooms/Khai Na Lý
+개미==ant/kiến/ant. VD: 곤충 = an insect/Khai Mỹ
+거미==spider/nhện/spider. VD: 곤충 = insect/Cư Mỹ
+거북이==turtle/rùa/turtle. VD: 동물 = animal/Cư Bắc Nhị
+고래==whale//whale. VD: 고래가 헤엄치다 = a whale swims/
+고려==consideration//consideration. VD: 고려 사항 = considerations/Cổ Lữ
+곰==bear//bear. VD: 동물 = animal/
+교육비==education expenses/giáo dục/education expenses. VD: 교육비로 지출하다 = pay education expenses/Giáo Dục Phi
+교육자==educator//educator. VD: 교육자를 배출하다 = produce educator/Giáo Dục Tử
+국화==chrysanthemum//chrysanthemum. VD: 국화가 피다 = chrysanthemum blooms/Quốc Hóa
+근본==basis, root//basis, root. VD: 근본을 밝히다 = reveal the origin/Cận Bản
+긁다==scratch//scratch. VD: 머리를 긁다 = scratch one's head/
+꽃잎==flower petal//flower petal. VD: 꽃잎이 지다 = flower petals fall/
+나뭇가지==branch//branch. VD: 나뭇가지를 꺾다 = break a branch/
+나뭇잎==leaf//leaf. VD: 너뭇잎을 따다 = pick leaves/
+나비==butterfly//butterfly. VD: 곤충 = an insect/Na Phi
+날리다==fly/bay/fly. VD: 깃발을 날리다 = fly a flag/
+날아가다==fly away/bay/fly away. VD: 새가 날아가다 = a bird flies away/
+날아오다==fly in/bay/fly in. VD: 새가 날아오다 = a bird flies in/
+농민==farmer, peasant//farmer, peasant. VD: 농민이 경작하다 = farmer cultivates (trees)/Nông Dân
+대==(plant) stem, stick//(plant) stem, stick. VD: 대가 굵다 = (plant) stem is thick/
+대비==preparation//preparation. VD: 노후 대비 = preparing for old age/Đại Phi
+둥지==nest//nest. VD: 둥지를 틀다 = build a nest/
+등록==registration//registration. VD: 신입생 등록 = freshman registration/Đẳng Lục
+등록증==registration certificate//registration certificate. VD: 등록증을 발급받다 = get a registration certificate/Đẳng Lục Tăng
+뜰==garden//garden. VD: 뜰을 거닐다 = walk in the garden/
+마우스==mouse//mouse. VD: 마우스를 누르다 = click the mouse/
+반대말==antonym//antonym. VD: 반대말을 공부하다 = study the antonym/Bán Đại Mạt
+배려==consideration//consideration. VD: 세심한 배려 = careful consideration/Bồi Lữ
+번지==street number//street number. VD: 번지 주소 = street address/Phiên Chỉ
+벌==bee//bee. VD: 벌에 쏘이다 = be stung by a bee/
+벌레==bug//bug. VD: 벌래를 잡다 = catch a bug/
+분야==field//field. VD: 경제 분야 = economic field/Phân Dã
+불리==disadvantage//disadvantage. VD: 유리 = being beneficial/Bất Lý
+불이익==disadvantage//disadvantage. VD: 불이익을 당하다 = be at a disadvantage/Bất Nhị Ích
+불행==unhappiness//unhappiness. VD: 불행을 느끼다 = feel unhappy/Bất Hành
+뿌리==root//root. VD: 뿌리를 자르다 = cut the roots/
+사자==lion//lion. VD: 동물 = animal/Sự Tử
+사회자==moderator//moderator. VD: 사회자가 진행하다 = the moderator conducts/Sự Hội Tử
+상관없다==irrelevant//irrelevant. VD: 상관없는 문제 = irrelevant issue/
+소나무==pine tree//pine tree. VD: 소나무가 무성하다 = pine trees are lush/Tiểu Na Vũ
+순식간==an instant//an instant. VD: 순식간에 사라지다 = disappear in an instant/Thuần Thực Gian
+숲==forest//forest. VD: 숲이 우거지다 = forest is thick/
+식물==plant//plant. VD: 식물을 기르다 = grow plants/Thực Vật
+신고==declaration//declaration. VD: 분실물 신고 = lost and found/Tân Cổ
+씨==seed//seed. VD: 씨를 뿌리다 = sow/
+씨앗==seed//seed. VD: 씨앗을 뿌리다 = sow/
+애완동물==pet//pet. VD: 애완동물을 기르다 = raise a pet/Ái Hoàn Đồng Vật
+양==sheep//sheep. VD: 동물 = animal/
+어긋나다==be dislocated//be dislocated. VD: 뼈가 어긋나다 = bone is dislocated/ out of joint/
+오리==duck//duck. VD: 동물 = animal/Ngũ Lý
+원숭이==monkey//monkey. VD: 원숭이를 키우다 = raise a monkey/
+유능==competence//competence. VD: 무능 = incompetence/Du Năng
+유리==advantage//advantage. VD: 불리 = disadvantage/Du Lý
+임신==pregnant//pregnant. VD: 임신 초기 = early pregnancy/Nhậm Tân
+자격==qualification//qualification. VD: 보호자 자격 = guardianship/Tử Cách
+장미꽃==rose//rose. VD: 장미꽃을 받다 = receive a rose/
+장식==decoration//decoration. VD: 장식을 달다 = put decorations on/Trường Thực
+장점==advantages//advantages. VD: 장점이 많다 = many advantages/Trường Điểm
+적당히==moderately//moderately. VD: 적당히 마시다 = drink moderately/
+정직==honesty//honesty. VD: 정직을 추구하다 = pursue honesty/Chính Trực
+줄기==stem//stem. VD: 식물 줄기 = plant stem/
+쥐==mouse, rat//mouse, rat. VD: 동물 = animal/
+짐승==animal//animal. VD: 짐승을 잡다 = catch an animal/
+천주교==catholic//catholic. VD: 천주교를 믿다 = practice catholicism/Thiên Chủ Giáo
+쾌적하다==pleasant//pleasant. VD: 공기가 쾌적하다 = the air is pleasant/
+토==soil//soil. VD: 토요일 = Saturday/
+풀==grass//grass. VD: 풀이 자라다 = grass grows/
+해당==relevant//relevant. VD: 해당 부서 = relevant department/Hải Đang
+행정==administration//administration. VD: 행정 기관 = administrative body/Hành Chính
+화분==flowerpot//flowerpot. VD: 화분에 심다 = plant in a pot/Hóa Phân
+흙==soil//soil. VD: 흙을 털다 = shake off the dirt/
+흩어지다==scatter//scatter. VD: 사방으로 흩어지다 = scatter all over the place/

@@ -1,13 +1,13 @@
-각국==each country/nước/each country/Giác Quốc
-국가==country/quốc gia/country/Quốc Gia
-대한민국==Republic of Korea//Republic of Korea/Đại Hàn Dân Quốc
-동부==eastern//eastern/Đồng Phụ
-등==etc.//etc./
-부동산==real estate//real estate/Phụ Đồng Sơn
-서양인==Westerner//Westerner/Thư Dương Nhân
-아시아==Asia//Asia/Á Thị Á
-아프리카==Africa//Africa/
-유럽==Europe//Europe/
-전국적==nationwide//nationwide/Toàn Quốc Tích
-중부==central//central/Trung Phụ
-한국적==Korean//Korean/Hàn Quốc Tích
+각국==each country/các quốc gia/each country. VD: 아시아 각국 = each Asian country/Giác Quốc
+국가==country/quốc gia/country. VD: 민주 국가 = a democratic country/Quốc Gia
+대한민국==Republic of Korea//Republic of Korea. VD: 대한민국 국민 = Korean citizens/Đại Hàn Dân Quốc
+동부==eastern//eastern. VD: 동부 유럽 = eastern Europe/Đồng Phụ
+등==etc.//etc.. VD: 서울, 부산 등 = Seoul, Busan, etc./
+부동산==real estate//real estate. VD: 부동산에 투자하다 = invest in real estate/Phụ Đồng Sơn
+서양인==Westerner//Westerner. VD: 동양인 = an Asian/Thư Dương Nhân
+아시아==Asia//Asia. VD: 아시아 대륙 = the Asian continent/Á Thị Á
+아프리카==Africa//Africa. VD: 아프리카 대륙 = the African continent/
+유럽==Europe//Europe. VD: 유럽에 가다 = go to Europe/
+전국적==nationwide//nationwide. VD: 전국적 규모 = national scale/Toàn Quốc Tích
+중부==central//central. VD: 중부 지방 = central region/Trung Phụ
+한국적==Korean//Korean. VD: 한국적 교육 = Korean education/Hàn Quốc Tích

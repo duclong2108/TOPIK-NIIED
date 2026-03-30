@@ -1,117 +1,117 @@
--기==(machine)//(machine)/
--심==(one's heart)//(one's heart)/
--여==(over)//(over)/
-간==liver//liver/
-개다==clear up, shine//clear up, shine/Khai Đa
-거꾸로==backwards, reversely//backwards, reversely/
-건네다==hand over/tay/hand over/
-건네주다==hand over/tay/hand over/
-검색==search//search/Kiểm Sắc
-근육==muscle/cơ bắp/muscle/Cận Dục
-기여==contribution//contribution/Kỳ Dư
-기지개==stretching//stretching/Kỳ Chỉ Khai
-껍질==skin//skin/
-꿇다==kneel//kneel/
-넘겨주다==hand over/tay/hand over/
-년대==...th year/năm/...th year/Niên Đại
-농사==farming//farming/Nông Sự
-뇌==brain/não/brain/
-눈가==around the eyes//around the eyes/
-눈병==eye disease/mắt/eye disease/
-눈썹==eyebrow//eyebrow/
-단발머리==short hair/ngắn/short hair/
-대하다==face, confront/mặt/face, confront/
-돌려받다==get back//get back/
-돌아보다==look back/nhìn/look back/
-두뇌==brain//brain/Đầu Não
-뒤편==backside//backside/
-뒷모습==backside//backside/
-등장==appearance//appearance/Đẳng Trường
-떨리다==tremble, shake//tremble, shake/
-띠==year of/năm/year of/
-마음속==in the heart/trái tim/in the heart/Mã Âm Tốc
-마주==facing, face-to-face//facing, face-to-face/Mã Chủ
-맘==heart/trái tim/heart/
-맞서다==face, confront/mặt/face, confront/
-매력==charm//charm/Mại Lực
-머리칼==hair//hair/
-머릿속==brain//brain/
-면==side, face/mặt/side, face/
-몸매==body/cơ thể/body/
-몸살==sickness, body aching/cơ thể/sickness, body aching/
-못==nail//nail/
-묻다==to bury//to bury/
-물러나다==step back, move back/di chuyển/step back, move back/
-물러서다==step back, retreat//step back, retreat/
-미지근하다==lukewarm//lukewarm/Mỹ Chỉ Cận
-발길==footsteps//footsteps/
-발끝==tiptoe//tiptoe/
-발목==ankle//ankle/Phát Mộc
-발자국==footprint//footprint/Phát Tử Quốc
-발톱==toenail//toenail/
-본부==headquarter//headquarter/Bản Phụ
-볼==cheek//cheek/
-부딪치다==slap (hands)//slap (hands)/
-부족==tribe//tribe/Phụ Tộc
-분포==distribution//distribution/Phân Bao
-붓다==swollen//swollen/
-비비다==rub//rub/Phi Phi Đa
-뺨==cheek//cheek/
-뼈==bone/xương/bone/
-뿌리치다==shake off//shake off/
-생머리==straight hair//straight hair/
-설==lunar new year/mới/lunar new year/
-속눈썹==eyelashes//eyelashes/
-속마음==heartfelt, one's heart/trái tim/heartfelt, one's heart/Tốc Mã Âm
-손길==hand/tay/hand/
-손끝==fingertips//fingertips/
-손등==back of the hand/tay/back of the hand/Tổn Đẳng
-손목==wrist//wrist/Tổn Mộc
-손뼉==palm//palm/
-손잡이==handle//handle/
-손톱==fingernail//fingernail/
-순수하다==pure//pure/Thuần Thủ
-숨==breath/hơi thở/breath/
-숨소리==breath//breath/
-신==footwear, shoes//footwear, shoes/
-신경==nerve//nerve/Tân Kinh
-신체==body/cơ thể/body/Tân Thể
-실리다==be loaded//be loaded/Thất Lý Đa
-심장==heart/tim/heart/Tâm Trường
-악수==handshake//handshake/Ác Thủ
-앞길==road ahead/đường/road ahead/
-앞두다==be ahead//be ahead/
-앞서다==precede//precede/
-앞세우다==put ahead/đặt/put ahead/
-온몸==whole body/cơ thể/whole body/
-유람선==cruise ship//cruise ship/Du Lãm Tiên
-육체==body/cơ thể/body/Dục Thể
-이비인후과==nose, ear, and throat clinic; otorhinolaryngology/mũi/nose, ear, and throat clinic; otorhinolaryngology/Nhị Phi Nhân Hậu Quả
-인간관계==relationships//relationships/Nhân Gian Quan Kế
-인상==appearance//appearance/Nhân Thượng
-조끼==vest//vest/
-주름==wrinkle//wrinkle/
-주먹==fist//fist/
-중국어==Chinese language//Chinese language/Trung Quốc Ngữ
-중식==Chinese food/thức ăn/Chinese food/Trung Thực
-쥐다==clench//clench/
-찢다==tear//tear/
-차마==bearable//bearable/Xa Mã
-처방전==prescription slip//prescription slip/Xử Phương Toàn
-체면==decency, face/mặt/decency, face/Thể Miên
-체온==body temperature/cơ thể/body temperature/Thể Ôn
-체중==weight/cân nặng/weight/Thể Trung
-출연==appearance//appearance/Xuất Diên
-친-==related by blood//related by blood/
-코피==nosebleed//nosebleed/
-턱==chin//chin/
-털==hair//hair/
-팔꿈치==elbow//elbow/
-표면==surface//surface/Biểu Miên
-피부==skin/da/skin/Bì Phụ
-피부병==skin disease//skin disease/Bì Phụ Bệnh
-피해==harm//harm/Bì Hải
-해==harm/năm/harm/
-핸드백==handbag//handbag/
-호흡==breath//breath/
-흔들리다==shake//shake/
+-기==(machine)//(machine). VD: 세탁기 = washing machine/
+-심==(one's heart)//(one's heart). VD: 배려심 = thoughtfulness/
+-여==(over)//(over). VD: 십여 년 = over 10 years/
+간==liver/mặn/liver. VD: 신체 = liver in body/
+개다==clear up, shine/tạnh, gấp/clear up, shine. VD: 날이 개다 = sky is clearing/Khai Đa
+거꾸로==backwards, reversely/ngược lại/backwards, reversely. VD: 거꾸로 뒤집히다 = turn upside down/
+건네다==hand over/đưa cho/hand over. VD: 돈을 건네다 = hand over money/
+건네주다==hand over/trao cho/hand over. VD: 돈을 건네주다 = help to hand over money/
+검색==search/tìm kiếm/search. VD: 인터넷 검색 = internet search/Kiểm Sắc
+근육==muscle//muscle. VD: 근육이 발달하다 = develop muscle/Cận Dục
+기여==contribution//contribution. VD: 기여를 하다 = contribute/Kỳ Dư
+기지개==stretching//stretching. VD: 기지개를 켜다 = stretch/Kỳ Chỉ Khai
+껍질==skin//skin. VD: 과일 껍질 = fruit peel/
+꿇다==kneel//kneel. VD: 무릎을 꿇다 = kneel down/
+넘겨주다==hand over//hand over. VD: 물건을 넘겨주다 = hand over things/
+년대==...th year//...th year. VD: 이천 년대 = 2000s/Niên Đại
+농사==farming//farming. VD: 농사를 짓다 = do farming/Nông Sự
+뇌==brain//brain. VD: 뇌 세포 = brain cell/
+눈가==around the eyes//around the eyes. VD: 눈가에 바르다 = apply around the eyes/
+눈병==eye disease//eye disease. VD: 눈병에 걸리다 = have an eye disease/
+눈썹==eyebrow//eyebrow. VD: 눈썹을 그리다 = draw eyebrows/
+단발머리==short hair/ngắn/short hair. VD: 단발머리로 자르다 = cut one's hair short/
+대하다==face, confront//face, confront. VD: 얼굴을 대하다 = face each other/
+돌려받다==get back//get back. VD: 책을 돌려받다 = get the book back/
+돌아보다==look back/nhìn/look back. VD: 뒤를 돌아보다 = look back (behind)/
+두뇌==brain//brain. VD: 두뇌 발달 = brain development/Đầu Não
+뒤편==backside//backside. VD: 뒤편에 놓다 = put behind/
+뒷모습==backside//backside. VD: 뒷모습을 보이다 = see one's backside/
+등장==appearance//appearance. VD: 퇴장 = leaving/Đẳng Trường
+떨리다==tremble, shake//tremble, shake. VD: 온몸이 떨리다 = whole body trembles/
+띠==year of//year of. VD: 돼지띠 = year of the pig/
+마음속==in the heart//in the heart. VD: 마음속으로 다짐하다 = promise in one's heart/Mã Âm Tốc
+마주==facing, face-to-face//facing, face-to-face. VD: 마주 서다 = stand face-to-face/Mã Chủ
+맘==heart//heart. VD: 맘이 좋다 = have a good heart/
+맞서다==face, confront//face, confront. VD: 적과 맞서다 = face an enemy/
+매력==charm//charm. VD: 매력을 느끼다 = be attracted to/Mại Lực
+머리칼==hair//hair. VD: 머리칼을 자르다 = cut one's hair/
+머릿속==brain//brain. VD: 머릿속에 남아 있다 = remain in one's head/
+면==side, face//side, face. VD: 벽의 면 = side of the wall/
+몸매==body//body. VD: 몸매가 좋다 = body is good/
+몸살==sickness, body aching//sickness, body aching. VD: 몸살이 나다 = get sick, get ill/
+못==nail//nail. VD: 못을 박다 = drive a nail, nail down/
+묻다==to bury//to bury. VD: 시체를 묻다 = bury a body/
+물러나다==step back, move back/di chuyển/step back, move back. VD: 뒤로 물러나다 = step back (behind)/
+물러서다==step back, retreat//step back, retreat. VD: 뒤로 물러서다 = step back (behind)/
+미지근하다==lukewarm//lukewarm. VD: 국물이 미지근하다 = The soup is lukewarm/Mỹ Chỉ Cận (하다)
+발길==footsteps//footsteps. VD: 발길을 돌리다 = turn footsteps/
+발끝==tiptoe//tiptoe. VD: 발끝으로 서다 = stand on tiptoe/
+발목==ankle//ankle. VD: 발목을 다치다 = hurt one's ankle/Phát Mộc
+발자국==footprint//footprint. VD: 발자국을 남기다 = leave footprints/Phát Tử Quốc
+발톱==toenail//toenail. VD: 발톱을 깎다 = cut toenails/
+본부==headquarter//headquarter. VD: 본부에서 일하다 = work at headquarter/Bản Phụ
+볼==cheek//cheek. VD: 볼이 통통하다 = have chubby cheeks/
+부딪치다==slap (hands)//slap (hands). VD: 손바닥을 부딪치다 = give a five / hand clap/
+부족==tribe//tribe. VD: 부족을 지배하다 = rule a tribe/Phụ Tộc
+분포==distribution//distribution. VD: 인구의 분포 = distribution of population/Phân Bao
+붓다==swollen//swollen. VD: 얼굴이 붓다 = face is swollen/
+비비다==rub//rub. VD: 눈을 비비다 = rub one's eyes/Phi Phi Đa
+뺨==cheek//cheek. VD: 뺨을 때리다 = slap on the cheek/
+뼈==bone//bone. VD: 뼈가 굵다 = have thick bones/
+뿌리치다==shake off//shake off. VD: 손을 뿌리치다 = shake off one's hand/
+생머리==straight hair//straight hair. VD: 생머리를 빗다 = comb straight hair/
+설==lunar new year/mới/lunar new year. VD: 설을 맞이하다 = greet the lunar new year/
+속눈썹==eyelashes//eyelashes. VD: 속눈썹이 길다 = eyelashes are long/
+속마음==heartfelt, one's heart//heartfelt, one's heart. VD: 속마음을 털어 놓다 = open one's heart/Tốc Mã Âm
+손길==hand//hand. VD: 손길을 내밀다 = lend one's helping hand/
+손끝==fingertips//fingertips. VD: 손끝에 닿다 = reach at one's fingertips/
+손등==back of the hand//back of the hand. VD: 손등으로 닦다 = wipe with the back of one's hand/Tổn Đẳng
+손목==wrist//wrist. VD: 손목에 시계를 차다 = wear a watch on one's wrist/Tổn Mộc
+손뼉==palm//palm. VD: 손뼉을 치다 = clap one's hands/
+손잡이==handle//handle. VD: 손잡이를 잡다 = hold the handle/
+손톱==fingernail//fingernail. VD: 손톱을 깎다 = cut one's nails/
+순수하다==pure//pure. VD: 마음이 순수하다 = pure heart/Thuần Thủ (하다)
+숨==breath//breath. VD: 숨을 쉬다 = breathe/
+숨소리==breath//breath. VD: 숨소리가 고르다 = breath is regular/
+신==footwear, shoes//footwear, shoes. VD: 신을 신다 = wear shoes/
+신경==nerve//nerve. VD: 신경을 다치다 = hurt one's feelings/Tân Kinh
+신체==body//body. VD: 신체가 튼튼하다 = be able-bodied/Tân Thể
+실리다==be loaded//be loaded. VD: 배에 실리다 = be loaded on a ship/Thất Lý Đa
+심장==heart//heart. VD: 심장이 뛰다 = heart beats/Tâm Trường
+악수==handshake//handshake. VD: 악수를 하다 = shake hands/Ác Thủ
+앞길==road ahead/đường/road ahead. VD: 앞길을 건너다 = cross the road ahead/
+앞두다==be ahead//be ahead. VD: 시험을 앞두다 = have a test ahead/
+앞서다==precede//precede. VD: 앞서서 걷다 = walk ahead/
+앞세우다==put ahead/đặt/put ahead. VD: 반장을 앞세우다 = put the head of the class ahead/
+온몸==whole body//whole body. VD: 온몸이 아프다 = whole body hurts/
+유람선==cruise ship//cruise ship. VD: 유람선을 타다 = take a cruise/Du Lãm Tiên
+육체==body//body. VD: 건강한 육체 = healthy body/Dục Thể
+이비인후과==nose, ear, and throat clinic; otorhinolaryngology//nose, ear, and throat clinic; otorhinolaryngology. VD: 이비인후과에서 치료하다 = treat at otolaryngology/Nhị Phi Nhân Hậu Quả
+인간관계==relationships//relationships. VD: 인간관계가 좋다 = have good interpersonal relationships/Nhân Gian Quan Kế
+인상==appearance//appearance. VD: 인상이 좋다 = nice appearance/Nhân Thượng
+조끼==vest//vest. VD: 조끼를 입다 = wear a vest/
+주름==wrinkle//wrinkle. VD: 주름이 생기다 = wrinkles appear/
+주먹==fist//fist. VD: 주먹을 쥐다 = clench a fist/
+중국어==Chinese language//Chinese language. VD: 중국어로 말하다 = speak Chinese/Trung Quốc Ngữ
+중식==Chinese food/thức ăn/Chinese food. VD: 중국 음식 = Chinese food/Trung Thực
+쥐다==clench//clench. VD: 주먹을 쥐다 = clench one's fist/
+찢다==tear//tear. VD: 종이를 찢다 = tear a piece of paper/
+차마==bearable//bearable. VD: 차마 할 수 없다 = I can't bear it/Xa Mã
+처방전==prescription slip//prescription slip. VD: 처방전을 떼다 = issue a prescription/Xử Phương Toàn
+체면==decency, face//decency, face. VD: 체면이 깎이다 = lose one's face/Thể Miên
+체온==body temperature//body temperature. VD: 체온이 떨어지다 = body temperature drops/Thể Ôn
+체중==weight//weight. VD: 체중을 조절하다 = control one's weight/Thể Trung
+출연==appearance//appearance. VD: 드라마 출연 = appearance in drama/Xuất Diên
+친-==related by blood//related by blood. VD: 친부모 = biological parents/
+코피==nosebleed//nosebleed. VD: 코피를 흘리다 = have a nosebleed/
+턱==chin//chin. VD: 턱에 수염이 나다 = have a beard on one's chin/
+털==hair//hair. VD: 털이 빠지다 = hair falls out/
+팔꿈치==elbow//elbow. VD: 팔꿈치를 펴다 = straighten one's elbow/
+표면==surface//surface. VD: 표면이 거칠다 = surface is rough/Biểu Miên
+피부==skin//skin. VD: 피부가 부드럽다 = skin is smooth/Bì Phụ
+피부병==skin disease//skin disease. VD: 피부병을 앓다 = suffer from a skin disease/Bì Phụ Bệnh
+피해==harm//harm. VD: 피해를 입다 = take damage/Bì Hải
+해==harm//harm. VD: 해를 끼치다 = cause harm/
+핸드백==handbag//handbag. VD: 핸드백을 메다 = carry a handbag/
+호흡==breath//breath. VD: 호흡이 멎다 = stop breathing/
+흔들리다==shake//shake. VD: 배가 흔들리다 = ship is rocking/

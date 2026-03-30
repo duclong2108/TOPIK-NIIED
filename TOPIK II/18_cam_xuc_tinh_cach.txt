@@ -1,82 +1,82 @@
-간절하다==earnest, sincere//earnest, sincere/Gian Tiết
-감동==impression/cảm động/impression/Cảm Đồng
-감동적==touching//touching/Cảm Đồng Tích
-감정==emotion//emotion/Cảm Chính
-건드리다==touch/chạm/touch/
-겁==fear//fear/
-겁나다==be scared//be scared/
-겸손==modesty//modesty/
-고집==stubborn//stubborn/Cổ Tập
-공감==sympathy//sympathy/Công Cảm
-공포==fear//fear/Công Bao
-내성적==introvert//introvert/Nội Thành Tích
-너그럽다==be generous//be generous/
-달래다==soothe, calm//soothe, calm/
-당당하다==confident//confident/Đang Đang
-두려움==fear/nỗi sợ/fear/
-마음씨==temper//temper/
-무서워하다==afraid/sợ/afraid/
-무책임==irresponsible//irresponsible/Vũ Sách Nhậm
-미움==hate, hatred/sự ghét/hate, hatred/
-믿음==trust/tin tưởng/trust/
-밉다==hate/ghét/hate/
-바람==wish/gió/wish/
-부끄러움==shyness//shyness/
-부끄러워하다==be shy//be shy/
-부지런히==diligently//diligently/
-불친절==unkind//unkind/
-빌다==wish, pray/ước/wish, pray/
-사랑스럽다==lovely, adorable//lovely, adorable/
-서럽다==sad/buồn/sad/
-성질==property, personality//property, personality/Thành Chất
-소감==impression//impression/Tiểu Cảm
-소극적==passive//passive/Tiểu Cực Tích
-소망==hope/hy vọng/hope/Tiểu Vọng
-소원==wish/ước/wish/Tiểu Viên
-솔직하다==honest//honest/
-수단==means, way/cách/means, way/Thủ Đoàn
-수동적==passive//passive/Thủ Đồng Tích
-순하다==gentle/nhẹ nhàng/gentle/
-신==joy//joy/
-신뢰==trust/tin tưởng/trust/
-신앙==faith//faith/Tân Ương
-쑥스럽다==shy//shy/
-쓸쓸하다==lonely//lonely/
-씩씩하다==brave//brave/
-아쉬움==regret//regret/
-아쉽다==sad/buồn/sad/
-어리석다==stupid//stupid/Ngữ Lý Thạch Đa
-엄격==strict//strict/Nghiêm Cách
-연인==lover//lover/Diên Nhân
-연하다==soft, tender/mềm/soft, tender/
-영리하다==clever//clever/Vĩnh Lý
-욕망==desire//desire/Dục Vọng
-욕심==greed//greed/Dục Tâm
-용감하다==brave//brave/Dụng Cảm
-원만하다==good-tempered//good-tempered/Viên Vạn
-의문==doubt//doubt/Nghị Văn
-이기적==selfish//selfish/Nhị Kỳ Tích
-인물==character//character/Nhân Vật
-인상==impression//impression/Nhân Thượng
-인정==compassion//compassion/Nhân Chính
-일종==kind//kind/Nhất Chung
-자==character//character/
-자랑스럽다==proud//proud/
-적극==active//active/Tích Cực
-적극적==active//active/Tích Cực Tích
-점잖다==be gentle/nhẹ nhàng/be gentle/
-즐거움==joy//joy/
-지혜롭다==wise//wise/
-진지하다==serious/nghiêm trọng/serious/Trần Chỉ
-질투==jealousy//jealousy/Chất Đầu
-초조==nervousness//nervousness/Sơ Tổ
-특징==character/đặc điểm/character/Đặc Trưng
-평화롭다==peaceful//peaceful/
-하하==haha//haha/Hạ Hạ
-한==resentment//resentment/
-허가==permission//permission/Hứa Gia
-허락==permission//permission/Hứa Lạc
-허허==haha//haha/Hứa Hứa
-활동적==active//active/Hoạt Đồng Tích
-후회==regret//regret/Hậu Hội
-후회스럽다==regretful//regretful/
+간절하다==earnest, sincere/tha thiết/earnest, sincere. VD: 간절한 기도 = an earnest prayer/
+감동==impression/cảm động/impression. VD: 감동을 받다 = be impressed with/Cảm Đồng
+감동적==touching/cảm động/touching. VD: 감동적 이야기 = a touching story/Cảm Đồng Tích
+감정==emotion/cảm xúc/emotion. VD: 감정이 풍부하다 = be emotional/Cảm Chính
+건드리다==touch/chạm vào/touch. VD: 물건을 건드리다 = touch a thing/
+겁==fear/sợ hãi/fear. VD: 겁을 먹다 = be afraid/
+겁나다==be scared/sợ/be scared. VD: 말하기가 겁나다 = be afraid to speak/
+겸손==modesty/khiêm tốn/modesty. VD: 겸손의 말 = words of humility/
+고집==stubborn//stubborn. VD: 고집을 부리다 = be stubborn/Cổ Tập
+공감==sympathy//sympathy. VD: 공감을 얻다 = gain sympathy/Công Cảm
+공포==fear//fear. VD: 공포를 느끼다 = feel fearful/Công Bao
+내성적==introvert//introvert. VD: 내성적 성격 = introverted personality/Nội Thành Tích
+너그럽다==be generous//be generous. VD: 마음이 너그럽다 = be generous/
+달래다==soothe, calm//soothe, calm. VD: 아이를 달래다 = calm a child/
+당당하다==confident//confident. VD: 태도가 당당하다 = attitude is confident/Đang Đang (하다)
+두려움==fear/nỗi sợ/fear. VD: 두려움을 극복하다 = overcome fear/
+마음씨==temper//temper. VD: 마음씨가 곱다 = be kind-hearted/
+무서워하다==afraid/sợ/afraid. VD: 사람을 무서워하다 = be afraid of people/
+무책임==irresponsible//irresponsible. VD: 무책임을 비난하다 = criticize irresponsibility/Vũ Sách Nhậm
+미움==hate, hatred/ghét/hate, hatred. VD: 미움이 쌓이다 = hatred builds up/
+믿음==trust//trust. VD: 믿음이 생기다 = have faith/
+밉다==hate/ghét/hate. VD: 태도가 밉다 = have a bad manner/
+바람==wish//wish. VD: 간절한 바람 = earnest wish/
+부끄러움==shyness//shyness. VD: 부끄러움을 타다 = be shy/
+부끄러워하다==be shy//be shy. VD: 아이가 부끄러워하다 = the child is shy/
+부지런히==diligently//diligently. VD: 부지런히 일하다 = work diligently/
+불친절==unkind//unkind. VD: 친절 = kindness/
+빌다==wish, pray//wish, pray. VD: 소원을 빌다 = make a wish/
+사랑스럽다==lovely, adorable//lovely, adorable. VD: 아이가 사랑스럽다 = the child is adorable/
+서럽다==sad/buồn/sad. VD: 마음이 서럽다 = feel sad/
+성질==property, personality//property, personality. VD: 성질이 못되다 = have a bad temper/Thành Chất
+소감==impression//impression. VD: 소감을 말하다 = speak one's impression Study next #20: The 1901st – 2000th vocabulary words for TOPIK 2 by NIIED Study previous #18: The 1701st – 1800th vocabulary words for TOPIK 2 by NIIED/Tiểu Cảm
+소극적==passive//passive. VD: 소극적 성격 = passive personality/Tiểu Cực Tích
+소망==hope/hy vọng/hope. VD: 소망을 이루다 = make a wish come true/Tiểu Vọng
+소원==wish//wish. VD: 소원을 빌다 = make a wish/Tiểu Viên
+솔직하다==honest//honest. VD: 성격이 솔직하다 = have an honest personality/
+수단==means, way//means, way. VD: 수단이 좋다 = have a good means/Thủ Đoàn
+수동적==passive//passive. VD: 수동적 자세 = a passive attitude/Thủ Đồng Tích
+순하다==gentle/nhẹ nhàng/gentle. VD: 사람이 순하다 = people are gentle/
+신==joy//joy. VD: 신이 나다 = be excited/
+신뢰==trust//trust. VD: 신뢰를 잃다 = lose trust/
+신앙==faith//faith. VD: 신앙이 깊다 = have deep faith/Tân Ương
+쑥스럽다==shy//shy. VD: 표정이 쑥스럽다 = look embarrassed/
+쓸쓸하다==lonely//lonely. VD: 마음이 쓸쓸하다 = feel lonely/
+씩씩하다==brave//brave. VD: 씩씩한 사람 = a brave person/
+아쉬움==regret//regret. VD: 아쉬움이 남다 = feel regretful/
+아쉽다==sad/buồn/sad. VD: 작별이 아쉽다 = bitter farewell/
+어리석다==stupid//stupid. VD: 생각이 어리석다 = the thought is stupid/Ngữ Lý Thạch Đa
+엄격==strict//strict. VD: 엄격 적용 = strictly enforced/Nghiêm Cách
+연인==lover//lover. VD: 연인 사이 = between lovers/Diên Nhân
+연하다==soft, tender/mềm/soft, tender. VD: 고기가 연하다 = meat is tender/
+영리하다==clever//clever. VD: 머리가 영리하다 = have a clever mind/Vĩnh Lý (하다)
+욕망==desire//desire. VD: 욕망이 크다 = desire is big/Dục Vọng
+욕심==greed//greed. VD: 욕심을 내다 = be greedy/Dục Tâm
+용감하다==brave//brave. VD: 군인이 용감하다 = soldier is brave/Dụng Cảm (하다)
+원만하다==good-tempered//good-tempered. VD: 성품이 원만하다 = have a good personality/Viên Vạn (하다)
+의문==doubt//doubt. VD: 의문이 생기다 = doubt arises/Nghị Văn
+이기적==selfish//selfish. VD: 이기적 성격 = selfish personality/Nhị Kỳ Tích
+인물==character//character. VD: 인물이 좋다 = character is good/Nhân Vật
+인상==impression//impression. VD: 인상에 남다 = leave an impression/Nhân Thượng
+인정==compassion//compassion. VD: 인정이 넘치다 = overflowing with compassion/Nhân Chính
+일종==kind//kind. VD: 일종의 자유 = a kind of freedom/Nhất Chung
+자==character//character. VD: 하늘 천 자 = Chinese character 천 for 'sky'/
+자랑스럽다==proud//proud. VD: 아들이 자랑스럽다 = proud of one's son/
+적극==active//active. VD: 적극 검토하다 = give positive consideration/Tích Cực
+적극적==active//active. VD: 적극적 태도 = active attitude/Tích Cực Tích
+점잖다==be gentle/nhẹ nhàng/be gentle. VD: 말투가 점잖다 = speak gently/
+즐거움==joy//joy. VD: 즐거움을 느끼다 = feel joy/
+지혜롭다==wise//wise. VD: 생각이 지혜롭다 = thoughts are wise/
+진지하다==serious/nghiêm trọng/serious. VD: 태도가 진지하다 = have a serious attitude/Trần Chỉ (하다)
+질투==jealousy//jealousy. VD: 질투가 나다 = be jealous/Chất Đầu
+초조==nervousness//nervousness. VD: 불안과 초조 = anxiety and nervousness/Sơ Tổ
+특징==character/đặc điểm/character. VD: 특징이 드러나다 = character is revealed/Đặc Trưng
+평화롭다==peaceful//peaceful. VD: 마을이 평화롭다 = the village is peaceful/
+하하==haha//haha. VD: 하하 웃다 = laugh like 'haha'/Hạ Hạ
+한==resentment//resentment. VD: 한을 품다 = bear resentment/
+허가==permission//permission. VD: 허가를 받다 = get permission/Hứa Gia
+허락==permission//permission. VD: 허락을 받다 = get permission/Hứa Lạc
+허허==haha//haha. VD: 허허 웃다 = laugh like 'haha'/Hứa Hứa
+활동적==active//active. VD: 활동적 스포츠 = active sports/Hoạt Đồng Tích
+후회==regret//regret. VD: 후회가 되다 = feel regret/Hậu Hội
+후회스럽다==regretful//regretful. VD: 지난날이 후회스럽다 = regret the past/

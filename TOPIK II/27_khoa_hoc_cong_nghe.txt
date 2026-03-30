@@ -1,20 +1,20 @@
-과학적==scientific//scientific/Quả Học Tích
-기계==machine//machine/Kỳ Kế
-기구==equipment, tool//equipment, tool/Kỳ Cửu
-기술==technology/kỹ thuật/technology/Kỳ Thuật
-다운로드==download//download/
-디지털==digital//digital/
-로봇==robot//robot/
-발명==invention/phát minh/invention/Phát Minh
-사용자==user//user/Sự Dụng Tử
-승낙==consent, approval//consent, approval/
-에너지==energy//energy/
-원서==application//application/Viên Thư
-응시==application//application/Ứng Thị
-이용자==user//user/Nhị Dụng Tử
-인공==artificial//artificial/Nhân Công
-적용==application//application/Tích Dụng
-전자==electronic/điện tử/electronic/Toàn Tử
-지원==application//application/Chỉ Viên
-파일==file//file/Phá Nhất
-호르몬==hormone//hormone/
+과학적==scientific//scientific. VD: 과학적 방법 = scientific method/Quả Học Tích
+기계==machine//machine. VD: 기계가 작동하다 = machine is working/Kỳ Kế
+기구==equipment, tool//equipment, tool. VD: 운동 기구 = fitness equipment/Kỳ Cửu
+기술==technology/công nghệ/technology. VD: 기술을 배우다 = learn technology/Kỳ Thuật
+다운로드==download//download. VD: 다운로드를 받다 = get download/
+디지털==digital//digital. VD: 디지털 방송 = digital broadcasting/
+로봇==robot//robot. VD: 로봇 장난감 = a robot toy/
+발명==invention//invention. VD: 문자의 발명 = invention of letters/Phát Minh
+사용자==user//user. VD: 사용자를 모집하다 = recruit users/Sự Dụng Tử
+승낙==consent, approval//consent, approval. VD: 승낙을 받다 = receive approval/
+에너지==energy//energy. VD: 에너지가 넘치다 = full of energy/
+원서==application//application. VD: 원서를 내다 = submit an application/Viên Thư
+응시==application//application. VD: 응시 원서 = application form/Ứng Thị
+이용자==user//user. VD: 인터넷 이용자 = internet user/Nhị Dụng Tử
+인공==artificial//artificial. VD: 인공 호수 = artificial lake/Nhân Công
+적용==application//application. VD: 적용 받다 = be subject to/Tích Dụng
+전자==electronic//electronic. VD: 전자 제품 = electronics/Toàn Tử
+지원==application//application. VD: 지원 동기 = motive for application/Chỉ Viên
+파일==file//file. VD: 파일을 정리하다 = organize files/Phá Nhất
+호르몬==hormone//hormone. VD: 호르몬이 분비되다 = hormones are secreted/

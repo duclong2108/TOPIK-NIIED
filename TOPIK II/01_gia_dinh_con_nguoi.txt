@@ -1,91 +1,91 @@
--객==a certain person/người/a certain person/
--이==(adverb)//(adverb)/
--자==(person)//(person)/
-가정==family/gia đình/family/Gia Chính
-가정주부==housewife/nội trợ/housewife/Gia Chính Chủ Phụ
-개별==individual, each//individual, each/Khai Biệt
-개성==personality//personality/Khai Thành
-개인==individual, personal/cá nhân/individual, personal/Khai Nhân
-개인적==personal//personal/Khai Nhân Tích
-경영==management//management/Kinh Vĩnh
-공공==public//public/Công Công
-공동==public//public/Công Đồng
-공적==public, service//public, service/Công Tích
-관리==management//management/Quan Lý
-국민==nation, people/quốc dân/nation, people/Quốc Dân
-껴안다==hug, cuddle//hug, cuddle/
-남==man, male/nam/man, male/
-남매==siblings/anh chị em/siblings/Nam Mại
-노약자==the elderly//the elderly/Nô Ước Tử
-누님==sister/chị/em gái/sister/
-눈사람==snow man/tuyết/snow man/
-대중==public/đại chúng/public/Đại Trung
-독일어==German//German/Độc Nhất Ngữ
-동료==colleague/đồng nghiệp/colleague/Đồng Liệu
-동요==children's song//children's song/Đồng Yếu
-두어==a couple of//a couple of/Đầu Ngữ
-따님==daughter/con gái/daughter/
-맨==man/đàn ông/man/
-며느리==daughter-in-law/con dâu/daughter-in-law/
-문병==visiting a sick person/người/visiting a sick person/Văn Bệnh
-민족==people, ethnicity/dân tộc/people, ethnicity/Dân Tộc
-배우자==spouse/bạn đời/spouse/Bồi Vũ Tử
-부모==parents/bố mẹ/parents/Phụ Mô
-부인==middle aged woman/phụ nữ/middle aged woman/Phụ Nhân
-붐비다==be crowded//be crowded/
-비교적==comparative, relative//comparative, relative/Phi Giáo Tích
-사나이==man/đàn ông/man/Sự Na Nhị
-사내==man/đàn ông/man/Sự Nội
-새끼==baby, cub/em bé/baby, cub/
-설명서==manual//manual/Thiết Minh Thư
-성인==adult/người lớn/adult/Thành Nhân
-세대==generation/thế hệ/generation/Thế Đại
-솜씨==workmanship//workmanship/
-수년==many years//many years/Thủ Niên
-시집가다==(female) get married//(female) get married/Thị Tập Gia Đa
-신사==gentleman//gentleman/Tân Sự
-신세대==new generation/mới/new generation/Tân Thế Đại
-신혼부부==newly married couple//newly married couple/Tân Hôn Phụ Phụ
-아가==baby/em bé/baby/Á Gia
-아동==child/trẻ em/child/Á Đồng
-아드님==son/con trai/son/
-안기다==be snuggled//be snuggled/An Kỳ Đa
-애기==baby/em bé/baby/Ái Kỳ
-어르신==elders//elders/
-어린애==child/con/child/
-여==female/nữ/female/
-여인==woman/phụ nữ/woman/Dư Nhân
-연애==romance//romance/Diên Ái
-예==manners//manners/
-외삼촌==maternal uncle//maternal uncle/
-외숙모==maternal aunt (by marriage)//maternal aunt (by marriage)/Ngoại Túc Mô
-웃어른==senior citizen//senior citizen/
-유치하다==childish//childish/Du Trí
-인간==human/con người/human/Nhân Gian
-인간성==humanity//humanity/Nhân Gian Thành
-인간적==human/con người/human/Nhân Gian Tích
-인격==personality//personality/Nhân Cách
-인구==population/dân số/population/Nhân Cửu
-인류==humanity/nhân loại/humanity/Nhân Lưu
-인심==human mind/con người/human mind/Nhân Tâm
-인재==talented person/người/talented person/Nhân Tài
-인체==human body/con người/human body/Nhân Thể
-일본인==Japanese person/người/Japanese person/Nhất Bản Nhân
-자녀==children/con cái/children/Tử Nữ
-자매==sisters/chị em gái/sisters/Tử Mại
-자취==live apart from one's family/sống/live apart from one's family/Tử Thủ
-작은어머니==aunt (uncle's wife)//aunt (uncle's wife)/
-젊은이==young person/trẻ/young person/
-젊음==youth//youth/
-정원==number of people/vườn/number of people/Chính Viên
-조상==ancestor/tổ tiên/ancestor/Tổ Thượng
-중국인==Chinese person/người/Chinese person/Trung Quốc Nhân
-책임자==person in charge/người/person in charge/Sách Nhậm Tử
-처녀==maiden//maiden/Xử Nữ
-출산==childbirth//childbirth/Xuất Sơn
-친정==parents' home//parents' home/
-큰딸==eldest daughter/con gái/eldest daughter/
-큰아버지==elder paternal uncle//elder paternal uncle/
-큰어머니==aunt (elder paternal uncle's wife)//aunt (elder paternal uncle's wife)/
-학부모==students' parents//students' parents/Học Phụ Mô
-한창==peak//peak/Hàn Sáng
+-객==a certain person/người/a certain person. VD: 등산객 = mountain climber/
+-이==(adverb)//(adverb). VD: 많이 = many/
+-자==(person)//(person). VD: 과학자 = scientist/
+가정==family/gia đình/family. VD: 가정을 이루다 = start/make a family/Gia Chính
+가정주부==housewife/nội trợ/housewife. VD: 가정주부로 살다 = live as a housewife/Gia Chính Chủ Phụ
+개별==individual, each/riêng lẻ/individual, each. VD: 개별 행동 = individual activity/Khai Biệt
+개성==personality/cá tính/personality. VD: 개성이 강하다 = personality is strong/Khai Thành
+개인==individual, personal/cá nhân/individual, personal. VD: 개인의 자유 = personal freedom/Khai Nhân
+개인적==personal/cá nhân/personal. VD: 개인적 감정 = personal feelings/Khai Nhân Tích
+경영==management/kinh doanh/management. VD: 회사 경영 = company management/Kinh Vĩnh
+공공==public//public. VD: 공공 기관 = public institutions/Công Công
+공동==public//public. VD: 공동 개최 = joint hosting/Công Đồng
+공적==public, service//public, service. VD: 공적 제도 = public system/Công Tích
+관리==management//management. VD: 학생 관리 = student management/Quan Lý
+국민==nation, people/quốc dân/nation, people. VD: 국민 소득 = national income/Quốc Dân
+껴안다==hug, cuddle//hug, cuddle. VD: 아이를 껴안다 = hug a child/
+남==man, male//man, male. VD: 남자 = man, male/
+남매==siblings/anh chị em/siblings. VD: 남매를 두다 = have siblings/Nam Mại
+노약자==the elderly//the elderly. VD: 노약자를 보호하다 = protect the elderly/Nô Ước Tử
+누님==sister//sister. VD: 둘째 누님 = second sister/
+눈사람==snow man//snow man. VD: 눈사람을 만들다 = make a snowman/
+대중==public/đại chúng/public. VD: 대중과 소통하다 = communicate with the public/Đại Trung
+독일어==German//German. VD: 독일어를 가르치다 = teach German/Độc Nhất Ngữ
+동료==colleague/đồng nghiệp/colleague. VD: 직장 동료 = work colleague/Đồng Liệu
+동요==children's song//children's song. VD: 동요를 부르다 = sing a children's song/Đồng Yếu
+두어==a couple of//a couple of. VD: 두어 마리 = a couple of (a cattle)/Đầu Ngữ
+따님==daughter//daughter. VD: 둘째 따님 = second daughter/
+맨==man//man. VD: 맨 꼭대기 = the very top/
+며느리==daughter-in-law//daughter-in-law. VD: 며느리를 맞다 = have a daughter-in-law/
+문병==visiting a sick person/người/visiting a sick person. VD: 문병을 가다 = visit a sick person/Văn Bệnh
+민족==people, ethnicity/dân tộc/people, ethnicity. VD: 단일 민족 = single ethnicity/Dân Tộc
+배우자==spouse/bạn đời/spouse. VD: 배우자를 만나다 = meet a spouse/Bồi Vũ Tử
+부모==parents/bố mẹ/parents. VD: 부모를 공경하다 = respect one's parents/Phụ Mô
+부인==middle aged woman//middle aged woman. VD: 중년 부인 = middle aged wife/Phụ Nhân
+붐비다==be crowded//be crowded. VD: 사람들로 붐비다 = crowded with people/
+비교적==comparative, relative//comparative, relative. VD: 비교적 가깝다 = relatively close/Phi Giáo Tích
+사나이==man//man. VD: 씩씩한 사나이 = a brave man/Sự Na Nhị
+사내==man//man. VD: 사내 녀석 = boyStudy next #18: The 1701st – 1800th vocabulary words for TOPIK 2 by NIIEDStudy previous #16: The 1501st – 1600th vocabulary words for TOPIK 2 by NIIED/Sự Nội
+새끼==baby, cub//baby, cub. VD: 새끼를 낳다 = have a baby/
+설명서==manual//manual. VD: 설명서를 읽다 = read the manual/Thiết Minh Thư
+성인==adult/người trưởng thành/adult. VD: 성인 여성 = adult women/Thành Nhân
+세대==generation/thế hệ/generation. VD: 세대가 다르다 = different generations/Thế Đại
+솜씨==workmanship//workmanship. VD: 솜씨가 좋다 = workmanship is good/
+수년==many years//many years. VD: 수년이 흐르다 = years go by/Thủ Niên
+시집가다==(female) get married//(female) get married. VD: 부잣집에 시집가다 = marry into a rich family/Thị Tập Gia Đa
+신사==gentleman//gentleman. VD: 숙녀 = lady/Tân Sự
+신세대==new generation/mới/new generation. VD: 신세대 문화 = culture of new generation/Tân Thế Đại
+신혼부부==newly married couple//newly married couple. VD: 예비 신혼부부 = soon-to-be married couple/Tân Hôn Phụ Phụ
+아가==baby//baby. VD: 아가가 울다 = baby cries/Á Gia
+아동==child//child. VD: 아동의 성장 = growth of child/Á Đồng
+아드님==son//son. VD: 첫째 아드님 = first son/
+안기다==be snuggled//be snuggled. VD: 아기가 안기다 = baby is snuggled/An Kỳ Đa
+애기==baby//baby. VD: 애기를 낳다 = give birth to a baby/Ái Kỳ
+어르신==elders//elders. VD: 어르신을 뵙다 = meet elders/
+어린애==child//child. VD: 어린애를 보살피다 = take care of a child/
+여==female//female. VD: 여자 = female/
+여인==woman//woman. VD: 중년 여인 = middle aged woman/Dư Nhân
+연애==romance//romance. VD: 연애 감정 = romantic feelings/Diên Ái
+예==manners//manners. VD: 예가 바르다 = manners are proper/
+외삼촌==maternal uncle//maternal uncle. VD: 친척 = relative/
+외숙모==maternal aunt (by marriage)//maternal aunt (by marriage). VD: 친척 = relative/Ngoại Túc Mô
+웃어른==senior citizen//senior citizen. VD: 웃어른을 공경하다 = respect one's elders/
+유치하다==childish//childish. VD: 생각이 유치하다 = thoughts are immature/Du Trí (하다)
+인간==human/con người/human. VD: 인간 사회 = human society/Nhân Gian
+인간성==humanity//humanity. VD: 인간성이 좋다 = humanity is good/Nhân Gian Thành
+인간적==human//human. VD: 인간적 권리 = human rights/Nhân Gian Tích
+인격==personality//personality. VD: 인격을 존중하다 = respect personality/Nhân Cách
+인구==population/dân số/population. VD: 인구가 증가하다 = population grows/Nhân Cửu
+인류==humanity/nhân loại/humanity. VD: 인류 공동체 = human community/Nhân Lưu
+인심==human mind//human mind. VD: 인심이 변하다 = one's heart changes/Nhân Tâm
+인재==talented person/nhân tài/talented person. VD: 인재를 기르다 = cultivate talent/Nhân Tài
+인체==human body//human body. VD: 인체를 해부하다 = dissect a human body/Nhân Thể
+일본인==Japanese person/người/Japanese person. VD: 일본인을 만나다 = meet a Japanese person/Nhất Bản Nhân
+자녀==children/con cái/children. VD: 자녀를 기르다 = raise children/Tử Nữ
+자매==sisters//sisters. VD: 가족 = family/Tử Mại
+자취==live apart from one's family/sống/live apart from one's family. VD: 자취 생활 = living alone/Tử Thủ
+작은어머니==aunt (uncle's wife)//aunt (uncle's wife). VD: 친척 = relative/
+젊은이==young person/trẻ/young person. VD: 젊은이의 꿈 = young person's dream/
+젊음==youth//youth. VD: 젊음을 유지하다 = stay young/
+정원==number of people/mọi người/number of people. VD: 정원 미달 = shortage of personnel/Chính Viên
+조상==ancestor/tổ tiên/ancestor. VD: 조상을 모시다 = serve one's ancestors/Tổ Thượng
+중국인==Chinese person/người/Chinese person. VD: 중국인을 만나다 = meet a Chinese person/Trung Quốc Nhân
+책임자==person in charge/người/person in charge. VD: 책임자를 처벌하다 = punish those responsible/Sách Nhậm Tử
+처녀==maiden//maiden. VD: 처녀 시절 = maiden days/Xử Nữ
+출산==childbirth//childbirth. VD: 출산 예정일 = due date/Xuất Sơn
+친정==parents' home//parents' home. VD: 친정에 가다 = go to one's parents' home/
+큰딸==eldest daughter//eldest daughter. VD: 가족 = family/
+큰아버지==elder paternal uncle//elder paternal uncle. VD: 친척 = relativeStudy next #36: The 3501st – 3600th vocabulary words for TOPIK 2 by NIIEDStudy previous #34: The 3301st – 3400th vocabulary words for TOPIK 2 by NIIED/
+큰어머니==aunt (elder paternal uncle's wife)//aunt (elder paternal uncle's wife). VD: 친척 = relative/
+학부모==students' parents//students' parents. VD: 학부모를 모시다 = invite parents/Học Phụ Mô
+한창==peak//peak. VD: 한창 붐비다 = most crowded/

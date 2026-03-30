@@ -1,393 +1,393 @@
-가까이==nearby//nearby/
-가르다==divide/chia/divide/
-가리다==cover, hide//cover, hide/Gia Lý Đa
-가입==join//join/Gia Nhập
-가져다주다==bring/mang/bring/
-갈다==replace//replace/Cát Đa
-감소==decrease/giảm/decrease/Cảm Tiểu
-감추다==hide//hide/Cảm Thu Đa
-거두다==collect, gather/thu thập/collect, gather/Cư Đầu Đa
-거짓==lie/nằm/lie/
-걷다==gather, collect/đi bộ/gather, collect/
-겉모습==appearance, look/nhìn/appearance, look/
-격려==encourage/khuyến khích/encourage/Cách Lữ
-경고==warning//warning/Kinh Cổ
-계약==contract//contract/Kế Ước
-계약서==contract//contract/Kế Ước Thư
-고백==confession//confession/Cổ Bạch
-고속==high speed//high speed/Cổ Tốc
-고정==fix/sửa/fix/Cổ Chính
-공개==open/mở/open/Công Khai
-공격==attack/tấn công/attack/Công Cách
-공연==show//show/Công Diên
-과소비==overspending//overspending/Quả Tiểu Phi
-관계있다==relate//relate/
-교대==rotation, by turns//rotation, by turns/Giáo Đại
-구조==rescue//rescue/Cửu Tổ
-구하다==find//find/
-구하다==save/cứu/save/
-굳이==dare//dare/
-권유==recommendation//recommendation/Quyền Du
-권하다==recommend, advice/giới thiệu/recommend, advice/
-귀국==return to one's country/trở về/return to one's country/Quý Quốc
-그네==a swing//a swing/
-그래프==graph//graph/
-그림자==shadow//shadow/
-그만하다==stop/dừng/stop/
-금하다==forbid//forbid/
-급증==surge, rapid increase/tăng/surge, rapid increase/Cấp Tăng
-급히==in a hurry, quickly//in a hurry, quickly/
-긋다==draw/vẽ/draw/
-기획==plan//plan/Kỳ Hoạch
-까먹다==peel and eat, forget/quên/peel and eat, forget/
-깨다==break/vỡ/break/
-깨뜨리다==break/vỡ/break/
-꺾다==break, pick/vỡ/break, pick/
-꼼꼼히==carefully//carefully/
-꽂다==put in, insert/đặt/put in, insert/
-꽂히다==be stick, be put in/đặt/be stick, be put in/
-꽃꽂이==flower arrangement/hoa/flower arrangement/
-꾸다==borrow/mượn/borrow/
-끊임없다==endless, constant//endless, constant/
-끊임없이==endlessly//endlessly/
-끌다==drag, draw/vẽ/drag, draw/
-끌어당기다==pull/kéo/pull/
-끌어안다==(draw and) hug//(draw and) hug/
-끝없이==endlessly//endlessly/
-끼우다==insert, put in/đặt/insert, put in/
-끼치다==get (goose bumps)//get (goose bumps)/
-나뉘다==be split, be divided//be split, be divided/
-나르다==carry, move/mang/carry, move/
-나빠지다==get worse//get worse/
-나서다==go to, come out/đến/go to, come out/Na Thư Đa
-나아지다==get better//get better/Na Á Chỉ Đa
-낙엽==fallen leaves//fallen leaves/
-날개==wing//wing/
-낭비==waste//waste/Lang Phi
-내놓다==put out, take out/đặt/put out, take out/
-내다보다==look out/nhìn/look out/Nội Đa Bảo Đa
-내려놓다==put down/đặt/put down/
-내려다보다==look down/nhìn/look down/Nội Lữ Đa Bảo Đa
-내버리다==throw away/ném/throw away/
-내주다==give, offer/cho/give, offer/Nội Chủ Đa
-내쫓다==kick out, expel//kick out, expel/
-넘어가다==fall down/rơi/fall down/
-넘어뜨리다==knock down//knock down/
-넘어서다==go beyond//go beyond/
-놓치다==miss, lose/thua/miss, lose/
-놔두다==leave, put/rời/leave, put/
-눈감다==close one's eyes/đóng/close one's eyes/
-눕히다==lay down//lay down/
-늘리다==increase (sth)/tăng/increase (sth)/
-늘어나다==(sth//(sth/
-늘어놓다==use, make, give, scatter/làm/use, make, give, scatter/
-늘이다==extend (sth), stretch//extend (sth), stretch/
-늦추다==delay, postpone//delay, postpone/
-다가가다==go closer, approach//go closer, approach/Đa Gia Gia Đa
-다녀가다==come by, go to/đến/come by, go to/Đa Nữ Gia Đa
-다물다==close, shut/đóng/close, shut/Đa Vật Đa
-다정==tenderness, affection//tenderness, affection/Đa Chính
-다짐==promise/hứa/promise/
-닫히다==shut//shut/
-달다==request, ask for/hỏi/request, ask for/Đạt Đa
-달라지다==become different/khác nhau/become different/Đạt La Chỉ Đa
-달러==dollar//dollar/
-달려가다==run/chạy/run/Đạt Lữ Gia Đa
-달려들다==rush//rush/
-달려오다==run/chạy/run/Đạt Lữ Ngũ Đa
-달아나다==run away/chạy/run away/Đạt Á Na Đa
-담기다==put in/đặt/put in/Đàm Kỳ Đa
-담다==put sth into/đặt/put sth into/Đàm Đa
-답변==answer/trả lời/answer/Đáp Biến
-당기다==pull/kéo/pull/Đang Kỳ Đa
-당첨==winning//winning/Đang Thiêm
-당하다==be suffered, be abused//be suffered, be abused/
-대문==main door/cửa/main door/Đại Văn
-더하다==add/thêm/add/
-덕택==indebtedness, help/giúp đỡ/indebtedness, help/Đức Trạch
-덧붙이다==add/thêm/add/
-데==place/nơi/place/
-도망가다==run away/chạy/run away/Đồ Vọng Gia Đa
-도망치다==run away/chạy/run away/Đồ Vọng Trí Đa
-돌려보내다==return, send back/trở về/return, send back/
-돌아서다==turn around/quay/turn around/
-동작==movement//movement/Đồng Tác
-되돌리다==get back, turn back/quay/get back, turn back/
-되돌아가다==go back, return/trở về/go back, return/
-되돌아오다==come back/đến/come back/
-두리번거리다==look around/nhìn/look around/Đầu Lý Phiên Cư Lý Đa
-둘러보다==look around/nhìn/look around/
-뒤따르다==follow, go after/theo/follow, go after/
-뒤지다==search, look/nhìn/search, look/
-뒷문==back door/cửa/back door/
-들려주다==tell, speak, sing, play/kể/tell, speak, sing, play/
-들리다==become sick//become sick/
-들리다==be lifted//be lifted/
-들어주다==accept, receive/chấp nhận/accept, receive/
-들여다보다==look into/nhìn/look into/
-따라가다==follow/theo/follow/
-따라오다==follow, catch up/theo/follow, catch up/
-따로따로==separately//separately/
-따르다==follow/theo/follow/
-따지다==question closely, argue/câu hỏi/question closely, argue/
-때리다==hit, lash/đánh/hit, lash/
-떠나가다==leave (a place and go away)/rời/leave (a place and go away)/
-떨어뜨리다==drop, run out of sth/chạy/drop, run out of sth/
-떼다==remove, peel off/bỏ/remove, peel off/
-뛰다==run/chạy/run/
-뛰어나오다==run out (of)/chạy/run out (of)/
-뛰어내리다==jump down/nhảy/jump down/
-뛰어넘다==jump over/nhảy/jump over/
-뛰어다니다==run around/chạy/run around/
-뛰어들다==dive into, run into/chạy/dive into, run into/
-뜯다==unseal, open/mở/unseal, open/
-띄다==be seen, be noticed//be seen, be noticed/
-마디==joint, knot//joint, knot/
-마음먹다==decide, make up/quyết định/decide, make up/
-많아지다==increase, grow/tăng/increase, grow/
-말리다==stop/dừng/stop/Mạt Lý Đa
-말하기==speaking//speaking/Mạt Hạ Kỳ
-망가지다==break down/vỡ/break down/Vọng Gia Chỉ Đa
-맞다==greet, welcome, receive/chào/greet, welcome, receive/
-먹고살다==make a living/làm/make a living/
-멀어지다==get distant away//get distant away/
-멎다==stop/dừng/stop/
-명령==command, order//command, order/Minh Lệnh
-몫==share/chia sẻ/share/
-몰라보다==fail to recognize/thất bại/fail to recognize/Một La Bảo Đa
-몰래==secretly//secretly/
-몸짓==gesture//gesture/
-묘사==describe/mô tả/describe/
-무너지다==fallen, collapse//fallen, collapse/
-뭉치다==join, unit, mass//join, unit, mass/
-미루다==postpone//postpone/
-바보==a fool//a fool/
-바싹==closely, completely//closely, completely/
-반납==return/trở về/return/Bán Nạp
-반복==repeat//repeat/Bán Phục
-반품==return/trở về/return/Bán Phẩm
-받아들이다==accept, embrace/chấp nhận/accept, embrace/
-받침==support, stand/hỗ trợ/support, stand/
-방울==droplet//droplet/
-배웅==sendoff//sendoff/
-버티다==withstand, endure//withstand, endure/
-번갈다==take turns/lấy/take turns/Phiên Cát Đa
-벌어지다==widen, open up/mở/widen, open up/Phạt Ngữ Chỉ Đa
-벌어지다==happen, occur/xảy ra/happen, occur/Phạt Ngữ Chỉ Đa
-벗어나다==get out//get out/
-베풀다==give/cho/give/
-병들다==get sick//get sick/
-보수==reward, repay/thưởng/reward, repay/Bảo Thủ
-보호==protect/bảo vệ/protect/Bảo Hồ
-복사==copy//copy/Phục Sự
-볼거리==things to see/thấy/things to see/
-부딪히다==hit/đánh/hit/
-부러워하다==envy//envy/
-부러지다==break/vỡ/break/
-부리다==do (to show sth)//do (to show sth)/Phụ Lý Đa
-부처==buddha//buddha/Phụ Xử
-불가==not allowed//not allowed/Bất Gia
-불어==french//french/Bất Ngữ
-붙들다==hold, grap/giữ/hold, grap/
-붙잡다==hold on, grap/giữ/hold on, grap/
-비기다==draw/vẽ/draw/Phi Kỳ Đa
-비롯하다==include, begin/bắt đầu/include, begin/
-비법==secret//secret/Phi Pháp
-비웃다==make fun of, laugh at/làm/make fun of, laugh at/
-비키다==get away//get away/
-비하다==compare/mưa/compare/
-빠져나가다==get out//get out/
-빠져나오다==get out//get out/
-빼놓다==take out, pick out/lấy/take out, pick out/
-빼앗기다==take away/lấy/take away/
-빼앗다==steal/ăn cắp/steal/
-뺏다==take away/lấy/take away/
-뻗다==stretch, extend, grow//stretch, extend, grow/
-뽑히다==be elected, be drawn//be elected, be drawn/
-사라지다==disappear/biến mất/disappear/Sự La Chỉ Đa
-사용법==how to use//how to use/Sự Dụng Pháp
-사우나==sauna//sauna/Sự Vũ Na
-사이좋다==get along//get along/
-살리다==save/cứu/save/Sát Lý Đa
-살아가다==live, keep living/sống/live, keep living/Sát Á Gia Đa
-살아오다==live, return alive/sống/live, return alive/Sát Á Ngũ Đa
-살펴보다==take a look/lấy/take a look/
-삼다==make/làm/make/Tam Đa
-상승==increase/tăng/increase/Thượng Thăng
-상영==screening, showing//screening, showing/Thượng Vĩnh
-상하==up and down//up and down/Thượng Hạ
-새집==new house/mới/new house/Tân Tập
-생김새==look, appearance/nhìn/look, appearance/
-생산==produce/sản xuất/produce/Sinh Sơn
-생활용품==household goods//household goods/Sinh Hoạt Dụng Phẩm
-서투르다==clumsy, unskilled//clumsy, unskilled/
-서툴다==clumsy, unskilled//clumsy, unskilled/
-설득==persuade//persuade/Thiết Đắc
-세대==households/thế hệ/households/Thế Đại
-세력==influence//influence/Thế Lực
-소나기==shower//shower/Tiểu Na Kỳ
-소리치다==yell, shout out//yell, shout out/Tiểu Lý Trí Đa
-소변==pee//pee/Tiểu Biến
-소용==use//use/Tiểu Dụng
-소용없다==no use//no use/
-속다==get deceived//get deceived/Tốc Đa
-손잡다==hold hands, cooperate/giữ/hold hands, cooperate/
-쇼==show//show/
-수요==demand//demand/Thủ Yếu
-수용==accept/chấp nhận/accept/Thủ Dụng
-숙녀==lady//lady/Túc Nữ
-숨다==hide//hide/
-숨지다==die, pass away/chết/die, pass away/
-쉬다==hoarse/nghỉ/hoarse/
-슬쩍==stealthily, secretly//stealthily, secretly/
-승패==win or lose/thắng/win or lose/Thăng Bại
-신입==newcomer//newcomer/Tân Nhập
-신중==caution//caution/Tân Trung
-실용적==useful//useful/Thất Dụng Tích
-실종==disappearance//disappearance/Thất Chung
-싸다==take (a pee)/lấy/take (a pee)/
-싸움==fight/chiến đấu/fight/
-쌍둥이==twins//twins/
-쓸데없이==needlessly//needlessly/
-아깝다==be a waste//be a waste/
-아끼다==save/cứu/save/
-아이고==gosh//gosh/
-아하==aha//aha/Á Hạ
-안내원==attendant//attendant/An Nội Viên
-안되다==fail/thất bại/fail/
-안심==relief//relief/An Tâm
-안약==eyedrops//eyedrops/An Ước
-알려지다==become known//become known/Yết Lữ Chỉ Đa
-알아듣다==understand/hiểu/understand/
-앞머리==bangs//bangs/
-앞장서다==lead/dẫn/lead/
-앞집==next door/cửa/next door/
-야외==outdoor//outdoor/Dã Ngoại
-어찌하다==do/làm/do/
-없애다==remove/bỏ/remove/
-없어지다==disappear/biến mất/disappear/
-엎드리다==lie face down/nằm/lie face down/
-엿보다==peek at//peek at/
-예고==warning//warning/Lễ Cổ
-오가다==come and go/đến/come and go/Ngũ Gia Đa
-오르내리다==go up and down//go up and down/
-오해==misunderstanding//misunderstanding/Ngũ Hải
-올라타다==get on//get on/
-올려다보다==look up/nhìn/look up/
-옮기다==move/di chuyển/move/
-완성==complete//complete/Hoàn Thành
-외모==appearance//appearance/Ngoại Mô
-외치다==shout out//shout out/Ngoại Trí Đa
-요청==request//request/Yếu Thanh
-용==dragon//dragon/
-우기다==insist//insist/Vũ Kỳ Đa
-우정==friendship//friendship/Vũ Chính
-울리다==make cry/làm/make cry/
-움직임==movement//movement/
-웃기다==make laugh/làm/make laugh/
-웃음소리==laughter//laughter/
-원룸==single room/phòng/single room/
-월세==rent//rent/Nguyệt Thế
-위아래==up and down//up and down/
-유료==pay/trả/pay/Du Liệu
-유리창==glass window//glass window/Du Lý Sáng
-으악==blagh//blagh/
-응답==answer/trả lời/answer/Ứng Đáp
-이끌다==lead/dẫn/lead/
-이루다==accomplish//accomplish/
-이룩하다==achieve//achieve/
-이르다==tell/kể/tell/
-이발==haircut//haircut/Nhị Phát
-이웃집==next door/cửa/next door/
-이해력==understanding//understanding/Nhị Hải Lực
-인상==increase/tăng/increase/Nhân Thượng
-일손==manpower//manpower/Nhất Tổn
-읽기==reading//reading/
-읽히다==get to read/đọc/get to read/
-입력==input//input/Nhập Lực
-잇다==connect//connect/
-자==okay//okay/
-자라나다==grow up/lớn lên/grow up/Tử La Na Đa
-작은집==uncle's house/nhà/uncle's house/Tác Ân Tập
-잘나다==good-looking//good-looking/
-잘리다==be cut/cắt/be cut/
-잠자리==dragonfly//dragonfly/
-잡아당기다==pull/kéo/pull/
-재수==luck//luck/Tài Thủ
-적어지다==become less//become less/Tích Ngữ Chỉ Đa
-전국==around the country/nước/around the country/Toàn Quốc
-전원==power supply/cung cấp/power supply/Toàn Viên
-절==bow//bow/
-점==dot//dot/
-접수==acception//acception/Tiếp Thủ
-접어들다==enter/vào/enter/
-접하다==learn about/học/learn about/
-정지==stop/dừng/stop/Chính Chỉ
-제거==removal//removal/Chế Cư
-제시==suggestion//suggestion/Chế Thị
-제안==proposal//proposal/Chế An
-제한==limit//limit/Chế Hàn
-존재==existence//existence/Tồn Tài
-주어지다==be given//be given/Chủ Ngữ Chỉ Đa
-주인공==protagonist//protagonist/Chủ Nhân Công
-죽이다==kill/giết/kill/Trúc Nhị Đa
-준비물==supplies//supplies/Chuẩn Phi Vật
-줄어들다==decrease/giảm/decrease/
-중고==used//used/Trung Cổ
-중고품==used goods//used goods/Trung Cổ Phẩm
-중독==addiction//addiction/Trung Độc
-증가==increase/tăng/increase/Tăng Gia
-지니다==carry/mang/carry/
-지도자==leader//leader/Chỉ Đồ Tử
-지원==support/hỗ trợ/support/Chỉ Viên
-지출==expenses/chi tiêu/expenses/Chỉ Xuất
-지혜==wisdom//wisdom/Chỉ Huệ
-진통제==painkiller//painkiller/Trần Thông Chế
-집세==rent//rent/Tập Thế
-집어넣다==put in/đặt/put in/
-쫓아가다==follow/theo/follow/
-쫓아다니다==follow/theo/follow/
-쫓아오다==run after/chạy/run after/
-차창==car window/xe hơi/car window/Xa Sáng
-창==window//window/
-창가==window seat//window seat/Sáng Gia
-창밖==outside a window//outside a window/
-찾아내다==find out//find out/
-천사==angel//angel/Thiên Sự
-첨부==attachment//attachment/Thiêm Phụ
-청하다==ask/hỏi/ask/
-체하다==have an upset stomach//have an upset stomach/
-초급==beginner//beginner/Sơ Cấp
-초보==beginner//beginner/Sơ Bảo
-추천==recommendation//recommendation/Thu Thiên
-추천서==letter of recommendation//letter of recommendation/Thu Thiên Thư
-취하다==get drunk//get drunk/
-치다==draw/vẽ/draw/Trí Đa
-치르다==pay/trả/pay/
-콘도==condominium//condominium/
-쿵==thud//thud/
-타다==receive/nhận/receive/Tha Đa
-택하다==choose/chọn/choose/
-틈==crack//crack/
-파마==perm//perm/
-풀리다==come loose/đến/come loose/
-풀어지다==get loose//get loose/
-품다==carry/mang/carry/Phẩm Đa
-필요성==need/cần/need/Tất Yếu Thành
-하==under//under/
-하차==get off//get off/Hạ Xa
-학습==learning//learning/
-한==limit//limit/
-해내다==accomplish//accomplish/Hải Nội Đa
-행운==luck//luck/Hành Vận
-행하다==hold/giữ/hold/
-향하다==look at/nhìn/look at/
-형태==shape//shape/Hình Thái
-확산==spread//spread/Xác Sơn
-활용==use//use/Hoạt Dụng
-활짝==wide open/rộng/wide open/
-훔치다==steal/ăn cắp/steal/
-휴대==carry/mang/carry/Hưu Đại
-휴식==break/nghỉ ngơi/break/Hưu Thực
-흘러내리다==run down/chạy/run down/
-희망자==job seeker//job seeker/Hy Vọng Tử
+가까이==nearby//nearby. VD: 가까이 다가오다 = come close/
+가르다==divide/chia, cắt/divide. VD: 칼로 가르다 = cut with a knife/
+가리다==cover, hide/che, phân biệt/cover, hide. VD: 얼굴을 가리다 = cover one's face/
+가입==join/gia nhập/join. VD: 가입을 권유하다 = invite to join/Gia Nhập
+가져다주다==bring/mang đến cho/bring. VD: 물건을 가져다주다 = bring stuffs/
+갈다==replace/thay thế/replace. VD: 붕대를 갈다 = replace bandage/
+감소==decrease/giảm/decrease. VD: 인구 감소 = population decrease/Cảm Tiểu
+감추다==hide/giấu/hide. VD: 모습을 감추다 = hide oneself/
+거두다==collect, gather/thu gom/collect, gather. VD: 빨래를 거두다 = collect the laundry/
+거짓==lie/lời nói dối/lie. VD: 거짓으로 꾸미다 = make up a lie/
+걷다==gather, collect/đi bộ, thu gom/gather, collect. VD: 빨래를 걷다 = collect laundry/
+겉모습==appearance, look/vẻ bên ngoài/appearance, look. VD: 겉모습만 보다 = look the appearance only/
+격려==encourage/khích lệ/encourage. VD: 격내를 보내다 = give encourage/Cách Lữ
+경고==warning/cảnh cáo/warning. VD: 경고를 주다 = give a warning/Kinh Cổ
+계약==contract/hợp đồng/contract. VD: 계약을 체결하다 = sign a contract/Kế Ước
+계약서==contract/hợp đồng/contract. VD: 계약서를 쓰다 = write a contract/Kế Ước Thư
+고백==confession//confession. VD: 사랑 고백 = love confession/Cổ Bạch
+고속==high speed//high speed. VD: 고속으로 달리다 = run at high speed/Cổ Tốc
+고정==fix/sửa/fix. VD: 고정 수입 = fixed income/Cổ Chính
+공개==open/mở/open. VD: 공개 강좌 = an open course/Công Khai
+공격==attack//attack. VD: 공격을 받다 = receive an attack/Công Cách
+공연==show//show. VD: 공연을 보다 = watch a show/Công Diên
+과소비==overspending//overspending. VD: 과소비를 줄이다 = reduce overspending/Quả Tiểu Phi
+관계있다==relate//relate. VD: 밀접하게 관계있다 = be closely related to/
+교대==rotation, by turns//rotation, by turns. VD: 교대 근무 = shift work/Giáo Đại
+구조==rescue//rescue. VD: 구조를 요청하다 = request for help/Cửu Tổ
+구하다==find//find. VD: 일자리를 구하다 = find a job/
+구하다==save/cứu/save. VD: 목숨을 구하다 = save one's life/
+굳이==dare//dare. VD: 굳이 말하다 = dare to say/
+권유==recommendation//recommendation. VD: 간곡한 권유 = earnest recommendation/Quyền Du
+권하다==recommend, advice//recommend, advice. VD: 입원을 권하다 = advice to hospitalization/
+귀국==return to one's country/trở về/return to one's country. VD: 출국 = leaving a country/Quý Quốc
+그네==a swing//a swing. VD: 그네를 타다 = ride a swing/
+그래프==graph//graph. VD: 그래프를 그리다 = draw a graph/
+그림자==shadow//shadow. VD: 그림자가 지다 = be in shadow/
+그만하다==stop/dừng/stop. VD: 공부를 그만두다 = stop studying/
+금하다==forbid//forbid. VD: 출입을 금하다 = forbid entry/
+급증==surge, rapid increase/tăng/surge, rapid increase. VD: 인구 급증 = a population surge/Cấp Tăng
+급히==in a hurry, quickly//in a hurry, quickly. VD: 급히 먹다 = eat quickly/
+긋다==draw/vẽ/draw. VD: 줄을 긋다 = draw a line/
+기획==plan//plan. VD: 기획 상품 = planning product/Kỳ Hoạch
+까먹다==peel and eat, forget/quên/peel and eat, forget. VD: 고구마를 까먹다 = eat sweat potato/
+깨다==break/vỡ/break. VD: 그릇을 깨다 = break the bowl/
+깨뜨리다==break/vỡ/break. VD: 거울을 깨뜨리다 = break mirrorStudy next #6: The 501st – 600th vocabulary words for TOPIK 2 by NIIEDStudy previous #4: The 301st – 400th vocabulary words for TOPIK 2 by NIIED/
+꺾다==break, pick/vỡ/break, pick. VD: 꽃을 꺾다 = pick a flower/
+꼼꼼히==carefully//carefully. VD: 꼼꼼히 살피다 = take a close look/
+꽂다==put in, insert/đặt/put in, insert. VD: 열쇠를 꽂다 = put a key in/
+꽂히다==be stick, be put in/đặt/be stick, be put in. VD: 꽃이 꽂히다 = flowers are put in (a vase)/
+꽃꽂이==flower arrangement//flower arrangement. VD: 꽂꽂이를 배우다 = learn flower arrangement/
+꾸다==borrow/mượn/borrow. VD: 돈을 꾸다 = borrow money/
+끊임없다==endless, constant//endless, constant. VD: 손님이 끊임없다 = customers are unceasing/
+끊임없이==endlessly//endlessly. VD: 끊임없이 이어지다 = continue endlessly/
+끌다==drag, draw/vẽ/drag, draw. VD: 신발을 끌다 = drag one's feet/
+끌어당기다==pull/kéo/pull. VD: 의자를 끌어당기다 = pull a chair/
+끌어안다==(draw and) hug//(draw and) hug. VD: 아기를 끌어안다 = hug a baby/
+끝없이==endlessly//endlessly. VD: 끝없이 이어지다 = go on endlessly/
+끼우다==insert, put in/đặt/insert, put in. VD: 단추를 끼우다 = button up, faster a button/
+끼치다==get (goose bumps)//get (goose bumps). VD: 소름이 끼치다 = get goose bumps/
+나뉘다==be split, be divided//be split, be divided. VD: 빵이 나뉘다 = bread is split/
+나르다==carry, move/mang/carry, move. VD: 이삿짐을 나르다 = move one's belongings/
+나빠지다==get worse//get worse. VD: 건강이 나빠지다 = health gets worse/
+나서다==go to, come out/đến/go to, come out. VD: 거리에 나서다 = go to the street/
+나아지다==get better//get better. VD: 건강이 나아지다 = health gets better/Na Á Chỉ Đa
+낙엽==fallen leaves//fallen leaves. VD: 낙엽을 태우다 = burn fallen leaves/
+날개==wing//wing. VD: 날개를 펴다 = spread the wings/
+낭비==waste//waste. VD: 낭비를 막다 = prevent waste/Lang Phi
+내놓다==put out, take out/đặt/put out, take out. VD: 밖으로 내놓다 = put something outside/
+내다보다==look out/nhìn/look out. VD: 창밖을 내다보다 = look out the window/Nội Đa Bảo Đa
+내려놓다==put down/đặt/put down. VD: 책을 내려놓다 = put down a book/
+내려다보다==look down/nhìn/look down. VD: 아래를 내려다보다 = look down below/Nội Lữ Đa Bảo Đa
+내버리다==throw away/ném/throw away. VD: 쓰레기를 내버리다 = throw away garbage/
+내주다==give, offer/cho/give, offer. VD: 거스름돈을 내주다 = give change/Nội Chủ Đa
+내쫓다==kick out, expel//kick out, expel. VD: 밖으로 내쫓다 = kick sb out/
+넘어가다==fall down/rơi/fall down. VD: 막대기가 넘어가다 = a stick falls down/
+넘어뜨리다==knock down//knock down. VD: 나무를 넘어뜨리다 = knock down a tree/
+넘어서다==go beyond//go beyond. VD: 산을 넘어서다 = go over a mountain/
+놓치다==miss, lose/thua/miss, lose. VD: 손을 놓치다 = miss one's hand/grip/
+놔두다==leave, put/rời/leave, put. VD: 탁자 위에 놔두다 = leave on the table/
+눈감다==close one's eyes/đóng/close one's eyes. VD: 할아버지께서 눈감다 = grandpa closes his eyes/
+눕히다==lay down//lay down. VD: 침대에 눕히다 = lay down on bed/
+늘리다==increase (sth)/tăng/increase (sth). VD: 규모를 늘리다 = scale up/
+늘어나다==(sth/sb) increase/tăng/(sth/sb) increase. VD: 사람이 늘어나다 = people increase/
+늘어놓다==use, make, give, scatter/làm/use, make, give, scatter. VD: 변명을 늘어놓다 = keep making excuses/
+늘이다==extend (sth), stretch//extend (sth), stretch. VD: 고무줄을 늘이다 = stretch a rubber band/
+늦추다==delay, postpone//delay, postpone. VD: 시기를 늦추다 = delay the timing/
+다가가다==go closer, approach//go closer, approach. VD: 문 쪽으로 다가가다 = approach the door/
+다녀가다==come by, go to/đến/come by, go to. VD: 집에 다녀가다 = go home/Đa Nữ Gia Đa
+다물다==close, shut/đóng/close, shut. VD: 입을 다물다 = shut one's mouth/
+다정==tenderness, affection//tenderness, affection. VD: 다정을 보이다 = look tenderness/Đa Chính
+다짐==promise/hứa/promise. VD: 다짐을 받다 = make promise/
+닫히다==shut//shut. VD: 창문이 닫히다 = the window is closed/
+달다==request, ask for/hỏi/request, ask for. VD: 달라고 하다 = ask for/
+달라지다==become different/khác nhau/become different. VD: 장소가 달라지다 = the place becomes different/Đạt La Chỉ Đa
+달러==dollar//dollar. VD: 달러로 바꾸다 = change to dollars/
+달려가다==run/chạy/run. VD: 빠르게 달려가다 = run fast/Đạt Lữ Gia Đa
+달려들다==rush//rush. VD: 버스로 달려들다 = rush into the bus/
+달려오다==run/chạy/run. VD: 먼 길을 달려오다 = come a long way/Đạt Lữ Ngũ Đa
+달아나다==run away/chạy/run away. VD: 범인이 달아나다 = the criminal runs away/
+담기다==put in/đặt/put in. VD: 음식이 그릇에 담기다 = food is put in a bowl/Đàm Kỳ Đa
+담다==put sth into/đặt/put sth into. VD: 쌀을 담다 = put rice into/
+답변==answer/trả lời/answer. VD: 답변을 듣다 = get an answer/Đáp Biến
+당기다==pull/kéo/pull. VD: 의자를 당기다 = pull a chair/
+당첨==winning//winning. VD: 복권 당첨 = lottery winning/Đang Thiêm
+당하다==be suffered, be abused//be suffered, be abused. VD: 사기꾼에게 당하다 = be swindled by a swindler/
+대문==main door//main door. VD: 대문을 열다 = open the main door/
+더하다==add/thêm/add. VD: 숫자를 더하다 = add a number/
+덕택==indebtedness, help/giúp đỡ/indebtedness, help. VD: 부모님 덕택 = parents' help/Đức Trạch
+덧붙이다==add/thêm/add. VD: 벽지를 덧붙이다 = add wallpaper/
+데==place/nơi/place. VD: 갈 데(장소) = place to go/
+도망가다==run away/chạy/run away. VD: 도둑이 도망가다 = the thief runs away/Đồ Vọng Gia Đa
+도망치다==run away/chạy/run away. VD: 감옥에서 도망치다 = run away from prison/Đồ Vọng Trí Đa
+돌려보내다==return, send back/trở về/return, send back. VD: 물건을 돌려보내다 = return the goods/
+돌아서다==turn around//turn around. VD: 마음이 돌아서다 = change one's mind/
+동작==movement//movement. VD: 동작이 느리다 = movement is slow/Đồng Tác
+되돌리다==get back, turn back//get back, turn back. VD: 시간을 되돌리다 = turn back time/
+되돌아가다==go back, return/trở về/go back, return. VD: 집으로 되돌아가다 = return home/
+되돌아오다==come back/đến/come back. VD: 편지가 되돌아오다 = a letter is returned/
+두리번거리다==look around/nhìn/look around. VD: 주위를 두리번거리다 = look around (the surroundings)/Đầu Lý Phiên Cư Lý Đa
+둘러보다==look around/nhìn/look around. VD: 주위를 둘러보다 = take a look around/
+뒤따르다==follow, go after/theo/follow, go after. VD: 뒤따라 걷다 = walk after/
+뒤지다==search, look/nhìn/search, look. VD: 가방을 뒤지다 = search one's bag/
+뒷문==back door//back door. VD: 뒷문이 열리다 = a back door opens/
+들려주다==tell, speak, sing, play/kể/tell, speak, sing, play. VD: 음악을 들려주다 = play music/
+들리다==become sick//become sick. VD: 감기에 들리다 = catch a cold/
+들리다==be lifted//be lifted. VD: 짐이 들리다 = burden is lifted/
+들어주다==accept, receive/chấp nhận/accept, receive. VD: 부탁을 들어주다 = do sb a favor/
+들여다보다==look into/nhìn/look into. VD: 방 안을 들여다보다 = look inside a room/
+따라가다==follow/theo/follow. VD: 친구를 따라가다 = follow a friend/
+따라오다==follow, catch up/theo/follow, catch up. VD: 뒤를 따라오다 = catch up behind/
+따로따로==separately//separately. VD: 따로따로 움직이다 = move separately/
+따르다==follow/theo/follow. VD: 뒤를 따르다 = follow after/
+따지다==question closely, argue/câu hỏi/question closely, argue. VD: 이유를 따지다 = argue the reason/
+때리다==hit, lash/đánh/hit, lash. VD: 종아리를 때리다 = lash one's calf/
+떠나가다==leave (a place and go away)/rời/leave (a place and go away). VD: 고향을 떠나가다 = leave one's hometown/
+떨어뜨리다==drop, run out of sth/chạy/drop, run out of sth. VD: 바닥에 떨어뜨리다 = drop on the floor/
+떼다==remove, peel off/bỏ/remove, peel off. VD: 스티커를 떼다 = remove a sticker/
+뛰다==run/chạy/run. VD: 빨리 뛰다 = run fast/
+뛰어나오다==run out (of)/chạy/run out (of). VD: 집 밖으로 뛰어나오다 = run out of the house/
+뛰어내리다==jump down/nhảy/jump down. VD: 아래로 뛰어내리다 = jump down/
+뛰어넘다==jump over/nhảy/jump over. VD: 담을 뛰어넘다 = jump over a fence/
+뛰어다니다==run around/chạy/run around. VD: 집안을 뛰어다니다 = run around the house/
+뛰어들다==dive into, run into/chạy/dive into, run into. VD: 강물에 뛰어들다 = jump into the river/
+뜯다==unseal, open/mở/unseal, open. VD: 편지를 뜯다 = open a letter/
+띄다==be seen, be noticed//be seen, be noticed. VD: 눈에 띄다 = catch one's eyes, be noticed/
+마디==joint, knot//joint, knot. VD: 마디가 굵다 = have a thick joint/
+마음먹다==decide, make up/quyết định/decide, make up. VD: 굳게 마음먹다 = make a firm decision/
+많아지다==increase, grow/tăng/increase, grow. VD: 나이가 많아지다 = grow old/
+말리다==stop/dừng/stop. VD: 싸움을 말리다 = stop a fight/
+말하기==speaking//speaking. VD: 말하기 평가 = speaking test/Mạt Hạ Kỳ
+망가지다==break down/vỡ/break down. VD: 자전거가 망가지다 = bike is broken down/Vọng Gia Chỉ Đa
+맞다==greet, welcome, receive/chào đón/greet, welcome, receive. VD: 손님을 맞다 = have/receive a guest/
+먹고살다==make a living/làm/make a living. VD: 겨우 먹고 살다 = barely live/
+멀어지다==get distant away//get distant away. VD: 친구와 멀어지다 = get distant away from friends/
+멎다==stop/dừng/stop. VD: 비바람이 멎다 = rainstorm stops/
+명령==command, order//command, order. VD: 명령을 내리다 = give an order/Minh Lệnh
+몫==share/chia sẻ/share. VD: 몫을 챙기다 = take a share/
+몰라보다==fail to recognize/thất bại/fail to recognize. VD: 몰라보게 변하다 = change beyond recognition/Một La Bảo Đa
+몰래==secretly//secretly. VD: 몰래 도망가다 = run away secretly/
+몸짓==gesture//gesture. VD: 몸짓을 따라하다 = follow a gesture/
+묘사==describe//describe. VD: 상황 묘사 = situation description/
+무너지다==fallen, collapse//fallen, collapse. VD: 건물이 무너지다 = a building collapses/
+뭉치다==join, unit, mass//join, unit, mass. VD: 눈을 뭉치다 = mass snow (to make snowman)/
+미루다==postpone//postpone. VD: 내일로 미루다 = put off till tomorrow/
+바보==a fool//a fool. VD: 바보가 되다 = become a fool/
+바싹==closely, completely//closely, completely. VD: 바싹 마르다 = dry up competely/
+반납==return/trở về/return. VD: 반납 날짜 = return date/Bán Nạp
+반복==repeat//repeat. VD: 반복 연습 = repeated practice/Bán Phục
+반품==return/trở về/return. VD: 반품을 요구하다 = ask for a return/Bán Phẩm
+받아들이다==accept, embrace/chấp nhận/accept, embrace. VD: 기술을 받아들이다 = embrace technology/
+받침==support, stand/hỗ trợ/support, stand. VD: 냄비 받침 = a pot stand/
+방울==droplet//droplet. VD: 방울이 맺히다 = droplets form/
+배웅==sendoff//sendoff. VD: 배웅을 나가다 = go out to see someone off/
+버티다==withstand, endure//withstand, endure. VD: 오기로 버티다 = hold on to one's coming/
+번갈다==take turns/lấy/take turns. VD: 번갈아 입다 = wear by turns/Phiên Cát Đa
+벌어지다==widen, open up/mở/widen, open up. VD: 틈이 벌어지다 = a gap opens up/Phạt Ngữ Chỉ Đa
+벌어지다==happen, occur/xảy ra/happen, occur. VD: 소동이 벌어지다 = cause a commotion/Phạt Ngữ Chỉ Đa
+벗어나다==get out//get out. VD: 시내를 벗어나다 = get out of town/
+베풀다==give/cho/give. VD: 연회를 베풀다 = give a banquet/
+병들다==get sick//get sick. VD: 늙고 병들다 = old and sick/
+보수==reward, repay//reward, repay. VD: 보수를 받다 = receive reward/Bảo Thủ
+보호==protect/bảo vệ/protect. VD: 보호를 받다 = be protected/Bảo Hồ
+복사==copy//copy. VD: 문서 복사 = copy document/Phục Sự
+볼거리==things to see/thấy/things to see. VD: 볼거리가 많다 = lots to see/
+부딪히다==hit/đánh/hit. VD: 차에 부딪히다 = hit a car/
+부러워하다==envy//envy. VD: 성공을 부러워하다 = envy success/
+부러지다==break/vỡ/break. VD: 뼈가 부러지다 = break a bone/
+부리다==do (to show sth)//do (to show sth). VD: 멋을 부리다 = dress smartly / beautifully/
+부처==buddha//buddha. VD: 부처를 따르다 = follow buddha/Phụ Xử
+불가==not allowed//not allowed. VD: 청소년 입장 불가 = youth not allowed/Bất Gia
+불어==french//french. VD: 불어로 말하다 = speak french/Bất Ngữ
+붙들다==hold, grap/giữ/hold, grap. VD: 팔을 붙들다 = hold one's arm/
+붙잡다==hold on, grap/giữ/hold on, grap. VD: 치맛자락을 붙잡다 = hold on to the hem of one's skirt/
+비기다==draw/vẽ/draw. VD: 동점으로 비기다 = draw with a tie/Phi Kỳ Đa
+비롯하다==include, begin/bắt đầu/include, begin. VD: 비롯한 일 = including work/
+비법==secret//secret. VD: 비법을 알려 주다 = tell the secret/Phi Pháp
+비웃다==make fun of, laugh at/làm/make fun of, laugh at. VD: 남의 의견을 비웃다 = laugh at someone else's opinion/
+비키다==get away//get away. VD: 자리를 비키다 = get out of the way/
+비하다==compare/so sánh/compare. VD: 비할 수 없다 = can't compare/
+빠져나가다==get out//get out. VD: 감옥에서 빠져나가다 = get out of jail/
+빠져나오다==get out//get out. VD: 몰래 빠져나오다 = sneak out/
+빼놓다==take out, pick out/lấy/take out, pick out. VD: 전구를 빼놓다 = take out a light bulb/
+빼앗기다==take away/lấy/take away. VD: 재산을 빼앗기다 = take away one's property/
+빼앗다==steal/ăn cắp/steal. VD: 돈을 빼앗다 = steal money/
+뺏다==take away/lấy/take away. VD: 돈을 뺏다 = take money away/
+뻗다==stretch, extend, grow//stretch, extend, grow. VD: 가지가 뻗다 = branch out/
+뽑히다==be elected, be drawn//be elected, be drawn. VD: 머리카락이 뽑히다 = pull out one's hair/
+사라지다==disappear/biến mất/disappear. VD: 회사가 사라지다 = the company disappears/
+사용법==how to use//how to use. VD: 사용법을 설명하다 = explain how to use/Sự Dụng Pháp
+사우나==sauna//sauna. VD: 사우나를 하다 = take a sauna/
+사이좋다==get along//get along. VD: 사이좋게 지내다 = get along well/
+살리다==save/cứu/save. VD: 목숨을 살리다 = save one's life/
+살아가다==live, keep living/sống/live, keep living. VD: 하루하루 살아가다 = live day by day/Sát Á Gia Đa
+살아오다==live, return alive/sống/live, return alive. VD: 간신히 살아오다 = barely able to live/Sát Á Ngũ Đa
+살펴보다==take a look/lấy/take a look. VD: 주위를 살펴보다 = take a look around/
+삼다==make/làm/make. VD: 며느리로 삼다 = make one's daughter-in-law/
+상승==increase/tăng/increase. VD: 물가 상승 = inflation, rise in prices/Thượng Thăng
+상영==screening, showing//screening, showing. VD: 영화 상영을 취소하다 = cancel a movie showing/Thượng Vĩnh
+상하==up and down//up and down. VD: 상하를 바꾸다 = turn upside down/Thượng Hạ
+새집==new house/mới/new house. VD: 새집으로 이사하다 = move to a new house/Tân Tập
+생김새==look, appearance/nhìn/look, appearance. VD: 생김새가 예쁘다 = the look is pretty/
+생산==produce/sản xuất/produce. VD: 대량 생산 = massive production/Sinh Sơn
+생활용품==household goods//household goods. VD: 생활용품을 구입하다 = buy daily necessities/Sinh Hoạt Dụng Phẩm
+서투르다==clumsy, unskilled//clumsy, unskilled. VD: 영어가 서투르다 = My English is not good/
+서툴다==clumsy, unskilled//clumsy, unskilled. VD: 영어가 서툴다 = English is not good/
+설득==persuade//persuade. VD: 설득을 당하다 = be persuaded/Thiết Đắc
+세대==households/thế hệ/households. VD: 세대가 줄다 = number of households decreases/Thế Đại
+세력==influence//influence. VD: 세력을 확장하다 = expand power/Thế Lực
+소나기==shower//shower. VD: 소나기가 내리다 = a shower falls/
+소리치다==yell, shout out//yell, shout out. VD: 크게 소리치다 = shout out loud/
+소변==pee//pee. VD: 소변이 마렵다 = gotta go pee/Tiểu Biến
+소용==use//use. VD: 소용이 없다 = be of no use/Tiểu Dụng
+소용없다==no use//no use. VD: 아무 소용없다 = be of no use/
+속다==get deceived//get deceived. VD: 거짓말에 속다 = be deceived by a lie/
+손잡다==hold hands, cooperate/giữ/hold hands, cooperate. VD: 서로 손잡다 = join hands/
+쇼==show//show. VD: 쇼를 보다 = watch a show/
+수요==demand//demand. VD: 수요가 늘다 = demand increases/Thủ Yếu
+수용==accept/chấp nhận/accept. VD: 조건 수용 = accept conditions/Thủ Dụng
+숙녀==lady//lady. VD: 숙녀로 자라다 = grow into a lady/Túc Nữ
+숨다==hide//hide. VD: 산 속으로 숨다 = hide in the mountains/
+숨지다==die, pass away/chết/die, pass away. VD: 사고로 숨지다 = die by accident/
+쉬다==hoarse//hoarse. VD: 목이 쉬다 = have a hoarse throat/
+슬쩍==stealthily, secretly//stealthily, secretly. VD: 슬쩍 묻다 = ask secretly/
+승패==win or lose/thắng/win or lose. VD: 승패를 가르다 = decide win or lose/Thăng Bại
+신입==newcomer//newcomer. VD: 신입 사원 = new employee/Tân Nhập
+신중==caution//caution. VD: 신중을 기하다 = pay close attention/Tân Trung
+실용적==useful//useful. VD: 실용적 기술 = practical skills/Thất Dụng Tích
+실종==disappearance//disappearance. VD: 실종 사건 = missing person case/Thất Chung
+싸다==take (a pee)/lấy/take (a pee). VD: 오줌을 싸다 = urinate, take a pee/
+싸움==fight/chiến đấu/fight. VD: 싸움이 나다 = get into a fight/
+쌍둥이==twins//twins. VD: 쌍둥이를 키우다 = raise twins/
+쓸데없이==needlessly//needlessly. VD: 쓸데없이 돈을 쓰다 = spend money needlessly/
+아깝다==be a waste//be a waste. VD: 돈이 아깝다 = money are wasted/
+아끼다==save/cứu/save. VD: 돈을 아끼다 = save money/
+아이고==gosh//gosh. VD: 아이고, 시끄러워 = gosh, it's noisy/
+아하==aha//aha. VD: 아하, 그렇구나 = aha, I see/Á Hạ
+안내원==attendant//attendant. VD: 안내원을 따라가다 = follow the attendant/An Nội Viên
+안되다==fail/thất bại/fail. VD: 형편이 안되다 = can't afford/
+안심==relief//relief. VD: 안심이 되다 = feel relieved/An Tâm
+안약==eyedrops//eyedrops. VD: 안약을 넣다 = take eye drops/An Ước
+알려지다==become known//become known. VD: 사실이 알려지다 = facts come to light/Yết Lữ Chỉ Đa
+알아듣다==understand/hiểu/understand. VD: 말귀를 알아듣다 = understand the meaning/
+앞머리==bangs//bangs. VD: 앞머리를 기르다 = grow out bangs/
+앞장서다==lead/dẫn/lead. VD: 앞장서 가다 = take the lead/
+앞집==next door//next door. VD: 앞집에 살다 = live next door/
+야외==outdoor//outdoor. VD: 야외로 나가다 = go outdoors/Dã Ngoại
+어찌하다==do//do. VD: 어찌할 수 없다 = can't do/
+없애다==remove/bỏ/remove. VD: 근심을 없애다 = get rid of worries/
+없어지다==disappear/biến mất/disappear. VD: 말이 없어지다 = become speechless/
+엎드리다==lie face down/nằm/lie face down. VD: 엎드려 자다 = sleep face down/
+엿보다==peek at//peek at. VD: 몰래 엿보다 = sneak a peek/
+예고==warning//warning. VD: 예고를 보다 = see a notice/Lễ Cổ
+오가다==come and go/đến/come and go. VD: 말이 오가다 = talk back and forth/Ngũ Gia Đa
+오르내리다==go up and down//go up and down. VD: 계단을 오르내리다 = go up and down stairs/
+오해==misunderstanding//misunderstanding. VD: 오해를 풀다 = resolve a misunderstanding/Ngũ Hải
+올라타다==get on//get on. VD: 비행기에 올라타다 = board a plane/
+올려다보다==look up/nhìn/look up. VD: 나무를 올려다보다 = look up at the tree/
+옮기다==move/di chuyển/move. VD: 숙소를 옮기다 = move accommodation/
+완성==complete//complete. VD: 한 달 완성 = completed in one month/Hoàn Thành
+외모==appearance//appearance. VD: 외모를 가꾸다 = take care of one's appearance/Ngoại Mô
+외치다==shout out//shout out. VD: 큰 소리로 외치다 = shout out loud/
+요청==request//request. VD: 요청을 받다 = receive a request/Yếu Thanh
+용==dragon//dragon. VD: 동물 = animal/
+우기다==insist//insist. VD: 끝까지 우기다 = persist until the end/Vũ Kỳ Đa
+우정==friendship//friendship. VD: 우정을 쌓다 = build friendship/Vũ Chính
+울리다==make cry/làm/make cry. VD: 아기를 울리다 = make a baby cry/
+움직임==movement//movement. VD: 움직임을 따라가다 = follow the moves/
+웃기다==make laugh/làm/make laugh. VD: 사람을 웃기다 = make people laugh/
+웃음소리==laughter//laughter. VD: 웃음소리가 나다 = have a laugh/
+원룸==single room/phòng/single room. VD: 원룸에 살다 = live in a single room/
+월세==rent//rent. VD: 월세를 내다 = pay rent/Nguyệt Thế
+위아래==up and down//up and down. VD: 위아래로 정렬하다 = arrange by hierarchy/
+유료==pay/trả/pay. VD: 무료 = free/Du Liệu
+유리창==glass window//glass window. VD: 유리창을 닦다 = wash a glass window/Du Lý Sáng
+으악==blagh//blagh. VD: 으악 하고 토하다 = throw up loudly/
+응답==answer/trả lời/answer. VD: 응답을 기다리다 = wait for response/Ứng Đáp
+이끌다==lead/dẫn/lead. VD: 단체를 이끌다 = lead a group/
+이루다==accomplish//accomplish. VD: 꿈을 이루다 = accomplish the dream/
+이룩하다==achieve//achieve. VD: 성장을 이룩하다 = achieve growth/
+이르다==tell/kể/tell. VD: 자세히 이르다 = tell in detail/
+이발==haircut//haircut. VD: 이발을 하다 = get a haircut/Nhị Phát
+이웃집==next door//next door. VD: 이웃집에 놀러 가다 = go to a neighbor's house/
+이해력==understanding//understanding. VD: 이해력이 부족하다 = lack of understanding/Nhị Hải Lực
+인상==increase/tăng/increase. VD: 요금 인상 = rate increase/Nhân Thượng
+일손==manpower//manpower. VD: 일손을 구하다 = look for workers/Nhất Tổn
+읽기==reading//reading. VD: 읽기를 배우다 = learn to read/
+읽히다==get to read/đọc/get to read. VD: 책을 읽히다 = get to read a book/
+입력==input//input. VD: 자료 입력 = data input/Nhập Lực
+잇다==connect//connect. VD: 끈을 잇다 = connect the strings/
+자==okay//okay. VD: 자, 갑시다 = Okay, let’s go./
+자라나다==grow up/lớn lên/grow up. VD: 몸이 자라나다 = body grows/Tử La Na Đa
+작은집==uncle's house/nhà/uncle's house. VD: 작은집에 가다 = go to uncle's house/
+잘나다==good-looking//good-looking. VD: 외모가 잘나다 = appearance is fine/
+잘리다==be cut/cắt/be cut. VD: 나무가 잘리다 = tree is cut down/
+잠자리==dragonfly//dragonfly. VD: 잠자리를 잡다 = catch dragonflies/
+잡아당기다==pull/kéo/pull. VD: 문을 잡아당기다 = pull the door open/
+재수==luck//luck. VD: 재수가 좋다 = good luck/Tài Thủ
+적어지다==become less//become less. VD: 사람이 적어지다 = fewer people/Tích Ngữ Chỉ Đa
+전국==around the country/quốc gia/around the country. VD: 전국을 돌다 = go around the country/Toàn Quốc
+전원==power supply//power supply. VD: 전원을 끄다 = turn off the power supply/Toàn Viên
+절==bow//bow. VD: 절을 올리다 = bow down/
+점==dot//dot. VD: 점을 찍다 = put a dot/
+접수==acception//acception. VD: 원서 접수 = application acception/Tiếp Thủ
+접어들다==enter/vào/enter. VD: 겨울에 접어들다 = winter arrives/
+접하다==learn about/học/learn about. VD: 소식을 접하다 = hear the news/
+정지==stop/dừng/stop. VD: 운행 정지 = stop operation/Chính Chỉ
+제거==removal//removal. VD: 냄새 제거 = deodorization/Chế Cư
+제시==suggestion//suggestion. VD: 의견 제시 = suggesting an opinion/Chế Thị
+제안==proposal//proposal. VD: 제안을 받다 = receive a proposal/Chế An
+제한==limit//limit. VD: 나이 제한 = age limit/Chế Hàn
+존재==existence//existence. VD: 존재를 인정하다 = admit existence/Tồn Tài
+주어지다==be given//be given. VD: 기회가 주어지다 = be given a chance/Chủ Ngữ Chỉ Đa
+주인공==protagonist//protagonist. VD: 주인공으로 나오다 = appear as the protagonist/Chủ Nhân Công
+죽이다==kill//kill. VD: 쥐를 죽이다 = kill a rat/Trúc Nhị Đa
+준비물==supplies//supplies. VD: 준비물을 챙기다 = pack supplies/Chuẩn Phi Vật
+줄어들다==decrease/giảm/decrease. VD: 숫자가 줄어들다 = number decreases/
+중고==used//used. VD: 중고 자동차 = used car/Trung Cổ
+중고품==used goods//used goods. VD: 중고품을 팔다 = sell used goods/Trung Cổ Phẩm
+중독==addiction//addiction. VD: 중독을 일으키다 = cause addiction/Trung Độc
+증가==increase/tăng/increase. VD: 인구 증가 = population growth/Tăng Gia
+지니다==carry/mang/carry. VD: 돈을 지니다 = carry money/
+지도자==leader//leader. VD: 지도자를 뽑다 = select a leader/Chỉ Đồ Tử
+지원==support/hỗ trợ/support. VD: 생활비 지원 = living expenses support/Chỉ Viên
+지출==expenses//expenses. VD: 지출이 늘다 = expenses increase/Chỉ Xuất
+지혜==wisdom//wisdom. VD: 지혜를 모으다 = put the knowledge together/Chỉ Huệ
+진통제==painkiller//painkiller. VD: 진통제를 먹다 = take painkillers/Trần Thông Chế
+집세==rent//rent. VD: 집세를 내다 = pay rent/Tập Thế
+집어넣다==put in/đặt/put in. VD: 감옥에 집어넣다 = put in prison/
+쫓아가다==follow/theo/follow. VD: 회사로 쫓아가다 = follow to work/
+쫓아다니다==follow/theo/follow. VD: 선배를 쫓아다니다 = follow a senior/
+쫓아오다==run after/chạy/run after. VD: 친구가 쫓아오다 = friend runs after/
+차창==car window/xe/car window. VD: 차창을 닦다 = wash car windows/Xa Sáng
+창==window//window. VD: 창을 열다 = open a window/
+창가==window seat//window seat. VD: 창가에 앉다 = sit by the window/
+창밖==outside a window//outside a window. VD: 창밖을 보다 = look out the window/
+찾아내다==find out//find out. VD: 보물을 찾아내다 = find treasure/
+천사==angel//angel. VD: 천사의 날개 = angel wings/Thiên Sự
+첨부==attachment//attachment. VD: 첨부 서류 = attached document/Thiêm Phụ
+청하다==ask/hỏi/ask. VD: 도움을 청하다 = Ask for help/
+체하다==have an upset stomach//have an upset stomach. VD: 밥이 체하다 = haste makes waste/
+초급==beginner//beginner. VD: 초급 단계 = beginner level/Sơ Cấp
+초보==beginner//beginner. VD: 초보 운전 = unexperienced driver/Sơ Bảo
+추천==recommendation//recommendation. VD: 추천 도서 = recommended books/Thu Thiên
+추천서==letter of recommendation//letter of recommendation. VD: 추천서를 쓰다 = write a letter of recommendation/Thu Thiên Thư
+취하다==get drunk//get drunk. VD: 술에 취하다 = get drunk with alcohol/
+치다==draw/vẽ/draw. VD: 밑줄을 치다 = draw an underline/
+치르다==pay/trả/pay. VD: 값을 치르다 = pay the price/
+콘도==condominium//condominium. VD: 콘도에서 묵다 = stay in a condo/
+쿵==thud//thud. VD: 쿵 소리가 나다 = make a thud/
+타다==receive/nhận/receive. VD: 월급을 타다 = get paid/
+택하다==choose/chọn/choose. VD: 직업으로 택하다 = choose as a profession/
+틈==crack//crack. VD: 창문 틈 = window crack/
+파마==perm//perm. VD: 파마를 하다 = get a perm/
+풀리다==come loose/đến/come loose. VD: 나사가 풀리다 = screw come loose/
+풀어지다==get loose//get loose. VD: 끈이 풀어지다 = strings get loose/
+품다==carry/mang/carry. VD: 아기를 품다 = carry a baby/Phẩm Đa
+필요성==need/cần/need. VD: 필요성을 느끼다 = feel the need/Tất Yếu Thành
+하==under//under. VD: 상하 = up and down/
+하차==get off//get off. VD: 승차 = get on/Hạ Xa
+학습==learning//learning. VD: 학습을 하다 = study/
+한==limit//limit. VD: 한이 없다(욕심) = unlimited (greed)/
+해내다==accomplish//accomplish. VD: 힘든 일을 해내다 = do a difficult job/Hải Nội Đa
+행운==luck//luck. VD: 행운이 오다 = get lucky/Hành Vận
+행하다==hold/giữ/hold. VD: 의식을 행하다 = perform a ritual/
+향하다==look at/nhìn/look at. VD: 눈길이 향하다 = eyes look at/
+형태==shape//shape. VD: 형태를 그리다 = draw a shape/Hình Thái
+확산==spread/lan rộng/spread. VD: 확산을 막다 = stop the spread/Xác Sơn
+활용==use//use. VD: 공간 활용 = space utilization/Hoạt Dụng
+활짝==wide open/rộng/wide open. VD: 활짝 열다 = open wide/
+훔치다==steal/ăn cắp/steal. VD: 물건을 훔치다 = steal something/
+휴대==carry/mang/carry. VD: 휴대가 간편하다 = easy to carry/Hưu Đại
+휴식==break/vỡ/break. VD: 휴식을 취하다 = take a break/Hưu Thực
+흘러내리다==run down/chạy/run down. VD: 빗물이 흘러내리다 = rainwater flows down/
+희망자==job seeker//job seeker. VD: 희망자를 모으다 = recruit job seekers/Hy Vọng Tử

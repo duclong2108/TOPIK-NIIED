@@ -1,78 +1,78 @@
-겪다==experience/kinh nghiệm/experience/
-견학==field trip, tour//field trip, tour/Kiến Học
-경력==work experience/làm việc/work experience/Kinh Lực
-곡==song//song/
-골==goal//goal/
-골프==golf//golf/
-공연장==concert hall//concert hall/Công Diên Trường
-관람객==audience//audience/Quan Lãm Khách
-기념품==souvenir//souvenir/Kỳ Niệm Phẩm
-기록==record//record/Kỳ Lục
-녹음==record//record/
-놀리다==make fun of/làm/make fun of/
-데우다==warm up, heat/ấm/warm up, heat/
-도서==book/sách/book/Đồ Thư
-동영상==video//video/Đồng Vĩnh Thượng
-동화책==fairy tale book/sách/fairy tale book/Đồng Hóa Sách
-드러내다==reveal, show//reveal, show/
-뛰어놀다==(run and) play/chơi/(run and) play/
-마라톤==marathon//marathon/
-만화책==comic book/sách/comic book/Vạn Hóa Sách
-메달==medal//medal/
-모금==fundraising//fundraising/Mô Kim
-모험==adventure//adventure/Mô Hiểm
-뮤지컬==musical//musical/
-민속놀이==folk games//folk games/
-바둑==baduk (a game)//baduk (a game)/
-반응==reaction//reaction/Bán Ứng
-발견==discovery/phát hiện/discovery/Phát Kiến
-발표회==concert, exhibition//concert, exhibition/Phát Biểu Hội
-배낭여행==backpacking trip//backpacking trip/Bồi Lang Dư Hành
-비극==tragedy//tragedy/Phi Cực
-뿌리다==spread, sprinkle//spread, sprinkle/
-사냥==hunt//hunt/
-서적==book/sách/book/Thư Tích
-설치==installation//installation/Thiết Trí
-성과==result, performance/kết quả/result, performance/Thành Quả
-소설책==a novel//a novel/Tiểu Thiết Sách
-수집==collection//collection/Thủ Tập
-수행==perform, conduct//perform, conduct/Thủ Hành
-시집==poetry book/sách/poetry book/Thị Tập
-시합==match//match/Thị Hợp
-식히다==cool down//cool down/
-실습==practice/luyện tập/practice/
-실천==practice/luyện tập/practice/Thất Thiên
-안기다==embrace//embrace/An Kỳ Đa
-연기==performance/màn trình diễn/performance/Diên Kỳ
-연주==performance/màn trình diễn/performance/Diên Chủ
-연주회==concert//concert/Diên Chủ Hội
-연체==overdue//overdue/Diên Thể
-영상==video//video/Vĩnh Thượng
-오락==entertainment//entertainment/Ngũ Lạc
-오락실==arcade//arcade/Ngũ Lạc Thất
-오페라==opera//opera/
-요가==yoga//yoga/Yếu Gia
-우습다==funny//funny/
-운동선수==athlete//athlete/Vận Đồng Tiên Thủ
-음반==record//record/Âm Bán
-음악회==concert//concert/Âm Ác Hội
-응원==cheer//cheer/Ứng Viên
-읽히다==be read/đọc/be read/
-전시==exhibition//exhibition/Toàn Thị
-전시회==exhibition//exhibition/Toàn Thị Hội
-조깅==jogging//jogging/
-지적==point out//point out/Chỉ Tích
-짓==act//act/
-체조==gymnastics//gymnastics/Thể Tổ
-체험==experience/kinh nghiệm/experience/Thể Hiểm
-촬영==filming//filming/
-축구장==football field//football field/Súc Cửu Trường
-축제==festival//festival/Súc Chế
-코미디==comedy//comedy/
-코트==court//court/
-파트너==partner//partner/
-팬==fan//fan/
-퍼지다==spread//spread/
-표==graph//graph/
-표지==book cover/sách/book cover/Biểu Chỉ
-흔적==trace//trace/
+겪다==experience/trải qua/experience. VD: 고통을 겪다 = suffer pain/
+견학==field trip, tour/tham quan/field trip, tour. VD: 박물관 견학 = a museum tour/Kiến Học
+경력==work experience/kinh nghiệm/work experience. VD: 경력을 쌓다 = gain experience/Kinh Lực
+곡==song//song. VD: 쇼팽의 곡 = Chopin's song/
+골==goal//goal. VD: 골을 넣다(축구) = score a goal/
+골프==golf//golf. VD: 골프 선수 = golf player/
+공연장==concert hall//concert hall. VD: 야외 공연장 = outdoor theater/Công Diên Trường
+관람객==audience//audience. VD: 영화 관람객 = movie audience/Quan Lãm Khách
+기념품==souvenir//souvenir. VD: 기념품을 받다 = receive souvenir/Kỳ Niệm Phẩm
+기록==record//record. VD: 기록을 남기다 = leave a record/Kỳ Lục
+녹음==record//record. VD: 녹음을 듣다 = listen to the recording/
+놀리다==make fun of/làm/make fun of. VD: 신나게 놀리다 = make fun of/
+데우다==warm up, heat/ấm/warm up, heat. VD: 찌개를 데우다 = warm up the stew/
+도서==book//book. VD: 도서 대출 = book loan/Đồ Thư
+동영상==video//video. VD: 동영상을 보다 = watch a video/Đồng Vĩnh Thượng
+동화책==fairy tale book//fairy tale book. VD: 동화책을 읽다 = read a fairy tale book/Đồng Hóa Sách
+드러내다==reveal, show//reveal, show. VD: 몸매를 드러내다 = show one's body/
+뛰어놀다==(run and) play/chơi/(run and) play. VD: 운동장에서 뛰어놀다 = play in the playground/
+마라톤==marathon//marathon. VD: 마라톤을 완주하다 = complete a marathon/
+만화책==comic book//comic book. VD: 만화책을 보다 = read comics/Vạn Hóa Sách
+메달==medal//medal. VD: 메달을 따다 = win a medal/
+모금==fundraising//fundraising. VD: 모금 운동 = a fundraising campaign/Mô Kim
+모험==adventure//adventure. VD: 모험을 즐기다 = enjoy the adventure/Mô Hiểm
+뮤지컬==musical//musical. VD: 뮤지컬을 보다 = watch a musical/
+민속놀이==folk games//folk games. VD: 민속놀이를 하다 = play folk games/
+바둑==baduk (a game)//baduk (a game). VD: 바둑을 두다 = play baduk/
+반응==reaction//reaction. VD: 반응을 보이다 = show a reaction/Bán Ứng
+발견==discovery//discovery. VD: 새로운 발견 = a new discovery/Phát Kiến
+발표회==concert, exhibition//concert, exhibition. VD: 음악 발표회 = a music concert/Phát Biểu Hội
+배낭여행==backpacking trip//backpacking trip. VD: 배낭여행을 떠나다 = go on a backpacking trip/Bồi Lang Dư Hành
+비극==tragedy//tragedy. VD: 비극이 일어나다 = tragedy occurs/Phi Cực
+뿌리다==spread, sprinkle/lan rộng/spread, sprinkle. VD: 빗방울이 뿌리다 = raindrops sprinkle/
+사냥==hunt//hunt. VD: 사냥을 하다 = go hunting/
+서적==book//book. VD: 서적을 읽다 = read a book/Thư Tích
+설치==installation//installation. VD: 인터넷 설치 = internet installation/Thiết Trí
+성과==result, performance/kết quả/result, performance. VD: 성과를 올리다 = increase performance/Thành Quả
+소설책==a novel//a novel. VD: 소설책을 읽다 = read a novel/Tiểu Thiết Sách
+수집==collection//collection. VD: 우표 수집 = stamp collection/Thủ Tập
+수행==perform, conduct//perform, conduct. VD: 업무 수행 = conduct of work, job performance/Thủ Hành
+시집==poetry book//poetry book. VD: 시집을 읽다 = read a poetry book/Thị Tập
+시합==match//match. VD: 시합에서 이기다 = win a matchStudy next #22: The 2101st – 2200th vocabulary words for TOPIK 2 by NIIEDStudy previous #20: The 1901st – 2000th vocabulary words for TOPIK 2 by NIIED/Thị Hợp
+식히다==cool down//cool down. VD: 차를 식히다 = cool the tea/
+실습==practice//practice. VD: 실습을 나가다 = go practice/
+실천==practice//practice. VD: 실천에 옮기다 = put into practice/Thất Thiên
+안기다==embrace//embrace. VD: 꽃다발을 안기다 = to embrace a bouquet/An Kỳ Đa
+연기==performance//performance. VD: 배우의 연기 = actor's performance/Diên Kỳ
+연주==performance//performance. VD: 피아노 연주 = piano performance/Diên Chủ
+연주회==concert//concert. VD: 피아노 연주회 = piano concert/Diên Chủ Hội
+연체==overdue//overdue. VD: 연체 도서 = overdue books/Diên Thể
+영상==video//video. VD: 영상에 담다 = capture on video/Vĩnh Thượng
+오락==entertainment//entertainment. VD: 오락 문화 = entertainment culture/Ngũ Lạc
+오락실==arcade//arcade. VD: 오락실에서 놀다 = play at the arcade/Ngũ Lạc Thất
+오페라==opera//opera. VD: 오페라를 보다 = watch opera/
+요가==yoga//yoga. VD: 요가를 배우다 = learn yoga/Yếu Gia
+우습다==funny//funny. VD: 표정이 우습다 = the expression is funny/
+운동선수==athlete//athlete. VD: 운동선수로 활동하다 = be active as an athlete/Vận Đồng Tiên Thủ
+음반==record//record. VD: 음반을 내다 = release a record/Âm Bán
+음악회==concert//concert. VD: 음악회에 가다 = go to a concert/Âm Ác Hội
+응원==cheer//cheer. VD: 응원을 보내다 = send cheers/Ứng Viên
+읽히다==be read/đọc/be read. VD: 책이 읽히다 = book is read/
+전시==exhibition//exhibition. VD: 전시 상품 = exhibition product/Toàn Thị
+전시회==exhibition//exhibition. VD: 전시회를 관람하다 = see an exhibition/Toàn Thị Hội
+조깅==jogging//jogging. VD: 조깅을 하다 = jog/
+지적==point out//point out. VD: 지적을 받다 = be pointed out/Chỉ Tích
+짓==act//act. VD: 나쁜 짓 = wrongdoing/
+체조==gymnastics//gymnastics. VD: 체조 경기 = gymnastics competition/Thể Tổ
+체험==experience/kinh nghiệm/experience. VD: 간접 체험 = indirect experience/Thể Hiểm
+촬영==filming//filming. VD: 촬영을 미루다 = postpone filming/
+축구장==football field//football field. VD: 축구장에서 축구를 하다 = play football on the field/Súc Cửu Trường
+축제==festival//festival. VD: 축제를 즐기다 = enjoy the festival/Súc Chế
+코미디==comedy//comedy. VD: 코미디 영화 = comedy movie/
+코트==court//court. VD: 농구 코트 = basketball court/
+파트너==partner//partner. VD: 파트너를 구하다 = seek for a partner/
+팬==fan//fan. VD: 영화 팬 = moviegoer/
+퍼지다==spread/lan rộng/spread. VD: 점점 퍼지다 = spread gradually/
+표==graph//graph. VD: 표로 나타내다 = display in a graph/
+표지==book cover//book cover. VD: 표지를 싸다 = wrap cover/Biểu Chỉ
+흔적==trace//trace. VD: 흔적을 남기다 = leave a trace/
