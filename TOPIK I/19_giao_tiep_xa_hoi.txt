@@ -1,10 +1,8 @@
-﻿감사==thanks/cảm ơn/lời biết ơn/Cảm tạ (感謝)
 거절==rejection/từ chối/không chấp nhận/Cự tuyệt (拒絶)
 거짓말==lie/nói dối/lời nói không thật/
 관계==relationship/mối quan hệ/sự liên hệ giữa người/Quan hệ (關係)
 관심==interest/quan tâm/sự chú ý/Quan tâm (關心)
 광고==advertisement/quảng cáo/truyền bá sản phẩm/Quảng cáo (廣告)
-교환==exchange/trao đổi/đổi lẫn nhau/Giao hoán (交換)
 규칙==rule/quy tắc/luật lệ/Quy tắc (規則)
 대답==answer/trả lời/đáp lại câu hỏi/Đối đáp (對答)
 대화==conversation/hội thoại/cuộc nói chuyện/Đối thoại (對話)
@@ -120,3 +118,5 @@
 모임==meeting/cuộc họp mặt/buổi gặp gỡ/
 상==award/giải thưởng/phần thưởng/Thưởng (賞)
 씨==Mr/Mrs/ông/bà/cách gọi tôn trọng sau tên/
+반==class/lớp học/lớp trong trường/Ban (班)
+방문==visit/thăm/đến thăm ai/Phỏng vấn (訪問)

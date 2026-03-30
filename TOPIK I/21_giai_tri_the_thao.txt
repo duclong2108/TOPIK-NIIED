@@ -41,7 +41,6 @@
 취미==hobby/sở thích/hoạt động yêu thích/Thú vị (趣味)
 피아노==piano/đàn piano/nhạc cụ phím/
 바이올린==violin/đàn vĩ cầm/nhạc cụ dây kéo/
-사진==photo/ảnh/hình chụp/Tả chân (寫真)
 디자인==design/thiết kế/sáng tạo hình thức/
 프로그램==program/chương trình/nội dung phát sóng/
 다이어트==diet/ăn kiêng/giảm cân/
@@ -54,7 +53,6 @@
 윷놀이==yut game/trò chơi yut/trò chơi truyền thống Hàn Quốc/
 신문==newspaper/báo/ấn phẩm tin tức hàng ngày/Tân văn (新聞)
 기타==guitar/đàn guitar/nhạc cụ dây gảy/
-노래방==karaoke/phòng hát/nơi hát karaoke/
 그림==picture/bức tranh/hình vẽ/
 등산==hiking/leo núi/đi bộ trên núi/Đăng sơn (登山)
 박수==applause/vỗ tay/sự tán thưởng/

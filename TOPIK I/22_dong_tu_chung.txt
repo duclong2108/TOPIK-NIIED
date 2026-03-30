@@ -8,7 +8,6 @@
 감다==close (eyes)/nhắm/nhắm mắt lại/
 감다==wash (hair)/gội/rửa tóc/
 걸다==hang/treo/đặt lên cao/
-경험==experience/trải nghiệm/kinh nghiệm thực tế/Kinh nghiệm (經驗)
 곧==soon/sắp/không lâu nữa/
 굳다==harden/cứng lại/trở nên cứng/
 굵다==thick/dày, to/có đường kính lớn/
@@ -27,7 +26,6 @@
 눕다==lie down/nằm/nằm xuống/
 늘다==increase/tăng/trở nên nhiều hơn/
 늙다==get old/già đi/trở nên già/
-달리다==run/chạy/di chuyển nhanh/
 닫다==close/đóng/đóng cửa lại/
 닮다==resemble/giống/trông giống nhau/
 던지다==throw/ném/ném đi/
@@ -57,7 +55,6 @@
 만들다==make/làm/tạo ra/
 만지다==touch/chạm/sờ vào/
 말다==stop/thôi/đừng, ngừng/
-맞다==be correct/đúng/chính xác/
 맞추다==adjust/điều chỉnh/làm cho khớp/
 매다==tie/buộc/thắt nút/
 먹다==eat/ăn/đưa thức ăn vào miệng/
@@ -73,16 +70,13 @@
 보이다==show/cho xem/trình bày/
 부르다==call/gọi/kêu ai đến/
 부르다==full/no/bụng đầy/
-불다==blow/thổi/luồng khí đi ra/
 붙다==stick/dính/bám vào/
 붙이다==paste/dán/gắn vào/
 뵙다==meet (honorific)/gặp (kính ngữ)/diện kiến/
-사귀다==make friends/kết bạn/làm bạn với ai/
 서다==stand/đứng/đứng lên/
 서두르다==hurry/vội vàng/gấp rút/
 세우다==set up/dựng lên/làm cho đứng/
 시키다==make do/sai bảo/yêu cầu ai làm/
-신다==put on (shoes)/đi (giày)/mang giày dép/
 싸우다==fight/đánh nhau/xung đột/
 쌓다==stack/chất đống/xếp chồng lên/
 쓰다==write/viết/ghi chép/
@@ -119,7 +113,6 @@
 잡다==catch/bắt/nắm lấy/
 잡수시다==eat (honorific)/xơi/ăn (kính ngữ)/
 적다==write down/ghi/ghi chép/
-전하다==deliver/truyền đạt/chuyển lời/
 접다==fold/gấp/xếp gấp/
 정하다==decide/quyết định/ấn định/
 젖다==get wet/ướt/bị thấm nước/
@@ -163,7 +156,6 @@
 다녀오다==be back (from)/đi về/đi rồi trở về/
 다니다==go (regularly)/đi lại/thường xuyên đến/
 다하다==complete/hết/làm hết sức/
-달다==hang/treo/gắn lên/
 미끄러지다==slip/trượt/trơn trượt/
 믿다==believe/tin/tin tưởng/
 바꾸다==change/đổi/thay đổi/
@@ -175,7 +167,6 @@
 빠지다==fall into/rơi vào/trượt vào/
 빼다==remove/bớt/lấy ra, trừ đi/
 뽑다==pull out/nhổ/rút ra/
-생각나다==think of/nhớ ra/nghĩ đến/
 생기다==arise/hình thành/xuất hiện, được tạo ra/
 셰우다==stop/dừng/làm cho dừng lại/
 싣다==load/chất hàng/xếp hàng lên xe/
@@ -190,14 +181,10 @@
 담배==cigarette/thuốc lá/sản phẩm hút/
 여쭙다==ask (honorific)/hỏi (kính ngữ)/thưa hỏi/
 싶다==want/muốn/mong muốn/
-꾸다==dream/mơ/nằm mơ/
-놓다==put, release/đặt, buông/đặt xuống hoặc thả/
-닫다==close/đóng/đóng lại/
 밀다==push/đẩy/dùng lực đẩy đi/
 열다==open/mở/mở ra/
 열리다==be opened/được mở/cửa tự mở/
 차다==be full/đầy/chứa đầy/
-걸다==make (a call)/gọi/gọi điện thoại/
 가다==go/đi/di chuyển đến nơi khác/
 그리다==draw/vẽ/dùng bút tạo hình/
 막히다==be blocked/bị tắc/bị cản trở/
@@ -220,3 +207,10 @@
 아래==below/phía dưới/bên dưới/
 아래쪽==downward/phía dưới/hướng xuống dưới/
 오래되다==be old/đã lâu/cũ, lâu năm/
+감다==wash (hair)/gội (đầu)/rửa tóc/
+찌다==steam/hấp/nấu bằng hơi nước/
+켜다==play (violin)/kéo (đàn)/chơi nhạc cụ dây/
+적다==write down/ghi/ghi chép/
+차다==kick/đá/đá bóng/
+차다==wear (watch)/đeo (đồng hồ)/đeo trên cổ tay/
+차다==cold/lạnh/gió lạnh/

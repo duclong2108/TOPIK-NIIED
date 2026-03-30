@@ -7,9 +7,7 @@
 깨끗이==cleanly/sạch sẽ/một cách sạch/
 꼭==surely/chắc chắn/nhất định/
 그냥==just/chỉ, cứ thế/không có lý do/
-금방==just now/vừa mới/mới đây/
 너무==too much/quá/vượt mức/
-늘==always/luôn luôn/mọi lúc/
 다==all/tất cả/hết thảy/
 다시==again/lại/một lần nữa/
 따로==separately/riêng/tách biệt/
@@ -84,3 +82,4 @@
 함께==together/cùng nhau/chung với nhau/
 조용히==quietly/yên lặng/không ồn ào/
 보통==usually/thường/bình thường/Bổ thống (普通)
+높이==highly/cao/ở mức cao/

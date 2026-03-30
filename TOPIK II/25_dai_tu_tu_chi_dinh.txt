@@ -1,6 +1,8 @@
 -문==(writing)//(writing). VD: 기행문 = travelogue, travel essay/
 -법==(method)//(method). VD: 교수법 = teaching method/
 -사==-(professional)//-(professional). VD: 변호사 = lawyer/
+-사==-(professional)//-(professional). VD: 신문사 = newspaper/
+-사==-(professional)//-(professional). VD: 요리사 = chef/
 -성==(characteristics)//(characteristics). VD: 인간성 = humanity, human nature/
 -소==(institution)//(institution). VD: 연구소 = research institute/
 -원==(institute)//(institute). VD: 대학원 = graduate school/
@@ -173,6 +175,7 @@
 도중==being in the middle//being in the middle. VD: 도중에 끼어들다 = cut in the midway/Đồ Trung
 동그라미==circle//circle. VD: 동그라미를 그리다 = draw a circle/
 동기==motivation//motivation. VD: 대학 동기 = alumnus, same university/Đồng Kỳ
+동기==motivation//motivation. VD: 동기를 유발하다 = arouse motivation/Đồng Kỳ
 동양인==an Asian//an Asian. VD: 동양인을 만나다 = meet an Asian/Đồng Dương Nhân
 동일==same/giống nhau/same. VD: 동일 조건 = the same condition/Đồng Nhất
 동창==alumni//alumni. VD: 동창을 만나다 = meet an alumni/Đồng Sáng

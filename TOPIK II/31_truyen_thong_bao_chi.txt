@@ -11,6 +11,7 @@
 쐬다==expose//expose. VD: 바람을 쐬다 = get some air/
 언론==press, news//press, news. VD: 언론 매체 = news media/Ngôn Luận
 우편==post//post. VD: 우편으로 보내다 = send by mail/Vũ Thiên
+우편==post//post. VD: 우편으로 보내다 = send by mail/Vũ Thiên
 유통==circulation//circulation. VD: 자본의 유통 = circulation of capital/Du Thông
 자세==posture//posture. VD: 자세를 잡다 = strike a pose/Tử Thế
 진행자==MC, host//MC, host. VD: 뉴스 진행자 = a newscaster/Trần Hành Tử

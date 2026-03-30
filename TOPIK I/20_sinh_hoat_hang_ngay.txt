@@ -15,12 +15,9 @@
 보내다==send/gửi/chuyển đi/
 빌리다==borrow/mượn/vay mượn/
 사귀다==date, befriend/kết bạn/làm quen/
-산책==stroll/đi dạo/đi bộ thư giãn/Tán sách (散策)
 살다==live/sống/sinh sống/
 샤워==shower/tắm vòi hoa sen/tắm nhanh/
 설거지==dish washing/rửa bát/rửa chén đĩa/
-세수==face wash/rửa mặt/vệ sinh buổi sáng/
-세탁==laundry/giặt giũ/giặt quần áo/Tẩy trạc (洗濯)
 쉬다==rest/nghỉ ngơi/thư giãn/
 쉬다==breathe/thở/hít thở/
 쓰레기==garbage/rác/đồ bỏ đi/
@@ -28,7 +25,6 @@
 씻다==wash/rửa/làm sạch bằng nước/
 예약==reservation/đặt trước/đặt chỗ/Dự ước (豫約)
 예매==booking/mua trước/đặt mua vé trước/Dự mại (豫買)
-이사==moving/chuyển nhà/thay đổi nơi ở/Di tả (移徙)
 이삿짐==moving luggage/đồ chuyển nhà/hành lý khi chuyển nhà/
 자다==sleep/ngủ/nghỉ ngơi ban đêm/
 잠==sleep/giấc ngủ/trạng thái ngủ/

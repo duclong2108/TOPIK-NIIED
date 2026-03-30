@@ -3,10 +3,8 @@
 가볍다==light/nhẹ/không nặng/
 같다==same/giống/như nhau/
 강하다==strong/mạnh/có sức mạnh/Cường (強)
-괜찮다==okay/ổn/không sao, chấp nhận được/
 급하다==urgent/gấp/vội vàng/Cấp (急)
 넓다==wide/rộng/có diện tích lớn/
-높다==high/cao/ở vị trí trên/
 다르다==different/khác/không giống nhau/
 다른==different/khác/không giống/
 덥다==hot/nóng/nhiệt độ cao (thời tiết)/
@@ -27,24 +25,20 @@
 시끄럽다==noisy/ồn ào/tiếng to/
 쉽다==easy/dễ/không khó/
 쌀쌀하다==chilly/se lạnh/thời tiết lạnh nhẹ/
-아프다==sick/đau/cảm thấy đau/
 약하다==weak/yếu/không mạnh/Nhược (弱)
 어둡다==dark/tối/thiếu ánh sáng/
 어렵다==difficult/khó/không dễ dàng/
 얇다==thin/mỏng/bề dày nhỏ/
-없다==not exist/không có/thiếu vắng/
 예쁘다==pretty/xinh đẹp/có ngoại hình đẹp/
 옳다==right/đúng/chính xác, đúng đắn/
 이르다==early/sớm/trước thời gian dự kiến/
 익다==ripe/chín/quả đã chín/
 익숙하다==familiar/quen thuộc/đã quen/
 잘생기다==handsome/đẹp trai/có ngoại hình đẹp (nam)/
-적다==few/ít/số lượng nhỏ/
 적당하다==suitable/vừa phải/phù hợp/Thích đáng (適當)
 젊다==young/trẻ/tuổi còn trẻ/
 조용하다==quiet/yên tĩnh/không ồn ào/
 좁다==narrow/hẹp/diện tích nhỏ/
-좋다==good/tốt/có chất lượng tốt/
 짧다==short/ngắn/chiều dài nhỏ/
 차갑다==cold/lạnh/nhiệt độ thấp (vật)/
 차다==cold/lạnh/gió lạnh/
@@ -59,7 +53,6 @@
 간단하다==simple/đơn giản/không phức tạp/Giản đan (簡單)
 고프다==hungry/đói/bụng trống rỗng/
 길다==long/dài/chiều dài lớn/
-깊다==deep/sâu/có độ sâu/
 날씬하다==slim/mảnh mai/thon thả/
 낮다==low/thấp/ở vị trí dưới/
 느리다==slow/chậm/tốc độ thấp/
@@ -95,3 +88,4 @@
 유명==famous/nổi tiếng/được nhiều người biết/Hữu danh (有名)
 정확==exact/chính xác/đúng đắn/Chính xác (正確)
 지루하다==boring/chán/tẻ nhạt/
+낫다==better/tốt hơn/khá hơn, vượt trội hơn/

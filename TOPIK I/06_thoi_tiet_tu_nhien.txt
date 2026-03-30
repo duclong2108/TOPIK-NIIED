@@ -4,7 +4,6 @@
 구름==cloud/mây/hơi nước trên trời/
 기온==temperature/nhiệt độ không khí/độ nóng lạnh/Khí ôn (氣溫)
 날씨==weather/thời tiết/tình hình khí hậu/
-눈==snow/tuyết/băng rơi từ trời/
 바다==ocean/biển/vùng nước mặn rộng lớn/
 바닷가==beach/bãi biển/bờ biển có cát/
 바람==wind/gió/không khí chuyển động/

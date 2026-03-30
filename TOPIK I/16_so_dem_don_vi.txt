@@ -7,7 +7,6 @@
 일곱==seven/bảy/số 7 (thuần Hàn)/
 여덟==eight/tám/số 8 (thuần Hàn)/
 아홉==nine/chín/số 9 (thuần Hàn)/
-열==ten/mười/số 10 (thuần Hàn)/
 스물==twenty/hai mươi/số 20 (thuần Hàn)/
 스무==twenty/hai mươi/số 20 dùng trước danh từ/
 서른==thirty/ba mươi/số 30 (thuần Hàn)/
@@ -24,7 +23,6 @@
 오==five/năm/số 5 (Hán)/Ngũ (五)
 육==six/sáu/số 6 (Hán)/Lục (六)
 칠==seven/bảy/số 7 (Hán)/Thất (七)
-팔==eight/tám/số 8 (Hán)/Bát (八)
 구==nine/chín/số 9 (Hán)/Cửu (九)
 십==ten/mười/số 10 (Hán)/Thập (十)
 이십==twenty/hai mươi/số 20 (Hán)/Nhị thập (二十)
@@ -77,6 +75,5 @@
 호==number, issue/số (tạp chí)/số hiệu/Hiệu (號)
 회==episode/tập, lần/số lần/Hồi (回)
 정도==degree/mức độ/khoảng chừng/Trình độ (程度)
-살==year old/tuổi/đơn vị tuổi/
-세==age/tuổi (Hán)/đơn vị tuổi (Hán)/Tuế (歲)
 키==height/chiều cao/độ cao của người/
+세==age/tuổi (Hán)/đơn vị tuổi/Tuế (歲)

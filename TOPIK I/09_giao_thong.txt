@@ -33,7 +33,6 @@
 지하도==underpass/đường hầm/lối đi ngầm dưới đất/Địa hạ đạo (地下道)
 지하철==subway/tàu điện ngầm/phương tiện ngầm dưới đất/Địa hạ thiết (地下鐵)
 지하철역==subway station/ga tàu điện ngầm/nơi dừng tàu điện ngầm/
-차==car/xe/phương tiện giao thông/Xa (車)
 택시==taxi/xe taxi/xe cho thuê có tài xế/
 터미널==terminal/bến xe/nơi xe xuất phát/
 트럭==truck/xe tải/xe chở hàng lớn/

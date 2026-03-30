@@ -7,7 +7,6 @@
 저==I (humble)/tôi (khiêm nhường)/đại từ ngôi thứ nhất (lịch sự)/
 저희==we (humble)/chúng tôi (khiêm nhường)/đại từ ngôi thứ nhất số nhiều (lịch sự)/
 제==my (humble)/của tôi/sở hữu ngôi thứ nhất (lịch sự)/
-자신==oneself/bản thân/chính mình/Tự tín (自信)
 스스로==by oneself/tự mình/tự bản thân/
 이==this/này/chỉ vật gần người nói/
 이거==this/cái này/vật gần (nói tắt)/
@@ -21,26 +20,20 @@
 그거==that/cái đó/vật đó (nói tắt)/
 그것==that/cái đó/vật ở xa vừa/
 그곳==there/nơi đó/chỗ đó/
-그날==that day/ngày đó/ngày được nhắc đến/
 그대로==as it is/nguyên vậy/giữ nguyên/
-그동안==in the meantime/trong lúc đó/khoảng thời gian qua/
-그때==at that time/lúc đó/thời điểm đó/
 그런==such/loại đó/kiểu như vậy/
 그렇다==yes, so/đúng vậy/là như thế/
 그분==that person/vị đó/người đó (kính ngữ)/
 그쪽==that side/phía đó/hướng đó/
 거기==there/ở đó/nơi đó/
-저==that (far)/kia/chỉ vật ở xa/
 저거==that (far)/cái kia/vật xa (nói tắt)/
 저것==that (far)/cái kia/vật ở xa/
 저곳==over there/nơi kia/chỗ xa/
 저기==there (far)/đằng kia/nơi ở xa/
 저런==that kind (far)/loại kia/kiểu như thế kia/
 저렇다==like that (far)/như thế kia/kiểu kia/
-저번==last time/lần trước/dịp trước/
 저분==that person (far)/vị kia/người kia (kính ngữ)/
 저쪽==that side (far)/phía kia/hướng kia/
-누구==who/ai/đại từ hỏi người/
 무슨==what/gì (trước danh từ)/từ hỏi về loại/
 무엇==what/cái gì/đại từ hỏi vật/
 뭐==what/gì/rút gọn của 무엇/
@@ -49,11 +42,9 @@
 어떠하다==how about/thế nào/hỏi ý kiến/
 어떤==which, what kind/loại nào/từ hỏi đặc điểm/
 어떻다==how/như thế nào/hỏi trạng thái/
-언제==when/khi nào/từ hỏi thời gian/
 얼마==how much/bao nhiêu/từ hỏi giá hoặc lượng/
 얼마나==how much/bao nhiêu/từ hỏi mức độ/
 왜==why/tại sao/từ hỏi lý do/
-몇==how many/mấy/từ hỏi số lượng/
 여기==here/ở đây/nơi người nói đứng/
 여기저기==here and there/chỗ này chỗ kia/nhiều nơi/
 그래==yes, ok/ừ, ok/đồng ý (thân mật)/
@@ -64,7 +55,6 @@
 아니요==no/không ạ/phủ định (lịch sự)/
 응==yes/ừ/đồng ý (thân mật)/
 예==yes/vâng/đồng ý (lịch sự)/
-안==not/không/phủ định trước động từ/
 못==cannot/không thể/bất khả năng/
 거==thing/cái/vật (nói tắt của 것)/
 것==thing/cái, điều/sự vật, sự việc/
@@ -87,7 +77,6 @@
 이상==strange/lạ/bất thường/Dị thường (異常)
 최고==best/tốt nhất/cao nhất/Tối cao (最高)
 최근==recent/gần đây/mới đây/Tối cận (最近)
-초==beginning/đầu/phần bắt đầu/Sơ (初)
 끝==end/kết thúc/phần cuối/
 끝나다==end/kết thúc/chấm dứt/
 끝내다==finish/hoàn thành/làm xong/
@@ -106,7 +95,6 @@
 옛==old/cũ, xưa/thuộc về quá khứ/
 옛날==long ago/ngày xưa/thời xa xưa/
 사이==between/giữa/khoảng cách giữa/
-새==new/mới/chưa từng có/
 글쎄==well/ừm/tỏ ý do dự/
 글쎄요==well/ừm ạ/tỏ ý do dự (lịch sự)/
 아==ah/a/thán từ ngạc nhiên/
@@ -116,3 +104,4 @@
 음==hmm/ừm/thán từ suy nghĩ/
 올림==sincerely/kính gửi/cách kết thúc thư/
 첫==first/đầu tiên/lần đầu tiên/
+이상==strange/lạ/bất thường/Dị thường (異常)

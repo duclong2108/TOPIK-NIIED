@@ -25,7 +25,6 @@
 목요일==Thursday/thứ Năm/ngày thứ 5 trong tuần/Mộc diệu nhật (木曜日)
 방금==just now/vừa mới/vừa xong/
 수요일==Wednesday/thứ Tư/ngày thứ 4 trong tuần/Thủy diệu nhật (水曜日)
-시==hour/giờ/đơn vị thời gian 60 phút/Thì (時)
 시간==time/thời gian/thời gian nói chung/Thời gian (時間)
 아까==a while ago/lúc nãy/thời gian gần đây/
 아침==morning/buổi sáng/đầu ngày/
@@ -106,3 +105,4 @@
 생신==birthday (honorific)/sinh nhật (kính ngữ)/ngày sinh (tôn kính)/
 생일==birthday/sinh nhật/ngày sinh/Sinh nhật (生日)
 연휴==holiday/kỳ nghỉ lễ/nhiều ngày nghỉ liên tiếp/Liên hưu (連休)
+초==beginning/đầu/phần bắt đầu/Sơ (初)

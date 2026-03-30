@@ -6,7 +6,6 @@
 교회==church/nhà thờ/nơi thờ phụng Cơ đốc giáo/Giáo hội (教會)
 극장==theater/rạp hát/nơi xem biểu diễn hoặc phim/Kịch trường (劇場)
 근처==nearby/gần đây/khu vực xung quanh/Cận xử (近處)
-꽃다발==bouquet/bó hoa/hoa bó lại tặng/
 노래방==karaoke/phòng karaoke/nơi hát karaoke/
 도서관==library/thư viện/nơi mượn và đọc sách/Đồ thư quán (圖書館)
 도시==city/thành phố/khu vực đô thị/Đô thị (都市)
@@ -18,7 +17,6 @@
 미용실==beauty salon/tiệm làm tóc/nơi cắt tóc làm đẹp/
 박물관==museum/bảo tàng/nơi trưng bày cổ vật/Bác vật quán (博物館)
 방송국==broadcast station/đài phát thanh/nơi sản xuất chương trình/Phát tống cục (放送局)
-백화점==department store/cửa hàng bách hóa/trung tâm thương mại/Bách hóa điếm (百貨店)
 서점==bookstore/hiệu sách/nơi bán sách/Thư điếm (書店)
 센터==center/trung tâm/cơ sở phục vụ/
 시내==downtown/trung tâm thành phố/khu vực trung tâm/Thị nội (市內)
@@ -63,4 +61,3 @@
 지하==basement/tầng hầm/dưới mặt đất/Địa hạ (地下)
 층==floor/tầng/mỗi tầng trong tòa nhà/Tằng (層)
 한식집==Korean restaurant/nhà hàng Hàn Quốc/quán ăn Hàn/
-양식집==Western restaurant/nhà hàng Tây/quán ăn phương Tây/
