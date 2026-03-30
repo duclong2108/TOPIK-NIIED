@@ -1,0 +1,101 @@
+-행==destination//destination. VD: 서울행 = to Seoul/
+가로등==streetlamp//streetlamp. VD: 가로등이 켜지다 = streetlight is turn on/Gia Lộ Đẳng
+간판==signboard//signboard. VD: 간판을 걸다 = hang a signboard/Gian Phán
+거치다==pass by//pass by. VD: 도시를 거치다 = pass by a city/Cư Trí Đa
+건너==cross over//cross over. VD: 길 건너 = cross the road/
+건널목==crossing, crosswalk//crossing, crosswalk. VD: 건널목을 건너가다 = cross a crosswalk/
+경비==expense//expense. VD: 여행 경비 = travel expense/Kinh Phi
+과속==speeding//speeding. VD: 과속 운전 = overdrive/Quả Tốc
+교통수단==transportation//transportation. VD: 교통수단을 이용하다 = use transportation/Giáo Thông Thủ Đoàn
+교통편==transportation//transportation. VD: 교통편을 예약하다 = book transportation/Giáo Thông Thiên
+국외==abroad//abroad. VD: 국외로 수출하다 = export abroad/Quốc Ngoại
+군==(a local district) gun//(a local district) gun. VD: 행정 구역 = an administrative district/
+기사==driver//driver. VD: 버스 기사 = a bus driver/Kỳ Sự
+길거리==street//street. VD: 길거리를 걷다 = walk down the street/
+넘기다==to pass over//to pass over. VD: 해를 넘기다 = pass the year/
+노선==line, route//line, route. VD: 지하철 노선 = subway line/Nô Tiên
+노선도==route map//route map. VD: 버스 노선도 = bus route map/Nô Tiên Đồ
+대로==main street, main road/đường/main street, main road. VD: 대로로 나서다 = go out on the road/Đại Lộ
+대중교통==public transport//public transport. VD: 대중교통으로 가다 = go by public transport/Đại Trung Giáo Thông
+도로==road/đường/road. VD: 도로 오다 = come to a road/Đồ Lộ
+돌보다==take care/lấy/take care. VD: 아이를 돌보다 = take care of a child/
+드라이브==drive/lái/drive. VD: 드라이브를 나가다 = go out for a drive/
+렌터카==car rental/xe hơi/car rental. VD: 렌터카를 빌리다 = rent a (rental) car/
+막==carelessly//carelessly. VD: 막 쓰다 = use carelessly/
+면허==license//license. VD: 면허를 따다 = get a license/Miên Hứa
+목적지==destination//destination. VD: 목적지에 도착하다 = arrive at the destination/Mộc Tích Chỉ
+몰다==drive/lái/drive. VD: 구석으로 몰다 = drive into a corner/Một Đa
+몰리다==be driven//be driven. VD: 구석으로 몰리다 = be driven into a corner/Một Lý Đa
+바퀴==wheel//wheel. VD: 바퀴가 돌다 = wheel turns/
+밝히다==light (a lamp)/nhẹ/light (a lamp). VD: 전등을 밝히다 = light a lamp/
+배편==ship//ship. VD: 배편으로 보내다 = send by ship/Bồi Thiên
+번호표==number ticket//number ticket. VD: 번호표를 받다 = get a number ticket/Phiên Hồ Biểu
+보살피다==take care of/lấy/take care of. VD: 아이들을 보살피다 = take care of children/Bảo Sát Bì Đa
+보행자==pedestrian//pedestrian. VD: 보행자 도로 = pedestrian road/Bảo Hành Tử
+분실==lost//lost. VD: 분실 사고 = loss accident/Phân Thất
+비행==flight//flight. VD: 야간 비행 = night flight/Phi Hành
+비행장==airfield, airport//airfield, airport. VD: 비행장에 착륙하다 = land at an airport/Phi Hành Trường
+빛==light/nhẹ/light. VD: 빛이 나다 = shine, light up/
+사인==sign//sign. VD: 사인을 하다 = to sign/Sự Nhân
+새기다==carve//carve. VD: 도장을 새기다 = engrave a seal/Tân Kỳ Đa
+생방송==live broadcast/sống/live broadcast. VD: 생방송으로 방영되다 = be broadcast live/Sinh Phương Tống
+소방차==fire truck//fire truck. VD: 소방차가 출동하다 = fire truck arrives/Tiểu Phương Xa
+승객==passenger//passenger. VD: 승객을 태우다 = pick up a passenger/Thăng Khách
+승용차==car/xe hơi/car. VD: 스용차를 운전하다 = drive a car/Thăng Dụng Xa
+승차==ride/cưỡi/ride. VD: 승차 거부 = refused ride/Thăng Xa
+승차권==ticket//ticket. VD: 승차권을 끊다 = issue ticket/Thăng Xa Quyền
+싫증==tiredness//tiredness. VD: 싫증이 나다 = get tired of/
+안전띠==seat belt//seat belt. VD: 안전띠를 매다 = fasten the seat belt/
+앉히다==seat//seat. VD: 자리에 앉히다 = seat in place/
+여행가==traveler//traveler. VD: 배낭 여행가 = backpacker/Dư Hành Gia
+역할==role//role. VD: 역할을 정하다 = assign a role/Dịch Cát
+오토바이==motorcycle//motorcycle. VD: 오토바이를 타다 = ride a motorcycle/
+왕복==round trip//round trip. VD: 왕복으로 운행하다 = run round trip/Vương Phục
+우연==accident//accident. VD: 우연의 일치 = coincidence/Vũ Diên
+운반==transportation//transportation. VD: 이삿짐 운반 = transportation of moving goods/Vận Bán
+운전기사==driver//driver. VD: 운전기사가 안내하다 = the driver guides/Vận Toàn Kỳ Sự
+운전면허==driver's license//driver's license. VD: 운전면허를 따다 = get a driver's license/Vận Toàn Miên Hứa
+운행==public transport run/chạy/public transport run. VD: 운행 노선 = operation route/Vận Hành
+의욕==drive/lái/drive. VD: 의욕이 넘치다 = be full of drive/Nghị Dục
+인도==sidewalk//sidewalk. VD: 인도로 걷다 = walk along the sidewalk/Nhân Đồ
+입국==entrance//entrance. VD: 출국 = departure/Nhập Quốc
+입학식==entrance ceremony//entrance ceremony. VD: 입학식을 치르다 = hold an entrance ceremony/Nhập Học Thực
+자가용==own car/xe hơi/own car. VD: 자가용으로 출근하다 = go to work by car/Tử Gia Dụng
+자리==seat//seat. VD: 자리를 펴다 = unfold one's seat/Tử Lý
+자부심==pride//pride. VD: 자부심을 느끼다 = feel pride/Tử Phụ Tâm
+자존심==pride//pride. VD: 자존심을 지키다 = keep one's pride/Tử Tồn Tâm
+잠옷==pajamas//pajamas. VD: 잠옷을 입다 = wear pajamas/
+잼==jam//jam. VD: 잼을 바르다 = spread jam/
+접속==connection//connection. VD: 접속을 끊다 = disconnect/Tiếp Tốc
+조심스럽다==careful//careful. VD: 말이 조심스럽다 = be careful with one's words/
+좌석==seat//seat. VD: 좌석에 앉다 = take one's seat/Tả Thạch
+주차권==parking ticket//parking ticket. VD: 주차권을 사다 = buy a parking ticket/Chủ Xa Quyền
+중고차==used car/xe hơi/used car. VD: 중고차를 사다 = buy a used car/Trung Cổ Xa
+중형차==midsize car/xe hơi/midsize car. VD: 중형차를 운전하다 = drive a midsize car/Trung Hình Xa
+지름길==shortcut//shortcut. VD: 지름길로 가다 = take a shortcut/
+지정==designation//designation. VD: 지정 좌석 = designated seat/Chỉ Chính
+진로==career path//career path. VD: 진로를 결정하다 = decide on the career path/Trần Lộ
+차도==driveway//driveway. VD: 차도로 다니다 = drive on the road/Xa Đồ
+차량==vehicle//vehicle. VD: 차량을 통제하다 = control the vehicle/Xa Lượng
+차로==road/đường/road. VD: 차로를 건너다 = cross the road/Xa Lộ
+차비==transport fare//transport fare. VD: 차비를 내다 = pay the transport fare/Xa Phi
+차선==lane//lane. VD: 차선을 변경하다 = change the lane/Xa Tiên
+철도==railroad//railroad. VD: 도시 철도 = urban railway/Thiết Đồ
+출국==departure//departure. VD: 출국 수속 = departure process/Xuất Quốc
+충돌==crash//crash. VD: 자동차 충돌 = car crash/
+취재==cover//cover. VD: 취재 기자 = assigned reporter/Thủ Tài
+탑승객==passenger//passenger. VD: 비행기 탑승객 = airplane passenger/
+태우다==give a ride/cho/give a ride. VD: 차에 태우다 = give a ride in the car/Thái Vũ Đa
+터널==tunnel//tunnel. VD: 터널을 지나다 = pass a tunnel/
+통과==pass//pass. VD: 국경 통과 = border passing/Thông Quả
+통행==pass//pass. VD: 통행을 금지하다 = prohibit passing/Thông Hành
+폭넓다==broad//broad. VD: 범위가 폭넓다 = the range is broad/
+표지판==sign//sign. VD: 표지판을 세우다 = set up a sign/Biểu Chỉ Phán
+학용품==stationery//stationery. VD: 학용품을 준비하다 = prepare school supplies/Học Dụng Phẩm
+합격==pass//pass. VD: 면접 합격 = interview passed/Hợp Cách
+항공료==airfare//airfare. VD: 항공료가 오르다 = airfare rises/Hàng Công Liệu
+항공편==flight//flight. VD: 항공편을 알아보다 = search for a flight/Hàng Công Thiên
+허리띠==belt//belt. VD: 허리띠를 매다 = fasten one's belt/
+허용==permit//permit. VD: 입학 허용 = admission permit/Hứa Dụng
+현관==entrance//entrance. VD: 현관에 들어서다 = walk into the entrance/Hiện Quan
+환승역==transfer station//transfer station. VD: 환승역에서 갈아타다 = transfer at a junction/Hoàn Thăng Dịch

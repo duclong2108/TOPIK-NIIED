@@ -1,0 +1,116 @@
+-생==(birth)//(birth). VD: 년생 = year of birth/
+-스럽다==(adjective)-ful//(adjective)-ful. VD: 자랑스럽다 = proudful/
+-적==(adjective)//(adjective). VD: 일반적 = in general/
+가로막다==obstruct//obstruct. VD: 길을 가로막다 = block the way/Gia Lộ Mạc Đa
+간접적==indirect//indirect. VD: 간접적 영향 = indirect influence/Gian Tiếp Tích
+간호==nursing care//nursing care. VD: 간호를 받다 = receive nursing care/Gian Hồ
+건축==construction//construction. VD: 건축 공사 = construction work/Kiến Súc
+고통==pain//pain. VD: 고통을 견디다 = endure pain/Cổ Thông
+고통스럽다==painful//painful. VD: 고통스러운 표정 = a painful look/
+괴롭다==painful, suffering//painful, suffering. VD: 마음이 괴롭다 = be distressed/
+구경거리==spectacle, attraction//spectacle, attraction. VD: 구경거리가 많다 = many attractions/Cửu Kinh Cư Lý
+그림책==picture book/sách/picture book. VD: 그림책을 보다 = see a picture book/
+기능==function//function. VD: 기능이 다양하다 = diverse functions/Kỳ Năng
+기둥==pillar//pillar. VD: 기둥을 세우다 = build a pillar/
+긴급==emergency//emergency. VD: 긴급 구조 = emergency rescue/Khẩn Cấp
+끊기다==be cut off/cắt/be cut off. VD: 다리가 끊기다 = the leg is cut off/
+끊어지다==be cut off/cắt/be cut off. VD: 줄이 끊어지다 = the rope is broken/
+낳다==give birth/cho/give birth. VD: 아기를 낳다 = give birth to a baby/
+데다==burn/đốt/burn. VD: 불에 데다 = be burned by fire/
+도마==cutting board//cutting board. VD: 도마에 놓고 썰다 = cut on a cutting board/Đồ Mã
+도입==introduction//introduction. VD: 기술 도입 = technology introduction/Đồ Nhập
+독감==flu//flu. VD: 독감에 걸리다 = catch the flu/Độc Cảm
+두통약==headache pill//headache pill. VD: 두통약을 복용하다 = take headache medicine/Đầu Thông Ước
+뜻밖==unexpected//unexpected. VD: 뜻밖의 사실 = unexpected fact/
+뜻밖에==unexpectedly//unexpectedly. VD: 뜻밖에 나타나다 = appear unexpectedly/
+마약==drug//drug. VD: 마약에 중독되다 = addicted to drugs/Mã Ước
+마찰==friction//friction. VD: 마찰이 생기다 = friction arises/Mã Sát
+만족==satisfaction//satisfaction. VD: 만족을 느끼다 = feel satisfaction/Vạn Tộc
+맞히다==be correct/đúng/be correct. VD: 정답을 맞히다 = give a correct answer/
+멀미==motion sickness//motion sickness. VD: 멀미가 나다 = get motion sickness/
+멀쩡하다==uninjured, unwounded//uninjured, unwounded. VD: 팔다리가 멀쩡하다 = limbs are fine/
+멍==bruise//bruise. VD: 멍이 들다 = get a bruise/
+목숨==life/cuộc sống/life. VD: 목숨을 지키다 = save one's life/
+미치다==influence, affect//influence, affect. VD: 영향을 미치다 = have influence on/Mỹ Trí Đa
+박사==doctor/bác sĩ/doctor. VD: 박사 학위 = doctoral degree/Bác Sự
+반영==reflection//reflection. VD: 반영이 되다 = be reflected/Bán Vĩnh
+방지==prevention//prevention. VD: 사고 방지 = accident prevention/Phương Chỉ
+병실==ward//ward. VD: 병실에 문병을 가다 = visit a patient in the hospital/Bệnh Thất
+보람==reward/thưởng/reward. VD: 보람을 느끼다 = feel rewarded/Bảo Lãm
+복통==abdominal pain//abdominal pain. VD: 복통으로 입원하다 = be hospitalized with stomachache/Phục Thông
+본능==instinct//instinct. VD: 본능에 따르다 = follow instinct/Bản Năng
+부상==injury//injury. VD: 부상을 당하다 = get injured/Phụ Thượng
+부작용==side effect//side effect. VD: 부작용이 생기다 = have side effects/Phụ Tác Dụng
+부주의==carelessness//carelessness. VD: 운전 부주의 = distracted driving/Phụ Chủ Nghị
+불만족==dissatisfaction//dissatisfaction. VD: 불만족을 나타내다 = express dissatisfaction/Bất Vạn Tộc
+불완전==imperfection//imperfection. VD: 완전 = perfection/Bất Hoàn Toàn
+비만==obesity//obesity. VD: 비만을 치료하다 = treat obesity/Phi Vạn
+비상==emergency//emergency. VD: 비상 대책 = emergency measures/Phi Thượng
+비치다==be reflected//be reflected. VD: 햇빛이 비치다 = sunlight is reflected/Phi Trí Đa
+삐다==sprain//sprain. VD: 발목을 삐다 = sprain one's ankle/
+사망==death/cái chết/death. VD: 사망 소식 = death news/Sự Vọng
+사물==object//object. VD: 사물을 보다 = see an object/Sự Vật
+사전==dictionary//dictionary. VD: 사전을 찾다 = look up dictionary/Sự Toàn
+삶==life/cuộc sống/life. VD: 삶을 누리다 = enjoy life/
+상==award//award. VD: 상으로 매기다 = give a prize/
+상금==reward, prize/thưởng/reward, prize. VD: 상금을 받다 = receive a prize/Thượng Kim
+생년월일==date of birth//date of birth. VD: 생년월일을 기록하다 = record date of birth/Sinh Niên Nguyệt Nhất
+생명==life/cuộc sống/life. VD: 생명을 건지다 = save life/Sinh Minh
+선정==selection//selection. VD: 수상자 선정 = selection of winners/Tiên Chính
+성공적==successful//successful. VD: 성공적 삶 = successful life/Thành Công Tích
+소독==disinfection//disinfection. VD: 상처 소독 = wound disinfection/Tiểu Độc
+소독약==disinfectant//disinfectant. VD: 소독약을 바르다 = apply disinfectant/Tiểu Độc Ước
+소홀하다==neglect//neglect. VD: 일에 소홀하다 = be negligent at work/Tiểu Hốt Hạ Đa
+수면제==sleeping pills//sleeping pills. VD: 수면제를 먹다 = take sleeping pills/Thủ Miên Chế
+시디==cd//cd. VD: 시디를 굽다 = burn a CD/
+신세==life/cuộc sống/life. VD: 신세를 망치다 = ruin one's life/Tân Thế
+신체적==physical//physical. VD: 신체적 기능 = physical ability/Tân Thể Tích
+실제로==actually//actually. VD: 실제로 일어나다 = actually happen/Thất Chế Lộ
+심리적==psychological//psychological. VD: 심리적 변화 = psychological changes/Tâm Lý Tích
+쑤시다==ache//ache. VD: 몸이 쑤시다 = body is sore/
+쓰다듬다==stroke//stroke. VD: 머리를 쓰다듬다 = stroke one's head/
+아픔==pain//pain. VD: 육신의 아픔 = physical pain/
+알레르기==allergy//allergy. VD: 알레르기를 일으키다 = cause an allergy/
+암==cancer//cancer. VD: 암에 걸리다 = get cancer/
+압력==pressure//pressure. VD: 압력이 높다 = pressure is high/Áp Lực
+애정==affection//affection. VD: 애정을 가지다 = have affection/Ái Chính
+예방==prevention//prevention. VD: 산불 예방 = forest fire prevention/Lễ Phương
+예측==prediction//prediction. VD: 예측이 맞다 = prediction is correct/Lễ Trắc
+완벽==perfection//perfection. VD: 완벽을 추구하다 = pursue perfection/Hoàn Bích
+외과==surgery//surgery. VD: 외과에서 치료받다 = receive treatment in surgery/Ngoại Quả
+유창하다==be fluent//be fluent. VD: 영어가 유창하다 = be fluent in English/Du Sáng Hạ Đa
+육체적==physical//physical. VD: 육체적 피로 = physical fatigue/Dục Thể Tích
+의외==unexpected//unexpected. VD: 의외의 결과 = unexpected result/Nghị Ngoại
+이어지다==be connected//be connected. VD: 둥글게 이어지다 = be connected in a circle/Nhị Ngữ Chỉ Đa
+인생==life/cuộc sống/life. VD: 인생을 바치다 = devote life/Nhân Sinh
+인하==reduction//reduction. VD: 가격 인하 = price reduction/Nhân Hạ
+장수==longevity//longevity. VD: 장수 마을 = longevity village/Trường Thủ
+재활용품==recyclables//recyclables. VD: 재활용품을 모으다 = collect recyclables/Tài Hoạt Dụng Phẩm
+전자사전==electronic dictionary//electronic dictionary. VD: 전자사전을 찾다 = look up in an electronic dictionary/Toàn Tử Sự Toàn
+점검==inspection//inspection. VD: 점검을 받다 = undergo inspection/Điểm Kiểm
+정==affection//affection. VD: 정이 들다 = develop an affection for/
+정신적==mental//mental. VD: 정신적 여유 = mental capacity/Chính Tân Tích
+죽음==death/cái chết/death. VD: 죽음을 맞다 = meet one's death/Trúc Âm
+증상==symptom//symptom. VD: 감기 증상 = symptoms of a cold/Tăng Thượng
+증세==symptom//symptom. VD: 증세가 악화되다 = symptoms worsen/Tăng Thế
+지능==intellect//intellect. VD: 지능이 높다 = be highly intelligent/Chỉ Năng
+지식인==intellectual//intellectual. VD: 지식인 사회 = intellectual society/Chỉ Thực Nhân
+진단==diagnosis//diagnosis. VD: 진단을 받다 = receive a diagnosis/Trần Đoàn
+진찰==examination//examination. VD: 진찰을 받다 = have a checkup/Trần Sát
+질병==disease//disease. VD: 질병을 치료하다 = treat a disease/Chất Bệnh
+채택==select/lựa chọn/select. VD: 답변 채택 = select an answer/Thái Trạch
+처방==prescription//prescription. VD: 처방을 내리다 = prescribe/Xử Phương
+체력==physical strength//physical strength. VD: 체력을 단련하다 = train one's physical strength/Thể Lực
+축소==reduction//reduction. VD: 예산 축소 = budget cuts/Súc Tiểu
+치료법==treatment//treatment. VD: 치료법을 개발하다 = develop a treatment/Trí Liệu Pháp
+커트==cut/cắt/cut. VD: 커트를 하다(머리) = cut (hair)/
+콜록콜록=="cough, cough"//"cough, cough". VD: 콜록콜록 기침을 하다 = cough loudly/
+타오르다==burn/đốt/burn. VD: 불꽃이 타오르다 = flame burns/
+탄생==birth//birth. VD: 아이의 탄생 = birth of a child/Thán Sinh
+태우다==burn/đốt/burn. VD: 불에 태우다 = set on fire/Thái Vũ Đa
+통증==pain//pain. VD: 통증을 느끼다 = feel pain/Thông Tăng
+파괴==destruction//destruction. VD: 파괴를 당하다 = be destroyed/Phá Quái
+피로==fatigue//fatigue. VD: 피로를 느끼다 = feel tired/Bì Lộ
+피해자==victim//victim. VD: 사고 피해자 = accident victim/Bì Hải Tử
+화면==picture//picture. VD: 작품의 화면 = picture of a piece of art/Hóa Miên
+회복==recovery//recovery. VD: 피로 회복 = fatigue recovery/Hội Phục
